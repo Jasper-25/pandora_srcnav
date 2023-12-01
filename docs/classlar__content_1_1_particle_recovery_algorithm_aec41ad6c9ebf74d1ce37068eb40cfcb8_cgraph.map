@@ -1,0 +1,74 @@
+<map id="lar_content::ParticleRecoveryAlgorithm::CalculateEffectiveSpan" name="lar_content::ParticleRecoveryAlgorithm::CalculateEffectiveSpan">
+<area shape="rect" id="Node000001" title="Calculate effective span for a given clsuter taking gaps into account." alt="" coords="5,332,222,375"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="270,281,471,308"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,329,293,309,294,315,210,334"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="285,332,456,375"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,351,269,351,269,356,222,356"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab687d837b539b20a69a59e4540594265" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="270,592,471,635"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="138,373,339,579,335,583,134,377"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="545,105,715,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,329,469,318,513,281,551,239,606,160,611,163,555,243,517,285,473,322,452,334"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="807,5,983,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,102,787,58,806,51,808,56,789,62,680,107"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="807,72,983,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="715,113,791,104,792,109,716,119"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="807,139,983,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="716,135,792,144,791,150,715,140"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ab234c0dc6a8c2eb39c77a777b292ef9a" title="Get the address of the cluster, if originally provided." alt="" coords="548,563,712,605"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="471,599,532,592,532,598,472,605"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="534,293,725,336"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="384,590,440,511,517,416,589,345,593,348,521,419,444,515,388,593"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ae840cb9c6bd77f01092a11b28c6673d6" title="Get global fit position for a given input x coordinate." alt="" coords="519,429,740,472"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="389,589,444,536,479,507,518,482,528,476,531,481,520,486,482,511,447,540,393,593"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1369,555,1537,597"/>
+<area shape="poly" id="edge39_Node000008_Node000025" title=" " alt="" coords="472,619,628,629,831,635,1057,632,1171,626,1284,615,1364,599,1365,604,1284,620,1172,631,1057,638,831,640,628,634,471,625"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ada13bd164a4ee3845a26441222c490cc" title="Get global direction corresponding to the fit result in maximum fit layer." alt="" coords="532,781,728,840"/>
+<area shape="poly" id="edge30_Node000008_Node000027" title=" " alt="" coords="391,633,445,695,481,729,521,760,539,772,536,776,517,765,478,734,441,699,387,637"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="1069,680,1265,739"/>
+<area shape="poly" id="edge33_Node000008_Node000029" title=" " alt="" coords="429,633,520,659,663,681,807,695,941,703,1053,706,1053,712,941,709,806,701,662,687,518,664,427,638"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a5520f798d6c18098493f8e816c6626fd" title="Get global direction corresponding to the fit result in minimum fit layer." alt="" coords="534,864,726,923"/>
+<area shape="poly" id="edge35_Node000008_Node000030" title=" " alt="" coords="382,634,401,679,430,737,470,797,494,825,521,850,525,853,521,857,517,854,490,829,466,800,426,739,396,681,377,636"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="1071,763,1263,821"/>
+<area shape="poly" id="edge37_Node000008_Node000031" title=" " alt="" coords="404,633,457,665,520,694,589,715,662,733,806,760,942,776,1055,785,1055,790,941,782,806,765,660,738,588,720,518,698,454,670,401,638"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_l_ar_geometry_helper.html#aaeb56395e93d2e5629e720dec1f84424" title="Whether a 2D test point lies in a registered gap with the associated hit type." alt="" coords="545,496,715,539"/>
+<area shape="poly" id="edge40_Node000008_Node000032" title=" " alt="" coords="419,589,518,548,537,541,539,546,520,553,421,594"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="803,205,987,248"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="692,290,787,257,808,251,810,256,789,263,694,295"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="793,272,997,299"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="726,301,777,296,778,301,726,307"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="799,323,991,365"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="726,323,785,329,784,334,726,328"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="794,413,996,456"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="741,441,779,439,779,444,741,447"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a877ce2c97daae05cf2293174af421a8a" title="Get the surrounding pair of layers for a specified transverse position and fit segment." alt="" coords="788,480,1002,523"/>
+<area shape="poly" id="edge20_Node000014_Node000020" title=" " alt="" coords="741,469,773,475,772,481,740,474"/>
+<area shape="poly" id="edge15_Node000015_Node000015" title=" " alt="" coords="845,413,843,403,851,394,869,389,895,387,923,389,940,395,938,400,922,394,895,392,870,394,854,399,848,405,850,412"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aff0efd8176db6dc22a1ccb1e46137648" title="Get the pair of layers surrounding a specified longitudinal position." alt="" coords="1057,264,1277,307"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="944,411,973,395,1000,375,1014,360,1023,346,1032,331,1048,317,1056,312,1059,316,1051,321,1036,334,1027,348,1018,363,1003,379,976,399,947,415"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6162a45ebeb7c2bfbcc3773dbe91bc0f" title="Get interpolation weights for layers surrounding a specified longitudinal position." alt="" coords="1332,181,1573,240"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1251,261,1323,242,1324,247,1252,266"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a80384406405256b9cb4d50975bd2b13e" title="Get iterators for layers surrounding the specified longitudinal position." alt="" coords="1333,264,1573,323"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="1278,286,1317,287,1317,292,1278,291"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aba240516cd246a5981e4e09a4a78e909" title="Get layer number for given sliding linear fit longitudinal coordinate." alt="" coords="1621,305,1786,348"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1574,307,1606,311,1606,316,1573,312"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_fit_segment.html#a28a12a2bc499f4f63c49c4814a755c70" title="Get end layer." alt="" coords="1087,480,1247,523"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1002,499,1071,499,1071,504,1002,504"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_fit_segment.html#ae3ab29a9e70bbf6cc7504ca3259dbb20" title="Get start layer." alt="" coords="1087,413,1247,456"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="984,477,1071,455,1072,461,985,482"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_two_d_sliding_fit_result.html#af4829ec6b19febee23ab3b96ea11dc9a" title="Get interpolation weights for layers surrounding a specified transverse position." alt="" coords="1050,547,1284,605"/>
+<area shape="poly" id="edge23_Node000020_Node000023" title=" " alt="" coords="976,521,1044,540,1043,545,975,526"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_two_d_sliding_fit_result.html#add62eed9057dfbd40d3019bc866c257d" title="Get iterators for layers surrounding a specified transverse position." alt="" coords="1050,331,1284,389"/>
+<area shape="poly" id="edge26_Node000020_Node000026" title=" " alt="" coords="981,477,1000,466,1015,450,1023,434,1032,416,1048,399,1054,395,1057,400,1051,403,1036,420,1028,436,1020,453,1003,470,983,482"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="1360,688,1546,731"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="1233,604,1393,679,1390,684,1231,608"/>
+<area shape="poly" id="edge25_Node000023_Node000025" title=" " alt="" coords="1285,573,1353,573,1353,579,1285,579"/>
+<area shape="poly" id="edge28_Node000026_Node000019" title=" " alt="" coords="1284,350,1605,330,1606,335,1284,355"/>
+<area shape="poly" id="edge27_Node000026_Node000024" title=" " alt="" coords="1273,388,1286,400,1305,426,1314,452,1316,477,1316,502,1315,552,1321,579,1334,608,1366,646,1403,677,1400,681,1362,650,1330,611,1316,581,1310,553,1310,502,1311,477,1309,453,1300,429,1282,403,1269,392"/>
+<area shape="poly" id="edge29_Node000026_Node000025" title=" " alt="" coords="1265,388,1285,399,1329,432,1368,470,1429,540,1425,544,1364,473,1325,436,1283,404,1262,392"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_two_d_sliding_fit_result.html#acf6cfcdd1e0f3b6a07dd3dcb882ed3cc" title="Get global direction coordinates for given sliding linear fit gradient." alt="" coords="800,837,990,880"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="729,826,785,836,784,841,728,831"/>
+<area shape="poly" id="edge32_Node000028_Node000024" title=" " alt="" coords="991,864,1057,866,1131,862,1209,851,1283,831,1322,813,1359,789,1418,739,1422,744,1362,793,1325,817,1285,836,1210,857,1132,867,1057,871,991,870"/>
+<area shape="poly" id="edge34_Node000029_Node000024" title=" " alt="" coords="1266,707,1344,707,1344,712,1266,712"/>
+<area shape="poly" id="edge36_Node000030_Node000028" title=" " alt="" coords="726,878,784,870,785,876,727,883"/>
+<area shape="poly" id="edge38_Node000031_Node000024" title=" " alt="" coords="1263,762,1361,733,1363,738,1264,767"/>
+</map>

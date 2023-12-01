@@ -1,0 +1,23 @@
+<map id="lar_pandora::ProtoDUNEDualPhase::LoadDaughterDetectorGaps" name="lar_pandora::ProtoDUNEDualPhase::LoadDaughterDetectorGaps">
+<area shape="rect" id="Node000001" title="Create detector gaps for all daughter volumes in a logical TPC volume." alt="" coords="5,305,232,348"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_proto_d_u_n_e_dual_phase.html#a911dc0c6602e8832408283e31ed22228" title="Check whether a gap size is small enough to be registered as a detector gap." alt="" coords="280,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,304,144,254,176,188,220,118,248,86,278,58,283,54,286,59,281,62,251,90,225,121,180,190,149,256,129,306"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_proto_d_u_n_e_dual_phase.html#a567057e5decdf177b0b30fd226e83589" title="Create a detector gap." alt="" coords="286,72,476,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,304,152,266,186,217,228,168,278,125,285,120,288,125,281,129,232,171,190,221,157,268,134,307"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#abe4e2866335d74583ab61dfb55f32899" title="Return X position at centre of tpc volume." alt="" coords="297,139,465,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,303,198,248,237,218,278,191,289,186,291,190,281,196,240,222,202,252,142,307"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#ae34531b7af623e3d906c4632d7ccd2eb" title="Return Y position at centre of tpc volume." alt="" coords="297,205,465,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,302,279,258,297,251,298,256,281,262,171,307"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#a92f5509a448e9c7d776975dde6898c88" title="Return Z position at centre of tpc volume." alt="" coords="297,272,465,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="232,310,281,303,282,309,233,315"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#a2fb5dedc8785ab4252362bd030a1a822" title="Return tpc ID." alt="" coords="297,339,465,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="233,338,282,345,281,350,232,344"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a918b7d980c5b9fdcfe9cec8afc27923c" title="Return list of daughter drift volumes associated with this drift volume." alt="" coords="289,405,473,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="171,346,281,391,298,397,297,402,279,396,169,351"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#ad1b6a840c379d7a05c57ef0c178ee5b3" title="Return X span of tpc volume." alt="" coords="297,472,465,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="142,347,202,402,240,431,281,458,291,463,289,468,278,462,237,436,198,406,139,350"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#a39c7414fef6901dff595bf1ca600f616" title="Return Y span of tpc volume." alt="" coords="297,539,465,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="134,347,157,385,190,433,232,482,281,525,288,529,285,533,278,529,228,486,186,436,152,388,129,349"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#a8d65cd1b4bc0b732a12e56030422abe8" title="Return Z span of tpc volume." alt="" coords="297,605,465,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="129,348,149,397,180,463,225,532,251,563,281,591,286,595,283,599,278,595,248,567,220,535,176,466,144,400,124,349"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="lar_content::EventValidationBaseAlgorithm::ValidationInfo::GetMCToPfoHitSharingMap" name="lar_content::EventValidationBaseAlgorithm::ValidationInfo::GetMCToPfoHitSharingMap">
+<area shape="rect" id="Node000001" title="Get the mc to pfo hit sharing map." alt="" coords="1630,392,1822,451"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_validation_base_algorithm.html#a8e4c79fa7d980ddbb148059073f01ca0" title="Get the best matches for any pfos left&#45;over after the strong matching procedure." alt="" coords="1317,203,1582,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1697,381,1648,318,1616,287,1581,261,1556,248,1558,244,1584,256,1620,283,1652,315,1701,378"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a327ef2e54d21b20b41810901a038458a" title="Remove incorrectly reconstructed cosmic rays from main matching maps." alt="" coords="224,139,443,213"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="1618,390,1582,383,1465,365,1374,358,1163,357,888,357,819,353,749,343,681,327,615,306,496,260,403,216,405,211,498,256,617,301,683,321,750,337,819,348,888,352,1163,352,1374,353,1466,360,1583,377,1619,385"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_event_validation_base_algorithm.html#a533385c8bb504ea516c2fe700079893e" title="Get the strongest pfo match (most matched hits) between an available mc primary and an available pfo." alt="" coords="1327,271,1573,313"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1666,386,1581,338,1525,316,1527,311,1583,334,1669,381"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#ab505f6e161923c7fa9dd5bfc5fcc622c" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1365,392,1535,451"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1614,424,1535,424,1535,419,1614,419"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_neutrino_event_validation_algorithm.html#a7f684be145b62c1850ed3dc2c364d7a0" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1336,475,1564,517"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1616,456,1583,465,1540,477,1538,472,1582,460,1615,451"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_test_beam_event_validation_algorithm.html#abce1a842c188ec0025fb02c47c399fc7" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1336,541,1564,584"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="1684,463,1637,499,1584,532,1555,543,1553,538,1581,527,1634,495,1680,459"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#aab5b2c7f5e90c3757ac4c88f7f1fb7f4" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1346,608,1553,667"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1702,465,1653,534,1621,568,1584,598,1555,614,1553,609,1581,594,1617,564,1649,530,1698,462"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_event_validation_base_algorithm.html#a3ad9a9778a90a1a413714106e6da363f" title="Apply an interpretative matching procedure to the comprehensive matches in the provided validation in..." alt="" coords="1055,195,1269,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1301,223,1269,222,1270,216,1302,217"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_neutrino_event_validation_algorithm.html#afb785cdcdc7b1133185cc228de1c3abe" title="Fill the validation info containers." alt="" coords="771,125,1007,168"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1060,193,975,171,976,166,1061,188"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_test_beam_event_validation_algorithm.html#acfdba8c46f0a1904b36caca5f748eb5b" title="Fill the validation info containers." alt="" coords="771,192,1007,235"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1039,217,1007,217,1007,212,1039,212"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#a7bb98eb69dab7e4d7af6d2301c6a7203" title="Fill the validation info containers." alt="" coords="785,259,993,317"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1064,245,994,263,992,258,1063,239"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a921d985249fcd7ab77fd6164ef1c4bd9" title="Perform the main matching procedure." alt="" coords="800,43,978,101"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1119,187,1066,151,1005,116,977,103,979,98,1008,111,1069,146,1122,183"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a19f8348e6301622285a10772ee8b89e2" title="Perform the cosmic ray matching procedure and identify incorrectly reconstructed cosmic rays." alt="" coords="491,139,723,213"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="789,110,772,116,707,141,705,136,770,111,787,105"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a680bc82f7516a20203f0353b3a83aa90" title="Fill the validation info containers." alt="" coords="5,72,176,131"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="785,78,176,101,176,96,785,73"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a7ae6a8baf321b94fd37b124f9df65bee" title="Determine all reconstructable hits in cosmic ray pfos." alt="" coords="248,5,419,64"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="785,68,419,43,419,38,785,62"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="475,179,443,179,443,173,475,173"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="208,140,175,130,177,125,210,135"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="234,65,177,81,175,75,233,59"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="1350,269,1316,260,1244,241,1245,235,1318,255,1351,264"/>
+</map>

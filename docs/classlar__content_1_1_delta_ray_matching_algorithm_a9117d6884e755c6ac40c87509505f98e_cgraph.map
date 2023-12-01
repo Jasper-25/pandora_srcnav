@@ -1,0 +1,51 @@
+<map id="lar_content::DeltaRayMatchingAlgorithm::AreClustersMatched" name="lar_content::DeltaRayMatchingAlgorithm::AreClustersMatched">
+<area shape="rect" id="Node000001" title="Look at consistency of a combination of clusters." alt="" coords="5,403,208,445"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="261,119,452,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,401,178,326,254,234,318,170,322,174,258,238,182,329,125,404"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="263,344,450,387"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="200,399,248,388,249,393,201,405"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#ac718c69378746b694f3b15d304520824" title="Get upper and lower Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="263,248,450,291"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="141,400,306,297,308,302,144,404"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="256,411,457,437"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="208,421,241,421,241,427,208,427"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="256,461,457,504"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="201,443,248,455,247,460,200,449"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="271,528,442,571"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="140,444,193,479,257,514,270,520,268,524,254,518,191,483,137,448"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="267,595,446,637"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="125,444,178,511,215,548,257,580,265,585,262,590,254,585,212,552,174,515,120,447"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="520,189,704,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,159,518,182,517,187,436,165"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="510,5,713,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,116,437,78,504,42,523,34,525,39,506,46,440,82,386,120"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="516,56,707,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,115,507,100,508,105,447,121"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="397,341,455,301,469,285,478,271,487,256,503,242,511,237,514,242,507,246,491,260,482,273,473,288,459,305,400,346"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="505,256,718,283"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="396,341,447,316,504,292,528,285,529,290,506,297,449,321,399,346"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="508,440,716,467"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="431,385,458,396,482,411,506,426,525,433,524,438,504,430,479,416,456,401,428,390"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="515,307,708,349"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="450,349,499,342,500,347,450,354"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="528,373,696,416"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="450,373,513,381,512,386,450,379"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pandora_input_type.html#a64650d8342a8802c1a1a7b4eed43090a" title="Whether the pandora type is initialized." alt="" coords="522,491,701,533"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="441,385,459,397,476,417,483,438,491,458,507,477,512,480,509,485,503,481,486,460,478,440,471,420,455,401,438,389"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_input_type.html#a39fe8ca55aba26b1dac81aac00333af6" title="Set the value held by the pandora type." alt="" coords="508,557,715,584"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="444,385,459,397,473,416,480,435,483,473,486,509,493,526,507,543,511,547,507,551,503,547,488,529,480,510,478,473,475,436,469,418,455,401,441,389"/>
+<area shape="poly" id="edge14_Node000013_Node000003" title=" " alt="" coords="449,245,504,233,505,238,451,251"/>
+<area shape="poly" id="edge16_Node000013_Node000005" title=" " alt="" coords="380,246,455,172,477,138,487,124,503,109,510,104,513,109,507,113,491,127,481,141,459,175,384,249"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="450,267,490,267,490,272,450,272"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="451,288,502,300,500,305,449,293"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="394,289,506,359,521,365,518,370,504,364,391,293"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="528,123,696,165"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="386,245,440,210,504,175,518,169,521,174,506,180,442,215,389,250"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="527,608,697,651"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="428,569,506,593,528,600,526,605,504,599,426,574"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="766,541,943,584"/>
+<area shape="poly" id="edge24_Node000018_Node000019" title=" " alt="" coords="691,605,759,586,760,591,693,610"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="766,608,943,651"/>
+<area shape="poly" id="edge25_Node000018_Node000020" title=" " alt="" coords="697,627,751,627,751,632,697,632"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="766,675,943,717"/>
+<area shape="poly" id="edge26_Node000018_Node000021" title=" " alt="" coords="693,649,760,667,759,673,691,654"/>
+</map>

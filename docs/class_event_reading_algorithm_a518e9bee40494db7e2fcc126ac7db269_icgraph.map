@@ -1,0 +1,13 @@
+<map id="EventReadingAlgorithm::GetFileType" name="EventReadingAlgorithm::GetFileType">
+<area shape="rect" id="Node000001" title="Analyze a provided file name to extract the file type/extension." alt="" coords="661,35,817,77"/>
+<area shape="rect" id="Node000002" href="$class_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="240,5,395,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="646,52,395,35,396,29,646,47"/>
+<area shape="rect" id="Node000003" href="$class_event_reading_algorithm.html#a61ff57b161128dd5569d66c40de1aaa6" title="Replace the current event file reader with a new reader for the specified file." alt="" coords="443,64,613,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="646,72,614,76,613,71,645,66"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="434,62,395,51,396,46,435,57"/>
+<area shape="rect" id="Node000004" href="$class_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="240,96,395,139"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="428,103,396,108,395,103,427,98"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="351,83,339,77,317,75,298,77,285,81,281,87,282,95,277,96,276,86,282,77,296,71,317,69,340,72,354,78"/>
+<area shape="rect" id="Node000005" href="$class_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="5,104,192,131"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="224,120,192,120,192,115,224,115"/>
+</map>

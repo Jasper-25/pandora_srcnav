@@ -1,0 +1,46 @@
+<map id="lar_content::LArClusterHelper::GetCoordinateVector" name="lar_content::LArClusterHelper::GetCoordinateVector">
+<area shape="rect" id="Node000001" title="Get vector of hit coordinates from an input cluster." alt="" coords="1064,387,1255,429"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_simple_cone.html#a17f8cc2364e642cc62a5b933f76e6f3a" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="816,5,980,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1151,372,1138,305,1113,222,1096,178,1073,136,1046,96,1014,62,998,51,979,42,982,37,1001,46,1017,58,1050,93,1078,133,1100,176,1119,220,1143,304,1156,371"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_shower_cluster.html#adfccd6d09a800cef174ca68726452267" title="Get the coordinate vector for a cluster list." alt="" coords="792,72,1004,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1145,372,1127,322,1100,260,1062,198,1040,170,1014,145,998,133,1001,129,1017,141,1044,166,1067,195,1105,258,1132,320,1150,371"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a43e4a3348ea595b33bc4c654204775cd" title="Get a list of coordinates of a particular hit type from an input pfos." alt="" coords="813,155,983,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1140,374,1119,336,1091,292,1056,248,1014,212,982,195,984,190,1017,207,1060,245,1095,289,1124,333,1145,372"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_simple_cone.html#a26fb4f8bf020876df0dafe95f6355203" title="Get the mean transverse distance to all hits in a cluster (whether contained or not)" alt="" coords="816,221,980,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1129,377,1078,326,1048,300,1014,278,979,263,981,258,1017,274,1051,296,1082,322,1132,373"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_sliding_fit_result.html#ad1be8a4d3a2aaa57642bc9217e6167b0" title="Calculate the position and direction of the primary axis." alt="" coords="811,312,985,355"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1067,384,1015,369,975,358,976,353,1016,364,1069,379"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_view_transverse_tracks_algorithm.html#a051d527f5aabdfde90b1616689e9b416" title="Get the dot product between the cluster&#39;s primary axis and the drift axis." alt="" coords="780,379,1016,437"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1048,411,1016,411,1016,405,1048,405"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a5233a0eb9a82888e955974831692e666" title="Get a list of spacepoints representing cluster 2D hit positions and extrapolated positions." alt="" coords="785,461,1011,504"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1069,437,1016,452,976,463,975,458,1015,447,1067,432"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ad726b0afeda5d2effbe708bb1783880b" title="Perform two dimensional sliding fit to shower edge, using specified primary axis." alt="" coords="788,552,1008,611"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1121,441,1017,518,957,554,955,549,1014,514,1118,437"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_vertex_refinement_algorithm.html#ab02161900c55f8f9a7d419520babad32" title="Refine the position of a two dimensional projection of a vertex using the clusters in that view." alt="" coords="800,635,996,677"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="1146,445,1126,486,1098,535,1062,584,1017,625,998,636,995,632,1014,621,1058,580,1094,532,1122,484,1141,442"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="796,701,1000,744"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="1152,445,1136,500,1109,566,1070,634,1045,664,1017,691,1000,703,997,699,1014,687,1041,661,1065,631,1104,564,1131,498,1147,443"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="796,768,1000,811"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="1156,445,1143,512,1119,596,1100,640,1078,683,1050,723,1017,758,1001,770,998,765,1014,754,1046,720,1073,680,1096,638,1113,594,1138,511,1151,444"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#aaa2866ce1234219a725a01c52047ec1f" title="Perform PCA analysis on Pfo and return results." alt="" coords="536,151,709,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="798,177,709,176,709,171,798,172"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#aa7b89f408108ccc40a91845ae60a6920" title="Get the cluster merge map describing all potential 3d cluster merges." alt="" coords="541,217,703,276"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="801,247,704,248,704,243,801,241"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a58b6ad7f6839d3c14badf0009dcc40d6" title="Run the algorithm." alt="" coords="259,225,448,268"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="525,249,448,249,448,244,525,244"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="941,299,925,293,898,291,873,293,858,297,852,303,854,311,849,312,847,302,855,293,872,287,898,285,926,288,942,294"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_two_view_transverse_tracks_algorithm.html#aea534b66fe656e2928fcd69d845428c1" title="Calculates the two view overlap result." alt="" coords="512,363,732,421"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="765,403,733,401,733,396,765,398"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a269837411059987f2a7b30ca5b569fd8" title="Identify where (extrapolated) clusters plausibly cross in 2D." alt="" coords="518,469,726,528"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="770,493,727,495,727,490,770,487"/>
+<area shape="poly" id="edge16_Node000013_Node000013" title=" " alt="" coords="666,457,649,451,622,448,599,450,583,455,576,461,575,469,570,469,571,459,580,450,598,445,622,443,651,445,668,453"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a8020d3a4ba50fe599c684fc108d8028a" title="Extrapolate 2D clusters, find where they cross, and match crossing points between views to create ver..." alt="" coords="243,469,464,528"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="502,501,465,501,465,496,502,496"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#ae7886a7ce290244298a9630a4a908c38" title="Run the algorithm." alt="" coords="5,477,195,520"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="227,501,195,501,195,496,227,496"/>
+<area shape="poly" id="edge18_Node000016_Node000016" title=" " alt="" coords="940,540,924,533,898,531,875,533,860,537,853,544,852,552,847,551,848,541,857,533,874,527,898,525,926,528,942,535"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a2009db8714535ce909d5c02d326f0349" title="Perform the refinement proceduce on a list of vertices." alt="" coords="524,635,720,677"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="784,659,721,659,721,653,784,653"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a5e34b714d4d280b8d3b1646055151b82" title="Run the algorithm." alt="" coords="255,635,452,677"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="509,659,452,659,452,653,509,653"/>
+</map>

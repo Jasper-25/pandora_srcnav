@@ -1,0 +1,84 @@
+<map id="pandora::StatusCodeToString" name="pandora::StatusCodeToString">
+<area shape="rect" id="Node000001" title="Get status code as a string." alt="" coords="1311,647,1502,673"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="1062,639,1263,681"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1295,663,1263,663,1263,657,1295,657"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit_manager.html#a981cc50a76c23db93c79b2dd2546b746" title="Create calo hit." alt="" coords="795,5,963,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1154,624,1137,498,1108,329,1088,244,1066,167,1040,104,1026,80,1012,62,989,46,962,35,964,31,992,41,1016,58,1031,77,1045,102,1071,165,1094,242,1113,328,1143,497,1160,623"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster_manager.html#afa1ad6f4fc33665ec7700f01a660ecc3" title="Create cluster." alt="" coords="796,72,962,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1153,624,1134,510,1103,361,1084,287,1062,220,1038,165,1012,129,989,112,962,102,964,97,991,108,1016,125,1042,163,1067,218,1089,285,1108,360,1139,509,1158,623"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_manager.html#a296e43b80e23c26e829ccfcfe24e9007" title="Create a mc particle." alt="" coords="806,139,952,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1158,623,1152,535,1144,480,1131,420,1112,359,1087,299,1054,244,1012,195,984,177,951,167,953,162,986,172,1015,191,1058,240,1092,297,1117,357,1136,418,1149,479,1157,535,1163,623"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_flow_object_manager.html#a147a316137d745b1ca2dad635f986d4c" title="Create a particle flow object." alt="" coords="787,205,971,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1156,624,1146,547,1122,450,1103,398,1079,348,1049,302,1012,262,993,249,971,239,973,234,995,244,1015,258,1053,299,1084,346,1108,396,1127,448,1151,547,1161,623"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_track_manager.html#ab3a0144981d57ee84d7edf77ba43b6d1" title="Create track." alt="" coords="800,272,958,315"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1153,624,1139,559,1112,479,1094,438,1071,398,1044,361,1012,329,986,313,957,303,959,298,989,308,1015,325,1048,357,1076,395,1099,436,1117,478,1144,558,1158,623"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_vertex_manager.html#ad96a75c8dad35a2b747f6df83d2680fd" title="Create a vertex." alt="" coords="797,339,961,381"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1149,625,1131,573,1103,510,1063,448,1039,420,1012,395,988,381,960,372,962,367,990,376,1015,391,1043,416,1068,445,1107,508,1136,571,1154,623"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_object_factory.html#ac303d2c2d2db92f7cd3eac4fa5eb741f" title="Create an object with the given parameters." alt="" coords="776,405,982,448"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1142,626,1121,587,1092,543,1055,499,1012,462,981,447,983,442,1015,458,1059,495,1096,539,1126,584,1147,623"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_geometry_manager.html#ad5e1f60576c0c3064385b85fb055376f" title="Create gap." alt="" coords="788,472,970,515"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1132,629,1079,577,1047,551,1012,529,970,512,972,507,1015,524,1050,547,1083,573,1135,625"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_geometry_manager.html#aebc225a30d8dac54805081e3b106bd0c" title="Create lar tpc." alt="" coords="788,539,970,581"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1103,634,1013,596,970,583,971,578,1015,591,1106,629"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_geometry_manager.html#a7d1ada4c481f793c80df236bf2a897da" title="Create sub detector." alt="" coords="788,605,970,648"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="1046,649,970,640,971,635,1046,644"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_pandora_settings.html#a40e6cbdb9bcf9ee719c65029de6f13df" title="Initialize pandora settings." alt="" coords="793,672,965,715"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="1047,676,965,686,965,681,1046,671"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_pandora.html#aebf1df9bdce11aa336fa6c28a85d0f37" title="Read pandora settings." alt="" coords="220,709,429,736"/>
+<area shape="poly" id="edge42_Node000002_Node000023" title=" " alt="" coords="1112,691,1066,713,1014,729,935,743,854,752,693,757,545,751,425,739,426,734,546,745,693,752,854,746,935,738,1013,724,1064,708,1110,687"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="785,789,973,832"/>
+<area shape="poly" id="edge24_Node000002_Node000025" title=" " alt="" coords="1128,694,1077,735,1015,773,971,791,969,786,1012,768,1074,730,1125,689"/>
+<area shape="rect" id="Node000027" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="854,856,904,883"/>
+<area shape="poly" id="edge26_Node000002_Node000027" title=" " alt="" coords="1145,696,1124,733,1094,774,1058,813,1015,846,987,859,957,867,905,872,904,867,956,862,985,854,1012,842,1054,809,1090,770,1119,730,1141,694"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_pandora.html#a8d3e22007842b9a9bc2ebfc54a9bed3c" title="Default constructor." alt="" coords="789,907,969,933"/>
+<area shape="poly" id="edge27_Node000002_Node000028" title=" " alt="" coords="1151,697,1132,743,1103,798,1064,852,1041,876,1015,897,993,909,970,916,968,911,991,904,1012,892,1038,872,1060,849,1099,795,1127,741,1147,695"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_plugin_manager.html#af29ab18739984859672bc58c37eeb78a" title="Constructor." alt="" coords="798,957,960,1000"/>
+<area shape="poly" id="edge28_Node000002_Node000029" title=" " alt="" coords="1155,697,1138,753,1110,821,1070,889,1044,920,1015,947,989,963,961,973,959,968,987,958,1012,943,1041,917,1065,886,1105,818,1133,751,1150,696"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_transverse_association_algorithm.html#a6c829b67f046e75850d1f13600646d9d" title="Populate the cluster association map." alt="" coords="744,1024,1014,1067"/>
+<area shape="poly" id="edge29_Node000002_Node000030" title=" " alt="" coords="1159,697,1146,765,1120,851,1101,896,1078,939,1049,979,1015,1014,999,1026,996,1021,1012,1010,1045,976,1073,936,1097,893,1115,849,1141,764,1154,696"/>
+<area shape="rect" id="Node000031" href="$classpandora_1_1_file_reader.html#a62bf87f3eafb662f236ea17d6fbe828c" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="810,1091,948,1133"/>
+<area shape="poly" id="edge30_Node000002_Node000031" title=" " alt="" coords="1162,697,1153,777,1129,880,1111,935,1086,988,1054,1037,1015,1081,984,1100,949,1111,947,1105,982,1095,1012,1077,1050,1034,1081,985,1106,933,1124,879,1147,776,1157,696"/>
+<area shape="rect" id="Node000036" href="$classpandora_1_1_file_reader.html#a719b4f55fbd9135e3b42d8de1c4bc92c" title="Read the current geometry information from the file." alt="" coords="810,1169,948,1212"/>
+<area shape="poly" id="edge39_Node000002_Node000036" title=" " alt="" coords="1163,697,1157,787,1148,845,1135,907,1117,971,1091,1035,1058,1094,1016,1147,984,1170,949,1183,947,1178,982,1165,1012,1143,1053,1091,1086,1032,1112,970,1130,906,1143,844,1151,786,1158,697"/>
+<area shape="rect" id="Node000039" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac6de384d3d43d2b0a5644c46aa388eba" title="Run the algorithm." alt="" coords="781,1236,977,1279"/>
+<area shape="poly" id="edge43_Node000002_Node000039" title=" " alt="" coords="1159,697,1141,817,1111,975,1091,1054,1069,1126,1043,1186,1016,1226,998,1239,979,1249,976,1244,995,1235,1012,1222,1039,1183,1064,1125,1086,1053,1105,974,1136,816,1154,696"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_api_impl.html#abf1adfe86a4df137d465d26e95a1f49b" title=" " alt="" coords="504,5,670,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="780,29,670,29,670,24,780,24"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_api_impl.html#a1eb40271b05aeb88bc4c8397233e80c5" title=" " alt="" coords="504,139,670,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="790,163,670,163,670,157,790,157"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_api_impl.html#a79fde8f12416b33af801895e50e92faf" title=" " alt="" coords="504,272,670,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="785,296,670,296,670,291,785,291"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_pandora_api_impl.html#a4ef21d589d58ad4db3a0ef1fb79c385e" title=" " alt="" coords="504,339,670,381"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="772,477,743,462,726,445,718,428,710,411,695,395,669,381,671,377,698,391,714,408,723,426,730,442,746,458,774,472"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_pandora_api_impl.html#a403a0baf8e52b9e03b1cc6440bcc6ff4" title=" " alt="" coords="504,405,670,448"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="772,472,670,448,671,443,773,467"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_pandora_api_impl.html#a0259a021189e0fa48dc6e2d82856e134" title=" " alt="" coords="504,472,670,515"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="772,496,670,496,670,491,772,491"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_pandora_api_impl.html#a4cbef6476732bb2f135e75e74014f4e2" title=" " alt="" coords="504,539,670,581"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="772,563,670,563,670,557,772,557"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_pandora_api_impl.html#a7365c9f5eabb3635182ef7e8457eab33" title=" " alt="" coords="504,605,670,648"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="772,629,670,629,670,624,772,624"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_pandora_impl.html#a9d8d788db613023f7e38beb5f18a601c" title="Initialize pandora settings." alt="" coords="513,672,660,715"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="778,696,661,696,661,691,778,691"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="498,706,430,714,429,708,497,701"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_pandora_api_impl.html#af5703fc860242b423946db7def79914d" title="Read pandora settings." alt="" coords="5,701,172,744"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="204,725,172,725,172,720,204,720"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="477,797,696,824"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="769,813,697,813,697,808,769,808"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="483,936,691,979"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="794,1105,768,1095,743,1081,725,1061,717,1040,710,1019,695,999,666,982,669,977,698,995,715,1017,722,1038,729,1058,746,1077,770,1090,796,1100"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="238,965,411,1008"/>
+<area shape="poly" id="edge37_Node000031_Node000033" title=" " alt="" coords="795,1100,743,1081,728,1071,719,1061,709,1052,695,1044,623,1019,548,1003,475,994,411,990,411,984,476,989,549,998,624,1014,697,1039,713,1048,722,1058,732,1067,746,1076,796,1095"/>
+<area shape="rect" id="Node000034" href="$class_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="509,1077,664,1120"/>
+<area shape="poly" id="edge34_Node000031_Node000034" title=" " alt="" coords="794,1111,665,1105,665,1100,795,1106"/>
+<area shape="rect" id="Node000035" href="$class_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="231,1115,418,1141"/>
+<area shape="poly" id="edge38_Node000031_Node000035" title=" " alt="" coords="795,1126,696,1135,587,1137,477,1135,418,1133,418,1128,477,1129,587,1132,696,1129,794,1120"/>
+<area shape="poly" id="edge32_Node000032_Node000032" title=" " alt="" coords="629,923,613,917,587,915,562,917,546,921,540,927,542,935,537,936,535,926,544,917,561,911,587,909,615,912,631,918"/>
+<area shape="poly" id="edge33_Node000032_Node000033" title=" " alt="" coords="467,973,411,980,411,974,467,968"/>
+<area shape="poly" id="edge35_Node000034_Node000034" title=" " alt="" coords="629,1064,613,1058,587,1056,562,1058,546,1063,540,1069,542,1076,537,1077,535,1067,544,1058,561,1053,587,1051,615,1053,631,1059"/>
+<area shape="poly" id="edge36_Node000034_Node000035" title=" " alt="" coords="494,1112,418,1120,418,1115,493,1106"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="501,1195,673,1237"/>
+<area shape="poly" id="edge40_Node000036_Node000037" title=" " alt="" coords="795,1201,673,1211,673,1206,794,1195"/>
+<area shape="rect" id="Node000038" href="$class_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="509,1261,664,1304"/>
+<area shape="poly" id="edge41_Node000036_Node000038" title=" " alt="" coords="796,1211,745,1226,721,1239,697,1252,666,1263,664,1258,695,1247,719,1234,743,1222,794,1205"/>
+</map>

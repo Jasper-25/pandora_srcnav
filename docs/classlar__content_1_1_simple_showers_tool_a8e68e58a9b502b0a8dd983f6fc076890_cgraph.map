@@ -1,0 +1,30 @@
+<map id="lar_content::SimpleShowersTool::Run" name="lar_content::SimpleShowersTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,296,189,339"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="247,145,462,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,294,167,245,200,220,235,198,247,192,249,197,238,202,203,224,171,249,120,297"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_simple_showers_tool.html#ae8c18ff25cad1d88912049bc310af86f" title="Find best shower match as a simple way to (try to) resolve ambiguities in the tensor." alt="" coords="263,212,446,255"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="154,293,236,264,259,257,261,262,238,269,156,298"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="237,279,472,305"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="189,306,221,302,221,308,189,311"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="563,309,704,352"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="189,317,547,326,547,331,189,322"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="264,380,445,407"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="166,337,237,359,287,373,285,378,236,364,165,342"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="261,431,448,473"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="124,337,175,377,238,416,251,422,249,427,235,421,172,382,121,341"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="520,159,746,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,169,504,171,504,177,462,174"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="812,229,954,272"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="433,186,521,211,666,232,797,243,796,249,666,237,519,216,432,191"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="538,76,728,119"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="442,142,529,120,531,126,444,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="712,199,798,224,797,229,711,205"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="836,229,834,219,842,210,858,205,883,203,910,205,926,211,924,216,908,210,883,208,859,210,845,215,839,221,841,228"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="814,72,952,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="729,93,799,92,799,97,729,98"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="814,139,952,181"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="722,117,800,136,798,142,720,122"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_matching_base_algorithm.html#ae4cee1e36098542a8d23986ab7b1e852" title="Set pfo particle id." alt="" coords="794,5,972,48"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="711,73,790,50,791,55,712,78"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="701,306,799,275,800,280,703,311"/>
+</map>

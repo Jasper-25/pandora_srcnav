@@ -1,0 +1,11 @@
+<map id="lar_content::TwoViewDeltaRayMatchingAlgorithm::GetClusteringAlgName" name="lar_content::TwoViewDeltaRayMatchingAlgorithm::GetClusteringAlgName">
+<area shape="rect" id="Node000001" title="Get the name of the clustering algorithm to be used to recluster created delta ray remnants." alt="" coords="1125,5,1364,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#adb24aa31aa0f16a324c22ad2265a52fd" title="Reculster the remnant cluster, merging insignificant created clusters into the parent muon (if proxim..." alt="" coords="844,13,1077,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1109,37,1077,37,1077,32,1109,32"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a11a90f8d684a9619eece8300709d7cdb" title="Fragment the delta ray cluster, refining the matched delta ray cluster perhaps creating significant r..." alt="" coords="551,13,796,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="829,37,797,37,797,32,829,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78860aa1431af987dcb65d9968873c78" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="242,13,503,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="535,37,503,37,503,32,535,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a2d8fb65c18c0674976c885a445c34da5" title="Run the algorithm tool." alt="" coords="5,13,194,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,37,194,37,194,32,226,32"/>
+</map>

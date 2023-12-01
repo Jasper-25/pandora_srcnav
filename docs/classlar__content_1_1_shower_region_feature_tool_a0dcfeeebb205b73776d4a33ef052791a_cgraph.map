@@ -1,0 +1,111 @@
+<map id="lar_content::ShowerRegionFeatureTool::GetViewShowerRegionVariables" name="lar_content::ShowerRegionFeatureTool::GetViewShowerRegionVariables">
+<area shape="rect" id="Node000001" title="Calculate the shower region variables for the input view." alt="" coords="5,832,235,891"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_shower_region_feature_tool.html#a1d24aab8678e0d327f9e47c74417851b" title="Collect the shower region hits in a given view." alt="" coords="314,289,512,332"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,832,132,745,158,625,179,559,205,494,239,431,281,374,304,353,330,337,333,341,307,357,285,378,244,434,210,496,184,561,163,627,137,746,126,832"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="612,29,781,72"/>
+<area shape="poly" id="edge50_Node000001_Node000003" title=" " alt="" coords="119,832,126,731,136,662,150,586,170,506,198,425,234,347,281,276,316,235,350,205,384,183,419,166,496,137,590,96,631,76,633,81,592,101,498,142,421,171,387,187,354,209,320,239,285,279,239,349,203,427,175,507,155,587,141,663,132,732,125,832"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="613,749,781,792"/>
+<area shape="poly" id="edge51_Node000001_Node000004" title=" " alt="" coords="146,830,205,779,242,754,282,736,324,725,368,719,455,717,539,727,611,742,610,748,538,732,455,723,368,724,325,730,284,741,244,759,208,783,150,834"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="1098,373,1266,416"/>
+<area shape="poly" id="edge52_Node000001_Node000005" title=" " alt="" coords="123,831,137,761,165,668,185,620,211,572,243,528,281,490,326,456,375,428,426,404,479,385,589,359,701,346,811,343,914,349,1006,359,1083,371,1082,376,1005,364,914,354,811,349,702,351,590,364,480,390,428,409,377,433,329,461,284,494,247,531,216,575,190,622,170,670,142,762,128,832"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="613,432,781,475"/>
+<area shape="poly" id="edge56_Node000001_Node000011" title=" " alt="" coords="126,831,144,772,175,697,195,658,220,621,248,586,281,555,317,531,356,510,439,480,522,462,596,453,597,459,523,468,440,485,358,515,320,535,284,559,252,589,224,624,200,661,179,700,149,774,131,832"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="613,549,781,592"/>
+<area shape="poly" id="edge68_Node000001_Node000013" title=" " alt="" coords="127,831,147,778,178,714,198,681,222,650,250,622,281,599,319,580,359,566,400,556,442,550,524,547,597,552,597,557,524,552,442,555,401,561,360,571,321,585,284,604,253,626,226,654,203,684,182,717,151,780,132,832"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_shower_region_feature_tool.html#a140e37a4caba7393a8a8af411891926c" title="Evaluate the neutrino vertex consistency variables." alt="" coords="296,981,530,1040"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="161,889,217,929,284,967,296,973,294,978,281,972,215,933,158,893"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a5520f798d6c18098493f8e816c6626fd" title="Get global direction corresponding to the fit result in minimum fit layer." alt="" coords="601,981,793,1040"/>
+<area shape="poly" id="edge54_Node000001_Node000016" title=" " alt="" coords="124,891,131,976,139,1031,153,1091,174,1150,201,1208,238,1259,284,1300,307,1311,338,1319,414,1326,490,1320,520,1312,541,1301,565,1273,575,1245,575,1215,570,1183,564,1151,563,1118,569,1084,589,1050,590,1050,594,1053,593,1054,574,1086,568,1118,570,1150,575,1183,580,1214,580,1246,570,1276,545,1305,522,1317,491,1326,414,1332,337,1324,305,1316,281,1305,234,1262,197,1210,169,1152,148,1092,134,1032,125,977,119,891"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_shower_region_feature_tool.html#a29bf7ee8f7a569117273052dc3ea0125" title="Calculate the opening angle of the shower region." alt="" coords="283,613,543,656"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="137,830,195,752,235,709,281,672,303,660,306,665,284,677,239,713,199,755,142,833"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="599,816,795,875"/>
+<area shape="poly" id="edge53_Node000001_Node000018" title=" " alt="" coords="158,829,215,794,248,779,282,767,355,749,413,742,472,748,544,767,559,774,569,783,592,802,602,807,599,811,590,806,566,787,556,779,542,772,471,753,414,748,356,754,283,772,250,784,217,799,161,834"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="601,899,793,957"/>
+<area shape="poly" id="edge55_Node000001_Node000019" title=" " alt="" coords="235,859,383,866,543,884,586,893,585,898,543,889,382,871,235,865"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_shower_region_feature_tool.html#ae23af5f617769da02eccd879f9e92440" title="Calculate the connection pathway&#45;shower region scatter angle." alt="" coords="286,781,540,824"/>
+<area shape="poly" id="edge37_Node000001_Node000024" title=" " alt="" coords="235,836,288,825,289,830,236,841"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_shower_region_feature_tool.html#acbd53936c24ad32d1f63d0f7a648a6a5" title="Evaluate the shower start consistency variables." alt="" coords="302,899,524,957"/>
+<area shape="poly" id="edge44_Node000001_Node000025" title=" " alt="" coords="236,885,287,897,286,902,235,890"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="313,1064,513,1091"/>
+<area shape="poly" id="edge57_Node000001_Node000026" title=" " alt="" coords="140,890,164,927,196,971,237,1014,284,1050,299,1057,297,1062,281,1054,233,1018,192,975,159,930,136,893"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_proto_shower_match.html#af2a8d087d2a5c7f96ea4bc6b84ef2f56" title="Get the U view ProtoShower." alt="" coords="328,1115,498,1157"/>
+<area shape="poly" id="edge58_Node000001_Node000027" title=" " alt="" coords="135,890,157,937,189,994,232,1052,257,1078,284,1100,314,1116,312,1121,281,1105,253,1082,227,1055,184,997,152,939,130,892"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_proto_shower_match.html#a3430a652c672a222a332416f18f7f809" title="Get the V view ProtoShower." alt="" coords="328,1181,498,1224"/>
+<area shape="poly" id="edge59_Node000001_Node000028" title=" " alt="" coords="131,890,149,949,179,1025,199,1064,224,1102,252,1137,284,1167,315,1184,312,1189,281,1171,248,1141,219,1105,195,1066,174,1027,143,951,126,892"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_proto_shower_match.html#a5db9f8aba962ab5da00abdec0010a008" title="Get the W view ProtoShower." alt="" coords="326,1248,500,1291"/>
+<area shape="poly" id="edge60_Node000001_Node000029" title=" " alt="" coords="128,890,142,961,170,1054,190,1103,216,1151,247,1196,284,1234,313,1251,310,1256,281,1238,243,1199,211,1154,185,1105,165,1056,136,962,123,891"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_shower_region_feature_tool.html#a1adff9b7c87c975d805a7d6834ce0759" title="Evaluate the variables associated with the shower region hit multiplicity." alt="" coords="297,65,529,108"/>
+<area shape="poly" id="edge61_Node000001_Node000030" title=" " alt="" coords="122,831,142,692,177,494,199,391,223,296,251,217,281,161,307,134,339,113,342,118,311,138,285,164,256,219,228,298,204,392,182,495,147,693,128,832"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="329,1365,497,1408"/>
+<area shape="poly" id="edge63_Node000001_Node000031" title=" " alt="" coords="125,891,133,979,143,1038,157,1101,177,1167,205,1231,240,1292,284,1345,316,1366,313,1370,281,1349,236,1295,200,1234,172,1169,152,1103,137,1039,128,980,120,892"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="328,1515,498,1557"/>
+<area shape="poly" id="edge64_Node000001_Node000032" title=" " alt="" coords="128,891,148,1018,182,1196,204,1287,228,1370,255,1438,285,1485,315,1508,312,1513,281,1488,251,1441,223,1372,199,1288,177,1197,142,1019,123,891"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="328,1432,498,1475"/>
+<area shape="poly" id="edge69_Node000001_Node000036" title=" " alt="" coords="123,891,126,992,133,1060,146,1134,166,1211,195,1286,234,1357,258,1389,284,1418,315,1437,312,1442,281,1422,253,1392,229,1360,190,1288,161,1212,141,1135,128,1060,121,992,118,891"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,287,494,249,541,198,556,169,562,142,569,116,589,89,603,78,606,82,593,93,574,118,567,144,561,171,545,202,497,252,449,291"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="427,332,480,446,546,600,557,641,561,674,570,704,593,736,601,743,598,747,589,739,565,707,556,675,551,642,540,602,475,448,422,334"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="511,297,541,281,552,269,558,258,563,232,569,206,577,194,590,183,618,168,644,159,669,155,693,155,743,166,803,183,854,198,904,218,998,267,1080,317,1142,361,1139,366,1077,322,996,271,902,223,852,203,802,188,742,171,692,161,669,160,646,164,620,173,592,188,581,197,574,208,569,233,563,259,556,273,545,285,513,302"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#acf6cfcdd1e0f3b6a07dd3dcb882ed3cc" title="Get global direction coordinates for given sliding linear fit gradient." alt="" coords="850,977,1041,1020"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="512,309,584,318,663,336,702,351,739,369,773,391,805,419,862,645,938,962,933,963,857,646,800,421,770,395,736,373,699,356,661,342,583,323,512,314"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aba240516cd246a5981e4e09a4a78e909" title="Get layer number for given sliding linear fit longitudinal coordinate." alt="" coords="615,197,779,240"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="479,286,590,249,611,243,613,248,592,255,480,291"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a27ff28e404b255234678e5bacadfde4c" title="Get the layer fit result map." alt="" coords="591,264,802,307"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="512,299,575,293,576,299,512,304"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a25ffcc10ccdc78ccd2168f610f83cd55" title="Get local sliding fit coordinates for a given global position." alt="" coords="855,80,1036,123"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="441,287,489,247,541,198,554,181,562,166,572,152,590,139,651,114,716,99,780,92,839,90,840,96,780,97,717,104,652,119,592,144,576,156,567,169,558,184,545,202,493,251,444,291"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="459,330,640,422,638,427,456,335"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="437,331,505,401,593,485,657,538,653,542,589,489,501,404,433,334"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="650,29,648,19,656,10,672,5,697,3,723,5,739,11,737,16,722,10,697,8,673,10,659,15,653,21,655,28"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="1089,907,1275,949"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1019,974,1093,952,1094,957,1020,979"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="1015,121,1042,139,1089,192,1126,251,1153,309,1172,357,1167,359,1148,311,1121,254,1085,195,1039,143,1012,125"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1098,495,1266,537"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="782,462,1083,501,1082,506,781,467"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="528,979,541,968,556,947,563,928,564,887,566,845,573,823,589,802,598,794,601,798,593,806,578,826,571,846,570,887,568,929,561,950,545,971,531,983"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ada13bd164a4ee3845a26441222c490cc" title="Get global direction corresponding to the fit result in maximum fit layer." alt="" coords="599,1064,795,1123"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="517,1038,584,1058,583,1063,515,1043"/>
+<area shape="poly" id="edge19_Node000014_Node000016" title=" " alt="" coords="530,1008,585,1008,585,1013,530,1013"/>
+<area shape="poly" id="edge18_Node000015_Node000006" title=" " alt="" coords="775,1061,872,1024,874,1029,777,1066"/>
+<area shape="poly" id="edge20_Node000016_Node000006" title=" " alt="" coords="793,1003,835,1001,835,1007,793,1009"/>
+<area shape="poly" id="edge22_Node000017_Node000004" title=" " alt="" coords="510,654,545,673,561,688,569,705,578,720,593,735,600,740,597,744,589,739,573,723,565,707,556,692,541,677,508,659"/>
+<area shape="poly" id="edge23_Node000017_Node000005" title=" " alt="" coords="452,610,590,535,648,515,695,505,802,484,1082,416,1083,421,803,489,696,510,650,520,592,540,455,615"/>
+<area shape="poly" id="edge30_Node000017_Node000011" title=" " alt="" coords="435,611,501,553,544,520,590,491,614,479,616,484,592,496,547,525,505,557,438,615"/>
+<area shape="poly" id="edge36_Node000017_Node000013" title=" " alt="" coords="510,610,597,590,598,596,511,615"/>
+<area shape="poly" id="edge26_Node000017_Node000016" title=" " alt="" coords="444,654,496,703,523,734,545,768,558,797,563,824,564,874,564,897,567,920,576,943,593,968,594,969,590,973,589,971,571,945,562,921,558,897,558,874,558,825,553,799,541,771,519,737,492,706,440,658"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="455,654,500,684,545,724,560,745,568,765,576,783,593,802,597,805,593,809,589,806,572,786,563,767,556,748,541,727,497,689,452,659"/>
+<area shape="poly" id="edge27_Node000017_Node000019" title=" " alt="" coords="442,655,493,704,521,735,545,768,560,801,566,830,573,857,593,885,595,887,592,891,589,888,569,859,561,831,555,803,541,771,517,738,490,707,439,659"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a53f91c6a42ecd0d6ee947d72e80b7fc2" title="Get the layer pitch, units cm." alt="" coords="615,616,779,659"/>
+<area shape="poly" id="edge29_Node000017_Node000020" title=" " alt="" coords="544,633,599,634,599,639,544,639"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="613,683,781,725"/>
+<area shape="poly" id="edge31_Node000017_Node000021" title=" " alt="" coords="504,654,598,677,597,682,502,659"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="613,1247,781,1289"/>
+<area shape="poly" id="edge35_Node000017_Node000023" title=" " alt="" coords="446,654,498,702,524,733,545,768,565,821,574,867,575,910,572,951,569,992,569,1034,576,1081,593,1134,608,1162,626,1189,664,1234,660,1237,621,1192,603,1165,589,1136,571,1082,564,1035,564,992,567,951,570,910,569,868,560,822,541,771,520,737,494,706,442,658"/>
+<area shape="poly" id="edge25_Node000018_Node000007" title=" " alt="" coords="796,859,1074,907,1073,912,795,865"/>
+<area shape="poly" id="edge28_Node000019_Node000007" title=" " alt="" coords="793,925,1073,925,1073,931,793,931"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="861,549,1030,592"/>
+<area shape="poly" id="edge32_Node000021_Node000022" title=" " alt="" coords="775,680,801,668,857,635,905,600,908,604,860,640,804,673,777,684"/>
+<area shape="poly" id="edge33_Node000022_Node000005" title=" " alt="" coords="1006,546,1039,528,1064,506,1087,481,1145,425,1148,429,1091,485,1068,510,1042,533,1009,551"/>
+<area shape="poly" id="edge34_Node000022_Node000012" title=" " alt="" coords="1029,549,1082,536,1083,541,1030,554"/>
+<area shape="poly" id="edge43_Node000024_Node000013" title=" " alt="" coords="435,779,484,729,541,666,563,632,572,617,589,602,597,597,600,601,593,606,577,621,567,635,545,670,488,732,438,783"/>
+<area shape="poly" id="edge38_Node000024_Node000015" title=" " alt="" coords="465,822,508,848,528,866,545,885,558,908,565,930,567,971,571,1010,578,1030,593,1050,595,1052,591,1056,589,1054,574,1032,566,1012,562,971,560,931,554,910,541,888,524,869,504,853,463,827"/>
+<area shape="poly" id="edge40_Node000024_Node000016" title=" " alt="" coords="459,822,503,849,545,885,561,907,568,928,576,948,593,967,596,970,593,974,589,971,572,950,563,930,556,910,541,888,500,854,456,827"/>
+<area shape="poly" id="edge39_Node000024_Node000018" title=" " alt="" coords="541,819,584,826,583,831,540,824"/>
+<area shape="poly" id="edge41_Node000024_Node000019" title=" " alt="" coords="504,822,544,840,559,851,569,863,579,873,593,884,600,889,597,893,589,889,575,877,565,866,556,855,542,845,502,827"/>
+<area shape="poly" id="edge42_Node000024_Node000021" title=" " alt="" coords="471,778,590,735,610,728,611,733,592,740,473,783"/>
+<area shape="poly" id="edge45_Node000025_Node000004" title=" " alt="" coords="454,896,590,802,603,796,605,801,592,806,458,900"/>
+<area shape="poly" id="edge46_Node000025_Node000015" title=" " alt="" coords="526,955,545,967,562,988,570,1009,577,1030,593,1050,596,1053,593,1057,589,1054,572,1032,565,1011,558,991,541,971,523,959"/>
+<area shape="poly" id="edge48_Node000025_Node000016" title=" " alt="" coords="517,955,587,976,585,981,515,961"/>
+<area shape="poly" id="edge47_Node000025_Node000018" title=" " alt="" coords="515,895,583,876,584,881,517,901"/>
+<area shape="poly" id="edge49_Node000025_Node000019" title=" " alt="" coords="524,925,585,925,585,931,524,931"/>
+<area shape="poly" id="edge62_Node000030_Node000003" title=" " alt="" coords="529,69,596,61,597,66,529,75"/>
+<area shape="rect" id="Node000033" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="609,1481,785,1524"/>
+<area shape="poly" id="edge65_Node000032_Node000033" title=" " alt="" coords="498,1523,593,1512,593,1517,499,1529"/>
+<area shape="rect" id="Node000034" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="609,1548,785,1591"/>
+<area shape="poly" id="edge66_Node000032_Node000034" title=" " alt="" coords="499,1543,593,1555,593,1560,498,1549"/>
+<area shape="rect" id="Node000035" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="609,1615,785,1657"/>
+<area shape="poly" id="edge67_Node000032_Node000035" title=" " alt="" coords="471,1555,592,1600,611,1607,610,1612,590,1605,469,1560"/>
+<area shape="poly" id="edge72_Node000036_Node000013" title=" " alt="" coords="497,1445,522,1435,541,1418,559,1388,571,1350,578,1305,581,1253,577,1138,566,1013,555,888,550,772,552,720,559,674,571,634,589,602,598,593,602,597,593,606,576,636,564,675,558,721,555,772,560,888,571,1013,582,1138,586,1254,583,1305,576,1351,564,1390,545,1422,524,1439,500,1450"/>
+<area shape="poly" id="edge70_Node000036_Node000023" title=" " alt="" coords="497,1436,542,1418,580,1392,614,1361,669,1300,673,1303,618,1364,583,1396,544,1422,500,1441"/>
+<area shape="rect" id="Node000037" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="613,1415,781,1457"/>
+<area shape="poly" id="edge71_Node000036_Node000037" title=" " alt="" coords="498,1445,597,1439,597,1445,499,1451"/>
+</map>

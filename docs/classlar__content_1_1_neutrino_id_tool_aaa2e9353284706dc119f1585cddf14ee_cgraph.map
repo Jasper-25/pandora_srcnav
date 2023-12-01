@@ -1,0 +1,15 @@
+<map id="lar_content::NeutrinoIdTool::SelectOutputPfos" name="lar_content::NeutrinoIdTool::SelectOutputPfos">
+<area shape="rect" id="Node000001" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="5,80,181,123"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#ae16cb54927f55ecf7dc0d64b2327dfb6" title="Get the feature vector for the MVA." alt="" coords="229,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,77,228,57,251,50,253,55,229,63,166,82"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#a378bd687185ab3651ff06a4d61fd9c8e" title="Check if all features were calculable." alt="" coords="234,72,444,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,99,218,99,218,104,181,104"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_mva_helper.html#ae46fa5647873bae972430c92ff0f672a" title="Produce a training example with the given features and result." alt="" coords="252,155,426,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,121,229,140,253,147,251,152,228,145,165,126"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_mva_helper.html#a29f90b5acda98597fcbb04e30a4080d8" title="Get a timestamp string for this point in time." alt="" coords="497,121,670,164"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="426,162,482,154,482,159,426,167"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_mva_helper.html#a770becac3f872872e6a1eda6cc34af81" title="Write the features of the given lists to file." alt="" coords="497,188,670,231"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="426,185,482,193,482,198,426,190"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_mva_helper.html#a644ef982d4df049f5de99b2021c09274" title="Write the features of the given list to file (implementation method)" alt="" coords="718,188,892,231"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="671,207,703,207,703,212,671,212"/>
+</map>

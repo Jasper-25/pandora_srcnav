@@ -1,0 +1,23 @@
+<map id="lar_content::CutClusterCharacterisationAlgorithm::GetShowerFitWidth" name="lar_content::CutClusterCharacterisationAlgorithm::GetShowerFitWidth">
+<area shape="rect" id="Node000001" title="Get a measure of the width of a cluster, using a sliding shower fit result." alt="" coords="5,180,254,223"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a27ff28e404b255234678e5bacadfde4c" title="Get the layer fit result map." alt="" coords="302,5,513,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,178,214,119,255,86,300,58,311,52,314,57,303,62,258,91,217,123,153,182"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#a48be65b01a488a69e83e463a20b6400e" title="Get the sliding fit result for the negative shower edge." alt="" coords="310,72,505,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,177,309,134,310,139,192,182"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="307,155,508,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,184,292,179,292,184,255,189"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ae230c76025f4033f9f8c06e336a7f200" title="Get the sliding fit result for the positive shower edge." alt="" coords="312,205,503,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="255,214,297,219,296,224,254,219"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ab8417ac239b06a403b92ac0f53bffaa2" title="Get the sliding fit result for the full shower cluster." alt="" coords="306,288,509,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="181,221,303,274,316,279,314,284,301,278,179,226"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="322,371,493,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,221,214,287,256,324,303,356,313,362,310,366,300,361,253,329,210,291,147,225"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="561,371,731,413"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="493,389,545,389,545,395,493,395"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="779,304,956,347"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="718,368,779,349,780,354,720,373"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="779,371,956,413"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="731,389,764,389,764,395,731,395"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="779,437,956,480"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="720,411,780,430,779,435,718,416"/>
+</map>

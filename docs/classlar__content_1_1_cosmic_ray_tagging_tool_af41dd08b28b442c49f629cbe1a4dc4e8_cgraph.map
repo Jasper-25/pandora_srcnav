@@ -1,0 +1,17 @@
+<map id="lar_content::CosmicRayTaggingTool::GetCRCandidates" name="lar_content::CosmicRayTaggingTool::GetCRCandidates">
+<area shape="rect" id="Node000001" title="Make a list of CRCandidates." alt="" coords="5,27,211,69"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="259,5,459,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,33,243,30,243,35,211,39"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#a09e2deb53cebbcf5d1db1b8c077362b0" title="Whether a pfo is a primary parent particle." alt="" coords="274,56,444,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,57,259,63,259,68,211,63"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="724,11,909,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,53,507,41,610,32,709,29,709,34,611,37,507,47,444,58"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a3b6b4122d5463ac81c2a4ffaff292814" title="Whether a pfo is a neutrino or (antineutrino)" alt="" coords="732,89,901,132"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="442,97,507,108,615,114,716,114,716,119,615,120,507,113,441,102"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#a968e4ba1db6de993a8cf8a161eaa1ec5" title="Whether a pfo is a final&#45;state particle from a neutrino (or antineutrino) interaction." alt="" coords="507,56,676,99"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="444,75,492,75,492,80,444,80"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="957,89,1141,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="901,108,941,108,941,113,901,113"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="676,58,709,51,710,56,678,63"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="677,87,717,93,716,99,677,93"/>
+</map>

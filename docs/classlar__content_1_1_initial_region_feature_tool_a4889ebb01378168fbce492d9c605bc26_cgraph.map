@@ -1,0 +1,27 @@
+<map id="lar_content::InitialRegionFeatureTool::GetViewInitialRegionVariables" name="lar_content::InitialRegionFeatureTool::GetViewInitialRegionVariables">
+<area shape="rect" id="Node000001" title="Calculate the initial region variables for the input view." alt="" coords="5,248,222,307"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="290,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,246,148,204,180,154,220,102,268,58,275,53,278,57,271,62,224,106,184,157,153,207,131,249"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="290,72,458,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,246,192,185,229,152,268,124,277,119,280,124,271,129,232,157,196,189,140,250"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="274,139,474,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,245,205,209,269,175,287,168,289,173,271,180,208,213,154,250"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_proto_shower_match.html#af2a8d087d2a5c7f96ea4bc6b84ef2f56" title="Get the U view ProtoShower." alt="" coords="289,189,459,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="222,247,273,234,275,239,223,252"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_proto_shower_match.html#a3430a652c672a222a332416f18f7f809" title="Get the V view ProtoShower." alt="" coords="289,256,459,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="222,275,274,275,274,280,222,280"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_proto_shower_match.html#a5db9f8aba962ab5da00abdec0010a008" title="Get the W view ProtoShower." alt="" coords="287,323,461,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="223,303,274,316,273,321,222,308"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="290,389,458,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,305,209,341,271,375,284,381,282,386,268,380,207,345,153,309"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="270,456,478,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="137,305,193,374,230,410,271,442,279,447,277,451,268,446,226,414,189,377,133,309"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="289,523,459,565"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="129,306,150,351,181,405,222,461,271,509,277,512,274,517,268,513,218,464,177,408,145,353,124,308"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="526,456,694,499"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="451,520,516,501,518,506,452,525"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="526,523,694,565"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="460,541,510,541,510,547,460,547"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="526,589,694,632"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="452,563,518,582,516,587,451,568"/>
+</map>

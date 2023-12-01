@@ -1,0 +1,58 @@
+<map id="lar_content::VertexSelectionBaseAlgorithm::Run" name="lar_content::VertexSelectionBaseAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,459,191,501"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#ad4b70494dc63ac9078b36dabe6909566" title="Filter the input list of vertices to obtain a reduced number of vertex candidates." alt="" coords="265,221,467,264"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,456,327,273,331,277,126,460"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#ae0463a39f4e9c1362502118dbed23c4f" title="Get the beam score constants for a provided list of candidate vertices." alt="" coords="252,32,480,75"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="100,458,113,395,138,307,156,259,178,210,205,164,237,122,263,99,292,80,295,84,266,103,241,126,209,167,183,213,161,261,143,308,118,396,105,459"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="295,605,437,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="124,500,175,542,240,584,282,602,280,607,237,589,172,546,121,504"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="859,613,1001,656"/>
+<area shape="poly" id="edge27_Node000001_Node000012" title=" " alt="" coords="111,501,129,538,157,582,194,625,216,643,240,658,289,672,355,680,434,682,520,679,696,664,844,645,844,650,697,669,520,684,434,687,354,685,287,678,238,662,213,647,190,629,153,585,124,540,106,503"/>
+<area shape="rect" id="Node000013" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="594,488,735,531"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="191,474,239,473,366,469,422,468,493,473,579,487,578,492,493,479,422,474,366,474,239,479,191,480"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#ab5947598f7fddc9d3a54c0ca8c992e5b" title="Get the vertex score list for a provided list of candidate vertices." alt="" coords="252,488,480,531"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="192,488,236,492,236,498,191,493"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a2e6af095d3effeb0af688828bd526701" title="Initialize kd trees with details of hits in algorithm&#45;configured cluster lists." alt="" coords="260,371,472,413"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="161,456,238,429,279,416,281,421,240,435,163,461"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="571,555,758,597"/>
+<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="139,499,186,522,239,540,321,557,404,567,555,575,555,580,403,573,320,562,238,545,184,527,137,504"/>
+<area shape="rect" id="Node000021" href="$class_pandora_content_api.html#a12872083dbe4252ceaebcc9814060c4a" title="Save a provided input object list under a new name." alt="" coords="295,723,437,765"/>
+<area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="109,501,127,543,155,598,193,654,215,679,240,702,282,724,279,729,237,706,211,683,188,657,150,600,122,545,104,503"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a9567af159b3e793995dddb5e0c33ffc5" title="From the top&#45;scoring candidate vertices, select a subset for further investigation." alt="" coords="239,136,493,179"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="102,457,118,407,145,341,184,270,209,237,237,207,272,183,275,188,240,211,213,240,189,273,150,343,123,409,107,459"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_k_d_tree_linker_algo.html#af1df62df0abc8364150a9b8a0a466eed" title="Whether the tree is empty." alt="" coords="579,221,750,264"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,240,563,240,563,245,467,245"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a8915efdbd466bfec85350b29360af720" title="Sort vertices by increasing z position." alt="" coords="541,155,787,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="464,218,550,199,551,204,465,223"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_vertex.html#a97d6b7c37f9f7de1717cd506f3dbe9d7" title="Get the vertex position." alt="" coords="835,99,1025,125"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="755,151,856,127,857,132,756,157"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="846,284,1014,327"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="768,195,789,207,805,223,814,239,822,255,837,270,843,274,840,279,834,274,818,258,809,242,801,226,786,211,765,200"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="846,151,1014,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="788,171,830,171,830,176,788,177"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="846,217,1014,260"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="758,195,831,213,830,218,757,201"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_beam_constants.html#a75c8e18d56922795245a0325616aaa43" title="Set the beam constants." alt="" coords="561,5,768,64"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="480,44,544,39,545,45,481,49"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="437,625,844,631,844,636,437,630"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="880,613,878,603,886,594,904,589,930,587,958,589,975,595,973,600,957,594,930,592,905,594,889,599,883,605,885,612"/>
+<area shape="poly" id="edge14_Node000013_Node000012" title=" " alt="" coords="736,522,788,540,843,570,890,602,887,606,840,574,786,545,734,527"/>
+<area shape="poly" id="edge18_Node000015_Node000003" title=" " alt="" coords="392,368,457,321,498,296,540,274,563,264,565,269,542,278,500,300,460,325,395,372"/>
+<area shape="poly" id="edge25_Node000015_Node000013" title=" " alt="" coords="454,411,494,430,509,441,519,452,528,463,542,474,579,489,577,494,540,478,525,467,515,456,506,445,492,434,452,416"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_k_d_tree_linker_algo.html#aa94df0ff1295b8ae4b4092ec29fc7987" title="Build the KD tree from the &quot;eltList&quot; in the space define by &quot;region&quot;." alt="" coords="579,355,750,397"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="472,384,563,379,563,384,472,389"/>
+<area shape="rect" id="Node000017" href="$namespacelar__content.html#a0fa53f8f844dfe8a3aee6d08dcad0036" title="fill_and_bound_2d_kd_tree" alt="" coords="597,288,731,331"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="443,368,540,340,581,329,583,334,542,345,444,373"/>
+<area shape="rect" id="Node000019" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="594,421,735,464"/>
+<area shape="poly" id="edge23_Node000015_Node000019" title=" " alt="" coords="472,407,579,426,578,431,471,413"/>
+<area shape="poly" id="edge26_Node000015_Node000020" title=" " alt="" coords="409,411,452,439,495,474,510,493,518,510,527,525,543,541,558,549,555,554,539,545,522,529,513,512,505,496,491,478,449,443,406,416"/>
+<area shape="poly" id="edge20_Node000017_Node000006" title=" " alt="" coords="732,306,830,304,830,309,732,311"/>
+<area shape="poly" id="edge21_Node000017_Node000008" title=" " alt="" coords="731,289,831,262,833,267,733,294"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1kdtree__type__adaptor.html#abbb025136be73421bb4fb5e61c0b9e94" title="position" alt="" coords="852,351,1008,393"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="733,323,838,348,836,353,731,328"/>
+<area shape="poly" id="edge24_Node000019_Node000012" title=" " alt="" coords="736,452,763,461,789,474,826,502,859,535,909,599,905,602,855,539,823,506,786,478,761,466,735,457"/>
+<area shape="poly" id="edge29_Node000021_Node000012" title=" " alt="" coords="437,742,510,740,599,734,693,722,787,701,835,683,879,661,882,666,837,688,788,707,694,727,599,740,511,746,437,748"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a0f40a07550289f30bf38a56535c2e974" title="Whether to accept a candidate vertex, based on its spatial position in relation to other selected can..." alt="" coords="543,88,785,131"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="493,134,527,129,528,134,494,139"/>
+<area shape="poly" id="edge32_Node000023_Node000005" title=" " alt="" coords="786,108,820,108,820,114,786,113"/>
+</map>

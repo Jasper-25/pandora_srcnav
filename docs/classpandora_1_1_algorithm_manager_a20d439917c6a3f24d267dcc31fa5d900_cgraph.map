@@ -1,0 +1,30 @@
+<map id="pandora::AlgorithmManager::InitializeAlgorithms" name="pandora::AlgorithmManager::InitializeAlgorithms">
+<area shape="rect" id="Node000001" title="Initialize algorithms." alt="" coords="5,303,186,345"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm_manager.html#a9d8b68ffd6c599832d75db8d7b241f6c" title="Create an algorithm, via one of the algorithm factories registered with pandora." alt="" coords="234,152,414,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,300,276,201,279,206,131,304"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_handle.html#a0646cc781c7288abc2e3835264174aa3" title=" " alt="" coords="251,303,397,345"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="186,321,235,321,235,327,186,327"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_ti_xml_handle.html#a4e5eaba7177abb6d44bdc86a2362070e" title="Return a handle to the first child node." alt="" coords="251,369,397,412"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="171,343,237,362,235,368,170,348"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_element.html#a7063f1d7dbe5eaafe2d72a0a3134e0d3" title=" " alt="" coords="719,39,874,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,150,389,98,423,73,461,54,522,38,586,32,648,33,704,39,703,44,648,38,586,37,523,43,463,58,426,77,393,102,344,154"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_algorithm_manager.html#a77e3cba4ec7bb874286dc1a662e9e153" title="Find the name of a specific algorithm instance, so that it can be re&#45;used." alt="" coords="465,68,669,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="382,149,461,120,481,113,483,118,463,125,384,154"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_process.html#a19b7252bfe1ed61e885ed2c60abb01f4" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="478,135,656,161"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="414,161,462,156,462,162,415,167"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_process.html#a80710d4ef0f1cff61f3fedeedcf869a7" title="Read the algorithm settings." alt="" coords="462,185,671,212"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="415,180,447,183,446,189,414,185"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_process.html#af9071b9c61e1fab003e3203fd103899a" title="Register i) the pandora instance that will run the process and ii) the process type." alt="" coords="477,236,656,279"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="384,193,463,221,483,228,481,233,461,227,382,198"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_attribute_set.html#a46f90429c152bb53fa00ea810a10bbc8" title=" " alt="" coords="922,5,1097,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="874,45,906,40,907,45,875,51"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_attribute.html#a12e3231f4a18507d7c5e27a88a164d93" title="Return the value of this attribute." alt="" coords="932,72,1087,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="875,69,917,76,916,81,874,75"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="669,74,704,69,704,74,669,79"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_handle.html#a86da3ac32d75446bafeec167e48338b7" title=" " alt="" coords="494,303,640,345"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="397,321,478,321,478,327,397,327"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ti_xml_node.html#a351d0fe57709c10ba9355f90703882f3" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="728,303,865,345"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="640,321,713,321,713,327,640,327"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="499,369,635,412"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="397,388,483,388,483,393,397,393"/>
+</map>

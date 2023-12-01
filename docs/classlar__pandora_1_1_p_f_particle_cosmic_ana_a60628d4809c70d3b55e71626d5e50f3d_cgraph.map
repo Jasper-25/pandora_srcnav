@@ -1,0 +1,33 @@
+<map id="lar_pandora::PFParticleCosmicAna::analyze" name="lar_pandora::PFParticleCosmicAna::analyze">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,272,207,315"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aa0a8dd4a0308bb192716b0144e6d1381" title="Collect the links from reconstructed hits to their true energy deposits." alt="" coords="255,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,270,132,226,161,169,202,110,226,82,253,58,258,54,262,58,256,62,230,86,206,113,166,172,136,228,118,273"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#adbdca868e7408cac8a43c85d9d0e5ca2" title="Build mapping between PFParticles and Hits using PFParticle/SpacePoint/Hit maps." alt="" coords="255,72,456,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,270,172,199,210,159,253,124,261,120,264,124,256,129,214,163,176,203,123,273"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ab6d40fa404f6dd2c4eb0a436bddb49e7" title="Collect a vector of cosmic tags from the ART event record." alt="" coords="255,139,456,181"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="133,269,187,230,253,191,266,185,268,190,256,196,190,235,136,274"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a1b5b50e1ba9c422d7c0967c4727379fb" title="Collect the reconstructed Hits from the ART event record." alt="" coords="255,205,456,248"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="188,269,258,250,259,255,189,274"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aed4904bff009e140879aa08c21fcbcc9" title="Collect a vector of MCParticle objects from the ART event record." alt="" coords="255,272,456,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="207,291,239,291,239,296,207,296"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ab49674a5faa4d73c5f0e5daa283ff36f" title="Collect the reconstructed PFParticles from the ART event record." alt="" coords="255,339,456,381"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="189,313,259,332,258,337,188,318"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ac3019a69681fad28c2949d1edd0e6c79" title="Collect the reconstructed PFParticles and associated Tracks from the ART event record." alt="" coords="255,405,456,448"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="136,313,190,352,256,391,268,396,266,401,253,396,187,357,133,317"/>
+<area shape="rect" id="Node000012" href="$classlar__pandora_1_1_p_f_particle_cosmic_ana.html#a50c621c1c82dfc7be60cdc4de03c4c71" title="Fill event&#45;level variables using input maps between reconstructed objects." alt="" coords="255,539,456,581"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="118,314,136,358,166,415,206,474,230,501,256,525,262,528,258,533,253,529,226,505,202,477,161,418,132,361,113,316"/>
+<area shape="rect" id="Node000015" href="$classlar__pandora_1_1_p_f_particle_cosmic_ana.html#a9802135e3698a01bce1cb323e827748d" title="Fill track&#45;level variables using input maps between reconstructed objects." alt="" coords="255,472,456,515"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="123,313,176,384,214,424,256,458,264,462,261,467,253,462,210,428,172,388,119,317"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a40c83dcad1fd6c53da141889edd8c881" title="Return the final&#45;state parent particle by navigating up the chain of parent/daughter associations." alt="" coords="504,39,705,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,77,488,73,489,78,457,82"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#abca4ab4ee9d7a037413566ad1878e9ac" title="Determine whether a particle has been reconstructed as a final&#45;state particle." alt="" coords="504,105,705,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,104,489,109,488,114,456,109"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#acc4e656318c1bf812a308075cab912cb" title="Determine whether a particle has been reconstructed as a neutrino." alt="" coords="753,72,955,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="706,71,738,75,738,80,706,76"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="706,111,738,106,738,111,706,116"/>
+<area shape="rect" id="Node000013" href="$classlar__pandora_1_1_p_f_particle_cosmic_ana.html#a204788d29b51afd49da68826c6dbcbad" title="Get cosmic score for a PFParticle using track&#45;level information." alt="" coords="504,472,705,515"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="437,536,507,517,509,522,438,541"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aa8f6cd3e40e31d26b7528ad49b2e0074" title="Determine whether a particle has been reconstructed as track&#45;like." alt="" coords="504,539,705,581"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="457,557,489,557,489,563,457,563"/>
+<area shape="poly" id="edge16_Node000015_Node000013" title=" " alt="" coords="457,491,489,491,489,496,457,496"/>
+</map>

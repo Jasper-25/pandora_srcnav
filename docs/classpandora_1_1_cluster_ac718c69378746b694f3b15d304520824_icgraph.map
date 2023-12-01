@@ -1,0 +1,48 @@
+<map id="pandora::Cluster::GetClusterSpanZ" name="pandora::Cluster::GetClusterSpanZ">
+<area shape="rect" id="Node000001" title="Get upper and lower Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="1394,200,1580,243"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a9117d6884e755c6ac40c87509505f98e" title="Look at consistency of a combination of clusters." alt="" coords="1135,51,1337,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1452,191,1404,148,1345,108,1320,96,1322,92,1347,103,1407,144,1456,187"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_view_transverse_tracks_algorithm.html#aea534b66fe656e2928fcd69d845428c1" title="Calculates the two view overlap result." alt="" coords="1126,117,1346,176"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1398,198,1336,179,1337,174,1399,193"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa3efbf0e2e50f0f836230ec55b3efe1f" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="1129,267,1343,325"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1399,250,1337,269,1336,264,1398,245"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78c7deb41fedce4d81dacaf750e344ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="1127,200,1345,243"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1378,224,1346,224,1346,219,1378,219"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="1150,371,1322,413"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1453,256,1405,297,1347,340,1288,372,1285,368,1345,335,1401,293,1450,251"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aae25161ec9a1fd6579144e9812ba3716" title="Match clusters using all three views." alt="" coords="854,72,1054,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1119,83,1054,88,1054,83,1119,78"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aea749e91ac312094797e71c45f4d71c5" title="Match clusters using a pair of views." alt="" coords="854,5,1054,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1119,56,1053,45,1054,40,1120,51"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a8dec37ecee7b41db2330d4497bb5bf53" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="844,225,1064,284"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1113,281,1064,273,1064,268,1114,275"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="853,308,1055,351"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="1114,313,1056,320,1055,315,1113,308"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a7a57b0a01f2505987a1da38d358cddd7" title="Collect hits in the delta ray cluster that lie close to calculated projected positions forming a seed..." alt="" coords="581,233,774,276"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="829,257,774,257,774,252,829,252"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78860aa1431af987dcb65d9968873c78" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="263,167,524,209"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="568,232,487,213,488,207,569,227"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a2d8fb65c18c0674976c885a445c34da5" title="Run the algorithm tool." alt="" coords="16,167,204,209"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="247,191,204,191,204,185,247,185"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a81b82bd00938103b0d0e7d33a6dec14b" title="Collect hits in the delta ray cluster that lie close to calculated projected positions forming a seed..." alt="" coords="573,304,782,347"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="838,330,782,330,782,324,838,325"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a344e9f0fc688c39fe9969f99941c143d" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="289,337,498,380"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="558,342,499,349,498,344,557,337"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954be3b22e6a4210ca6025bed8a0e21f" title="Run the algorithm tool." alt="" coords="5,337,215,380"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="273,361,215,361,215,356,273,356"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#aef1de5f0e1800cfaafebeef94886ac5c" title="Determine whether element satifies simple checks." alt="" coords="830,159,1078,201"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1111,206,1078,201,1078,196,1112,200"/>
+<area shape="poly" id="edge18_Node000016_Node000009" title=" " alt="" coords="815,160,782,157,677,151,572,157,494,169,493,163,572,152,677,146,783,152,815,155"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#aacad8bfa4751588237e1c4ec16d15337" title="Determine whether the input element is the best to use to modify the contaminated cluster (best is de..." alt="" coords="572,167,782,209"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="815,187,783,188,783,182,815,181"/>
+<area shape="poly" id="edge17_Node000017_Node000009" title=" " alt="" coords="556,191,525,191,525,185,556,185"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954c1e70112176185c26e424612c0ae0" title="Determine whether element satifies simple checks." alt="" coords="573,371,782,413"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="1135,395,782,395,782,389,1135,389"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_delta_ray_removal_tool.html#a14867c8cc28ef3b11ac43c87e4e64874" title="Determine whether element satifies simple checks." alt="" coords="856,433,1052,476"/>
+<area shape="poly" id="edge22_Node000018_Node000020" title=" " alt="" coords="1135,417,1053,436,1052,430,1134,412"/>
+<area shape="poly" id="edge21_Node000019_Node000013" title=" " alt="" coords="557,381,498,374,499,368,558,375"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_delta_ray_removal_tool.html#a4c3d711afe71c3990acfb08d94de4162" title="Remove hits from cosmic ray clusters that belong to a child delta ray." alt="" coords="580,437,775,480"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="841,459,775,460,775,455,841,454"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_delta_ray_removal_tool.html#ada7630ec473da9aa37ed7bcabac6ddce" title="Run the algorithm tool." alt="" coords="296,437,491,480"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="564,461,492,461,492,456,564,456"/>
+</map>

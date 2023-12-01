@@ -1,0 +1,16 @@
+<map id="lar_content::TwoViewDeltaRayMatchingAlgorithm::UpdateForThirdViewClusterModification" name="lar_content::TwoViewDeltaRayMatchingAlgorithm::UpdateForThirdViewClusterModification">
+<area shape="rect" id="Node000001" title="Update the matrix after a third view cluster modification &#45; remove delta ray clusters and reassess th..." alt="" coords="1699,5,1920,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a86cf4f3004b5f9d859986cbd1020937d" title="Form the third view cluster by removing hits from cosmic ray clusters and merging the matched cluster..." alt="" coords="1133,5,1351,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1684,34,1651,33,1399,33,1351,34,1351,29,1399,28,1651,28,1684,29"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#ae2932fa86015b2030a82097861b94352" title="Starting with an input seed cluster, sequentially merge in matched clusters that retain a good reduce..." alt="" coords="1399,43,1651,85"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1684,50,1652,54,1651,48,1684,45"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a2bcd4c0985510d5a966d7011e0bbc4f5" title="Create delta ray pfos out of a given element, merging the third view clusters together and adding in ..." alt="" coords="867,13,1085,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1117,37,1085,37,1085,32,1117,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_view_ambiguous_delta_ray_tool.html#ad928d3d04b6d6573a85a60156aef745b" title="Identify the best 1:1:1 match in a group of connected elements and from it create a pfo." alt="" coords="585,13,819,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="851,37,820,37,820,32,851,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_view_ambiguous_delta_ray_tool.html#a8f85d985a41d1fe8a34b42908c5b9bb9" title="Identify ambiguous matches (e.g. 3:2:1) and, if possible, create pfos out of the best 1:1:1 cluster m..." alt="" coords="263,13,537,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="570,37,537,37,537,32,570,32"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_view_ambiguous_delta_ray_tool.html#a58a574df97e3e9dceea3995ef71fca3e" title="Run the algorithm tool." alt="" coords="5,13,215,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="247,37,215,37,215,32,247,32"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="1383,52,1351,49,1352,43,1384,47"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="pandora::XmlFileReader::ReadVariable" name="pandora::XmlFileReader::ReadVariable">
+<area shape="rect" id="Node000001" title="Read a variable from the file." alt="" coords="510,339,668,381"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a4a6ff626833eaac8f4f5a6da481bf59b" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="263,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,324,567,266,545,196,510,124,487,91,460,62,445,51,448,46,464,58,491,88,514,122,550,194,572,265,585,323"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_factory.html#aa4d2c3bff28833f95c906b11019acc06" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="274,72,451,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="575,325,559,280,535,227,502,174,460,129,444,118,447,113,464,125,506,171,540,225,564,278,580,323"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_xml_file_reader.html#a2e978a7c7ef02101fc7ebb2d8423b40b" title="Read a box gap from the current position in the file." alt="" coords="283,139,442,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="568,326,524,260,494,225,460,195,441,184,443,179,464,191,498,222,528,257,572,324"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_xml_file_reader.html#a0ff416612d9b875f83665e0abab6e68e" title="Read a calo hit from the current position in the file, recreating the stored object." alt="" coords="283,472,442,515"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="556,394,514,429,463,462,438,474,436,469,461,458,510,425,553,390"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_xml_file_reader.html#a3b61ce2b65d5ceb70d96975025c93c32" title="Read a concentric gap from the current position in the file." alt="" coords="283,205,442,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="553,330,510,295,461,262,436,251,438,246,463,258,514,291,556,326"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_xml_file_reader.html#aa84ef7e4859e82806463a7ac771067cc" title="Read a lar tpc from the current position in the file." alt="" coords="283,272,442,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="500,337,437,318,438,313,501,331"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_xml_file_reader.html#a346972cd885a01130ec2f816ed20f14f" title="Read a line gap from the current position in the file." alt="" coords="283,339,442,381"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="494,363,442,363,442,357,494,357"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_xml_file_reader.html#ab429cb89e6682081826e2fcc38ea16cb" title="Read a mc particle from the current position in the file, recreating the stored object." alt="" coords="283,539,442,581"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="572,396,528,463,498,498,464,529,443,541,441,536,460,525,494,495,524,460,568,394"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_xml_file_reader.html#a17dbfc0da85bd700a9158463d9037b76" title="Read a relationship from the current position in the file, recreating the stored relationship." alt="" coords="283,605,442,648"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="580,397,564,442,540,495,506,549,464,595,443,609,440,604,460,591,502,546,535,493,559,440,575,395"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_xml_file_reader.html#abdb655bd2795ba7eb11f1709860a174d" title="Read a sub detector from the current position in the file." alt="" coords="283,405,442,448"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="501,389,438,407,437,402,500,383"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_xml_file_reader.html#af7b15fb0be2a24f46cc894922cbabb08" title="Read a track from the current position in the file, recreating the stored object." alt="" coords="283,672,442,715"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="585,397,572,455,550,526,514,598,491,632,464,662,443,676,440,672,460,658,487,629,510,596,545,524,567,454,580,396"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_xml_file_reader.html#a1160cb25b77860b475cfef8ed377a67c" title="Read the next pandora geometry component from the current position in the file, recreating the stored..." alt="" coords="5,272,215,315"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,190,264,196,197,235,141,274,138,269,194,230,261,191,274,185"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_xml_file_reader.html#a97c0ff091cb4a9d01413f0d3f17ab23d" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="18,572,202,615"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="280,523,264,529,159,574,157,569,262,524,278,518"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="269,254,194,274,193,269,267,249"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="268,296,215,296,215,291,268,291"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="267,338,193,318,194,313,269,333"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="268,575,203,584,202,579,268,570"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="268,617,202,608,203,603,268,612"/>
+<area shape="poly" id="edge18_Node000013_Node000005" title=" " alt="" coords="274,402,261,396,194,356,138,317,141,313,197,352,264,391,276,397"/>
+<area shape="poly" id="edge20_Node000014_Node000007" title=" " alt="" coords="278,669,262,662,157,618,159,613,264,658,280,664"/>
+</map>

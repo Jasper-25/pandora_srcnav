@@ -1,0 +1,17 @@
+<map id="lar_content::LArMCParticleHelper::IsBeamParticle" name="lar_content::LArMCParticleHelper::IsBeamParticle">
+<area shape="rect" id="Node000001" title="Returns true if passed a primary beam MCParticle." alt="" coords="5,39,183,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="231,5,408,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,44,215,39,215,45,183,50"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="231,72,408,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,70,215,75,215,81,182,76"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="466,5,643,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,24,450,24,450,29,408,29"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="456,72,652,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,91,440,91,440,96,408,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="719,39,859,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="653,77,703,69,704,75,653,82"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="700,105,878,148"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="653,105,685,109,684,115,653,110"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="926,105,1065,148"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="878,124,911,124,911,129,878,129"/>
+</map>

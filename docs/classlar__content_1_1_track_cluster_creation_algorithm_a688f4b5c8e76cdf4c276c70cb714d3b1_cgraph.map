@@ -1,0 +1,26 @@
+<map id="lar_content::TrackClusterCreationAlgorithm::CreateClusters" name="lar_content::TrackClusterCreationAlgorithm::CreateClusters">
+<area shape="rect" id="Node000001" title="Final cluster formation." alt="" coords="5,129,224,172"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="308,32,449,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,126,271,86,293,78,295,83,273,90,169,131"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="286,100,471,143"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="224,136,270,131,271,136,225,141"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="272,167,485,193"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="225,160,257,164,256,169,224,166"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a5c6b1f6eb6de0c5ede0315d44119b3af" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="283,221,474,264"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="179,170,302,213,300,218,177,175"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="559,29,700,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,50,543,49,543,54,450,55"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="584,29,582,19,590,10,606,5,630,3,656,5,671,11,669,16,654,10,630,8,607,10,592,15,587,21,589,28"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="533,96,726,139"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="455,218,483,203,498,190,507,177,516,163,531,149,539,144,542,148,535,153,520,166,511,179,502,193,487,208,457,223"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="546,163,714,205"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="472,218,530,204,531,210,473,223"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="546,229,714,272"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="474,243,530,245,530,250,474,248"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="546,296,714,339"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="454,262,541,288,540,294,452,267"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="534,363,725,405"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="408,262,464,305,534,348,546,354,544,359,532,353,461,310,404,267"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="774,363,972,405"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="726,381,759,381,759,387,726,387"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="lar_content::NeutrinoHierarchyAlgorithm::GetInitialPfoInfoMap" name="lar_content::NeutrinoHierarchyAlgorithm::GetInitialPfoInfoMap">
+<area shape="rect" id="Node000001" title="Process a provided pfo list and populate an initial pfo info map." alt="" coords="5,89,205,132"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="253,5,453,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,86,252,42,275,34,277,39,254,46,150,91"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="282,56,424,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,95,266,86,267,91,205,100"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="268,123,438,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="205,121,253,128,252,133,205,127"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="259,189,447,232"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="152,130,254,175,270,181,268,186,252,180,150,135"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="516,56,657,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="424,75,500,75,500,80,424,80"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="544,56,542,46,549,37,564,31,586,29,610,32,624,38,622,43,609,37,586,35,565,37,553,41,548,47,549,55"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="501,123,671,165"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="438,141,486,141,486,147,438,147"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="719,56,896,99"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="658,120,719,101,720,106,660,125"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="719,123,896,165"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="671,141,704,141,704,147,671,147"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="719,189,896,232"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="660,163,720,182,719,187,658,168"/>
+</map>

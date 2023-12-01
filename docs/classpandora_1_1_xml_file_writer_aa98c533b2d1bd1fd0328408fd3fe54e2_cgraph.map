@@ -1,0 +1,60 @@
+<map id="pandora::XmlFileWriter::WriteDetectorGap" name="pandora::XmlFileWriter::WriteDetectorGap">
+<area shape="rect" id="Node000001" title="Write the detector gap parameters to the file." alt="" coords="5,607,158,649"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_concentric_gap.html#ab741afd5ddd5be9359baa3a501d2f04b" title="Get the inner cylindrical polar phi coordinate." alt="" coords="228,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,606,94,493,117,329,134,244,154,167,177,102,204,58,213,49,217,53,208,62,182,105,159,168,139,245,123,330,99,493,87,607"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_concentric_gap.html#a134cc8a3a0834b75fb692a1b53360ab2" title="Get the inner cylindrical polar r coordinate, origin interaction point." alt="" coords="228,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,606,96,505,122,361,138,287,157,219,179,163,204,125,213,116,217,120,208,128,184,166,162,221,143,288,127,362,102,506,88,607"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_concentric_gap.html#abfe30f94bdc71cbcc9c6252dbbbee8ff" title="Get the order of symmetry of the innermost edge of gap." alt="" coords="224,139,394,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,606,82,529,88,476,98,418,113,358,135,298,165,241,204,192,209,186,213,190,208,195,169,244,140,300,118,359,103,419,93,477,88,529,85,606"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_line_gap.html#af8f1fa8491d69c8f7db41c7912607182" title="Get the line end x coordinate." alt="" coords="206,205,412,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="80,606,85,536,102,438,117,385,139,333,167,284,204,242,208,239,211,243,208,246,172,288,143,335,122,387,107,439,90,537,86,607"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_line_gap.html#a1de63926ffcf30d36616aa75aa3448fe" title="Get the line end z coordinate." alt="" coords="206,256,412,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="81,606,89,544,108,460,124,414,145,370,171,329,204,293,208,289,212,293,208,297,175,332,149,372,129,416,113,461,94,545,87,607"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_line_gap.html#acd1d54cecd0581c056b38636d0221d74" title="Get the line gap type." alt="" coords="221,307,397,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="84,606,96,555,119,489,154,420,177,388,204,359,208,356,211,360,207,363,181,391,158,423,124,491,101,557,89,607"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_line_gap.html#ae46cc6ddddf1a8e3ed3d62ff6e2bca49" title="Get the line start x coordinate." alt="" coords="221,373,397,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="88,605,104,567,128,519,162,469,204,426,209,422,213,426,207,430,166,472,133,522,108,569,93,607"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_line_gap.html#aedff78e44502aabce470756b8dcb0455" title="Get the line start z coordinate." alt="" coords="221,440,397,483"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="95,605,140,549,170,519,204,492,212,488,215,492,207,497,174,523,144,553,99,608"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_concentric_gap.html#a2135e452e7e48f37130e892ff44e8862" title="Get the max cylindrical polar z coordinate, origin interaction point." alt="" coords="228,507,390,549"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="118,604,205,559,220,553,222,558,207,564,120,608"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_concentric_gap.html#afea10d837bf816ca833ce9f0c7c1cff5" title="Get the min cylindrical polar z coordinate, origin interaction point." alt="" coords="228,573,390,616"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="158,614,212,606,213,611,159,619"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_concentric_gap.html#a3c5bfcc4d320e3e53deb076f43e603de" title="Get the outer cylindrical polar phi coordinate." alt="" coords="227,640,391,683"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="159,637,212,645,212,650,158,642"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_concentric_gap.html#acce3abeb9213f49de61f160673d4d6f2" title="Get the outer cylindrical polar r coordinate, origin interaction point." alt="" coords="228,707,390,749"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="120,648,207,692,222,698,220,703,205,697,118,652"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_concentric_gap.html#a93c258daeadf14c19e75f9429432f80e" title="Get the order of symmetry of the outermost edge of gap." alt="" coords="222,773,396,816"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="99,648,144,703,174,733,207,759,215,764,212,768,204,764,170,737,140,707,95,651"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_box_gap.html#a798d2940245b17212bbc2a13e3831bd2" title="Get the vector describing first side meeting vertex." alt="" coords="217,840,401,867"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="92,649,108,688,132,736,165,785,185,807,207,826,215,831,212,835,204,830,181,811,161,788,127,738,103,690,87,651"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_box_gap.html#a7c8a8ed6ac4d2c3373758c01ae3bb5a4" title="Get the vector describing second side meeting vertex." alt="" coords="217,891,401,917"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="90,649,102,697,125,759,159,823,181,852,207,877,213,881,210,885,204,881,177,855,155,826,120,761,97,699,84,651"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_box_gap.html#aa06eff115cc772f050f6822943943c57" title="Get the vector describing third side meeting vertex." alt="" coords="217,941,401,968"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="88,649,97,706,118,781,133,821,153,860,178,896,207,927,212,931,209,935,204,931,173,899,148,863,128,823,112,783,92,707,82,650"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_box_gap.html#aaec6fc66ae8addd6f025369a5ffc5a81" title="Get the gap vertex." alt="" coords="214,992,404,1019"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="86,649,93,714,111,803,126,851,147,897,174,940,208,978,211,981,208,985,204,982,170,944,142,900,121,852,106,804,87,715,81,650"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="495,1068,631,1111"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="85,649,87,723,93,773,102,827,117,882,139,936,169,986,207,1029,226,1040,253,1051,323,1066,403,1077,479,1083,479,1088,403,1082,322,1072,251,1056,224,1045,204,1033,165,989,134,939,112,884,97,828,87,773,82,724,79,650"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_object_factory.html#af72543cbef634e4741728b8d5e3b67ad" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="230,1093,388,1136"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="85,650,88,728,103,840,119,902,140,963,170,1021,208,1073,219,1083,215,1087,204,1076,165,1024,135,965,113,903,98,841,83,728,80,650"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="233,1160,385,1203"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="88,649,101,754,126,903,142,980,161,1050,183,1107,208,1146,220,1157,217,1161,204,1150,179,1110,156,1052,137,981,120,904,96,755,82,650"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="728,985,864,1028"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="624,1065,719,1031,720,1036,626,1070"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_ti_xml_document.html#adae6a3f19b9317f9eabb208117c2c23a" title=" " alt="" coords="713,1068,879,1111"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="631,1087,698,1087,698,1092,631,1092"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_ti_xml_node.html#a562e3b0008d5492ad24e5f8efff772db" title=" " alt="" coords="728,1135,864,1177"/>
+<area shape="poly" id="edge25_Node000019_Node000026" title=" " alt="" coords="632,1106,713,1130,712,1135,631,1111"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_ti_xml_node.html#a3e733899bd721c108cc52baee363b305" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="947,968,1084,1011"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="864,999,931,993,932,999,865,1004"/>
+<area shape="rect" id="Node000023" href="$structpandora_1_1_ti_xml_cursor.html#ae085f786cc1a4b0e9bfbdbb94f508257" title=" " alt="" coords="943,1035,1088,1077"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="879,1074,927,1067,928,1072,880,1079"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_ti_xml_parsing_data.html#aabc0cea97a507668987148a678452457" title=" " alt="" coords="927,1101,1104,1144"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="880,1099,912,1104,911,1109,879,1105"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_ti_xml_parsing_data.html#ad7f0937f19f1dc1abc9a562be2891213" title=" " alt="" coords="927,1168,1104,1211"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="857,1109,880,1120,904,1137,928,1154,938,1159,936,1164,925,1158,901,1142,877,1125,854,1114"/>
+<area shape="poly" id="edge28_Node000028_Node000019" title=" " alt="" coords="378,1157,411,1145,493,1114,495,1119,413,1151,380,1162"/>
+<area shape="rect" id="Node000029" href="$namespacepandora.html#a8f6ce14b100b1ef4d94aab7285a717ba" title=" " alt="" coords="460,1168,665,1195"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="386,1179,444,1179,444,1184,386,1184"/>
+</map>

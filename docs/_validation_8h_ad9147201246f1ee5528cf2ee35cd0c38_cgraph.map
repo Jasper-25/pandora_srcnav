@@ -1,0 +1,33 @@
+<map id="Validation" name="Validation">
+<area shape="rect" id="Node000001" title="Validation &#45; Main entry point for analysis." alt="" coords="5,248,84,275"/>
+<area shape="rect" id="Node000002" href="$_validation_8_c.html#aeb1087891226f198a4777bf629ced8dc" title="Opportunity to fill histograms, perform post&#45;processing of information collected in main loop over nt..." alt="" coords="153,99,317,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,246,84,205,130,162,156,146,159,151,133,166,88,209,57,249"/>
+<area shape="rect" id="Node000007" href="$_validation_8_c.html#a50de0ecbdbe03784b50f54eb7f55238f" title="CountPfoMatches Relies on fact that primary list is sorted by number of true good hits." alt="" coords="173,248,297,275"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="84,259,157,259,157,264,84,264"/>
+<area shape="rect" id="Node000013" href="$_validation_8_c.html#a3b081172c0e369b5ffe0147044e2f8bd" title="Print details to screen for a provided interaction type to counting map." alt="" coords="135,176,335,203"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="81,245,182,206,184,211,83,250"/>
+<area shape="rect" id="Node000014" href="$_validation_8_c.html#a8bc6b10291dc388ba1110dda03f69bc5" title="Print matching details to screen for a simple mc event." alt="" coords="132,299,338,325"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="85,270,132,284,162,292,160,297,131,289,83,276"/>
+<area shape="rect" id="Node000015" href="$_validation_8_c.html#a58ffc6286814801d92fbcfcaac2328d4" title="Read the next event from the chain." alt="" coords="180,349,290,376"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="59,273,90,304,133,335,166,348,164,353,130,340,87,308,55,277"/>
+<area shape="rect" id="Node000003" href="$_validation_8_c.html#ac9f67e1c1bbd4c4c5b056d949c9c1e43" title="Fill histograms in the provided histogram collection, using information in the provided primary resul..." alt="" coords="386,5,585,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,96,325,68,385,42,406,34,408,39,387,46,327,73,275,101"/>
+<area shape="rect" id="Node000004" href="$_validation_8_c.html#ab7794fe3e3b360a953901c72b59f6389" title="Fill histograms in the provided target histogram collection, using information in the provided target..." alt="" coords="391,56,581,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="317,101,400,84,401,89,318,106"/>
+<area shape="rect" id="Node000005" href="$_validation_8_c.html#aba0e01a2f5b590108f39128ec9e5c5de" title="Process histograms stored in the provided map e.g. calculating final efficiencies,..." alt="" coords="390,107,582,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="317,117,374,117,374,123,317,123"/>
+<area shape="rect" id="Node000006" href="$_validation_8_c.html#af6963c1c5a71b34c9e137a9b5a019885" title="Get a string representation of an interaction type." alt="" coords="451,157,520,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="318,134,436,158,435,163,317,139"/>
+<area shape="rect" id="Node000008" href="$_validation_8_c.html#a74a85173caefb6052f505363c97da29e" title="Work out which of the primary particles (expected for a given interaction types) corresponds to the p..." alt="" coords="415,208,557,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="297,249,399,232,399,238,298,254"/>
+<area shape="rect" id="Node000009" href="$_validation_8_c.html#a09110c4af7e186e35e8695c4915b6fd4" title="Whether a provided mc primary and best matched pfo are deemed to have a good particle id match." alt="" coords="410,259,562,285"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="298,261,394,265,394,271,297,267"/>
+<area shape="rect" id="Node000010" href="$_validation_8_c.html#a8a940be19d41ca4edce4b9989544f280" title="Whether a simple mc event passes the relevant fiducial cut, applied to target vertices." alt="" coords="428,309,544,336"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="293,273,414,302,412,308,292,278"/>
+<area shape="rect" id="Node000011" href="$_validation_8_c.html#a01a951a7dde38fa7b2efcdf22105bc2a" title="Whether a simple mc event passes sbnd fiducial cut, applied to target vertices." alt="" coords="637,284,790,311"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="544,314,622,305,622,310,545,319"/>
+<area shape="rect" id="Node000012" href="$_validation_8_c.html#a7b5e3e45d5ff68efd2ac3081fbd2f8c4" title="Whether a simple mc event passes uboone fiducial cut, applied to target vertices." alt="" coords="633,335,794,361"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="545,326,618,335,618,340,544,332"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="335,179,436,172,436,177,336,185"/>
+<area shape="poly" id="edge15_Node000014_Node000010" title=" " alt="" coords="339,314,412,317,411,322,338,319"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="lar_content::MasterAlgorithm::CopyMCParticles" name="lar_content::MasterAlgorithm::CopyMCParticles">
+<area shape="rect" id="Node000001" title="Copy mc particles in the named input list to all pandora worker instances." alt="" coords="5,184,194,227"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a8b8e63050c9fed846db550e96b48aff5" title="Copy a specified calo hit to the provided pandora instance." alt="" coords="242,139,430,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,185,226,178,227,184,195,190"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="265,217,407,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="195,216,250,224,249,229,194,221"/>
+<area shape="rect" id="Node000003" href="$class_pandora_api.html#a5d3d06aab877dc39eb8d6f9c3cb20b87" title="Set calo hit to mc particle relationship." alt="" coords="481,72,653,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,136,475,117,476,122,413,141"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="478,139,655,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="431,157,462,157,462,163,431,163"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="718,5,857,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="636,136,654,125,669,108,677,92,686,75,702,58,707,54,710,58,705,62,690,78,682,95,673,112,657,129,639,140"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="703,72,872,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="639,136,699,117,701,122,640,141"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="718,139,857,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="655,157,702,157,702,163,655,163"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="718,205,857,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="640,179,704,199,702,204,639,184"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="718,272,857,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="639,180,657,191,673,208,682,225,690,242,705,258,710,262,707,266,702,262,686,245,677,228,669,212,654,195,636,184"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="496,229,637,272"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="407,240,481,244,480,249,407,245"/>
+<area shape="poly" id="edge11_Node000011_Node000011" title=" " alt="" coords="525,229,523,219,530,210,545,205,567,203,590,205,605,211,602,216,589,210,567,208,546,210,533,215,528,221,530,228"/>
+</map>

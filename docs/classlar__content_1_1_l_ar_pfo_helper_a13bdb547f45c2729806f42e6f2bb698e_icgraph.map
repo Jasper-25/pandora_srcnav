@@ -1,0 +1,46 @@
+<map id="lar_content::LArPfoHelper::GetThreeDClusterList" name="lar_content::LArPfoHelper::GetThreeDClusterList">
+<area shape="rect" id="Node000001" title="Get the list of 3D clusters from an input pfo." alt="" coords="831,363,1001,405"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#aeb08bce1bcb7efb7ac734b908b428d16" title="Add a specified list of three dimensional hits to a cluster in a pfo, creating the new cluster if req..." alt="" coords="546,17,750,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="906,348,892,291,869,221,832,148,809,115,782,86,745,63,748,58,785,82,813,112,837,146,873,218,897,289,911,347"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#a58c12903ae0862d99bb2b5488c9054aa" title="Adjust neutrino vertex to ensure agreement with at least one pfo (first in sorted input list)" alt="" coords="537,96,758,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="902,348,885,303,860,250,826,197,805,173,782,153,758,139,760,134,785,149,809,170,830,194,865,247,890,301,907,347"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a75e17a276446ba05dd4c9d8e24e6aa60" title="Build a 3D pointing cluster for each Pfo." alt="" coords="512,163,783,205"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="894,351,849,283,818,249,782,220,760,208,763,204,785,215,822,245,853,280,899,348"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cosmic_ray_tagging_tool_1_1_c_r_candidate.html#a23cef691a09ab836d41f940c29e68d9d" title="Constructor." alt="" coords="541,229,754,272"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="879,354,835,318,782,286,754,275,756,270,785,282,838,314,883,350"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#a1b35e3a3b54775b8b7509f1d16a3f18b" title="Get the 3D space points in a given pfo." alt="" coords="542,296,754,339"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="816,362,783,353,737,342,739,337,784,348,817,356"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_event_slicing_tool.html#a9adb22939a9c91ecad57bff781fedef0" title="Get the 3D clusters from a specified list of pfos, storing the 3D clusters in the provided list and p..." alt="" coords="566,363,730,405"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="816,387,730,387,730,381,816,381"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ab476da9ca00201e989384773c6fc11c0" title="Get all 3d clusters contained in the input pfo lists and a mapping from clusters to pfos." alt="" coords="521,429,775,472"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="817,412,784,420,739,431,737,426,783,415,816,406"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a047266045d03d4cc478fe2ca247f47c2" title="Get all 3d clusters contained in the input pfo lists and a mapping from clusters to pfos." alt="" coords="567,496,729,555"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="881,418,837,454,785,486,730,508,728,503,782,482,834,449,878,414"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#aab86c8c96ff0e7535477237486f89680" title="Get the 3D calo hit cluster associated with a given Pfo, and check if it has sufficient hits." alt="" coords="545,579,750,621"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="901,421,882,456,856,496,824,536,785,569,752,585,750,581,782,564,820,532,852,493,877,453,896,418"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_neutrino_hierarchy_algorithm_1_1_pfo_info.html#ad851e0f14c869ddedc4ba70b5ac0a5eb" title="Constructor." alt="" coords="550,645,746,688"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="908,421,892,470,867,528,832,586,810,613,785,636,748,655,745,651,782,631,806,609,828,583,863,526,887,468,903,420"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="554,712,742,755"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="913,421,901,483,878,558,861,598,840,636,815,671,785,702,765,715,743,725,741,720,763,711,782,698,811,668,836,633,856,595,873,557,896,481,908,420"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="262,5,461,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,36,461,33,461,28,530,31"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#aa31269d20709a0dd4b8cf5901b4b028e" title="Process the information in a pfo info map, creating pfo parent/daughter links." alt="" coords="263,96,460,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="522,120,460,120,460,115,522,115"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="403,83,387,77,361,75,337,77,323,81,317,87,319,95,314,96,312,86,320,77,336,71,361,69,388,72,405,78"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac6de384d3d43d2b0a5644c46aa388eba" title="Run the algorithm." alt="" coords="10,96,206,139"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="247,120,207,120,207,115,247,115"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a1f9ac3835d752458d2b0ec4c25f71a2d" title="Run the algorithm tool." alt="" coords="267,163,456,205"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="497,187,456,187,456,181,497,181"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#ae3142c58729a99cb4a4e10d0568ad7d6" title="Constructor." alt="" coords="263,296,460,339"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="526,320,460,320,460,315,526,315"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_event_slicing_tool.html#a20a0ecab5d436fcf0f64fbe9e4a21cc6" title="Run the slicing tool." alt="" coords="279,363,444,405"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="550,387,444,387,444,381,550,381"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ad7f3d95ab917b1265d41918d27d7a4c4" title="Run the algorithm." alt="" coords="278,429,445,472"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="505,453,445,453,445,448,505,448"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a58b6ad7f6839d3c14badf0009dcc40d6" title="Run the algorithm." alt="" coords="267,504,456,547"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="551,528,456,528,456,523,551,523"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#aeadb0ff37bf94d4e436356f690205360" title="Get mapping between Pfos that are associated with it other by pointing." alt="" coords="259,579,464,621"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="530,603,465,603,465,597,530,597"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,579,211,621"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="243,603,211,603,211,597,243,597"/>
+</map>

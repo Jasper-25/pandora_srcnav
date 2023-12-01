@@ -1,0 +1,13 @@
+<map id="lar_content::MvaInterface::Classify" name="lar_content::MvaInterface::Classify">
+<area shape="rect" id="Node000001" title="Classify the set of input features based on the trained model." alt="" coords="504,105,669,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_mva_helper.html#a9d996e50b784584a15f3a6123931e20c" title="Use the trained classifier to predict the boolean class of an example." alt="" coords="283,105,456,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,129,456,129,456,124,489,124"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_mva_helper.html#a9bd39bb2a444490ce1b9895852868bab" title="Use the trained classifier to predict the boolean class of an example – using a map." alt="" coords="33,5,207,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,100,234,62,202,51,203,46,236,58,317,96"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_mva_vertex_selection_algorithm.html#af0d07c9b13670002e4fd0e8f2cb4ea50" title="Used a binary classifier to compare a set of vertices and pick the best one." alt="" coords="16,72,224,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="267,116,224,110,225,105,267,110"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a56004cd1d73d1c53f98832e34dadb2d6" title="Whether cluster is identified as a clear track." alt="" coords="5,139,235,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="267,143,236,147,235,142,267,138"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="5,205,235,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="317,158,236,196,203,207,202,202,234,191,315,153"/>
+</map>

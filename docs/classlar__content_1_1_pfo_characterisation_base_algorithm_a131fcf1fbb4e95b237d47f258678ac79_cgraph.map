@@ -1,0 +1,18 @@
+<map id="lar_content::PfoCharacterisationBaseAlgorithm::IsClearTrack3x2D" name="lar_content::PfoCharacterisationBaseAlgorithm::IsClearTrack3x2D">
+<area shape="rect" id="Node000001" title="Whether pfo is identified as a clear track using its three clusters." alt="" coords="5,123,222,165"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="524,64,715,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,119,269,108,393,94,508,87,509,92,393,100,270,113,207,125"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#a5043d8b0dcfab5fc9b0a0eab4b4d262e" title="Get the list of 2D clusters from an input pfo." alt="" coords="288,123,458,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="222,141,273,141,273,147,222,147"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a2824ff5ba42d39107293d6fafae5cbdf" title="Whether pfo is identified as a clear track." alt="" coords="270,189,476,232"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="200,163,273,182,272,187,199,169"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="773,5,957,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="711,61,757,50,759,55,712,66"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="763,72,967,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="716,83,748,83,748,88,716,88"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="769,123,961,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="712,105,759,116,757,121,711,110"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="457,121,512,108,513,113,458,126"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="528,131,712,173"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="458,144,512,146,512,151,458,149"/>
+</map>

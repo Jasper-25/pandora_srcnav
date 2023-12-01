@@ -1,0 +1,28 @@
+<map id="lar_content::RPhiFeatureTool::GetFastScore" name="lar_content::RPhiFeatureTool::GetFastScore">
+<area shape="rect" id="Node000001" title="Get the score for a trio of kernel estimations, using fast histogram approach." alt="" coords="5,251,171,293"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a349cb7822c54fdf75111db71c00acacd" title="Add an entry to the histogram." alt="" coords="234,88,369,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,248,157,204,217,155,245,137,248,141,220,159,161,208,113,252"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_histogram.html#ac837ba74c6a8a536609406e84bdb37b2" title="Get the content of a specified bin." alt="" coords="234,213,369,256"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="170,255,218,246,219,252,171,260"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_r_phi_feature_tool_1_1_kernel_estimate.html#aa8cfba289bf9571d6dbb0592aed10177" title="Get the contribution list." alt="" coords="219,280,384,339"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="171,284,203,290,203,295,170,289"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_histogram.html#a0dde09fb7e800ebc67c83a16b30a1544" title="Get the cumulative sum of bin entries in the histogram (ignores overflow and underflow bins)" alt="" coords="629,163,770,205"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="118,248,164,221,218,199,323,178,430,169,530,169,614,173,614,178,530,174,430,175,324,183,219,204,166,226,121,253"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_histogram.html#a00425804330e1c67176be8d58c0cbb2c" title="Get the number of x bins." alt="" coords="234,363,369,405"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="123,292,220,348,231,354,229,358,217,353,121,296"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_histogram.html#aeb5622ad6d7382b0e142b17033f9aaff" title="Scale contents of all histogram bins by a specified factor." alt="" coords="234,429,369,472"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="106,292,153,352,185,386,220,415,227,419,224,424,217,419,181,389,149,356,102,295"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_histogram.html#a305a7ef85212d38d6848ca7e495d9783" title="Get the bin number for a specified value." alt="" coords="432,72,566,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,101,417,97,417,103,369,107"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_histogram.html#a635f9d1a206baa0710094c22623c67fc" title="Get the overflow bin number of the histogram." alt="" coords="618,72,781,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="567,91,603,91,603,96,567,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_histogram.html#adefebb1d1e4b28f5d0fea01be43e11cd" title="Get the underflow bin number of the histogram." alt="" coords="614,5,785,48"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="564,69,618,51,620,56,566,74"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_histogram.html#a891c186446e5b26031a7ca7ffd8ebf90" title="Get the max bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="833,117,972,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="782,109,818,117,817,122,781,114"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_histogram.html#a64db02a0501efd4ea888e2de07f2f8b6" title="Get the min bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="835,28,970,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="785,34,820,37,819,43,785,39"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="770,166,817,155,818,160,771,171"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="732,160,854,77,857,82,735,164"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="661,163,660,153,666,144,679,138,700,136,721,138,734,145,732,149,720,144,699,141,681,143,669,148,665,154,666,162"/>
+</map>

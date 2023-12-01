@@ -1,0 +1,35 @@
+<map id="EventReadingAlgorithm::Run" name="EventReadingAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,307,192,333"/>
+<area shape="rect" id="Node000002" href="$class_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="242,299,398,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,317,226,317,226,323,192,323"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_reader.html#a62bf87f3eafb662f236ea17d6fbe828c" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="465,197,602,240"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="127,304,178,281,239,260,348,237,449,223,450,228,349,242,240,265,180,286,129,309"/>
+<area shape="rect" id="Node000014" href="$class_pandora_content_api.html#a2ffb0229b862c6e8834ae11303f3987f" title="Repeat the event preparation stages, which are used to calculate properties of input objects for late..." alt="" coords="240,377,400,420"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="139,331,244,369,242,374,138,336"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,299,278,289,284,280,299,274,320,272,343,274,356,281,354,285,341,280,320,277,300,279,288,284,283,290,284,298"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="366,296,471,245,474,250,368,300"/>
+<area shape="rect" id="Node000011" href="$class_event_reading_algorithm.html#a61ff57b161128dd5569d66c40de1aaa6" title="Replace the current event file reader with a new reader for the specified file." alt="" coords="448,324,618,367"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="398,327,433,331,432,336,397,332"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_reader.html#a8b1569bbcd3c6d3bd0090f30dfac7e8b" title="Get the id of the next container in the file without changing the current position in the file." alt="" coords="940,5,1083,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="542,196,560,162,587,121,622,81,665,50,696,35,730,25,798,12,865,9,925,12,924,17,865,15,798,18,731,30,698,40,668,54,626,85,591,124,565,165,547,198"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_reader.html#ae65283cafd49ab95eb55a2f8397d2b5b" title="Skip to next event container in the file." alt="" coords="698,64,836,107"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="556,195,605,155,665,116,683,108,685,113,668,121,608,160,560,199"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_reader.html#a85377a4fbc6ecb2ae31f5d3872aab223" title="Read the container header from the current position in the file, checking for properly written contai..." alt="" coords="698,131,836,173"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="601,197,682,173,684,178,603,202"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_file_reader.html#a1fc9b0cd7170769a58ffa3bac5de6696" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="675,197,859,240"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="602,216,660,216,660,221,602,221"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="666,264,868,307"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="603,236,676,257,674,262,601,241"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="836,66,924,45,925,50,837,71"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_file_reader.html#a18da5af74c20f505939f3d6b09272ff0" title="Skip to next container in the file." alt="" coords="940,72,1083,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="836,85,924,88,924,93,836,90"/>
+<area shape="rect" id="Node000010" href="$namespacepandora.html#a3315325079ef7c1c6dfa614b98eed31a" title="Get status code as a string." alt="" coords="916,272,1107,299"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="868,283,900,283,900,288,868,288"/>
+<area shape="rect" id="Node000012" href="$class_event_reading_algorithm.html#a518e9bee40494db7e2fcc126ac7db269" title="Analyze a provided file name to extract the file type/extension." alt="" coords="689,331,845,373"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="619,345,674,347,674,352,619,350"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="667,397,867,424"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="606,365,667,383,695,390,694,396,666,388,604,370"/>
+<area shape="rect" id="Node000015" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="463,415,604,457"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="401,410,448,418,447,424,400,415"/>
+<area shape="poly" id="edge18_Node000015_Node000015" title=" " alt="" coords="492,415,491,405,498,396,512,390,533,388,556,390,570,397,568,401,555,396,533,393,513,395,501,400,496,406,498,414"/>
+</map>

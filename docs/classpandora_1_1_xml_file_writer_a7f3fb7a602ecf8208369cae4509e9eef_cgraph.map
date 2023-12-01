@@ -1,0 +1,40 @@
+<map id="pandora::XmlFileWriter::WriteMCParticle" name="pandora::XmlFileWriter::WriteMCParticle">
+<area shape="rect" id="Node000001" title="Write a mc particle to the current position in the file." alt="" coords="5,305,158,348"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="215,5,354,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,304,98,255,121,190,156,120,178,87,204,58,206,56,210,60,208,62,182,91,160,123,126,192,103,256,90,306"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="215,72,354,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,304,105,266,130,219,163,169,204,125,208,121,211,126,207,129,167,172,134,221,110,269,93,306"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#a219a6fd9753af2a20488b9b19af94339" title="Get the type of the mc particle, e.g. vertex, 2D&#45;projection, etc." alt="" coords="213,139,356,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,303,141,249,171,218,204,191,211,187,213,191,207,195,175,222,145,252,100,307"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="215,205,354,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="120,302,204,258,216,252,218,257,207,262,122,307"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="215,272,354,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,312,199,305,199,310,158,317"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#a3ca95e748532f9c21fe52ad40318f0c5" title="Get the mc particle unique identifier." alt="" coords="215,339,354,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="158,337,199,343,199,349,157,342"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="215,405,354,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,346,207,391,218,396,216,401,204,396,120,351"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="446,497,582,540"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="98,347,142,403,172,433,207,458,262,482,320,499,378,509,431,514,430,520,377,514,319,504,260,487,204,462,169,437,138,407,94,350"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_object_factory.html#af72543cbef634e4741728b8d5e3b67ad" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="206,523,363,565"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="96,347,139,421,171,464,207,502,221,512,218,516,204,506,166,467,134,424,91,350"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="208,589,361,632"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="91,348,104,394,128,455,162,519,183,549,208,575,211,578,207,582,204,579,179,552,157,522,123,457,99,396,85,349"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="679,415,815,457"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="575,494,670,460,671,465,577,499"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ti_xml_document.html#adae6a3f19b9317f9eabb208117c2c23a" title=" " alt="" coords="664,497,830,540"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="582,516,649,516,649,521,582,521"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_ti_xml_node.html#a562e3b0008d5492ad24e5f8efff772db" title=" " alt="" coords="679,564,815,607"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="583,536,664,559,663,564,582,541"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_node.html#a3e733899bd721c108cc52baee363b305" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="898,397,1035,440"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="815,428,882,423,883,428,816,433"/>
+<area shape="rect" id="Node000013" href="$structpandora_1_1_ti_xml_cursor.html#ae085f786cc1a4b0e9bfbdbb94f508257" title=" " alt="" coords="894,464,1039,507"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="830,503,878,496,879,501,831,509"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ti_xml_parsing_data.html#aabc0cea97a507668987148a678452457" title=" " alt="" coords="878,531,1055,573"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="831,529,863,534,862,539,830,534"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_ti_xml_parsing_data.html#ad7f0937f19f1dc1abc9a562be2891213" title=" " alt="" coords="878,597,1055,640"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="808,538,831,550,855,567,879,583,889,588,887,593,876,588,852,571,828,554,805,543"/>
+<area shape="poly" id="edge18_Node000018_Node000009" title=" " alt="" coords="338,586,443,544,445,549,340,591"/>
+<area shape="rect" id="Node000019" href="$namespacepandora.html#a8f6ce14b100b1ef4d94aab7285a717ba" title=" " alt="" coords="411,597,616,624"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="361,608,395,608,395,613,361,613"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="lar_content::LArClusterHelper::SortHitsByPosition" name="lar_content::LArClusterHelper::SortHitsByPosition">
+<area shape="rect" id="Node000001" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="5,139,197,181"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="245,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,136,179,97,243,58,255,52,258,57,246,62,182,101,130,140"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="257,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,136,247,117,248,122,181,141"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="257,139,426,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,157,242,157,242,163,197,163"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="257,205,426,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,179,248,198,247,203,179,184"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="246,272,437,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,180,182,219,246,258,258,263,255,268,243,262,179,223,127,184"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="486,272,683,315"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="437,291,470,291,470,296,437,296"/>
+</map>

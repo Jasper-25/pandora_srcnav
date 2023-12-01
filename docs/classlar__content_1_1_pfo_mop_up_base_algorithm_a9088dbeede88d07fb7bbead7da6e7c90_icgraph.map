@@ -1,0 +1,17 @@
+<map id="lar_content::PfoMopUpBaseAlgorithm::MergeAndDeletePfos" name="lar_content::PfoMopUpBaseAlgorithm::MergeAndDeletePfos">
+<area shape="rect" id="Node000001" title="Merge and delete a pair of pfos, with a specific set of conventions for cluster merging,..." alt="" coords="767,80,974,123"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#aa425d0781806b7d783a9f36a6546da01" title="Make pfo merges based on the provided cluster merge map." alt="" coords="481,9,719,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,78,684,55,685,50,772,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="497,80,703,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="752,104,704,104,704,99,752,99"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a8ed8c56eeb89a914fb600ec6a0f1a056" title="For each parent shower pfo, merge all downstream pfos back into the parent shower." alt="" coords="484,151,716,193"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="772,130,685,153,684,147,771,125"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ad7f3d95ab917b1265d41918d27d7a4c4" title="Run the algorithm." alt="" coords="244,5,411,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,31,411,31,411,25,465,26"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="222,72,433,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,104,434,104,434,99,482,99"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,80,174,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="206,104,174,104,174,99,206,99"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a043a27f1a8ca373dbf8651c2a7fd9852" title="Run the algorithm." alt="" coords="232,155,423,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="468,177,423,177,423,172,468,171"/>
+</map>

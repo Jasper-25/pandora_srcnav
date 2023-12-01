@@ -1,0 +1,45 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::AddHitsToMainTrack" name="lar_content::TrackRefinementBaseAlgorithm::AddHitsToMainTrack">
+<area shape="rect" id="Node000001" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="5,372,240,415"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="319,72,460,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,370,149,320,182,254,227,185,255,153,286,125,303,113,306,118,289,129,259,156,232,188,186,257,154,323,134,372"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a63c1c9204e33348ac99c4164e4d06b27" title="End cluster fragmentation operations on clusters in the algorithm input list." alt="" coords="319,139,460,181"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="133,370,157,332,192,284,235,234,286,191,303,181,306,186,289,196,239,238,196,287,162,335,138,373"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cluster_association.html#a379153080c01867e0be9318e2fd72f05" title="Returns the unit vector of the line connecting the upstream and downstream merge points (upstream &#45;&gt; ..." alt="" coords="288,339,491,381"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="240,376,272,372,273,377,240,381"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#ad25a3f6ab4539b67890161352e50bf1c" title="Get length squared of cluster." alt="" coords="294,405,485,448"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="240,405,278,410,278,415,240,411"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="550,460,741,503"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="168,413,224,437,288,457,351,469,415,476,534,481,534,487,415,481,350,474,287,463,222,442,166,418"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="562,527,730,569"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="155,413,215,452,251,471,289,487,354,507,421,522,546,539,546,544,421,527,353,512,287,492,249,476,212,456,152,418"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="562,593,730,636"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="143,413,203,477,244,511,289,539,353,566,420,585,486,598,546,606,546,611,485,603,419,590,351,571,286,544,241,515,199,480,139,417"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="288,624,491,651"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="137,414,160,454,194,505,237,558,289,603,312,616,309,620,286,608,234,561,190,508,155,457,132,416"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_cluster_association.html#ad5d370e87687f15ac5568c0af9f50156" title="Returns the upstream cluster merge point." alt="" coords="288,675,491,717"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="134,414,153,464,186,531,231,600,259,632,289,661,294,664,291,668,286,665,255,636,227,604,181,533,149,467,129,416"/>
+<area shape="rect" id="Node000016" href="$class_pandora_content_api.html#a63799d7ff4c48979c0ff4e62f708feee" title="Initialize cluster fragmentation operations on clusters in the algorithm input list...." alt="" coords="314,205,465,248"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="143,370,205,314,244,284,286,258,298,252,301,256,289,262,247,289,208,319,147,373"/>
+<area shape="rect" id="Node000017" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="307,272,472,315"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="174,369,287,324,305,318,306,323,289,329,176,374"/>
+<area shape="rect" id="Node000018" href="$class_pandora_content_api.html#abc59b55c66f74e7785be5683759138d6" title="Remove a calo hit from a cluster. Note this function will not remove the final calo hit from a cluste..." alt="" coords="319,5,460,48"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="126,371,142,309,173,226,194,180,220,136,250,94,286,58,303,46,306,51,289,62,254,98,224,139,199,183,178,228,147,311,131,372"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="575,139,716,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,109,561,135,559,140,460,114"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="597,139,595,129,604,120,620,114,646,112,673,114,689,121,687,126,672,120,646,117,621,119,606,124,601,130,603,138"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="461,157,560,157,560,163,461,163"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="554,209,738,252"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="474,403,489,391,502,376,508,360,512,328,516,295,524,279,537,262,540,259,544,263,541,266,528,281,522,297,518,329,513,362,506,379,493,395,478,407"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="554,276,738,319"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="470,403,489,391,504,376,513,361,521,345,537,329,544,324,547,329,541,333,526,348,517,363,509,379,493,395,472,407"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="539,343,752,369"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="459,402,538,379,568,371,570,376,540,384,460,407"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="486,444,535,455,534,460,485,450"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="424,446,477,479,540,512,555,518,553,523,538,517,475,484,421,451"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="562,393,730,436"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="485,420,546,417,546,422,486,425"/>
+<area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="408,447,462,512,499,548,540,579,549,584,546,589,538,584,496,552,458,516,404,450"/>
+<area shape="poly" id="edge21_Node000016_Node000003" title=" " alt="" coords="465,204,559,180,560,185,466,210"/>
+<area shape="poly" id="edge23_Node000017_Node000003" title=" " alt="" coords="470,269,489,258,504,243,513,228,521,211,537,195,559,182,562,187,541,199,526,215,517,230,509,246,493,262,472,274"/>
+<area shape="poly" id="edge25_Node000018_Node000003" title=" " alt="" coords="461,45,492,58,553,92,605,127,602,132,550,96,490,62,459,50"/>
+</map>

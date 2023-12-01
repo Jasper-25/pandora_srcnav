@@ -1,0 +1,73 @@
+<map id="lar_content::ThreeViewTransverseTracksAlgorithm::CalculateOverlapResult" name="lar_content::ThreeViewTransverseTracksAlgorithm::CalculateOverlapResult">
+<area shape="rect" id="Node000001" title="Calculate the overlap result for given group of clusters." alt="" coords="5,475,263,517"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_transverse_tracks_algorithm.html#a9af90091fb05e020a86dfd25940904e5" title="Get the best overlap result, by examining the fit segment tensor." alt="" coords="341,208,592,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,473,168,429,204,373,252,316,279,290,309,267,331,255,334,260,312,272,283,294,256,319,208,376,172,432,148,475"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_overlap_result.html#a7bf832d28da5d03a76dbbb1392cd0932" title="Whether the track overlap result has been initialized." alt="" coords="706,267,874,309"/>
+<area shape="poly" id="edge40_Node000001_Node000004" title=" " alt="" coords="146,473,171,435,208,390,255,346,281,326,310,311,357,293,407,279,508,265,606,264,690,270,690,276,605,269,509,271,408,285,359,298,312,316,284,331,258,350,212,394,176,438,151,476"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_n_view_track_matching_algorithm.html#ae514ba542c1fbf9c051a5892f50fc44a" title="Get a sliding fit result from the algorithm cache." alt="" coords="311,325,622,400"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,472,310,416,342,403,344,408,312,421,184,477"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_view_transverse_tracks_algorithm.html#a42979bc47051012093d9fc7325360008" title="Get the number of matched points for three fit segments and accompanying sliding fit results." alt="" coords="341,475,592,517"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="263,493,326,493,326,499,263,499"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_overlap_result.html#a8a4ad6a7ca0f0074d0f74ad10a4845f9" title="Get the fraction of sampling points resulting in a match." alt="" coords="698,375,882,417"/>
+<area shape="poly" id="edge35_Node000001_Node000008" title=" " alt="" coords="246,471,310,460,682,407,682,412,311,465,247,477"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_track_overlap_result.html#a7d72e4fc560e899bad1ecb0dfc783c0b" title="Get the number of matched sampling points." alt="" coords="671,575,908,617"/>
+<area shape="poly" id="edge38_Node000001_Node000009" title=" " alt="" coords="247,515,311,527,656,577,655,582,310,532,246,521"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a78aaf986dbab035393270117f406ec54" title="Get the maximum occupied layer in the sliding fit." alt="" coords="384,592,549,635"/>
+<area shape="poly" id="edge36_Node000001_Node000029" title=" " alt="" coords="181,515,242,543,312,571,370,588,368,594,310,576,240,548,178,520"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ab2862553ec231bc9122852cdaba41ac7" title="Get the minimum occupied layer in the sliding fit." alt="" coords="384,659,549,701"/>
+<area shape="poly" id="edge37_Node000001_Node000030" title=" " alt="" coords="156,516,221,580,264,615,312,644,370,665,368,670,310,649,261,620,217,584,152,520"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_track_overlap_result.html#a5feb87bedd900f16c39c550c70c23e3b" title="Get the number of sampling points." alt="" coords="373,725,560,768"/>
+<area shape="poly" id="edge39_Node000001_Node000031" title=" " alt="" coords="149,516,173,559,209,612,256,666,283,690,312,711,359,731,357,736,309,716,280,694,252,670,205,615,168,561,144,519"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_transverse_tracks_algorithm.html#a6f60751c08c5a0059466ec5f9a03850f" title="Get track overlap results for possible connected segments." alt="" coords="672,184,908,243"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="592,220,656,217,656,223,593,226"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="588,249,691,267,690,273,587,254"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2b0a5c79da8eb68d12b1968e4ca4afc1" title="Get the fit segment list." alt="" coords="695,441,885,484"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="592,480,679,471,680,477,592,486"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="567,472,621,454,645,440,669,427,687,420,688,425,671,432,647,445,623,458,569,477"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="569,515,623,534,647,547,671,560,688,567,687,572,669,565,645,552,621,538,567,520"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_view_transverse_tracks_algorithm.html#a9d004957735eabecc5a4419ee889bdd7" title="Get the overlap result for three fit segments and the accompanying sliding fit results." alt="" coords="670,508,909,551"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="592,506,655,513,654,518,592,512"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_fit_segment.html#a28a12a2bc499f4f63c49c4814a755c70" title="Get end layer." alt="" coords="1526,324,1686,367"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="890,505,908,494,918,483,924,472,930,449,936,425,944,414,956,403,1023,366,1095,340,1170,323,1246,314,1320,311,1391,313,1511,325,1510,330,1390,318,1320,316,1246,319,1171,328,1096,345,1025,371,959,408,948,417,941,427,935,450,929,474,922,487,911,498,893,510"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_fit_segment.html#a82aa68b19325230bb7edf6be7d6ed873" title="Get the maximum x value." alt="" coords="988,508,1149,551"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="910,527,973,527,973,532,910,532"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_fit_segment.html#ae610991b6c24098093cf9cee91a18ad1" title="Get the minimum x value." alt="" coords="988,575,1149,617"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="882,549,974,571,973,576,881,554"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="968,641,1169,668"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="890,549,911,561,927,578,936,595,943,612,959,627,967,632,964,637,956,631,939,615,931,597,923,581,908,565,888,553"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_fit_segment.html#ae3ab29a9e70bbf6cc7504ca3259dbb20" title="Get start layer." alt="" coords="1526,391,1686,433"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="883,505,908,494,922,483,931,471,940,460,956,450,1028,424,1103,406,1179,395,1254,388,1395,388,1511,396,1511,402,1395,393,1254,394,1179,400,1104,411,1029,429,959,454,944,464,935,475,926,487,911,498,886,510"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ac4487f6e6e7c56b7a20b8b0255d30b64" title="Get projected position for a given input x coordinate and fit segment." alt="" coords="957,257,1180,300"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="893,505,907,494,922,476,930,457,933,419,935,379,942,358,955,337,973,320,993,306,996,310,976,324,959,340,947,361,940,380,938,420,935,458,927,478,911,498,896,510"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1808,288,1976,331"/>
+<area shape="poly" id="edge32_Node000010_Node000025" title=" " alt="" coords="889,505,957,493,1074,483,1175,484,1348,498,1431,502,1517,497,1612,479,1722,443,1763,422,1801,396,1860,340,1864,344,1804,400,1766,427,1724,448,1614,484,1518,502,1431,507,1348,503,1175,489,1074,489,958,499,890,510"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="984,692,1153,735"/>
+<area shape="poly" id="edge33_Node000010_Node000027" title=" " alt="" coords="895,549,911,561,924,575,931,591,936,621,941,650,947,664,959,678,972,688,969,692,956,682,943,667,936,652,931,622,926,592,920,578,908,565,892,553"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="979,759,1158,801"/>
+<area shape="poly" id="edge34_Node000010_Node000028" title=" " alt="" coords="897,549,911,561,928,584,936,608,938,631,936,655,936,700,943,723,959,745,968,752,964,756,955,748,939,725,931,701,931,654,932,631,931,609,924,587,907,565,893,553"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="1234,136,1435,179"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1116,254,1271,183,1273,188,1119,259"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a877ce2c97daae05cf2293174af421a8a" title="Get the surrounding pair of layers for a specified transverse position and fit segment." alt="" coords="1228,257,1441,300"/>
+<area shape="poly" id="edge22_Node000016_Node000022" title=" " alt="" coords="1180,276,1212,276,1212,281,1180,281"/>
+<area shape="poly" id="edge17_Node000017_Node000017" title=" " alt="" coords="1284,136,1282,126,1291,117,1308,111,1334,109,1363,112,1380,118,1378,123,1361,117,1334,115,1309,117,1293,121,1287,127,1289,135"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aff0efd8176db6dc22a1ccb1e46137648" title="Get the pair of layers surrounding a specified longitudinal position." alt="" coords="1496,92,1716,135"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1435,138,1480,131,1481,136,1436,144"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6162a45ebeb7c2bfbcc3773dbe91bc0f" title="Get interpolation weights for layers surrounding a specified longitudinal position." alt="" coords="1771,88,2013,147"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1717,112,1756,113,1756,118,1717,118"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a80384406405256b9cb4d50975bd2b13e" title="Get iterators for layers surrounding the specified longitudinal position." alt="" coords="1772,5,2012,64"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="1686,89,1768,66,1769,71,1687,94"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aba240516cd246a5981e4e09a4a78e909" title="Get layer number for given sliding linear fit longitudinal coordinate." alt="" coords="2061,88,2225,131"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1994,62,2055,81,2054,86,1992,67"/>
+<area shape="poly" id="edge23_Node000022_Node000011" title=" " alt="" coords="1425,298,1511,319,1510,325,1424,303"/>
+<area shape="poly" id="edge24_Node000022_Node000015" title=" " alt="" coords="1365,298,1421,338,1490,376,1513,385,1511,390,1488,381,1418,342,1362,303"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_two_d_sliding_fit_result.html#af4829ec6b19febee23ab3b96ea11dc9a" title="Get interpolation weights for layers surrounding a specified transverse position." alt="" coords="1489,241,1723,300"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1442,273,1474,272,1474,277,1442,278"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_two_d_sliding_fit_result.html#add62eed9057dfbd40d3019bc866c257d" title="Get iterators for layers surrounding a specified transverse position." alt="" coords="1490,159,1723,217"/>
+<area shape="poly" id="edge28_Node000022_Node000026" title=" " alt="" coords="1400,254,1501,220,1502,225,1402,259"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="1799,221,1985,264"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="1724,257,1783,251,1784,256,1724,262"/>
+<area shape="poly" id="edge27_Node000023_Node000025" title=" " alt="" coords="1724,284,1793,293,1792,299,1724,289"/>
+<area shape="poly" id="edge30_Node000026_Node000021" title=" " alt="" coords="1723,186,1862,178,1938,169,2012,156,2079,134,2081,140,2013,161,1939,175,1863,184,1723,191"/>
+<area shape="poly" id="edge29_Node000026_Node000024" title=" " alt="" coords="1724,208,1784,219,1783,225,1723,213"/>
+<area shape="poly" id="edge31_Node000026_Node000025" title=" " alt="" coords="1703,215,1725,227,1740,239,1749,251,1758,263,1773,274,1795,284,1792,289,1770,278,1755,267,1745,255,1736,243,1722,232,1701,220"/>
+</map>

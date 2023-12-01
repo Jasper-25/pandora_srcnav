@@ -1,0 +1,19 @@
+<map id="lar_pandora::VintageLArTPCThreeView::CreateLineGapParametersFromReadoutGaps" name="lar_pandora::VintageLArTPCThreeView::CreateLineGapParametersFromReadoutGaps">
+<area shape="rect" id="Node000001" title="Create the line gap parameters to give to the pandora API." alt="" coords="5,239,325,281"/>
+<area shape="rect" id="Node000002" href="$namespacelar__pandora_1_1detector__functions.html#aefb295158d0018c8bd544a1fbfcf57ce" title="Make the readout gap parameters for the Pandora API." alt="" coords="382,5,581,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,237,261,159,314,114,371,74,380,69,382,74,374,78,317,118,265,163,187,240"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_plugin_manager.html#a003182d975ff24de1514f6becde04234" title="Get the address of the lar transformation plugin." alt="" coords="386,88,577,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,236,276,189,372,140,387,134,389,139,374,145,278,194,201,240"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="384,155,579,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,236,372,191,402,183,403,188,373,196,230,241"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_vintage_l_ar_t_p_c_three_view.html#a4ca41373a76c1d1505771b619c322ed4" title="Map a LArSoft view to Pandora&#39;s U view." alt="" coords="373,205,590,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="325,240,357,237,357,242,325,246"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_vintage_l_ar_t_p_c_three_view.html#a8fc6c698a3c023332cf90c7aa8b483e3" title="Map a LArSoft view to Pandora&#39;s V view." alt="" coords="373,272,590,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="325,274,357,278,357,283,325,280"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_vintage_l_ar_t_p_c_three_view.html#ae74a1f12cadb5cf32156a2561801d4df" title="Map a LArSoft view to Pandora&#39;s W view." alt="" coords="373,339,590,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="234,279,373,324,395,331,394,336,372,329,233,285"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_l_ar_transformation_plugin.html#a66d7acad4d407dc932ae014114a59667" title="Transform from (Y,Z) to U position." alt="" coords="391,405,572,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="196,279,274,334,323,364,374,391,387,397,385,402,372,396,320,369,271,339,193,284"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_transformation_plugin.html#acaf09923298b3d11dcd395a9a6b9111d" title="Transform from (Y,Z) to V position." alt="" coords="391,472,572,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="185,280,216,318,260,366,314,415,374,458,383,463,381,467,371,462,311,419,257,369,212,321,181,283"/>
+</map>

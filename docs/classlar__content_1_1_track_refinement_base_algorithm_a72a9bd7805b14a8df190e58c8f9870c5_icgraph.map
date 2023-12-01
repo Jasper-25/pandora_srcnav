@@ -1,0 +1,11 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::RepositionIfInGap" name="lar_content::TrackRefinementBaseAlgorithm::RepositionIfInGap">
+<area shape="rect" id="Node000001" title="Move an input position to the higher line gap edge if it lies within a gap." alt="" coords="1191,5,1406,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="858,5,1143,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1175,29,1143,29,1143,24,1175,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="589,5,810,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="843,29,811,29,811,24,843,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="280,5,541,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="574,29,541,29,541,24,574,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#aa4fc20068d9fdd50c3c43a9e2396a664" title="Run the algorithm." alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="264,29,232,29,232,24,264,24"/>
+</map>

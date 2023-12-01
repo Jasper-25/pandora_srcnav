@@ -1,0 +1,18 @@
+<map id="lar_content::ClusterAssociation::GetConnectingLineDirection" name="lar_content::ClusterAssociation::GetConnectingLineDirection">
+<area shape="rect" id="Node000001" title="Returns the unit vector of the line connecting the upstream and downstream merge points (upstream &#45;&gt; ..." alt="" coords="1191,93,1393,136"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3a16d4f7140eb76ddbc3af84baa7c0d9" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="883,5,1118,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1210,91,1142,69,1080,51,1082,46,1143,64,1211,86"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="280,72,541,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1175,114,1143,113,541,99,541,94,1143,108,1175,109"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="858,123,1143,165"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1176,129,1143,132,1143,127,1175,124"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="589,123,810,165"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1239,146,1193,165,1143,180,1064,192,1001,194,858,180,788,169,789,163,859,175,1001,189,1063,187,1142,175,1191,160,1236,141"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#a06f71265d7c6804f5fb3dcb898b376c3" title="Refine the cluster endpoints and merge together the associated clusters alongside any extrapolated hi..." alt="" coords="297,5,524,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="868,29,524,29,524,24,868,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#aa4fc20068d9fdd50c3c43a9e2396a664" title="Run the algorithm." alt="" coords="5,39,232,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,44,232,50,232,44,281,39"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="264,79,232,76,232,70,264,74"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="843,147,811,147,811,141,843,141"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="573,125,536,118,537,113,574,119"/>
+</map>

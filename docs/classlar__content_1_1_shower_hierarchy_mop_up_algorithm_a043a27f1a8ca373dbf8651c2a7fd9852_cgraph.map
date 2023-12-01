@@ -1,0 +1,58 @@
+<map id="lar_content::ShowerHierarchyMopUpAlgorithm::Run" name="lar_content::ShowerHierarchyMopUpAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,139,197,181"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a23429526c8940206d04ee6c70d51681a" title="Starting with provided leading pfos, find all shower pfos that themselves have daughter pfos." alt="" coords="245,29,502,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,136,244,88,280,75,282,80,246,93,144,140"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="1112,240,1253,283"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="197,151,392,142,632,139,752,142,862,150,955,163,1025,183,1041,194,1050,207,1059,219,1073,231,1098,242,1096,247,1070,236,1055,223,1046,210,1037,198,1023,188,954,168,861,155,752,147,632,144,392,148,197,157"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="583,80,724,123"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="197,144,244,139,567,106,567,112,245,144,198,150"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a8ed8c56eeb89a914fb600ec6a0f1a056" title="For each parent shower pfo, merge all downstream pfos back into the parent shower." alt="" coords="257,209,490,252"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="187,179,274,202,273,207,186,185"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="280,276,467,319"/>
+<area shape="poly" id="edge33_Node000001_Node000023" title=" " alt="" coords="128,180,180,221,246,262,266,270,264,275,243,266,177,226,125,184"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="322,29,320,19,329,10,346,5,373,3,403,5,420,11,418,16,401,10,373,8,347,10,331,15,325,21,327,28"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="1372,373,1513,416"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1255,277,1294,292,1353,326,1404,362,1401,366,1350,330,1292,297,1253,282"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="1394,373,1392,363,1400,354,1417,349,1443,347,1470,349,1487,355,1485,360,1469,354,1443,352,1418,354,1403,359,1397,365,1399,372"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="724,96,840,99,912,106,988,116,1067,133,1147,156,1223,186,1294,226,1334,256,1369,292,1421,359,1417,362,1365,295,1330,260,1292,230,1221,191,1145,161,1066,138,987,122,911,111,840,105,724,102"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="569,221,738,264"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="490,233,553,236,552,241,490,238"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#a9088dbeede88d07fb7bbead7da6e7c90" title="Merge and delete a pair of pfos, with a specific set of conventions for cluster merging,..." alt="" coords="550,440,756,483"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="483,250,504,262,548,299,585,343,615,387,637,425,632,428,611,390,581,346,544,303,500,266,480,255"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="604,221,602,211,610,202,627,197,653,195,681,197,698,203,696,208,680,202,653,200,628,202,613,207,607,213,609,220"/>
+<area shape="rect" id="Node000009" href="$class_pandora_content_api.html#a5cd2072891006cd27dcad53c57010faa" title="Add a cluster to a particle flow object." alt="" coords="1112,373,1253,416"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="756,446,1096,403,1097,408,757,451"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#a9eb8f6692af705c0049d69a8e9aab4f5" title="Delete an object from the current list." alt="" coords="1112,440,1253,483"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="757,459,1096,459,1096,464,757,464"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="1087,683,1278,725"/>
+<area shape="poly" id="edge16_Node000008_Node000011" title=" " alt="" coords="661,482,675,537,702,608,721,645,745,680,773,710,806,735,843,752,883,762,925,766,967,764,1048,750,1116,729,1118,734,1049,755,968,769,925,771,883,767,841,757,803,740,769,714,741,683,717,648,697,610,670,539,656,484"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="822,683,1006,725"/>
+<area shape="poly" id="edge20_Node000008_Node000015" title=" " alt="" coords="667,482,687,522,718,572,758,624,806,669,812,673,809,677,803,673,754,628,713,575,682,525,662,485"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="822,197,1006,240"/>
+<area shape="poly" id="edge21_Node000008_Node000016" title=" " alt="" coords="662,438,682,398,713,347,754,295,803,250,809,245,812,250,806,254,758,298,718,350,687,401,667,441"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_mop_up_base_algorithm.html#aa8d1d21ee222300ee077130a9997b69f" title="Find the name of the list hosting a specific object." alt="" coords="804,331,1024,373"/>
+<area shape="poly" id="edge22_Node000008_Node000017" title=" " alt="" coords="698,437,803,390,836,377,838,382,805,394,700,442"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#ab3593dec6a5ab72f15e70cb78a453184" title="Select the parent cluster (same hit type and most hits) using a provided cluster list and hit type." alt="" coords="822,616,1006,659"/>
+<area shape="poly" id="edge26_Node000008_Node000019" title=" " alt="" coords="675,481,731,537,767,568,806,595,829,607,827,612,803,600,764,572,727,541,671,485"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_particle_flow_object.html#a5c15e83795337c11397a43566c1775a7" title="Get the vertex list." alt="" coords="822,264,1006,307"/>
+<area shape="poly" id="edge28_Node000008_Node000020" title=" " alt="" coords="670,438,725,378,762,345,803,316,813,311,815,316,806,321,765,349,728,382,673,442"/>
+<area shape="rect" id="Node000021" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="831,499,997,541"/>
+<area shape="poly" id="edge29_Node000008_Node000021" title=" " alt="" coords="752,481,817,496,816,501,750,486"/>
+<area shape="rect" id="Node000022" href="$class_pandora_content_api.html#a821de4a34e66feeabe4e4f5b584e48d9" title="Set parent&#45;daughter particle flow object relationship." alt="" coords="1072,557,1293,600"/>
+<area shape="poly" id="edge31_Node000008_Node000022" title=" " alt="" coords="682,481,737,518,770,537,805,551,868,567,933,576,1056,582,1056,588,932,582,867,572,804,556,768,541,734,523,679,485"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="1253,392,1357,392,1357,397,1253,397"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="1253,441,1356,414,1358,419,1254,446"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="1351,683,1535,725"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="1279,701,1335,701,1335,707,1279,707"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="1341,749,1544,776"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="1279,723,1366,743,1365,748,1278,728"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="1347,616,1538,659"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="1268,679,1341,661,1342,666,1269,685"/>
+<area shape="poly" id="edge25_Node000017_Node000003" title=" " alt="" coords="991,328,1023,316,1071,292,1096,283,1098,288,1073,297,1025,321,993,333"/>
+<area shape="rect" id="Node000018" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="1112,307,1253,349"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="1024,340,1096,333,1097,338,1024,345"/>
+<area shape="poly" id="edge24_Node000018_Node000004" title=" " alt="" coords="1254,343,1358,370,1356,375,1253,349"/>
+<area shape="poly" id="edge27_Node000019_Node000011" title=" " alt="" coords="1003,657,1080,676,1078,681,1002,662"/>
+<area shape="poly" id="edge30_Node000021_Node000004" title=" " alt="" coords="997,524,1063,525,1138,522,1216,512,1292,492,1324,479,1354,462,1405,424,1408,428,1356,466,1326,483,1294,497,1217,517,1138,527,1063,530,997,529"/>
+<area shape="poly" id="edge32_Node000022_Node000004" title=" " alt="" coords="1256,554,1292,536,1327,511,1360,482,1412,426,1416,430,1363,486,1330,515,1294,541,1258,559"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="lar_pandora::LArPandoraInput::CreatePandoraMCParticles" name="lar_pandora::LArPandoraInput::CreatePandoraMCParticles">
+<area shape="rect" id="Node000001" title="Create the Pandora MC particles from the MC particles." alt="" coords="5,163,198,205"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_input.html#aa608acdbdb3e5ded51fe97faf97df940" title="Populate a map from MC process string to enumeration." alt="" coords="263,5,455,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,161,173,109,207,82,244,58,255,52,258,57,247,62,210,86,176,113,124,164"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_input.html#abb180b3bfbe305c934e7f2a2c599fed4" title="Find all primary MCParticles in a given vector of MCParticles." alt="" coords="263,72,455,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,160,245,124,266,117,267,122,247,129,155,165"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_input.html#ae398bdd3f504342b52d56b8eb14d54e3" title="Loop over MC trajectory points and identify start and end points within the detector." alt="" coords="263,163,455,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,181,247,181,247,187,198,187"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a173b5bb749b4bd93c4754246d94d057c" title="Check whether an MCParticle can be found in a given map." alt="" coords="263,229,455,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="187,203,260,222,258,227,186,209"/>
+<area shape="rect" id="Node000006" href="$class_pandora_api.html#a31d3d089a31908acbd54643b21d57591" title="Set parent&#45;daughter mc particle relationship." alt="" coords="246,296,472,339"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="130,204,182,243,247,282,260,288,258,292,244,286,179,248,127,208"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="310,163,308,153,317,144,333,138,359,136,386,138,403,145,401,150,385,144,359,141,334,143,319,148,314,154,315,161"/>
+</map>

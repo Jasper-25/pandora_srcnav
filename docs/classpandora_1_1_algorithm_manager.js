@@ -1,0 +1,27 @@
+var classpandora_1_1_algorithm_manager =
+[
+    [ "AlgorithmFactoryMap", "classpandora_1_1_algorithm_manager.html#a24c449fea1adaaa511d57e55464311cb", null ],
+    [ "AlgorithmMap", "classpandora_1_1_algorithm_manager.html#a64ee1cf663b8b86c378c509d56c6a005", null ],
+    [ "AlgorithmToolFactoryMap", "classpandora_1_1_algorithm_manager.html#ac36784de3a31fffeb11cf5ed67855688", null ],
+    [ "SpecificAlgorithmInstanceMap", "classpandora_1_1_algorithm_manager.html#a4167d8284bed6df0008c00a6102c1f32", null ],
+    [ "AlgorithmManager", "classpandora_1_1_algorithm_manager.html#a649b6e966266e90eeb7342017661dbce", null ],
+    [ "~AlgorithmManager", "classpandora_1_1_algorithm_manager.html#a85724515ca1db777e1807a47de70bf1a", null ],
+    [ "CreateAlgorithm", "classpandora_1_1_algorithm_manager.html#a9d8b68ffd6c599832d75db8d7b241f6c", null ],
+    [ "CreateAlgorithmTool", "classpandora_1_1_algorithm_manager.html#a0097200a00be60336a1425f51b22d77c", null ],
+    [ "FindSpecificAlgorithmInstance", "classpandora_1_1_algorithm_manager.html#a77e3cba4ec7bb874286dc1a662e9e153", null ],
+    [ "GetPandoraAlgorithms", "classpandora_1_1_algorithm_manager.html#a1a379d2f9111a29145324666e3dfd02f", null ],
+    [ "InitializeAlgorithms", "classpandora_1_1_algorithm_manager.html#a20d439917c6a3f24d267dcc31fa5d900", null ],
+    [ "RegisterAlgorithmFactory", "classpandora_1_1_algorithm_manager.html#a500f4c2de25110d187c8782e10eab3b2", null ],
+    [ "RegisterAlgorithmToolFactory", "classpandora_1_1_algorithm_manager.html#a0548e73a90a326dc3e5950313f66b00e", null ],
+    [ "ResetForNextEvent", "classpandora_1_1_algorithm_manager.html#a49d5fb9788d54566e34ae5381d10f56b", null ],
+    [ "PandoraApiImpl", "classpandora_1_1_algorithm_manager.html#a372bde424d31abee3e91e5f8eb16ea05", null ],
+    [ "PandoraContentApiImpl", "classpandora_1_1_algorithm_manager.html#a0d78f6bd7e996a006b9c1031b28c392a", null ],
+    [ "PandoraImpl", "classpandora_1_1_algorithm_manager.html#a35c6703a56e816e522ee55013aad9c10", null ],
+    [ "m_algorithmFactoryMap", "classpandora_1_1_algorithm_manager.html#ab7b1e0b0dffe4081cb34b723ee2e4555", null ],
+    [ "m_algorithmMap", "classpandora_1_1_algorithm_manager.html#a5c65bb89fc582ad3b1d8702ae2de52b3", null ],
+    [ "m_algorithmToolFactoryMap", "classpandora_1_1_algorithm_manager.html#ab8c727812219559aaae7e887348b2ebf", null ],
+    [ "m_algorithmToolVector", "classpandora_1_1_algorithm_manager.html#a37c4b8666392a7b17dba56ffd7a68bc4", null ],
+    [ "m_pandoraAlgorithms", "classpandora_1_1_algorithm_manager.html#ac7483fc98e8317d06d91aeae9aef7693", null ],
+    [ "m_pPandora", "classpandora_1_1_algorithm_manager.html#a20ce8df6a52946459a2215f14b6d57a6", null ],
+    [ "m_specificAlgorithmInstanceMap", "classpandora_1_1_algorithm_manager.html#a506fa41572d1d7d38fc71998421f834a", null ]
+];

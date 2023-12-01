@@ -1,0 +1,23 @@
+<map id="pandora::PandoraSettings::ShouldCollapseMCParticlesToPfoTarget" name="pandora::PandoraSettings::ShouldCollapseMCParticlesToPfoTarget">
+<area shape="rect" id="Node000001" title="Whether to collapse mc particle decay chains down to just the pfo target." alt="" coords="1373,89,1597,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_manager.html#a4a063bdf8ad00abec191aea340dedc21" title="Create a map relating an object (calo hit or track) uid to mc pfo targets." alt="" coords="1138,64,1325,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1357,105,1325,100,1326,95,1358,99"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_manager.html#a5b5289b6fd830686a150407b70986271" title="Select pfo targets." alt="" coords="1159,131,1304,173"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1358,138,1305,145,1305,140,1357,133"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_manager.html#a054a2a7ad74abc2cd48aa0182282d919" title="Create a map relating calo hit uid to mc pfo target." alt="" coords="880,5,1090,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1124,62,1077,51,1078,46,1125,57"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_manager.html#aa906d2b1441b5f717593fe158a7cbd37" title="Create a map relating track uid to mc pfo target." alt="" coords="885,72,1085,115"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1123,92,1085,93,1085,87,1123,86"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_impl.html#af8155772f8829fbad76e53d70133c36c" title="Prepare mc particles: select mc pfo targets, match tracks and calo hits to the correct mc particles f..." alt="" coords="684,72,832,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="897,55,833,74,831,69,895,50"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html#aae8377256aa76241d31df9241fd0567f" title="Prepare event, calculating properties of input objects for later use in algorithms." alt="" coords="460,72,636,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="669,96,637,96,637,91,669,91"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html#a2cc46ce578d81a5b952d5f9792ce4d0a" title="Process event, calling event prepare event function, then running the algorithms." alt="" coords="226,39,406,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,81,406,76,406,70,445,76"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_content_api_impl.html#a6ea1bb43c73d6ffac2d1c4c038379779" title="Repeat the event preparation stages, which are used to calculate properties of input objects for late..." alt="" coords="220,105,412,148"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="445,111,413,115,412,110,444,106"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_api_impl.html#aec60e37d4b546b015c81d26ebf5c8f23" title="Process event." alt="" coords="5,39,172,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="211,63,172,63,172,57,211,57"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="869,96,832,96,832,91,869,91"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="1143,153,1018,146,879,129,829,118,830,113,880,124,1018,141,1144,148"/>
+</map>

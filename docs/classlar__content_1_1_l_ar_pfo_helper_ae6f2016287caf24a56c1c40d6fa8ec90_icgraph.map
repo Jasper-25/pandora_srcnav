@@ -1,0 +1,47 @@
+<map id="lar_content::LArPfoHelper::GetVertex" name="lar_content::LArPfoHelper::GetVertex">
+<area shape="rect" id="Node000001" title="Get the pfo vertex." alt="" coords="779,447,949,489"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#a58c12903ae0862d99bb2b5488c9054aa" title="Adjust neutrino vertex to ensure agreement with at least one pfo (first in sorted input list)" alt="" coords="507,29,728,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="858,431,848,360,826,270,810,222,789,175,762,131,730,93,705,75,708,71,733,89,766,128,793,173,815,220,832,268,853,359,863,431"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac6de384d3d43d2b0a5644c46aa388eba" title="Run the algorithm." alt="" coords="5,59,202,101"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="858,432,848,366,827,284,810,243,789,203,762,167,730,137,703,126,654,117,513,102,348,92,202,86,202,80,349,86,513,97,655,112,704,121,733,132,766,163,794,200,815,241,832,283,854,365,863,431"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_monitoring_algorithm.html#a1001b7a76e76232d4ffb51ab650e34ba" title=" " alt="" coords="522,147,713,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="852,432,837,381,813,319,777,257,755,228,730,203,712,192,715,187,733,199,759,225,782,254,817,317,842,379,857,431"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#acfbd4ae7d5d36e7a81ec4206bd83c543" title="Check if each candidate is &quot;in time&quot;." alt="" coords="515,213,720,256"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="846,434,828,395,802,351,769,307,730,270,711,259,714,254,733,266,773,304,806,348,832,393,851,431"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_pca_shower_particle_building_algorithm.html#a81b6dba74d44ff40549bd0dc1778ad7a" title="Create specialised Pfo from an generic input Pfo." alt="" coords="516,280,719,323"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="836,436,790,385,761,359,730,337,707,326,710,321,733,332,764,355,793,381,840,432"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_track_particle_building_algorithm.html#a5ae68f3888fb25fcf13540f6661cc240" title="Create specialised Pfo from an generic input Pfo." alt="" coords="524,347,711,389"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="810,441,730,404,698,392,700,387,732,399,812,437"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_neutrino_event_validation_algorithm.html#a7f684be145b62c1850ed3dc2c364d7a0" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="503,413,731,456"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="763,457,731,453,732,447,764,452"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_test_beam_event_validation_algorithm.html#abce1a842c188ec0025fb02c47c399fc7" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="503,480,731,523"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="764,484,732,489,731,483,763,479"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#aab5b2c7f5e90c3757ac4c88f7f1fb7f4" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="514,547,721,605"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="810,499,732,537,704,549,702,544,730,532,808,495"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="516,629,719,672"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="843,504,797,563,767,594,733,620,710,631,708,627,730,615,763,590,793,560,839,501"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="526,696,708,739"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="853,505,835,547,809,596,775,644,733,686,710,700,708,695,730,682,771,641,805,593,830,545,848,503"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a6b24d20d23e65155a81cfd06edc1a0f1" title=" " alt="" coords="531,763,703,805"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="858,505,844,560,820,627,783,694,760,725,733,753,705,770,703,765,730,749,756,722,779,691,815,624,839,559,853,504"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#aeecb168031b6a7431b74db4e530c78a0" title="Set up the test beam vertex." alt="" coords="505,829,730,888"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="861,505,850,572,827,655,811,699,790,743,764,783,733,819,719,831,716,827,729,815,760,780,785,740,806,697,822,654,845,571,856,505"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#ae3142c58729a99cb4a4e10d0568ad7d6" title="Constructor." alt="" coords="519,912,716,955"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="865,505,859,586,840,693,824,749,801,804,771,856,733,902,718,914,715,910,729,898,767,853,796,802,819,747,835,691,854,586,860,505"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#aa31269d20709a0dd4b8cf5901b4b028e" title="Process the information in a pfo info map, creating pfo parent/daughter links." alt="" coords="254,29,451,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,53,451,53,451,48,491,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="393,16,378,10,352,8,329,10,314,15,309,21,311,28,305,29,303,19,311,10,328,5,352,3,379,5,395,11"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="239,67,203,71,202,66,238,61"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_monitoring_algorithm.html#a5d031c62f54617fee419599a390bdced" title="Run the algorithm." alt="" coords="257,147,448,189"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="506,171,449,171,449,165,506,165"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="250,213,455,256"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="499,237,455,237,455,232,499,232"/>
+<area shape="rect" id="Node000015" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="270,629,435,672"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="500,653,435,653,435,648,500,648"/>
+<area shape="rect" id="Node000016" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="21,629,186,672"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="255,653,186,653,186,648,255,648"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a3e2358fc5e16766c3c91f054851a0c59" title=" " alt="" coords="266,763,439,805"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="515,787,439,787,439,781,515,781"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a7374eca3988e39d155529ab96b623c7d" title="Run the algorithm." alt="" coords="254,837,451,880"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="489,861,451,861,451,856,489,856"/>
+</map>

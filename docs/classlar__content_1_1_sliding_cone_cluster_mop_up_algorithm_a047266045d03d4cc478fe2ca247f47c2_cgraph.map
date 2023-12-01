@@ -1,0 +1,58 @@
+<map id="lar_content::SlidingConeClusterMopUpAlgorithm::GetThreeDClusters" name="lar_content::SlidingConeClusterMopUpAlgorithm::GetThreeDClusters">
+<area shape="rect" id="Node000001" title="Get all 3d clusters contained in the input pfo lists and a mapping from clusters to pfos." alt="" coords="5,213,168,272"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="241,59,382,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,211,214,141,262,108,265,112,217,145,126,215"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a13bdb547f45c2729806f42e6f2bb698e" title="Get the list of 3D clusters from an input pfo." alt="" coords="227,155,396,197"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="167,216,222,200,223,205,169,221"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#a38ab52560aeb2c3096fee6cd44ff0fed" title="Return shower flag based on Pfo Particle ID." alt="" coords="227,355,396,397"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="122,271,165,306,217,340,227,346,225,350,214,345,162,311,118,275"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_pfo_helper.html#a27f209ca33e90399c1e0cc56230dd9f7" title="Return track flag based on Pfo Particle ID." alt="" coords="227,288,396,331"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="169,264,223,281,222,286,167,269"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_cluster_helper.html#a86609499a509338a41e2fa914923c980" title="Sort clusters by number of hits, then layer span, then inner layer, then position,..." alt="" coords="216,221,407,264"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="168,240,200,240,200,245,168,245"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="480,29,621,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,69,464,59,465,64,383,74"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="505,29,504,19,511,10,527,5,551,3,576,5,592,11,590,16,575,10,551,8,528,10,514,15,509,21,511,28"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="455,96,646,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="395,153,445,140,447,146,397,158"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="459,163,643,205"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="396,176,443,178,443,183,396,181"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="704,32,888,75"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="634,93,696,77,698,82,636,98"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="694,167,898,193"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="638,137,726,160,725,165,636,142"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="700,99,892,141"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="647,116,685,116,685,121,647,121"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="459,351,643,393"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="396,372,443,371,443,376,396,377"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="396,329,452,344,451,349,395,334"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="407,237,522,230,646,215,733,195,734,200,647,220,522,235,408,242"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_cluster_helper.html#aaffe4496f8176b13ac984b93ccda0c98" title="Sort clusters by layer span, then inner layer, then position, then pulse&#45;height." alt="" coords="455,280,646,323"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="402,262,446,273,445,278,400,267"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#a617462d29e21fce3c8f83fb1ecfd5ef3" title="Get the innermost pseudo layer in the cluster." alt="" coords="1195,203,1368,245"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="635,277,694,265,825,249,956,237,1179,224,1179,229,956,242,825,254,695,271,636,282"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_cluster.html#a1bf78445229ce99d761516829103817a" title="Get the outermost pseudo layer in the cluster." alt="" coords="1193,587,1370,629"/>
+<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="610,321,647,336,799,402,916,456,1033,509,1186,572,1202,578,1201,583,1184,577,1031,514,914,461,797,407,645,341,607,326"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_cluster_helper.html#a2c3da1ebd81091995fbe093e51c3a51d" title="Sort clusters by inner layer, then position, then pulse&#45;height." alt="" coords="700,280,892,323"/>
+<area shape="poly" id="edge21_Node000014_Node000018" title=" " alt="" coords="647,299,685,299,685,304,647,304"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="1426,240,1635,267"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1369,232,1411,237,1411,242,1368,237"/>
+<area shape="poly" id="edge20_Node000017_Node000016" title=" " alt="" coords="1364,584,1376,573,1397,540,1406,508,1406,476,1402,444,1398,411,1397,378,1405,343,1424,306,1444,286,1468,271,1471,276,1448,290,1428,310,1410,345,1403,378,1403,411,1408,443,1412,476,1411,508,1402,542,1380,576,1367,588"/>
+<area shape="poly" id="edge22_Node000018_Node000015" title=" " alt="" coords="892,287,1137,251,1179,243,1180,248,1137,256,892,292"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_cluster_helper.html#abe9df995fd1c076d537d13ba33b8e883" title="Sort clusters by position, then pulse&#45;height." alt="" coords="946,368,1137,411"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="859,321,966,360,964,365,857,326"/>
+<area shape="poly" id="edge25_Node000019_Node000015" title=" " alt="" coords="1070,365,1135,310,1158,281,1168,268,1183,255,1191,250,1194,255,1187,259,1171,272,1162,285,1139,314,1073,370"/>
+<area shape="poly" id="edge26_Node000019_Node000017" title=" " alt="" coords="1065,409,1139,498,1152,520,1161,539,1170,556,1187,573,1192,576,1189,581,1183,577,1166,559,1156,541,1148,523,1135,502,1061,413"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cluster.html#a78248d19f9aaff30df9eaad855c93f46" title="Get unweighted centroid for cluster at a particular pseudo layer, calculated using cached values of h..." alt="" coords="1185,269,1378,296"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1074,365,1125,335,1184,306,1203,298,1205,303,1186,310,1127,339,1077,370"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1198,387,1366,429"/>
+<area shape="poly" id="edge27_Node000019_Node000021" title=" " alt="" coords="1138,394,1182,398,1182,403,1137,399"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="1198,453,1366,496"/>
+<area shape="poly" id="edge28_Node000019_Node000022" title=" " alt="" coords="1103,409,1186,439,1204,445,1202,450,1184,444,1101,414"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="1198,520,1366,563"/>
+<area shape="poly" id="edge29_Node000019_Node000023" title=" " alt="" coords="1065,409,1118,457,1151,483,1186,506,1196,511,1194,516,1184,510,1148,487,1114,461,1062,413"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_l_ar_cluster_helper.html#a54fb07b3da50425b1d5277d732845ee5" title="Sort clusters by pulse&#45;height." alt="" coords="1186,320,1377,363"/>
+<area shape="poly" id="edge30_Node000019_Node000024" title=" " alt="" coords="1137,368,1170,361,1171,366,1138,373"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="1432,320,1629,363"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="1378,339,1417,339,1417,344,1378,344"/>
+</map>

@@ -1,0 +1,79 @@
+<map id="lar_content::PcaShowerParticleBuildingAlgorithm::CreatePfo" name="lar_content::PcaShowerParticleBuildingAlgorithm::CreatePfo">
+<area shape="rect" id="Node000001" title="Create specialised Pfo from an generic input Pfo." alt="" coords="5,868,209,911"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a6b6cb26566c3fb601e7aa3076e7bb5f0" title="Return vector of lengths." alt="" coords="266,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,867,117,709,141,467,161,339,186,222,217,125,235,87,255,58,256,57,260,60,259,62,239,90,222,127,191,224,166,340,147,467,122,709,112,868"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#ad003ae5274e17a1ea0a41b1b3644e949" title="Return centroid." alt="" coords="266,72,449,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,867,119,720,145,498,165,382,190,275,219,186,236,151,255,125,256,123,260,127,259,128,241,154,224,188,195,276,170,383,151,498,124,721,112,868"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a5a48c43cbcbc9abd8920acaea9b78d1c" title="Return vector of eigenvalues." alt="" coords="266,139,449,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,867,121,732,149,529,169,424,193,327,222,247,238,216,255,192,256,190,260,194,259,195,242,218,226,249,198,328,174,425,155,530,126,732,113,868"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_particle_flow_object.html#acfbbab9c3ee7811eb6074cd19543386e" title="Get particle flow object momentum vector." alt="" coords="265,205,450,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="108,868,123,744,153,561,173,467,197,380,224,308,239,280,255,258,257,256,261,260,259,262,243,283,229,310,202,381,179,468,158,562,129,745,113,868"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="289,272,426,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="105,867,107,773,113,706,125,631,143,552,170,473,206,399,229,364,255,331,273,316,276,320,259,335,233,367,211,401,175,475,148,554,130,632,119,706,113,773,110,868"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="999,440,1183,483"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="105,868,106,780,112,719,123,653,142,585,169,518,206,457,229,430,255,406,286,385,316,373,344,368,372,369,433,377,467,381,506,381,610,376,715,381,782,389,834,399,951,425,987,433,986,439,950,431,833,404,781,395,714,387,610,382,506,387,467,386,432,383,372,374,344,374,317,378,289,389,258,410,233,434,210,461,173,521,147,587,129,654,118,720,112,780,110,868"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="289,952,426,995"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="174,909,278,944,277,949,172,914"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_vertex.html#a97d6b7c37f9f7de1717cd506f3dbe9d7" title="Get the vertex position." alt="" coords="263,1019,452,1045"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="132,909,186,957,221,983,258,1004,272,1011,270,1015,255,1009,218,987,183,962,128,913"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a0d5ec068af1bfc84508afc50440de117" title="Return primary axis." alt="" coords="266,1069,449,1112"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="124,910,178,981,215,1021,258,1055,266,1060,263,1064,255,1060,212,1025,173,984,120,913"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a70f8bace623ce370fc7662a05facb4d6" title="Return primary length." alt="" coords="266,1136,449,1179"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="119,910,138,955,167,1012,208,1071,232,1098,258,1122,264,1126,260,1130,255,1126,228,1102,204,1074,163,1014,133,957,114,912"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_pfo_helper.html#a5c6ed6d6c47e3953cd3be85ed928afbc" title="Perform PCA analysis on a set of 3D points and return results." alt="" coords="271,1203,444,1245"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="116,910,131,966,158,1041,177,1081,200,1120,227,1157,258,1189,262,1192,259,1196,255,1193,223,1160,196,1123,173,1083,153,1043,126,968,110,912"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="764,815,949,857"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="209,888,458,893,506,895,565,898,611,902,656,903,714,895,759,881,802,862,804,867,761,886,715,900,657,908,611,908,565,903,506,900,458,899,209,894"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#ad46e38ef05b2b4cef2d11a21aabb2d66" title="Return secondary axis." alt="" coords="266,1269,449,1312"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="113,911,125,977,150,1070,169,1120,193,1169,223,1215,259,1255,262,1258,258,1262,255,1259,218,1218,188,1172,164,1122,145,1071,120,978,108,912"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#aa10560a37a2bf1b2fc3cfac8fe9f4159" title="Return secondary length." alt="" coords="266,1336,449,1379"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="112,911,120,988,142,1098,160,1158,186,1217,218,1273,259,1322,261,1324,257,1328,255,1326,214,1276,181,1220,155,1160,137,1099,114,988,107,911"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="257,1403,458,1445"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="111,911,115,998,122,1058,134,1126,152,1196,178,1266,213,1331,259,1389,261,1391,257,1395,255,1392,209,1334,173,1268,147,1198,129,1127,117,1059,110,998,105,911"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a3c942afb232d9b189afc30e731f9eda9" title="Return tertiary axis." alt="" coords="266,1469,449,1512"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="114,911,131,1024,162,1188,183,1272,206,1349,231,1413,259,1456,261,1457,257,1461,255,1459,226,1415,201,1351,177,1273,157,1189,126,1025,109,911"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="273,733,442,776"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="137,865,191,829,255,792,281,780,284,785,258,797,194,834,140,870"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_vertex.html#a27d9a8f7296b40461cfe54531c4e4dff" title="Get the vertex type." alt="" coords="506,859,714,885"/>
+<area shape="poly" id="edge31_Node000001_Node000025" title=" " alt="" coords="167,865,210,852,256,843,313,836,357,835,458,843,530,853,529,858,458,848,357,840,313,841,257,848,212,857,168,870"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_vertex.html#a9d5f11b996a9b60267aae8e9e5c44ece" title="Get the vertex label." alt="" coords="267,1536,448,1579"/>
+<area shape="poly" id="edge30_Node000001_Node000028" title=" " alt="" coords="113,911,129,1036,158,1220,178,1315,202,1402,229,1474,243,1501,259,1522,261,1524,257,1528,255,1526,239,1504,224,1476,197,1404,173,1316,153,1221,123,1037,108,912"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_l_ar_pfo_helper.html#a09e2deb53cebbcf5d1db1b8c077362b0" title="Whether a pfo is a primary parent particle." alt="" coords="273,524,442,567"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="122,866,329,578,334,581,126,869"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_l_ar_pfo_helper.html#a3b6b4122d5463ac81c2a4ffaff292814" title="Whether a pfo is a neutrino or (antineutrino)" alt="" coords="772,440,941,483"/>
+<area shape="poly" id="edge39_Node000001_Node000030" title=" " alt="" coords="106,868,112,789,119,736,132,678,151,618,177,560,211,506,255,461,285,439,316,422,384,398,456,387,529,385,601,391,669,403,782,432,781,437,668,408,600,397,529,390,456,392,385,403,318,427,287,444,258,465,215,509,181,562,156,620,137,679,125,737,117,790,111,868"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_l_ar_pfo_helper.html#a968e4ba1db6de993a8cf8a161eaa1ec5" title="Whether a pfo is a final&#45;state particle from a neutrino (or antineutrino) interaction." alt="" coords="526,440,695,483"/>
+<area shape="poly" id="edge40_Node000001_Node000031" title=" " alt="" coords="107,867,116,797,139,699,158,647,183,596,215,549,255,510,283,491,314,476,381,456,448,448,510,448,510,453,448,453,382,462,316,481,286,495,258,514,219,553,187,599,163,649,144,700,121,798,112,868"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_l_ar_pfo_helper.html#a38ab52560aeb2c3096fee6cd44ff0fed" title="Return shower flag based on Pfo Particle ID." alt="" coords="772,928,941,971"/>
+<area shape="poly" id="edge41_Node000001_Node000032" title=" " alt="" coords="209,895,757,939,756,944,209,900"/>
+<area shape="rect" id="Node000033" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="287,1627,428,1669"/>
+<area shape="poly" id="edge43_Node000001_Node000033" title=" " alt="" coords="113,911,129,1046,159,1248,180,1353,203,1451,230,1532,244,1564,259,1589,288,1616,285,1620,255,1592,239,1567,225,1534,198,1452,174,1354,154,1249,124,1047,108,912"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="526,1136,694,1179"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="449,1155,510,1155,510,1160,449,1160"/>
+<area shape="poly" id="edge13_Node000013_Node000012" title=" " alt="" coords="440,1200,511,1181,513,1186,442,1205"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="524,1227,697,1269"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="445,1230,508,1236,508,1241,444,1235"/>
+<area shape="poly" id="edge16_Node000014_Node000014" title=" " alt="" coords="564,1227,562,1217,570,1208,586,1202,610,1200,636,1202,652,1209,650,1214,635,1208,610,1205,587,1207,572,1212,567,1218,569,1226"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="762,1227,951,1269"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="697,1245,747,1245,747,1251,697,1251"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="526,1336,694,1379"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="449,1355,510,1355,510,1360,449,1360"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="764,549,949,592"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="442,763,505,766,574,763,646,751,680,741,713,727,752,702,785,670,813,635,834,604,838,607,817,638,789,673,755,706,716,732,682,746,647,756,575,768,505,771,442,769"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_particle_flow_object.html#a5c15e83795337c11397a43566c1775a7" title="Get the vertex list." alt="" coords="518,608,702,651"/>
+<area shape="poly" id="edge25_Node000022_Node000024" title=" " alt="" coords="387,731,441,695,505,660,519,654,521,659,507,665,443,700,390,735"/>
+<area shape="poly" id="edge26_Node000022_Node000025" title=" " alt="" coords="426,774,460,792,475,806,484,820,493,832,507,844,518,850,516,855,505,849,489,836,479,823,471,810,456,797,424,779"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_l_ar_pfo_helper.html#a41901bd1d1d3e8887b21cc62c705c4e7" title="Get the vertex with a specific vertex label in a given vertex list." alt="" coords="526,675,695,717"/>
+<area shape="poly" id="edge27_Node000022_Node000026" title=" " alt="" coords="442,732,510,716,511,722,443,738"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1131739c54ecb80351077b80c730f0fc" title="Whether a pfo is a test beam particle." alt="" coords="526,792,695,835"/>
+<area shape="poly" id="edge28_Node000022_Node000027" title=" " alt="" coords="443,772,511,788,510,793,442,777"/>
+<area shape="poly" id="edge29_Node000027_Node000016" title=" " alt="" coords="696,818,749,823,749,829,695,824"/>
+<area shape="poly" id="edge33_Node000029_Node000023" title=" " alt="" coords="442,547,749,563,749,568,442,552"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="442,533,570,516,714,492,756,483,757,488,715,497,571,521,443,538"/>
+<area shape="poly" id="edge36_Node000029_Node000031" title=" " alt="" coords="423,521,529,485,530,491,425,526"/>
+<area shape="poly" id="edge35_Node000030_Node000007" title=" " alt="" coords="941,459,983,459,983,464,941,464"/>
+<area shape="poly" id="edge37_Node000031_Node000023" title=" " alt="" coords="661,481,794,540,792,545,659,486"/>
+<area shape="poly" id="edge38_Node000031_Node000030" title=" " alt="" coords="695,459,756,459,756,464,695,464"/>
+<area shape="poly" id="edge42_Node000032_Node000007" title=" " alt="" coords="889,926,920,900,949,868,977,820,1002,769,1041,665,1066,570,1081,497,1086,498,1072,571,1046,667,1007,772,982,823,953,871,924,904,893,930"/>
+<area shape="poly" id="edge44_Node000033_Node000033" title=" " alt="" coords="310,1627,308,1617,316,1608,333,1602,357,1600,384,1602,400,1609,398,1614,383,1608,357,1605,334,1607,319,1612,313,1618,315,1626"/>
+</map>

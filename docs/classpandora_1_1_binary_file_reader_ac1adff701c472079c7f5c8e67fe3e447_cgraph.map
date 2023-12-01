@@ -1,0 +1,39 @@
+<map id="pandora::BinaryFileReader::ReadNextEventComponent" name="pandora::BinaryFileReader::ReadNextEventComponent">
+<area shape="rect" id="Node000001" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="5,176,190,219"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_binary_file_reader.html#a17e9d9072898cabbc3f481bd25797639" title="Read a calo hit from the current position in the file, recreating the stored object." alt="" coords="238,43,412,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,174,174,135,236,95,247,90,249,94,239,100,177,139,126,178"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_binary_file_reader.html#a8424826e0bd7933de28c1c829e1b3e93" title="Read a variable from the file." alt="" coords="486,205,660,248"/>
+<area shape="poly" id="edge23_Node000001_Node000006" title=" " alt="" coords="177,217,238,228,358,235,470,232,471,237,358,240,237,233,176,222"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_binary_file_reader.html#af9700e17c40f38228f7a4efe40874b09" title="Read a mc particle from the current position in the file, recreating the stored object." alt="" coords="238,109,412,152"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,173,234,154,236,159,173,178"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_binary_file_reader.html#a8c63bb6382b7b13c0a113ee1d04807fc" title="Read a relationship from the current position in the file, recreating the stored relationship." alt="" coords="238,339,412,381"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="131,217,283,327,279,331,128,221"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_binary_file_reader.html#a0c07d812bc0a4a7546f87af868e77ecc" title="Read a track from the current position in the file, recreating the stored object." alt="" coords="238,176,412,219"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="190,195,222,195,222,200,190,200"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="473,5,674,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,48,457,41,457,47,413,54"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_object_factory.html#ab6a76d16bb7a2b0dd7cae309e426a079" title="Create new parameters instance on the heap (memory&#45;management to be controlled by user)" alt="" coords="495,72,652,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,72,479,80,479,85,412,77"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_object_factory.html#ae2fdbf043b438f7252f45866b6012cd5" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="495,139,652,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="388,84,413,95,437,110,461,124,481,132,479,137,459,129,434,115,411,100,386,88"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="398,84,414,95,432,120,438,145,444,169,462,191,474,200,471,204,458,195,440,171,433,147,427,123,410,99,395,88"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="388,106,411,95,434,76,459,58,471,52,474,57,461,62,437,80,413,100,390,111"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="412,115,479,105,479,110,413,120"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="413,138,479,146,479,152,412,144"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="388,150,413,162,437,177,461,191,477,197,475,202,459,196,434,181,411,166,386,155"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="348,336,397,297,459,258,472,252,474,257,461,262,400,301,351,340"/>
+<area shape="rect" id="Node000009" href="$class_pandora_api.html#a5d3d06aab877dc39eb8d6f9c3cb20b87" title="Set calo hit to mc particle relationship." alt="" coords="487,405,659,448"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="408,379,477,398,475,403,406,384"/>
+<area shape="rect" id="Node000010" href="$class_pandora_api.html#a31d3d089a31908acbd54643b21d57591" title="Set parent&#45;daughter mc particle relationship." alt="" coords="460,472,686,515"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="351,380,400,419,461,458,474,463,472,468,459,462,397,423,348,384"/>
+<area shape="rect" id="Node000011" href="$class_pandora_api.html#ac3a947b4a74b2b442515aeae9e01d0a5" title="Set parent&#45;daughter track relationship." alt="" coords="480,539,666,581"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="340,380,387,452,421,491,462,525,469,529,466,534,458,529,418,495,383,455,336,383"/>
+<area shape="rect" id="Node000012" href="$class_pandora_api.html#aa5500c7896d57f4dd42e07716e720ce5" title="Set sibling track relationship." alt="" coords="480,272,667,315"/>
+<area shape="poly" id="edge16_Node000008_Node000012" title=" " alt="" coords="406,336,475,317,477,322,408,341"/>
+<area shape="rect" id="Node000013" href="$class_pandora_api.html#a2a6a44b1139d77fe7d2ee70d56da50eb" title="Set track to mc particle relationship." alt="" coords="460,339,686,381"/>
+<area shape="poly" id="edge17_Node000008_Node000013" title=" " alt="" coords="412,357,444,357,444,363,412,363"/>
+<area shape="poly" id="edge19_Node000014_Node000003" title=" " alt="" coords="395,173,410,162,421,149,427,137,433,111,439,84,446,71,458,58,462,55,466,59,462,62,451,74,444,86,438,112,432,139,425,152,414,166,398,178"/>
+<area shape="poly" id="edge20_Node000014_Node000004" title=" " alt="" coords="388,173,411,162,434,143,459,124,479,115,481,120,461,129,437,147,413,166,390,178"/>
+<area shape="poly" id="edge21_Node000014_Node000005" title=" " alt="" coords="412,182,479,171,479,177,413,187"/>
+<area shape="poly" id="edge22_Node000014_Node000006" title=" " alt="" coords="413,205,470,212,470,217,412,210"/>
+</map>

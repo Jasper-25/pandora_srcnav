@@ -1,0 +1,22 @@
+<map id="lar_content::LArHierarchyHelper::RecoHierarchy::Node::FillHierarchy" name="lar_content::LArHierarchyHelper::RecoHierarchy::Node::FillHierarchy">
+<area shape="rect" id="Node000001" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="5,224,174,283"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#a2c28c40f442763240b5ecbbf80173c2f" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="229,75,399,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,222,160,174,220,127,229,122,231,127,223,132,164,178,118,226"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="229,165,399,208"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="173,226,224,210,226,216,175,231"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="222,232,406,275"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="174,251,206,251,206,256,174,256"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#af45ca3a4fd6ea2f8b8775615d1471d1b" title="Determine the position in the hierarchy for the MCParticle." alt="" coords="229,299,399,341"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="175,276,226,291,224,296,173,281"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="222,365,406,408"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="126,281,170,317,223,351,233,356,231,361,220,356,167,321,122,285"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="462,29,631,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,77,445,68,447,73,399,82"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a7a0f820e2aa8e2332efe849d6eac85e5" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="462,120,631,163"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="399,110,447,119,445,124,398,115"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="502,29,500,19,508,10,523,5,546,3,571,5,586,11,584,16,570,10,546,8,524,10,511,15,506,21,507,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="502,120,500,110,508,101,523,95,546,93,571,96,586,102,584,107,570,101,546,99,524,101,511,105,506,111,507,119"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="271,165,269,155,277,146,292,141,314,139,338,141,352,147,350,152,337,146,314,144,293,146,280,151,275,157,276,164"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="454,299,638,341"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="399,317,439,317,439,323,399,323"/>
+</map>

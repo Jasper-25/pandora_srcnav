@@ -1,0 +1,16 @@
+<map id="lar_content::LArPfoHelper::GetAllCaloHits" name="lar_content::LArPfoHelper::GetAllCaloHits">
+<area shape="rect" id="Node000001" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="911,96,1080,139"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a072012137c70b705ae7192c580a91657" title="Fill this node by folding all descendent particles to this node." alt="" coords="694,5,863,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="922,92,857,67,858,62,924,87"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="694,88,863,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="895,120,863,120,863,115,895,115"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="478,121,646,180"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="924,147,863,161,807,167,750,169,646,163,647,158,750,163,807,162,862,156,922,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="679,135,647,140,646,135,679,130"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="262,129,430,172"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,153,431,153,431,148,463,148"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_hierarchy_monitoring_algorithm.html#a76cfde4fc06bb0d0af605b20aaa1108d" title="Run the algorithm." alt="" coords="5,96,214,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="246,139,214,135,214,129,247,134"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_hierarchy_validation_algorithm.html#a07a7ee90c48cc7ea4578c2a3f29c78de" title="Run the algorithm." alt="" coords="7,163,212,205"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="247,167,213,172,212,167,246,162"/>
+</map>

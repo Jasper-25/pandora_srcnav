@@ -1,0 +1,29 @@
+<map id="lar_content::OneViewDeltaRayMatchingAlgorithm::GetBestProjectedCluster" name="lar_content::OneViewDeltaRayMatchingAlgorithm::GetBestProjectedCluster">
+<area shape="rect" id="Node000001" title="Get the best matched available or unavailable cluster of a remaining delta ray cluster group wrt a co..." alt="" coords="5,121,269,180"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_matching_containers.html#aa9043bec861a599012c81bac0dd97439" title="Get the mapping of clusters to to their neighbouring clusters." alt="" coords="330,5,563,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,118,248,87,316,58,335,51,337,56,318,62,251,92,191,123"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="362,96,531,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,134,346,125,346,131,270,139"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#aeb7665a08bed5a17a5c0ea8ceb1da91a" title="Determine cluster span (in x) of a group of clusters." alt="" coords="317,163,576,205"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="270,162,302,166,301,171,269,168"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#afd9c6c652c91f1bb79fc897177a64b3c" title="Determine whether an input cluster belongs to a delta ray pfo." alt="" coords="325,229,568,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="214,178,317,215,342,222,341,227,316,220,212,183"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="393,96,391,86,400,77,418,71,446,69,477,72,495,78,493,83,476,77,446,75,419,77,403,81,396,87,398,95"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="634,163,825,205"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="539,226,621,207,622,212,541,231"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_delta_ray_matching_containers.html#a82622bcd879ea9176e4bcf16b957cc01" title="Get the mapping of clusters to the pfos to which they belong." alt="" coords="624,229,835,272"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="568,248,608,248,608,253,568,253"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#a7d68edfe0f55d20c8041838fb5b33d8f" title="Get the input delta ray pfo list." alt="" coords="624,296,835,355"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="531,270,610,291,608,296,530,275"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="893,104,1077,147"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="825,159,877,147,878,153,826,165"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="883,171,1087,197"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="826,181,868,181,868,187,826,187"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="889,221,1081,264"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="826,203,875,215,874,220,825,209"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="914,304,1056,347"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="836,323,899,323,899,328,836,328"/>
+<area shape="rect" id="Node000013" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="1135,304,1276,347"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1056,323,1119,323,1119,328,1056,328"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="1163,304,1162,294,1169,285,1183,279,1205,277,1229,280,1243,286,1241,291,1228,285,1205,283,1185,285,1172,289,1167,295,1169,303"/>
+</map>

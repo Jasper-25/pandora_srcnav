@@ -1,0 +1,27 @@
+var classlar__content_1_1_two_view_shower_hits_tool =
+[
+    [ "ProtoHit", "classlar__content_1_1_two_view_shower_hits_tool.html#a0c679449f472d43020b6bb4dee7b2a66", null ],
+    [ "ProtoHitVector", "classlar__content_1_1_two_view_shower_hits_tool.html#a63f9b89e6043e4b8d8718d947cd43c4d", null ],
+    [ "TrajectorySample", "classlar__content_1_1_two_view_shower_hits_tool.html#a0f1925831b40b255e74e0a2187e7e934", null ],
+    [ "FilterCaloHits", "classlar__content_1_1_two_view_shower_hits_tool.html#aad50e3bd007bb14e92003030e29ea550", null ],
+    [ "GetBestPosition3D", "classlar__content_1_1_two_view_shower_hits_tool.html#a59e11f14f8469c595f4d0520881fdf32", null ],
+    [ "GetBestPosition3D", "classlar__content_1_1_two_view_shower_hits_tool.html#abe418d3722f959082b6efd74c43429f1", null ],
+    [ "GetBestPosition3D", "classlar__content_1_1_two_view_shower_hits_tool.html#ad0d16e049b6e99100b39d491ad3b3750", null ],
+    [ "GetInstanceName", "classlar__content_1_1_two_view_shower_hits_tool.html#abce8ef815d9d4bb3080be3c6a5d8de61", null ],
+    [ "GetPandora", "classlar__content_1_1_two_view_shower_hits_tool.html#a7dd41c24ac856e2f41d5a0432eb99cd5", null ],
+    [ "GetShowerHit3D", "classlar__content_1_1_two_view_shower_hits_tool.html#ab7b998561edda483c5cc59ece55ba449", null ],
+    [ "GetShowerHit3D", "classlar__content_1_1_two_view_shower_hits_tool.html#a5cc6bd6b12ecdf3ea3a6b35e01290821", null ],
+    [ "GetShowerHits3D", "classlar__content_1_1_two_view_shower_hits_tool.html#a63e67d218d9aaf9b4026ef4260c0d2e1", null ],
+    [ "GetType", "classlar__content_1_1_two_view_shower_hits_tool.html#a76435ee767be0d57159aa460ed6fc5a7", null ],
+    [ "Initialize", "classlar__content_1_1_two_view_shower_hits_tool.html#a19b7252bfe1ed61e885ed2c60abb01f4", null ],
+    [ "ReadSettings", "classlar__content_1_1_two_view_shower_hits_tool.html#ad1902c41a706e76e065280b1de387c26", null ],
+    [ "RegisterDetails", "classlar__content_1_1_two_view_shower_hits_tool.html#af9071b9c61e1fab003e3203fd103899a", null ],
+    [ "Reset", "classlar__content_1_1_two_view_shower_hits_tool.html#a57a51287fa79cdd4910d65266f9a2375", null ],
+    [ "Run", "classlar__content_1_1_two_view_shower_hits_tool.html#aed9c31be40001a46d5c5a8de8d34df3b", null ],
+    [ "m_chiSquaredCut", "classlar__content_1_1_two_view_shower_hits_tool.html#ac0e9664e0fbe4b0fe336083ce6d96744", null ],
+    [ "m_instanceName", "classlar__content_1_1_two_view_shower_hits_tool.html#a4b7fe4fc15df2e95580c8e58a6e9085f", null ],
+    [ "m_pPandora", "classlar__content_1_1_two_view_shower_hits_tool.html#a9113202a7cdb85df2740e098860528c5", null ],
+    [ "m_sigmaX2", "classlar__content_1_1_two_view_shower_hits_tool.html#a6d30f672a087a12ba3656ad2e82d0b92", null ],
+    [ "m_type", "classlar__content_1_1_two_view_shower_hits_tool.html#a47be531cef6b61a28d30b31182d19e47", null ],
+    [ "m_xTolerance", "classlar__content_1_1_two_view_shower_hits_tool.html#a16616fa03e230161821b0bee893538b5", null ]
+];

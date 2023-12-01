@@ -1,0 +1,44 @@
+<map id="lar_content::LongTracksTool::Run" name="lar_content::LongTracksTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,400,221,427"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="279,200,494,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,397,267,300,340,250,343,254,270,305,135,402"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_long_tracks_tool.html#a1b3c2ea8e404e741e672f855fd32f44a" title="Find long tracks, hidden by simple ambiguities in the tensor." alt="" coords="294,363,479,405"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="221,399,278,393,279,398,222,404"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="269,429,504,456"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="222,422,253,426,253,431,221,428"/>
+<area shape="rect" id="Node000018" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="595,296,736,339"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="140,397,198,371,268,348,350,332,433,322,579,314,579,320,433,328,350,338,269,353,200,376,142,402"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="296,480,477,507"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="150,425,269,465,300,473,298,478,268,471,149,430"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="293,531,480,573"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="132,425,191,470,229,494,270,516,284,522,281,527,268,521,227,499,188,474,129,429"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="552,229,778,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,230,537,234,536,240,494,235"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="844,229,986,272"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="494,210,630,206,705,208,779,215,830,224,829,229,778,220,704,214,630,212,494,215"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="570,92,760,135"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="443,197,593,138,595,143,445,202"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="779,248,829,248,829,253,779,253"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="868,229,866,219,874,210,890,205,915,203,942,205,958,211,956,216,940,210,915,208,891,210,877,215,871,221,873,228"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="846,139,984,181"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="761,128,832,142,831,147,760,134"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="846,5,984,48"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="728,89,836,51,838,56,730,94"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_matching_base_algorithm.html#ae4cee1e36098542a8d23986ab7b1e852" title="Set pfo particle id." alt="" coords="826,72,1004,115"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="760,103,811,99,811,104,761,108"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_long_tracks_tool.html#a1f89d78e4fe05e3ab601974ba35ce067" title="Whether a long element shares clusters with any other long elements." alt="" coords="572,429,758,472"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="479,403,559,423,558,428,478,409"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_long_tracks_tool.html#a35f78f732e667f532d9b2bd6f34a178f" title="Whether a long element is significantly longer that other elements with which it shares a cluster." alt="" coords="559,496,771,539"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="480,401,506,415,522,432,530,449,538,466,554,482,560,486,557,491,550,486,534,469,526,452,518,435,502,419,477,406"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_long_tracks_tool.html#aa841213b826545b9e1c2dcc2eaeb209b" title="Select a list of long track&#45;like elements from a set of connected tensor elements." alt="" coords="573,363,757,405"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="479,381,558,381,558,387,479,387"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_x_overlap.html#a47c1b60e3d6c1d9bd52173c407fb5a32" title="Get the x overlap span." alt="" coords="843,296,987,339"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="747,360,827,338,829,343,748,365"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_x_overlap.html#adc9b9f974df44cc2c23123da64315ded" title="Get the x span in the u view." alt="" coords="843,363,987,405"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="758,381,828,381,828,387,758,387"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_x_overlap.html#a1a302520a514ad8310bf16c5d433e768" title="Get the x span in the v view." alt="" coords="843,429,987,472"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="748,403,829,425,827,430,747,408"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_x_overlap.html#a8f9d843305954df1839b760b569e6c66" title="Get the x span in the w view." alt="" coords="843,496,987,539"/>
+<area shape="poly" id="edge17_Node000012_Node000016" title=" " alt="" coords="759,403,780,415,796,432,805,449,813,466,828,482,833,486,830,490,825,486,809,469,800,451,792,435,777,419,756,408"/>
+<area shape="poly" id="edge20_Node000018_Node000004" title=" " alt="" coords="735,296,829,271,830,276,737,301"/>
+</map>

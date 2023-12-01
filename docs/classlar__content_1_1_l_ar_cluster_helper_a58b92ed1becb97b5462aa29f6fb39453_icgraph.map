@@ -1,0 +1,13 @@
+<map id="lar_content::LArClusterHelper::GetAverageZ" name="lar_content::LArClusterHelper::GetAverageZ">
+<area shape="rect" id="Node000001" title="Get average Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="754,72,946,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_remnants_algorithm.html#abae8cd2b60a1bb89ffe3d4c573ad671d" title="Calculate cluster overlap result and store in container." alt="" coords="485,5,703,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="750,70,678,51,679,46,752,65"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab674b9b1270bb202f7d0d346fe57bb0f" title="Whether a trio of clusters are consistent with representing projections of the same 3d trajectory." alt="" coords="498,72,691,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="739,96,691,96,691,91,739,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cosmic_ray_shower_matching_algorithm.html#a302a910b26c6bbf89967d178a4bb83a5" title="Check that three clusters have a consistent 3D position." alt="" coords="482,139,706,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="760,122,698,141,696,136,759,117"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_particle_recovery_algorithm.html#a215b7783083f57ca5ff19b8e597106f0" title="Identify unambiguous cluster overlaps and resolve ambiguous overlaps, creating new track particles." alt="" coords="244,72,434,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,96,434,96,434,91,482,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab40b548d133dfc832cd57f3efcbc55b0" title="Run the algorithm." alt="" coords="5,72,196,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="228,96,196,96,196,91,228,91"/>
+</map>

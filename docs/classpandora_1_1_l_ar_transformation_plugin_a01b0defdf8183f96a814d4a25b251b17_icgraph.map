@@ -1,0 +1,11 @@
+<map id="pandora::LArTransformationPlugin::GetMinChiSquaredYZ" name="pandora::LArTransformationPlugin::GetMinChiSquaredYZ">
+<area shape="rect" id="Node000001" title="Get the y, z position that yields the minimum chi squared value with respect to specified u,..." alt="" coords="744,39,935,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_creation_base_tool.html#ad0d16e049b6e99100b39d491ad3b3750" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="500,5,694,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,47,694,43,695,37,729,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a62d14aa1b32b01ed9fb489751b2092e5" title="Refine the 3D hit positions (and chi2) for a list of proto hits, in accordance with a provided 3D sli..." alt="" coords="498,72,696,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="729,78,697,82,696,77,728,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a22f1ea376dc0b4b6764da89031afa95d" title="Improve initial 3D hits by fitting proto hits and iteratively creating consisted 3D hit trajectory." alt="" coords="252,72,450,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,96,451,96,451,91,482,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="5,72,204,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,96,204,96,204,91,236,91"/>
+</map>

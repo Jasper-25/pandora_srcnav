@@ -1,0 +1,15 @@
+<map id="lar_pandora::LArPandoraOutput::BuildPFParticles" name="lar_pandora::LArPandoraOutput::BuildPFParticles">
+<area shape="rect" id="Node000001" title="Convert between pfos and PFParticles and add them to the output vector Create the associations betwee..." alt="" coords="5,72,209,115"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a19face77ee249392585294b35e040955" title="Add an association between objects with two given ids." alt="" coords="257,39,460,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,77,241,73,241,78,209,82"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a629241209a823e3038d423b3b739f904" title="Convert from a pfo to and ART PFParticle." alt="" coords="257,105,460,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,104,241,108,241,114,209,109"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="518,5,702,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,102,459,91,482,74,507,58,519,52,522,57,509,62,486,79,461,96,435,107"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_output.html#ab8e8cbc188ae27686ee2853337db977f" title="Find the index of an input object in an input list. Throw an exception if it doesn&#39;t exist." alt="" coords="508,72,711,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="460,111,492,106,493,112,461,116"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="518,139,702,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,138,503,143,502,148,460,143"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="518,205,702,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="406,146,509,191,526,197,524,202,507,196,404,151"/>
+</map>

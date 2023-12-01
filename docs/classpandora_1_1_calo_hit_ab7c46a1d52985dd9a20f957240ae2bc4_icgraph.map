@@ -1,0 +1,22 @@
+<map id="pandora::CaloHit::GetCellSize0" name="pandora::CaloHit::GetCellSize0">
+<area shape="rect" id="Node000001" title="Get the cell size 0 [pointing: eta, rectangular: up in ENDCAP, along beam in BARREL,..." alt="" coords="505,172,673,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a43afa74fd4aee77d137a4dfd46548cb7" title="Calculate the typical length scale of the cell, units mm." alt="" coords="260,5,439,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,161,515,110,487,84,456,62,433,51,435,46,458,58,490,80,519,106,565,158"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="255,72,444,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,167,456,129,425,118,427,113,458,124,537,162"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a041ca38b4ad4471be3ba0609d2b6469f" title="Get the list of cartesian coordinates for pointing cell corners." alt="" coords="253,139,446,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="489,182,446,176,447,171,490,177"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#aadf98ed9882cbd841eb0b0e203ea45ef" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="242,205,457,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="490,210,458,214,457,209,489,204"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_binary_file_writer.html#a79550babfc8713146f6aa82c25812b39" title="Write a calo hit to the current position in the file." alt="" coords="265,272,434,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="537,225,458,262,427,274,425,269,456,258,535,220"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_xml_file_writer.html#a74c74e56a0a76102d2a5b6d2b06c70cc" title="Write a calo hit to the current position in the file." alt="" coords="273,339,426,381"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="565,229,519,280,490,306,458,329,427,344,425,339,456,324,487,302,515,276,561,225"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a5fab51106c7bbc85c0ffe49d7954444f" title="Constructor." alt="" coords="16,13,183,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,29,184,29,184,24,244,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,72,194,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,96,194,96,194,91,240,91"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="15,172,184,215"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="238,178,185,185,184,179,237,172"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="226,213,184,207,184,202,227,208"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classobject__creation_1_1_object_metadata.html" title="ObjectMetadata class." alt="" coords="5,109,215,136"/>
+<area shape="rect" id="Node000001" href="$classobject__creation_1_1_calo_hit_metadata.html" title="CaloHitMetadata class." alt="" coords="294,189,454,232"/>
+<area shape="poly" id="edge48_Node000000_Node000001" title=" " alt="" coords="163,139,264,175,299,186,298,191,262,180,161,144"/>
+<area shape="rect" id="Node000002" href="$classobject__creation_1_1_cluster_metadata.html" title="ClusterMetadata class." alt="" coords="295,5,453,48"/>
+<area shape="poly" id="edge49_Node000000_Node000002" title=" " alt="" coords="155,100,262,57,296,46,297,51,264,63,157,105"/>
+<area shape="rect" id="Node000003" href="$classobject__creation_1_1_particle_flow_object_metadata.html" title="ParticleFlowObjectMetadata class." alt="" coords="293,72,455,115"/>
+<area shape="poly" id="edge50_Node000000_Node000003" title=" " alt="" coords="230,107,292,100,293,105,231,112"/>
+<area shape="rect" id="Node000018" href="$classobject__creation_1_1_vertex_metadata.html" title="VertexMetadata class." alt="" coords="269,139,479,165"/>
+<area shape="poly" id="edge52_Node000000_Node000018" title=" " alt="" coords="231,133,269,138,269,143,230,139"/>
+<area shape="rect" id="Node000004" href="$classobject__creation_1_1_particle_flow_object_creation.html" title="ParticleFlowObjectCreation class." alt="" coords="564,72,725,115"/>
+<area shape="poly" id="edge51_Node000003_Node000004" title=" " alt="" coords="470,91,563,91,563,96,470,96"/>
+<area shape="rect" id="Node000017" href="$classobject__creation_1_1_vertex_parameters.html" title="Vertex creation class." alt="" coords="533,139,755,165"/>
+<area shape="poly" id="edge53_Node000018_Node000017" title=" " alt="" coords="494,149,532,149,532,155,494,155"/>
+<area shape="rect" id="Node000005" href="$classobject__creation_1_1_object_parameters.html" title="ObjectParameters class." alt="" coords="263,464,485,491"/>
+<area shape="poly" id="edge64_Node000005_Node000004" title=" " alt="" coords="386,449,483,243,494,209,499,180,509,152,531,125,562,106,565,110,535,129,513,155,504,181,499,210,487,245,391,452"/>
+<area shape="poly" id="edge66_Node000005_Node000017" title=" " alt="" coords="386,449,462,293,503,216,531,175,551,164,554,168,535,179,507,219,466,295,390,451"/>
+<area shape="rect" id="Node000006" href="$classobject__creation_1_1_calo_hit_fragment_parameters.html" title="CaloHit fragment creation class." alt="" coords="565,573,724,616"/>
+<area shape="poly" id="edge54_Node000005_Node000006" title=" " alt="" coords="412,497,469,528,534,559,565,570,563,575,532,564,466,533,410,501"/>
+<area shape="rect" id="Node000007" href="$classobject__creation_1_1_calo_hit_parameters.html" title="CaloHitParameters class." alt="" coords="565,640,724,683"/>
+<area shape="poly" id="edge55_Node000005_Node000007" title=" " alt="" coords="397,501,455,564,493,597,534,626,565,640,563,645,532,630,490,601,451,567,394,505"/>
+<area shape="rect" id="Node000008" href="$classobject__creation_1_1_cluster_parameters.html" title="ClusterParameters class. To build a cluster must provide at least one hit (which may be isolated) or ..." alt="" coords="565,707,723,749"/>
+<area shape="poly" id="edge56_Node000005_Node000008" title=" " alt="" coords="390,503,412,545,444,596,485,648,535,692,566,709,564,714,531,697,481,652,440,599,407,548,385,506"/>
+<area shape="rect" id="Node000009" href="$classobject__creation_1_1_geometry_1_1_box_gap_parameters.html" title="BoxGapParameters class." alt="" coords="557,773,731,816"/>
+<area shape="poly" id="edge57_Node000005_Node000009" title=" " alt="" coords="386,505,404,559,435,628,478,699,505,731,535,759,558,774,555,778,531,763,501,735,474,702,430,630,399,561,380,507"/>
+<area shape="rect" id="Node000010" href="$classobject__creation_1_1_geometry_1_1_concentric_gap_parameters.html" title="ConcentricGapParameters class." alt="" coords="553,840,735,883"/>
+<area shape="poly" id="edge58_Node000005_Node000010" title=" " alt="" coords="382,506,397,571,426,658,446,704,470,748,500,790,535,826,554,839,551,843,531,830,496,793,466,751,441,706,421,660,392,573,377,507"/>
+<area shape="rect" id="Node000011" href="$classobject__creation_1_1_geometry_1_1_l_ar_t_p_c_parameters.html" title="LArTPCParameters class." alt="" coords="557,189,731,232"/>
+<area shape="poly" id="edge59_Node000005_Node000011" title=" " alt="" coords="384,448,406,403,438,347,480,291,504,265,531,242,555,228,558,233,535,246,508,269,484,294,442,350,410,406,389,451"/>
+<area shape="rect" id="Node000012" href="$classobject__creation_1_1_geometry_1_1_layer_parameters.html" title="LayerParameters class." alt="" coords="557,256,731,299"/>
+<area shape="poly" id="edge60_Node000005_Node000012" title=" " alt="" coords="391,449,448,379,488,341,532,308,555,296,558,301,534,313,491,345,452,383,395,453"/>
+<area shape="rect" id="Node000013" href="$classobject__creation_1_1_geometry_1_1_line_gap_parameters.html" title="LineGapParameters class." alt="" coords="557,323,731,365"/>
+<area shape="poly" id="edge61_Node000005_Node000013" title=" " alt="" coords="404,452,462,413,532,375,561,363,563,368,534,380,465,418,407,457"/>
+<area shape="rect" id="Node000014" href="$classobject__creation_1_1_geometry_1_1_sub_detector_parameters.html" title="SubDetectorParameters class." alt="" coords="557,389,731,432"/>
+<area shape="poly" id="edge62_Node000005_Node000014" title=" " alt="" coords="445,457,556,430,557,435,447,462"/>
+<area shape="rect" id="Node000015" href="$classobject__creation_1_1_m_c_particle_parameters.html" title="MCParticleParameters class." alt="" coords="554,456,735,499"/>
+<area shape="poly" id="edge63_Node000005_Node000015" title=" " alt="" coords="500,475,553,475,553,480,500,480"/>
+<area shape="rect" id="Node000016" href="$classobject__creation_1_1_track_parameters.html" title="TrackParameters class." alt="" coords="536,523,752,549"/>
+<area shape="poly" id="edge65_Node000005_Node000016" title=" " alt="" coords="454,492,580,519,579,525,453,497"/>
+</map>

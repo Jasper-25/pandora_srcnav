@@ -1,0 +1,15 @@
+<map id="pandora::AlgorithmManager::CreateAlgorithmTool" name="pandora::AlgorithmManager::CreateAlgorithmTool">
+<area shape="rect" id="Node000001" title="Create an algorithm tool, via one of the algorithm tool factories registered with pandora." alt="" coords="5,123,186,165"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_element.html#a7063f1d7dbe5eaafe2d72a0a3134e0d3" title=" " alt="" coords="261,39,416,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,119,233,91,253,84,255,89,235,96,155,125"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a19b7252bfe1ed61e885ed2c60abb01f4" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="249,105,428,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,132,233,127,234,132,187,137"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a80710d4ef0f1cff61f3fedeedcf869a7" title="Read the algorithm settings." alt="" coords="234,156,443,183"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,151,218,154,218,159,186,156"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_process.html#af9071b9c61e1fab003e3203fd103899a" title="Register i) the pandora instance that will run the process and ii) the process type." alt="" coords="249,207,428,249"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="155,163,235,192,255,199,253,204,233,197,154,169"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_attribute_set.html#a46f90429c152bb53fa00ea810a10bbc8" title=" " alt="" coords="491,5,666,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,47,475,38,476,44,416,52"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_attribute.html#a12e3231f4a18507d7c5e27a88a164d93" title="Return the value of this attribute." alt="" coords="501,72,656,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="416,68,486,78,485,83,415,73"/>
+</map>

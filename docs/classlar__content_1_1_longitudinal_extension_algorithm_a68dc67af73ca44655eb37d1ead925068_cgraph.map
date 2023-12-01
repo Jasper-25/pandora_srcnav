@@ -1,0 +1,49 @@
+<map id="lar_content::LongitudinalExtensionAlgorithm::FillClusterAssociationMatrix" name="lar_content::LongitudinalExtensionAlgorithm::FillClusterAssociationMatrix">
+<area shape="rect" id="Node000001" title="Form association between two pointing clusters." alt="" coords="5,365,206,424"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a2815fbc1ef97e25f05526fabdfee25c2" title="Given a pair of pointing clusters, receive the closest or farthest pair of vertices." alt="" coords="261,96,481,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,364,136,319,165,265,204,208,252,159,276,144,279,148,255,163,208,212,170,267,140,322,121,366"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a87b171fa1c7c508c97a0dcfdf25da7ef" title="Get the address of the cluster." alt="" coords="564,5,724,48"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="109,364,123,304,149,226,168,186,191,147,219,112,252,82,286,61,323,44,400,23,478,14,548,14,548,20,478,20,401,28,324,49,288,65,255,86,223,115,195,150,172,188,154,228,128,305,114,365"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a31cb608e94ec43ad44dedd8469813f3a" title="Get the vertex direction." alt="" coords="550,349,738,392"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="206,388,534,373,534,378,206,393"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="287,432,455,475"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="207,414,272,429,271,434,206,419"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a3c6c8d40c831aaa5a1d3fdc049aa4cd1" title="Calculate impact parameters between a pair of pointing vertices." alt="" coords="254,315,488,357"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="206,370,256,359,257,364,207,375"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="811,232,996,275"/>
+<area shape="poly" id="edge24_Node000001_Node000009" title=" " alt="" coords="131,363,184,316,217,293,253,276,298,264,356,256,501,247,658,245,796,247,795,252,658,250,502,252,357,261,299,270,255,281,220,298,187,320,135,367"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_cluster_helper.html#addbd69272274cf0b4683230f6178a8df" title="Fraction of occupied layers in cluster." alt="" coords="275,499,467,541"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="149,422,198,454,255,484,270,491,268,495,253,489,196,459,146,427"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a495a09d2fe54a6e0b5eebbdbe46a65f7" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="287,173,455,216"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="125,363,178,298,213,263,252,232,274,220,277,225,255,237,216,267,182,302,129,367"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a686799f9d520562cb04e782c8cea209b" title="Get rms from vertex fit." alt="" coords="289,565,453,608"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="129,423,181,488,216,522,255,551,276,562,273,566,252,556,213,526,177,491,124,426"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a4b4f60de733b91a335cebbc19fbc5ef7" title="Whether the vertex has been initialized." alt="" coords="281,632,461,675"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="121,423,140,467,169,520,208,573,230,597,255,618,268,626,265,631,252,622,227,601,204,576,165,522,135,469,116,426"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#ae3f63b089d733e9bebee92762dbe63b1" title="Is this the inner vertex." alt="" coords="275,699,467,741"/>
+<area shape="poly" id="edge27_Node000001_Node000020" title=" " alt="" coords="116,424,132,480,159,550,200,623,226,656,255,685,263,690,260,695,252,689,222,659,196,626,155,552,127,481,111,425"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,93,562,51,564,56,438,98"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="823,148,984,191"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="482,125,808,157,808,163,481,131"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="823,73,984,116"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="481,110,808,96,808,101,481,115"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="489,348,535,354,534,359,488,354"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="321,315,319,305,327,296,345,290,371,288,399,290,416,297,414,302,398,296,371,293,346,295,330,300,324,306,326,313"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="488,315,795,267,796,273,489,320"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a617462d29e21fce3c8f83fb1ecfd5ef3" title="Get the innermost pseudo layer in the cluster." alt="" coords="557,561,730,604"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="467,539,542,557,541,562,466,545"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="548,628,739,671"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="468,539,490,551,506,567,514,583,523,599,538,614,544,618,541,623,534,618,518,602,510,586,502,570,486,555,466,544"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a1bf78445229ce99d761516829103817a" title="Get the outermost pseudo layer in the cluster." alt="" coords="555,495,732,537"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="467,516,539,515,539,520,467,521"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_ordered_calo_hit_list.html#ad77035f7ad19c0f80cab30eb196e5566" title="Returns the number of elements in the container." alt="" coords="552,428,736,471"/>
+<area shape="poly" id="edge18_Node000010_Node000015" title=" " alt="" coords="455,495,543,473,544,478,457,501"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="799,536,1008,563"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="731,569,784,562,784,567,731,574"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="733,525,784,531,783,537,732,530"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a7aaefbd44d37e29940b0fbde2048f2c9" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="536,173,751,216"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="455,192,520,192,520,197,455,197"/>
+<area shape="poly" id="edge21_Node000017_Node000004" title=" " alt="" coords="752,181,807,176,808,181,752,187"/>
+<area shape="poly" id="edge22_Node000017_Node000005" title=" " alt="" coords="700,170,831,120,833,125,702,175"/>
+<area shape="poly" id="edge23_Node000017_Node000009" title=" " alt="" coords="742,214,797,227,796,232,741,219"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="lar_content::DeltaRayShowerHitsTool::CreateDeltaRayShowerHits3D" name="lar_content::DeltaRayShowerHitsTool::CreateDeltaRayShowerHits3D">
+<area shape="rect" id="Node000001" title="Create three dimensional hits, using a list of input two dimensional hits and the 3D hits from the pa..." alt="" coords="5,164,255,207"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_creation_base_tool.html#abe418d3722f959082b6efd74c43429f1" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="306,76,500,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,161,319,121,321,126,200,166"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a5b21120bf1564d55b3500e3f053b009e" title="Whether the proto hit position is set." alt="" coords="571,139,787,181"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="255,177,555,163,556,168,255,182"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="303,197,503,224"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="255,194,288,197,287,203,255,200"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="318,260,488,303"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="194,205,326,252,324,257,192,210"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="352,76,349,66,358,57,376,51,403,49,432,52,450,58,448,63,431,57,403,55,377,57,361,61,355,67,357,75"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a3435a0d86e2165a485fa3b229e82e96d" title="Get the chi squared value." alt="" coords="580,5,778,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="489,73,578,50,579,55,490,78"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a981b77481600c1378c63d60ee73c5ac0" title="Get the address of the parent 2D calo hit." alt="" coords="551,72,807,115"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="501,93,536,93,536,98,501,99"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="500,117,568,132,567,137,499,122"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="595,205,763,248"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="488,262,579,244,580,249,489,267"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="595,272,763,315"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="489,282,580,286,579,292,488,288"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="595,339,763,381"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="474,301,552,324,580,332,579,337,550,329,472,306"/>
+</map>

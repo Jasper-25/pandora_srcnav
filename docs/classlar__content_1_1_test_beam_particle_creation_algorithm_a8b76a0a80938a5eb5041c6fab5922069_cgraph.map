@@ -1,0 +1,29 @@
+<map id="lar_content::TestBeamParticleCreationAlgorithm::SetupTestBeamPfo" name="lar_content::TestBeamParticleCreationAlgorithm::SetupTestBeamPfo">
+<area shape="rect" id="Node000001" title="Set up the test beam pfo." alt="" coords="5,280,250,323"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="316,5,501,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,278,158,233,193,173,239,111,266,83,296,58,302,54,305,58,299,62,270,87,243,115,197,176,163,235,140,281"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="324,96,493,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,278,208,214,250,179,296,148,308,142,310,147,299,153,254,183,212,218,149,282"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="316,163,501,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="173,277,297,222,329,209,331,214,299,226,175,282"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="567,305,751,348"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="218,277,284,265,360,257,440,256,520,265,564,278,605,296,603,301,562,283,518,271,440,261,361,263,285,271,219,282"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="316,280,501,323"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="250,299,301,299,301,304,250,304"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="324,347,493,389"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="221,321,310,342,308,347,220,326"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pfo_helper.html#a27f209ca33e90399c1e0cc56230dd9f7" title="Return track flag based on Pfo Particle ID." alt="" coords="324,413,493,456"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="162,321,224,360,299,399,314,405,312,410,297,404,221,365,159,326"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#a12872083dbe4252ceaebcc9814060c4a" title="Save a provided input object list under a new name." alt="" coords="338,480,479,523"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="147,321,209,392,252,432,299,466,324,478,322,483,296,470,248,436,205,396,143,325"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a821de4a34e66feeabe4e4f5b584e48d9" title="Set parent&#45;daughter particle flow object relationship." alt="" coords="298,547,519,589"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="141,322,164,366,198,423,244,482,270,509,299,533,306,537,303,541,296,537,267,513,240,486,194,426,159,369,136,325"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_flow_object.html#a1a7dfb68cb8bf6bf793b9a0d0d5b9e6a" title="Update the properties map." alt="" coords="567,5,751,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,24,551,24,551,29,501,29"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="361,96,359,86,367,77,384,71,408,69,435,72,451,78,449,83,434,77,408,75,385,77,370,81,364,87,366,95"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="487,410,518,399,608,353,610,358,520,404,489,415"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="589,513,730,556"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="480,508,573,521,573,526,479,513"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="612,513,610,503,618,494,634,489,659,487,686,489,702,495,700,500,685,494,659,492,635,494,621,499,615,505,617,512"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="519,551,573,543,573,549,520,556"/>
+</map>

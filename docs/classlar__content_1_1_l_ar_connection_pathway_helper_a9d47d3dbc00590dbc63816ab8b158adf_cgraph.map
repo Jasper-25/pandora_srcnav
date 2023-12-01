@@ -1,0 +1,26 @@
+<map id="lar_content::LArConnectionPathwayHelper::ProjectShowerStartByDirection" name="lar_content::LArConnectionPathwayHelper::ProjectShowerStartByDirection">
+<area shape="rect" id="Node000001" title="Find a 2D shower start, from a drift coordinate by assuming consistency of initial direction." alt="" coords="5,264,234,323"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="302,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,262,153,217,186,162,229,106,280,58,287,53,290,57,283,62,233,110,191,165,158,220,136,265"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="302,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,262,198,193,237,156,280,124,289,120,291,124,283,129,241,160,202,197,144,265"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="302,139,470,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,261,216,226,281,191,294,185,296,190,283,196,219,230,164,266"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="302,205,470,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="234,262,286,249,287,254,235,267"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_proto_shower.html#a0ba81d8bb82dd7d01b16092e3f465ae0" title="Get the shower core." alt="" coords="302,272,470,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="234,291,286,291,286,296,234,296"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="282,339,490,381"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="235,319,284,332,282,337,234,325"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_shower_core.html#afde9b583e9af5c319d0fdf4fd148bbab" title="Get the start position of the shower core." alt="" coords="304,405,468,448"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="164,321,219,357,283,391,296,397,294,402,281,396,216,361,161,325"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_connection_pathway.html#ae4c2ceebbf5c426f23b46a54603c8785" title="Get the start position of the connection pathway." alt="" coords="282,472,490,515"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="144,321,202,390,241,426,283,458,291,462,289,467,280,462,237,430,198,393,140,325"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="302,539,470,581"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="136,322,158,367,191,421,233,477,283,525,290,529,287,533,280,529,229,480,186,424,153,369,131,324"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="538,72,706,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,91,523,91,523,96,470,96"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="538,172,706,215"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="461,113,491,124,570,162,568,167,489,129,459,118"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="470,212,522,205,523,210,471,217"/>
+</map>

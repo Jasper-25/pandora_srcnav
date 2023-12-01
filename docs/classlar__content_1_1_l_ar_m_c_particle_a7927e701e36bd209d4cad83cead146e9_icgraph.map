@@ -1,0 +1,18 @@
+<map id="lar_content::LArMCParticle::GetProcess" name="lar_content::LArMCParticle::GetProcess">
+<area shape="rect" id="Node000001" title="Get the process." alt="" coords="700,72,878,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle.html#a53267b1d9fa9a4724f21e7a31d52118c" title="Fill the parameters associated with this MC particle." alt="" coords="469,5,646,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,70,633,51,635,46,699,65"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a37f7e34ab6e4c0673fbd2ce811d54ab2" title="Return the MCProcess of the leading particle (tier 1) in the delta ray/michel hierarchy." alt="" coords="462,72,652,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="684,96,653,96,653,91,684,91"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_factory.html#a4ef593ac829d862dc5c80db943a6db53" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="469,139,646,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="699,122,635,141,633,135,697,117"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a099c2fcd103e0673431063097280f1dc" title="Copy a specified mc particle to the provided pandora instance." alt="" coords="225,5,413,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,29,414,29,414,24,453,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a4bf40c494dafc5092514d81e720de0db" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;delta ray&#39; process tag." alt="" coords="224,72,414,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,96,414,96,414,91,446,91"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3448d55df94c9e2ef8d09180fd7bbad5" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;decay&#39; process tag." alt="" coords="224,139,414,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="465,122,399,141,397,135,464,117"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#ab505f6e161923c7fa9dd5bfc5fcc622c" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="5,97,176,156"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="208,112,177,117,176,112,208,107"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="208,146,176,142,177,136,208,141"/>
+</map>

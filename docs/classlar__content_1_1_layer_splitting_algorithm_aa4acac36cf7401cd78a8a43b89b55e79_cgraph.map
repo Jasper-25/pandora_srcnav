@@ -1,0 +1,35 @@
+<map id="lar_content::LayerSplittingAlgorithm::FindBestSplitLayer" name="lar_content::LayerSplittingAlgorithm::FindBestSplitLayer">
+<area shape="rect" id="Node000001" title="Find the best layer for splitting the cluster." alt="" coords="5,240,200,283"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_layer_splitting_algorithm.html#a4ff7dc1d7ac6be541acb11031f365b3c" title="Calculate rms deviation of cluster centroids between two extremal layers." alt="" coords="254,105,426,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,237,185,202,246,164,270,152,273,157,249,169,187,206,135,242"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="480,5,693,32"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="110,239,128,198,157,148,196,97,220,75,246,56,298,32,354,17,411,10,464,7,464,12,411,15,355,23,300,37,249,61,223,79,200,101,162,151,133,201,115,241"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#adf50170204bf79f4708be9646f6660dc" title="Searches the container for an element with specified layer and returns an iterator to it if found,..." alt="" coords="495,57,679,100"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="113,238,133,204,162,162,201,122,246,91,304,70,364,60,424,57,479,60,479,65,424,62,365,65,305,76,249,96,204,126,166,166,137,207,117,241"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a78248d19f9aaff30df9eaad855c93f46" title="Get unweighted centroid for cluster at a particular pseudo layer, calculated using cached values of h..." alt="" coords="490,125,683,152"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="162,237,247,209,375,178,493,153,494,158,377,183,248,215,164,242"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="503,179,671,221"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="200,246,487,210,487,215,200,252"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="491,252,682,295"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="200,261,475,268,475,273,200,266"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a617462d29e21fce3c8f83fb1ecfd5ef3" title="Get the innermost pseudo layer in the cluster." alt="" coords="253,324,427,367"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="166,281,264,316,262,321,164,286"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#a1bf78445229ce99d761516829103817a" title="Get the outermost pseudo layer in the cluster." alt="" coords="251,391,429,433"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="127,281,180,328,249,376,258,381,256,386,246,381,177,332,124,285"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="256,457,424,500"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="118,282,169,360,206,404,249,443,255,447,252,451,246,447,202,408,164,363,113,285"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ordered_calo_hit_list.html#ad77035f7ad19c0f80cab30eb196e5566" title="Returns the number of elements in the container." alt="" coords="248,524,432,567"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="113,282,130,329,159,390,198,454,222,484,249,510,254,513,250,518,246,514,218,487,194,457,154,393,126,331,108,284"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,103,420,72,479,43,503,34,504,39,481,48,423,77,374,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="426,107,479,97,480,102,427,112"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,128,474,131,474,136,426,134"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,146,498,171,497,176,413,151"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="366,146,417,188,481,231,506,243,504,248,479,236,414,193,363,150"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="483,365,691,392"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="427,354,468,360,468,365,427,360"/>
+<area shape="poly" id="edge15_Node000010_Node000009" title=" " alt="" coords="429,397,468,392,468,397,429,403"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="503,457,671,500"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="425,476,487,476,487,481,425,481"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="741,457,910,500"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="671,476,726,476,726,481,671,481"/>
+</map>

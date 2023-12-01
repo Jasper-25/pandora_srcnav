@@ -1,0 +1,38 @@
+<map id="pandora::PluginManager::GetLArTransformationPlugin" name="pandora::PluginManager::GetLArTransformationPlugin">
+<area shape="rect" id="Node000001" title="Get the address of the lar transformation plugin." alt="" coords="885,272,1077,315"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_vertex_monitoring_algorithm.html#a1001b7a76e76232d4ffb51ab650e34ba" title=" " alt="" coords="582,5,773,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="966,258,947,212,920,159,883,106,860,82,836,62,806,46,773,36,775,31,808,41,839,58,864,79,887,103,924,156,952,210,970,256"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_vintage_l_ar_t_p_c_three_view.html#adfb7b16619a5b3dfd1694509e34d7614" title="Create the line gap parameters to give to the pandora API." alt="" coords="518,72,837,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="957,260,908,192,874,157,836,129,813,118,815,113,839,124,878,153,912,188,962,257"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a5ebae7a22254f562ac9d0cd437cfc8cf" title="Create the Pandora 2D hits from the ART hits." alt="" coords="582,139,774,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="942,264,894,228,836,196,773,176,775,171,838,191,896,223,945,260"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_hit_creation_base_tool.html#ad0d16e049b6e99100b39d491ad3b3750" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="581,205,775,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="872,271,837,263,775,249,776,244,838,257,873,265"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a2ee1552375550f7e66eff516c8d78446" title="Receive a chi2 value indicating consistency of a list of proto hits with a provided 3D sliding fit tr..." alt="" coords="579,389,777,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="933,325,888,350,838,373,778,392,777,387,836,368,886,346,931,321"/>
+<area shape="rect" id="Node000012" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#ad00679951b2369cd38c2ac130cc1089a" title=" " alt="" coords="589,272,766,315"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="870,296,767,296,767,291,870,291"/>
+<area shape="rect" id="Node000015" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a1608b4dbe3a9c6e4f258b90349a99c40" title=" " alt="" coords="252,331,470,373"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="883,321,838,329,741,341,643,348,470,354,470,349,643,343,741,335,837,324,882,316"/>
+<area shape="rect" id="Node000016" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a126fa9dcc3a6e1b2c71e6db0887e7bcc" title="Retrieve the true neutrino vertex position." alt="" coords="570,456,785,499"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="959,329,909,390,876,421,839,446,787,467,785,462,836,442,872,417,905,386,955,326"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a62d14aa1b32b01ed9fb489751b2092e5" title="Refine the 3D hit positions (and chi2) for a list of proto hits, in accordance with a provided 3D sli..." alt="" coords="579,523,777,565"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="969,330,950,373,922,423,885,472,839,513,810,528,778,538,776,533,808,523,836,508,881,468,917,420,945,370,964,328"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_monitoring_algorithm.html#a5d031c62f54617fee419599a390bdced" title="Run the algorithm." alt="" coords="265,5,457,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="567,29,457,29,457,24,567,24"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora.html#a28d02ef2b57506377e53f085fd473d1a" title="Create pandora input hits, mc particles etc." alt="" coords="279,139,443,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="566,163,443,163,443,157,566,157"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="22,139,187,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="263,163,187,163,187,157,263,157"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a22f1ea376dc0b4b6764da89031afa95d" title="Improve initial 3D hits by fitting proto hits and iteratively creating consisted 3D hit trajectory." alt="" coords="262,460,460,503"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="563,437,519,447,452,462,451,457,517,441,562,432"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="5,460,204,503"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="246,484,204,484,204,479,246,479"/>
+<area shape="rect" id="Node000013" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a387e0f6e133a65fc725656deaddf4fdd" title=" " alt="" coords="272,264,450,307"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="573,293,450,290,450,285,573,288"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="574,315,471,334,470,329,573,310"/>
+<area shape="rect" id="Node000014" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a04e5aa6e1a6eb243574fcfda22ac6a57" title="Run the algorithm." alt="" coords="16,297,193,340"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="257,301,194,310,193,305,256,296"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="236,338,193,333,194,328,237,333"/>
+<area shape="poly" id="edge19_Node000017_Node000010" title=" " alt="" coords="563,524,460,504,461,498,564,519"/>
+</map>

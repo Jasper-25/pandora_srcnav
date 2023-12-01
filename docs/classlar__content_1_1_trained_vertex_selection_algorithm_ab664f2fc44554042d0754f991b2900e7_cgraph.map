@@ -1,0 +1,84 @@
+<map id="lar_content::TrainedVertexSelectionAlgorithm::ProduceTrainingExamples" name="lar_content::TrainedVertexSelectionAlgorithm::ProduceTrainingExamples">
+<area shape="rect" id="Node000001" title="Produce a set of training examples for a binary classifier." alt="" coords="5,196,237,255"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#aabcf6d7e7b366fcdbdf5d50e26ce357a" title="Add the shared features to a vector in the correct order." alt="" coords="285,5,538,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,194,205,133,243,102,283,74,292,69,295,73,286,78,246,106,208,137,149,197"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a7707a6a883eee30f920801c3681572a5" title="Add the vertex features to a vector in the correct order." alt="" coords="286,88,537,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,193,284,156,302,150,303,155,286,161,193,198"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_mva_helper.html#a8d9e02dd57513f7d597d4788cfe0cd97" title="Recursively concatenate vectors of features (terminating method)" alt="" coords="324,171,499,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="237,209,308,201,309,206,238,215"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ac20f007f1607dd5bc667b3cbdda2fa9d" title="Use the MC information to get the best vertex from a list." alt="" coords="299,237,524,280"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="238,236,284,241,283,247,237,241"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a6e5588fbe0b227ed54613a1529de2634" title="Calculates the shared features of a pair of vertex candidates." alt="" coords="286,376,537,419"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="174,253,362,365,359,370,171,258"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_l_ar_mva_helper.html#ae46fa5647873bae972430c92ff0f672a" title="Produce a training example with the given features and result." alt="" coords="325,596,498,639"/>
+<area shape="poly" id="edge41_Node000001_Node000035" title=" " alt="" coords="146,253,387,582,383,585,142,256"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a9d3c157271aad137a3401ca2bace4488" title="Whether algorithm is running in beam mode, assuming neutrinos travel in positive z&#45;direction." alt="" coords="601,67,808,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="537,102,585,97,585,103,537,107"/>
+<area shape="rect" id="Node000007" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="634,133,775,176"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="510,234,537,223,560,205,585,186,618,172,620,177,587,190,564,209,539,228,512,239"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#adb3d8ae6a4a3eeaa50fa03e1e1511f45" title="Get neutrino MC particles from an input MC particle list." alt="" coords="616,200,793,243"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="524,242,600,232,600,237,524,247"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a6ee401ed2c116afb7ff861c90db3a994" title="Get triggered test beam MC particles from an input MC particle list." alt="" coords="593,267,815,309"/>
+<area shape="poly" id="edge20_Node000006_Node000019" title=" " alt="" coords="524,267,578,273,578,278,524,273"/>
+<area shape="rect" id="Node000008" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="903,101,1045,144"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="775,144,887,130,888,136,776,149"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="928,101,927,91,934,82,950,77,974,75,1000,77,1015,83,1013,88,998,82,974,80,951,82,937,87,932,93,934,100"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f66058246ca58340ca7f0dc68340660" title="Whether a mc particle is a neutrino or antineutrino." alt="" coords="885,168,1063,211"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="793,208,869,199,870,204,794,213"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="885,301,1063,344"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="794,240,824,252,848,270,872,287,884,293,882,298,869,292,845,274,821,257,792,245"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="1126,168,1303,211"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1063,187,1110,187,1110,192,1063,192"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="1821,101,1960,144"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="1057,165,1076,154,1091,137,1098,120,1106,102,1124,87,1168,67,1214,52,1308,32,1405,26,1501,29,1593,41,1678,57,1814,93,1813,99,1677,62,1592,46,1501,35,1405,31,1309,38,1215,57,1170,72,1127,92,1111,105,1103,122,1095,140,1079,158,1060,170"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="1361,168,1538,211"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1303,187,1345,187,1345,192,1303,192"/>
+<area shape="poly" id="edge18_Node000014_Node000013" title=" " alt="" coords="1064,342,1080,354,1093,372,1100,390,1102,425,1105,459,1113,473,1127,487,1150,501,1171,509,1190,512,1210,511,1252,502,1302,487,1390,458,1476,419,1558,374,1635,325,1765,228,1854,152,1857,156,1768,232,1638,329,1561,378,1478,424,1392,463,1304,492,1253,507,1210,517,1190,517,1169,514,1148,506,1124,491,1109,477,1100,460,1097,426,1094,391,1088,374,1076,358,1061,347"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="1145,235,1284,277"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1052,298,1129,277,1130,282,1054,303"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1130,301,1299,344"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1063,320,1115,320,1115,325,1063,325"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="1145,368,1284,411"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="1054,342,1130,363,1129,368,1052,347"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="1145,435,1284,477"/>
+<area shape="poly" id="edge19_Node000014_Node000018" title=" " alt="" coords="1060,342,1079,354,1096,371,1104,388,1112,404,1127,421,1133,424,1130,429,1124,425,1108,407,1099,390,1091,374,1076,358,1057,347"/>
+<area shape="poly" id="edge28_Node000019_Node000014" title=" " alt="" coords="816,300,870,307,870,312,815,305"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3b42e6df16ea8f8eb1ac7564b7ad960c" title="Returns true if passed a primary triggered beam MCParticle." alt="" coords="870,235,1078,277"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="815,272,855,267,855,273,816,277"/>
+<area shape="poly" id="edge22_Node000020_Node000011" title=" " alt="" coords="1052,232,1120,213,1121,218,1054,237"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="1126,101,1303,144"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="1057,232,1076,221,1091,205,1099,188,1108,171,1124,154,1129,150,1133,154,1127,158,1112,174,1104,191,1096,208,1079,225,1060,236"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="1351,101,1547,144"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="1303,120,1335,120,1335,125,1303,125"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="1614,168,1754,211"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1527,142,1600,163,1599,168,1526,147"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="1595,101,1773,144"/>
+<area shape="poly" id="edge26_Node000022_Node000024" title=" " alt="" coords="1548,120,1579,120,1579,125,1548,125"/>
+<area shape="poly" id="edge27_Node000024_Node000013" title=" " alt="" coords="1773,120,1806,120,1806,125,1773,125"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="604,333,804,360"/>
+<area shape="poly" id="edge30_Node000025_Node000026" title=" " alt="" coords="537,373,608,361,609,366,538,378"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_vertex.html#a97d6b7c37f9f7de1717cd506f3dbe9d7" title="Get the vertex position." alt="" coords="610,384,799,411"/>
+<area shape="poly" id="edge31_Node000025_Node000027" title=" " alt="" coords="537,395,594,395,594,400,537,400"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a5dbd0f48910a7ea1c752885d16542d1d" title="Increments the axis hits information for one view." alt="" coords="586,501,822,560"/>
+<area shape="poly" id="edge32_Node000025_Node000028" title=" " alt="" coords="451,417,514,451,587,487,601,493,599,498,585,492,512,456,449,422"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="619,435,789,477"/>
+<area shape="poly" id="edge37_Node000025_Node000033" title=" " alt="" coords="522,417,604,433,603,439,521,422"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="890,435,1058,477"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="812,498,879,479,880,485,813,503"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="890,501,1058,544"/>
+<area shape="poly" id="edge34_Node000028_Node000030" title=" " alt="" coords="823,524,874,523,874,528,823,530"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#aef4980bd56efc35bd5ed10a1a923439b" title="Determines whether a hit lies within the box defined by four other positions." alt="" coords="875,568,1073,611"/>
+<area shape="poly" id="edge35_Node000028_Node000031" title=" " alt="" coords="823,554,860,562,859,567,822,559"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_k_d_tree_linker_algo.html#ab24060eca7bcf2b2b0b7b0650110b49e" title="Search in the KDTree for all points that would be contained in the given searchbox The founded points..." alt="" coords="888,635,1060,677"/>
+<area shape="poly" id="edge36_Node000028_Node000032" title=" " alt="" coords="780,558,824,582,848,602,872,620,883,626,880,631,869,625,844,606,821,586,777,563"/>
+<area shape="poly" id="edge38_Node000033_Node000029" title=" " alt="" coords="790,453,874,453,874,459,790,459"/>
+<area shape="poly" id="edge40_Node000033_Node000030" title=" " alt="" coords="790,474,875,496,874,501,789,480"/>
+<area shape="rect" id="Node000034" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="890,368,1058,411"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="789,432,874,411,875,416,790,438"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_l_ar_mva_helper.html#a29f90b5acda98597fcbb04e30a4080d8" title="Get a timestamp string for this point in time." alt="" coords="618,596,791,639"/>
+<area shape="poly" id="edge42_Node000035_Node000036" title=" " alt="" coords="499,615,602,615,602,620,499,620"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_l_ar_mva_helper.html#a770becac3f872872e6a1eda6cc34af81" title="Write the features of the given lists to file." alt="" coords="618,688,791,731"/>
+<area shape="poly" id="edge43_Node000035_Node000037" title=" " alt="" coords="483,637,620,680,619,685,481,642"/>
+<area shape="rect" id="Node000038" href="$classlar__content_1_1_l_ar_mva_helper.html#a644ef982d4df049f5de99b2021c09274" title="Write the features of the given list to file (implementation method)" alt="" coords="887,701,1061,744"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="791,711,872,715,872,720,791,716"/>
+</map>

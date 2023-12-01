@@ -1,0 +1,96 @@
+<map id="lar_dl_content::DlVertexingAlgorithm::GetMCToHitsMap" name="lar_dl_content::DlVertexingAlgorithm::GetMCToHitsMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,193,204"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="304,65,446,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,158,240,117,288,103,290,108,242,123,145,163"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="304,132,446,175"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="193,170,288,160,289,165,193,175"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ae7576ee11a242f2a2f70f2b3f8bd7153" title="Returns true if passed a primary neutrino final state MCParticle." alt="" coords="1085,191,1302,233"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="193,183,241,184,1069,206,1069,211,241,189,193,188"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a32aa66741fdc5835f46ec0353ec7b1ca" title="Select target, reconstructable mc particles that match given criteria." alt="" coords="241,487,509,529"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="121,203,348,473,344,477,117,206"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="597,99,738,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,92,582,108,581,113,446,97"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="617,99,615,89,624,80,641,74,667,72,695,74,712,81,710,86,694,80,667,77,642,79,627,84,621,90,623,97"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="446,143,581,127,582,132,446,148"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a5314cda1ff5cae45c84e1195bd3424b3" title="Get the parent mc particle." alt="" coords="1364,72,1553,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="1228,188,1284,156,1349,124,1365,118,1367,123,1351,129,1286,161,1231,193"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f66058246ca58340ca7f0dc68340660" title="Whether a mc particle is a neutrino or antineutrino." alt="" coords="1370,5,1547,48"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="1209,188,1266,124,1305,88,1349,58,1358,52,1361,57,1351,62,1309,93,1270,128,1213,192"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="1629,357,1806,400"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="1264,231,1634,350,1632,355,1263,237"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="2131,248,2270,291"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="1553,74,1662,63,1793,62,1862,67,1932,78,2000,95,2065,120,2102,143,2134,173,2161,204,2181,233,2177,236,2156,207,2130,176,2099,147,2063,125,1999,100,1931,83,1862,72,1793,67,1662,69,1554,80"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="1629,135,1806,177"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1540,46,1568,58,1626,89,1677,123,1674,128,1624,94,1566,62,1538,51"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="2337,497,2477,540"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="1548,17,1655,15,1786,20,1856,28,1927,39,1997,55,2065,76,2138,105,2192,135,2240,175,2291,234,2332,297,2364,365,2386,430,2400,482,2395,483,2381,431,2359,367,2328,300,2287,238,2236,179,2189,140,2136,110,2063,81,1996,60,1926,44,1855,33,1785,26,1655,20,1548,23"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="1877,135,2055,177"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1807,153,1862,153,1862,159,1807,159"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="1868,368,2064,411"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1807,380,1852,382,1852,387,1807,385"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="2008,365,2142,296,2145,301,2010,370"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="2112,368,2289,411"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="2065,387,2096,387,2096,392,2065,392"/>
+<area shape="poly" id="edge17_Node000014_Node000011" title=" " alt="" coords="2238,409,2360,487,2357,491,2235,414"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a74de8876be56175c0837049f0d0d5451" title="Match calo hits to their parent particles." alt="" coords="1355,776,1562,835"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="411,528,478,566,558,603,662,639,770,671,985,723,1182,762,1340,787,1339,792,1181,767,984,728,768,676,660,644,556,608,475,571,409,532"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a93fee88a5ffdce30da66b6babc7ed78e" title="Get mapping from individual mc particles (in a provided list) and their primary parent mc particles." alt="" coords="1105,520,1282,563"/>
+<area shape="poly" id="edge22_Node000015_Node000019" title=" " alt="" coords="510,511,557,513,1089,535,1089,540,557,519,509,517"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3aea93800f8f409c1111c51982a2f2dd" title="Get mapping from individual mc particles (in a provided list) to themselves (to be used when not fold..." alt="" coords="579,379,756,421"/>
+<area shape="poly" id="edge24_Node000015_Node000020" title=" " alt="" coords="425,484,556,431,576,424,577,429,558,436,427,489"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a0ccfa2f10f38116b9f16ff6b8d11d61b" title="Get vector of primary MC particles from an input list of MC particles." alt="" coords="1350,579,1567,621"/>
+<area shape="poly" id="edge25_Node000015_Node000021" title=" " alt="" coords="510,523,557,528,985,566,1334,590,1334,595,984,571,557,533,509,528"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a7917077e78aec683a9779d8f5bac1997" title="Select a subset of calo hits representing those that represent &quot;reconstructable&quot; regions of the event..." alt="" coords="1370,679,1547,721"/>
+<area shape="poly" id="edge33_Node000015_Node000027" title=" " alt="" coords="450,527,558,555,779,598,1001,635,1355,685,1354,690,1000,640,778,603,556,560,449,533"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1ca504f25be7e759aeeb7b41312b15a0" title="Filter an input vector of MCParticles to ensure they have sufficient good hits to be reconstructable." alt="" coords="557,312,777,355"/>
+<area shape="poly" id="edge42_Node000015_Node000031" title=" " alt="" coords="396,484,464,425,509,393,556,364,568,359,570,363,558,369,512,397,468,429,400,488"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa214fa4f521912b13ef2f5d66793f0b0" title="Select mc particles matching given criteria from an input list." alt="" coords="564,445,771,504"/>
+<area shape="poly" id="edge45_Node000015_Node000034" title=" " alt="" coords="509,490,548,486,548,491,510,495"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="1629,784,1806,827"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="1563,803,1614,803,1614,808,1563,808"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="1617,851,1818,893"/>
+<area shape="poly" id="edge21_Node000016_Node000018" title=" " alt="" coords="1563,829,1618,844,1616,849,1562,835"/>
+<area shape="poly" id="edge23_Node000019_Node000013" title=" " alt="" coords="1283,543,1418,546,1574,543,1650,537,1719,529,1777,516,1818,499,1835,482,1842,463,1849,442,1866,421,1871,417,1874,421,1870,425,1854,444,1847,465,1840,485,1821,504,1778,521,1720,534,1651,543,1575,548,1418,551,1283,548"/>
+<area shape="poly" id="edge26_Node000021_Node000012" title=" " alt="" coords="1483,576,1678,408,1681,412,1487,580"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="1629,627,1806,669"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="1568,618,1614,626,1613,631,1567,623"/>
+<area shape="poly" id="edge31_Node000022_Node000011" title=" " alt="" coords="1807,644,1929,637,2064,620,2136,604,2208,584,2333,543,2334,548,2210,589,2137,609,2064,625,1929,643,1807,650"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="1896,568,2036,611"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="1806,624,1880,607,1881,612,1807,630"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1882,435,2050,477"/>
+<area shape="poly" id="edge29_Node000022_Node000024" title=" " alt="" coords="1793,624,1818,606,1829,592,1836,577,1841,548,1846,518,1853,503,1866,487,1869,485,1873,489,1870,491,1858,505,1851,520,1846,549,1841,579,1834,594,1822,610,1796,628"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="1896,501,2036,544"/>
+<area shape="poly" id="edge30_Node000022_Node000025" title=" " alt="" coords="1785,624,1818,606,1832,593,1841,580,1851,567,1866,554,1881,545,1884,550,1869,558,1855,571,1846,583,1836,597,1821,610,1787,629"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="1896,685,2036,728"/>
+<area shape="poly" id="edge32_Node000022_Node000026" title=" " alt="" coords="1807,666,1881,684,1880,689,1806,672"/>
+<area shape="poly" id="edge35_Node000027_Node000013" title=" " alt="" coords="1493,676,1549,644,1614,612,1646,602,1674,597,1724,594,1747,592,1770,586,1793,575,1818,555,1831,540,1838,524,1841,490,1845,456,1852,438,1866,421,1868,418,1872,422,1870,424,1857,441,1850,457,1847,491,1843,525,1835,542,1822,559,1796,579,1772,591,1748,597,1725,599,1675,602,1647,607,1616,617,1551,648,1495,681"/>
+<area shape="poly" id="edge34_Node000027_Node000017" title=" " alt="" coords="1505,719,1616,770,1633,776,1631,781,1614,774,1503,724"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3b57b29d152f1c4071ab9a90647d9ca2" title="Whether it is possible to navigate from a primary mc particle to a downstream mc particle without &quot;pa..." alt="" coords="1615,717,1820,760"/>
+<area shape="poly" id="edge36_Node000027_Node000028" title=" " alt="" coords="1548,711,1601,719,1600,724,1547,716"/>
+<area shape="poly" id="edge39_Node000028_Node000011" title=" " alt="" coords="1820,750,1938,753,2002,749,2063,737,2111,722,2157,702,2244,651,2317,596,2371,549,2374,553,2320,600,2246,655,2160,707,2113,727,2065,743,2002,754,1938,759,1820,755"/>
+<area shape="poly" id="edge40_Node000028_Node000026" title=" " alt="" coords="1820,723,1880,715,1881,720,1821,728"/>
+<area shape="poly" id="edge41_Node000028_Node000028" title=" " alt="" coords="1671,717,1669,707,1677,698,1693,693,1718,691,1744,693,1760,699,1758,704,1743,698,1717,696,1694,698,1680,703,1674,709,1676,716"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="1896,803,2036,845"/>
+<area shape="poly" id="edge37_Node000028_Node000029" title=" " alt="" coords="1787,758,1821,769,1891,794,1889,799,1819,775,1785,763"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="1896,869,2036,912"/>
+<area shape="poly" id="edge38_Node000028_Node000030" title=" " alt="" coords="1804,758,1821,770,1839,792,1846,814,1853,835,1869,855,1884,865,1881,870,1866,859,1848,837,1841,815,1834,794,1818,774,1801,763"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a1fafe4064c9c19c7879342013aa0918b" title="Count the number of calo hits, in a provided list, of a specified type." alt="" coords="844,316,1018,359"/>
+<area shape="poly" id="edge43_Node000031_Node000032" title=" " alt="" coords="778,332,829,333,829,338,778,338"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ad4ad337677175ff30070533491624e49" title="Apply further selection criteria to end up with a collection of &quot;good&quot; calo hits that can be use to d..." alt="" coords="839,249,1023,292"/>
+<area shape="poly" id="edge44_Node000031_Node000033" title=" " alt="" coords="759,309,824,293,825,299,760,314"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa8c8f2e918c4db379fe3c9023c83c446" title="Returns true if passed particle whose leading meets the passed criteria." alt="" coords="825,384,1037,427"/>
+<area shape="poly" id="edge46_Node000034_Node000035" title=" " alt="" coords="771,445,832,428,833,434,772,450"/>
+<area shape="rect" id="Node000038" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a8e0203dedb7103b3cd7f8b7fa7d044d6" title="Returns true if passed particle whose primary meets the passed criteria." alt="" coords="1088,453,1299,496"/>
+<area shape="poly" id="edge55_Node000034_Node000038" title=" " alt="" coords="771,472,1072,472,1072,477,771,477"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3784dab36efda32825e9a2ad53039e8e" title="Get the leading particle in the hierarchy, for use at ProtoDUNE." alt="" coords="1095,275,1292,317"/>
+<area shape="poly" id="edge47_Node000035_Node000036" title=" " alt="" coords="1001,381,1036,368,1136,322,1138,327,1038,373,1003,386"/>
+<area shape="poly" id="edge49_Node000036_Node000006" title=" " alt="" coords="1260,272,1281,259,1300,244,1311,229,1318,214,1322,184,1328,155,1335,140,1348,125,1351,122,1355,126,1352,129,1340,143,1333,156,1328,185,1323,216,1316,231,1304,247,1284,264,1262,276"/>
+<area shape="poly" id="edge48_Node000036_Node000007" title=" " alt="" coords="1292,291,2116,269,2116,274,1292,296"/>
+<area shape="poly" id="edge50_Node000036_Node000013" title=" " alt="" coords="1255,315,1416,366,1515,391,1616,409,1673,415,1717,417,1819,409,1852,406,1853,411,1820,415,1717,422,1672,421,1615,415,1514,396,1415,371,1253,320"/>
+<area shape="poly" id="edge54_Node000036_Node000014" title=" " alt="" coords="1292,295,1441,299,1634,309,1849,326,2064,353,2106,361,2105,367,2064,359,1848,332,1634,314,1441,304,1292,300"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a22f1bcd2d1edcf1b100824b24d0eba6c" title="Returns true if passed a primary beam MCParticle." alt="" coords="1370,139,1547,181"/>
+<area shape="poly" id="edge51_Node000036_Node000037" title=" " alt="" coords="1241,272,1301,243,1405,187,1407,191,1303,248,1244,277"/>
+<area shape="poly" id="edge52_Node000037_Node000009" title=" " alt="" coords="1548,156,1614,155,1614,160,1548,161"/>
+<area shape="poly" id="edge53_Node000037_Node000012" title=" " alt="" coords="1535,179,1569,198,1609,232,1644,270,1697,342,1693,345,1640,273,1605,235,1566,202,1533,184"/>
+<area shape="poly" id="edge56_Node000038_Node000013" title=" " alt="" coords="1300,487,1410,495,1541,497,1611,493,1682,485,1752,472,1819,454,1833,447,1843,439,1866,420,1878,415,1881,419,1869,425,1846,443,1836,451,1821,458,1753,477,1683,490,1612,498,1541,502,1410,501,1299,492"/>
+</map>

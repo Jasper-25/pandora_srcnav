@@ -1,0 +1,19 @@
+<map id="lar_content::LArMonitoringHelper::PrintMCParticleTable" name="lar_content::LArMonitoringHelper::PrintMCParticleTable">
+<area shape="rect" id="Node000001" title="Print details of selected MCParticles to the terminal in a table." alt="" coords="5,205,194,248"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a1fafe4064c9c19c7879342013aa0918b" title="Count the number of calo hits, in a provided list, of a specified type." alt="" coords="244,5,417,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,203,163,133,199,93,240,58,247,54,249,58,243,62,203,97,167,136,116,206"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="261,72,400,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,203,177,164,240,124,251,119,253,124,243,129,180,168,129,207"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="261,139,400,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,202,245,182,247,187,176,207"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="242,205,419,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,224,226,224,226,229,194,229"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="261,272,400,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,246,247,267,245,272,175,251"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pdg_table.html#acd97232061cb90ea2da8176b288c621d" title="Get the name of a particle type as a string." alt="" coords="262,339,399,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,246,180,285,243,324,253,329,251,334,240,329,177,289,125,250"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="261,405,400,448"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,247,167,317,203,357,243,391,249,395,247,400,240,395,199,360,163,321,112,250"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="467,205,644,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="419,224,451,224,451,229,419,229"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="lar_content::LArGeometryHelper::IsXSamplingPointInGap" name="lar_content::LArGeometryHelper::IsXSamplingPointInGap">
+<area shape="rect" id="Node000001" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="1833,51,2034,93"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_particle_recovery_algorithm.html#aec41ad6c9ebf74d1ce37068eb40cfcb8" title="Calculate effective span for a given clsuter taking gaps into account." alt="" coords="1568,16,1785,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1817,59,1785,55,1786,49,1818,54"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a217019da98c59e00aada7c9a5cef0fa0" title="Check individually each cluster where a gap might be present." alt="" coords="1572,84,1781,127"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1818,90,1782,94,1781,89,1817,84"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_particle_recovery_algorithm.html#aa7e83a04891348f0ef5af9aab746e885" title="Calculate effective overlap fractions taking into account gaps." alt="" coords="1291,5,1520,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1553,39,1521,38,1521,33,1553,33"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac85986434192420fb00867cfdd07f0af" title="Whether two clusters overlap convincingly in x." alt="" coords="1018,13,1209,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1276,37,1209,37,1209,32,1276,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac52744a6dc9a1eab5c78ceb9441ce2f2" title="Find cluster overlaps and record these in the overlap tensor." alt="" coords="726,13,916,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1003,37,917,37,917,32,1003,32"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab40b548d133dfc832cd57f3efcbc55b0" title="Run the algorithm." alt="" coords="468,13,658,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="710,37,659,37,659,32,710,32"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#aff78d042b0e216665bce3e7bfca34021" title="Check whether there is any gap in the three U&#45;V&#45;W clusters combination." alt="" coords="1308,88,1504,131"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1556,110,1504,111,1504,105,1556,104"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#aa1ace813b87b275c62a7e908f323cc75" title="Calculate the effective overlap span given a set of clusters, taking gaps into account." alt="" coords="984,88,1243,131"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1292,112,1244,112,1244,107,1292,107"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a661b56133b8071d01cf98cc4983c2abd" title="Calculate the effective overlap fractions given a set of clusters, taking gaps into account." alt="" coords="706,80,936,139"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="968,112,936,112,936,107,968,107"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a68bb8fa13794a5fe2d6caacb8ad421e9" title="Select a list of track&#45;like elements crossing a gap in one or more views from a set of connected tens..." alt="" coords="472,88,655,131"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="691,112,655,112,655,107,691,107"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#ac318e97bccac655cd6740fa05f999520" title="Find tracks crossing gaps, with unambiguous connection but poor overlap due to gaps." alt="" coords="237,88,420,131"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="456,112,421,112,421,107,456,107"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a4814a2748eb9f38d0faec6c3e56eb7a3" title="Run the algorithm tool." alt="" coords="5,88,189,131"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="221,112,189,112,189,107,221,107"/>
+</map>

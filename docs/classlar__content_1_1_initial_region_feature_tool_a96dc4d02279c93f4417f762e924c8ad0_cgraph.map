@@ -1,0 +1,31 @@
+<map id="lar_content::InitialRegionFeatureTool::Run" name="lar_content::InitialRegionFeatureTool::Run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,169,261"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#a6cb501a39f3ca93a700451ba30bcc8af" title="Determine the lowest, median and highest value from an input of three numbers." alt="" coords="217,181,438,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,225,201,220,202,225,169,230"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_initial_region_feature_tool.html#a4889ebb01378168fbce492d9c605bc26" title="Calculate the initial region variables for the input view." alt="" coords="219,248,436,307"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,250,204,255,203,261,168,255"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="507,5,674,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,245,436,234,451,212,458,191,459,147,460,103,468,81,484,58,492,51,495,55,488,62,472,83,465,104,464,148,463,192,456,215,440,238,427,249"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="506,72,674,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="422,245,436,234,447,221,454,208,459,180,465,153,472,139,484,125,491,119,495,123,488,129,476,142,470,155,464,182,459,209,452,224,440,238,425,249"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="490,139,690,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="418,245,436,234,451,219,459,205,468,190,484,175,495,169,497,174,488,180,472,193,464,207,455,223,440,238,421,250"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_proto_shower_match.html#af2a8d087d2a5c7f96ea4bc6b84ef2f56" title="Get the U view ProtoShower." alt="" coords="506,189,675,232"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="435,247,490,233,491,238,437,252"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_proto_shower_match.html#a3430a652c672a222a332416f18f7f809" title="Get the V view ProtoShower." alt="" coords="506,256,675,299"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="436,275,490,275,490,280,436,280"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_proto_shower_match.html#a5db9f8aba962ab5da00abdec0010a008" title="Get the W view ProtoShower." alt="" coords="504,323,677,365"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="437,302,489,316,488,321,435,307"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="507,389,674,432"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="371,305,425,341,487,375,501,381,499,386,485,380,422,345,368,309"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="486,456,694,499"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="351,305,408,374,446,410,487,442,496,447,493,451,485,446,442,414,404,377,347,309"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="505,523,675,565"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="343,306,365,351,396,405,438,461,488,509,494,513,491,517,484,513,434,464,392,408,360,353,338,308"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="742,456,911,499"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="667,520,733,501,734,506,669,525"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="742,523,911,565"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="676,541,726,541,726,547,676,547"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="742,589,911,632"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="669,563,734,582,733,587,667,568"/>
+</map>

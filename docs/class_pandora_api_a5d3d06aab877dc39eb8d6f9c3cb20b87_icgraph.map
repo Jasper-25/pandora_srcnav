@@ -1,0 +1,32 @@
+<map id="PandoraApi::SetCaloHitToMCParticleRelationship" name="PandoraApi::SetCaloHitToMCParticleRelationship">
+<area shape="rect" id="Node000001" title="Set calo hit to mc particle relationship." alt="" coords="767,305,940,348"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a8b8e63050c9fed846db550e96b48aff5" title="Copy a specified calo hit to the provided pandora instance." alt="" coords="529,139,717,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="809,298,653,184,656,180,812,294"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a873541735445905bb3fdfb8d35604085" title="Create links between the 2D hits and Pandora MC particles." alt="" coords="527,272,719,315"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="752,315,720,310,720,305,752,309"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_xml_file_reader.html#a17dbfc0da85bd700a9158463d9037b76" title="Read a relationship from the current position in the file, recreating the stored relationship." alt="" coords="544,339,702,381"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="752,344,703,351,703,346,751,339"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_binary_file_reader.html#a8c63bb6382b7b13c0a113ee1d04807fc" title="Read a relationship from the current position in the file, recreating the stored relationship." alt="" coords="536,405,710,448"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="800,358,720,396,691,407,689,402,718,391,797,353"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#aa0a6e153f0974db834891ae4f0fc4f25" title="Copy mc particles in the named input list to all pandora worker instances." alt="" coords="282,5,470,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,131,534,96,478,62,452,51,454,46,480,58,537,91,586,127"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#aca8703c760cb88061669c1e03f446a59" title="Run the cosmic&#45;ray reconstruction worker instances." alt="" coords="273,72,479,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="526,137,457,118,458,113,527,131"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="282,139,470,181"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="513,163,471,163,471,157,513,157"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#aaf15232ca65ed6ab5b9f22a565badcf0" title="Run the event slicing procedures, dividing available hits up into distinct 3D regions." alt="" coords="282,205,470,248"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="527,189,458,207,457,202,526,183"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,113,225,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="291,56,274,62,148,115,146,110,272,58,290,51"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="257,111,225,115,224,110,257,106"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="266,149,224,143,225,138,267,143"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="290,202,272,196,146,143,148,138,274,191,291,197"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora.html#a28d02ef2b57506377e53f085fd473d1a" title="Create pandora input hits, mc particles etc." alt="" coords="294,272,458,315"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="512,296,458,296,458,291,512,291"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="33,272,197,315"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="278,296,198,296,198,291,278,291"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_xml_file_reader.html#a97c0ff091cb4a9d01413f0d3f17ab23d" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="284,339,468,381"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="529,363,468,363,468,357,529,357"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_binary_file_reader.html#ac1adff701c472079c7f5c8e67fe3e447" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="284,405,468,448"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="521,429,468,429,468,424,521,424"/>
+</map>

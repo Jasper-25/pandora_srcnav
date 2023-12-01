@@ -1,0 +1,57 @@
+<map id="lar_content::AmbiguousRegionFeatureTool::GetViewAmbiguousHitVariables" name="lar_content::AmbiguousRegionFeatureTool::GetViewAmbiguousHitVariables">
+<area shape="rect" id="Node000001" title="Calculate the ambiguous region variables for the input view." alt="" coords="5,483,233,541"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_ambiguous_region_feature_tool.html#a9091fea3c4915851b3237180d0170670" title="Determine the spine hits of the particles with which the ambiguous hits are shared." alt="" coords="281,209,512,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,481,153,436,186,380,228,323,279,273,304,257,307,261,282,277,232,326,190,383,158,438,136,483"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_proto_shower.html#a5981b1101b4f9162021e5e20a64bd3c5" title="Get the ambiguous hit list." alt="" coords="619,5,786,48"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="126,481,145,423,177,347,221,267,248,230,279,195,315,164,354,137,439,93,526,62,603,41,605,46,527,67,442,98,357,142,318,168,283,199,252,233,226,270,182,350,150,425,131,483"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="619,272,787,315"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="139,481,196,414,236,380,279,352,361,321,447,302,530,292,603,288,603,293,530,297,447,307,362,326,282,357,239,384,200,418,143,484"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="619,339,787,381"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="147,480,205,432,241,408,280,390,362,366,448,353,530,349,603,350,603,355,530,354,449,359,364,371,282,394,244,413,208,436,151,484"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="619,405,787,448"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="157,480,213,445,246,429,280,417,364,402,450,398,531,400,603,407,603,413,531,406,450,403,364,407,281,423,248,434,216,450,160,485"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="313,432,480,475"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="233,485,297,472,298,477,234,490"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="296,499,497,525"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="233,509,281,509,281,515,233,515"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_proto_shower_match.html#af2a8d087d2a5c7f96ea4bc6b84ef2f56" title="Get the U view ProtoShower." alt="" coords="312,549,481,592"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="234,534,297,547,296,552,233,539"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_proto_shower_match.html#a3430a652c672a222a332416f18f7f809" title="Get the V view ProtoShower." alt="" coords="312,616,481,659"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="167,540,221,572,282,602,298,608,296,613,280,606,219,576,164,544"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_proto_shower_match.html#a5db9f8aba962ab5da00abdec0010a008" title="Get the W view ProtoShower." alt="" coords="310,683,483,725"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="145,540,202,605,240,639,282,668,297,676,294,681,279,673,237,643,199,609,141,543"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="313,749,480,792"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="136,541,158,584,190,637,232,690,282,735,300,746,297,750,279,739,228,694,186,640,153,587,131,543"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="292,816,501,859"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="131,541,150,597,180,667,224,740,252,773,282,802,288,806,284,810,279,806,248,777,220,743,176,670,145,599,126,543"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="311,883,482,925"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="128,541,142,608,171,697,192,744,217,789,247,832,282,869,299,880,296,884,279,873,243,835,212,792,187,746,166,699,137,610,122,542"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_ambiguous_region_feature_tool.html#a8e0a11b599ff2f198a7da1b3cc61dca0" title="Determine a continuous pathway of an ambigous particle&#39;s spine hits." alt="" coords="560,72,845,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,207,484,165,559,124,577,117,579,122,561,129,487,169,427,211"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_proto_shower.html#aedf2be3a9e705e50627fcc0962d5ae2b" title="Get the ambiguous direction vector." alt="" coords="601,139,805,181"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="491,206,592,183,593,188,493,211"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="419,207,510,116,532,84,542,71,559,58,603,38,605,43,561,62,546,75,536,88,514,119,423,211"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="504,250,604,271,603,276,503,255"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="429,250,489,288,561,324,604,338,603,344,559,329,486,293,427,255"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_ambiguous_region_feature_tool.html#a7f87490c3c4c8dc40ba9f557b5dd738f" title="Obtain the event hit list of a given view." alt="" coords="604,205,802,248"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="512,226,588,225,588,231,513,232"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="415,251,474,321,515,359,561,391,605,409,603,414,559,396,512,363,470,324,411,254"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="894,105,1086,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="846,107,879,111,879,116,846,113"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="893,15,1087,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="812,69,878,56,879,61,813,74"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="949,105,947,95,954,86,969,81,990,79,1013,81,1027,87,1025,92,1012,86,990,84,970,86,957,91,953,97,954,104"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="919,205,1061,248"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="802,224,904,224,904,229,802,229"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="1135,205,1276,248"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1061,224,1119,224,1119,229,1061,229"/>
+<area shape="poly" id="edge13_Node000012_Node000012" title=" " alt="" coords="1164,205,1163,195,1170,186,1184,181,1205,179,1228,181,1242,187,1240,192,1227,186,1205,184,1185,186,1173,191,1168,197,1170,204"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="906,405,1074,448"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="787,424,890,424,890,429,787,429"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="619,816,787,859"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="481,883,603,856,604,861,482,888"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="619,883,787,925"/>
+<area shape="poly" id="edge29_Node000022_Node000024" title=" " alt="" coords="482,901,603,901,603,907,482,907"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="619,949,787,992"/>
+<area shape="poly" id="edge30_Node000022_Node000025" title=" " alt="" coords="482,920,604,947,603,952,481,925"/>
+</map>

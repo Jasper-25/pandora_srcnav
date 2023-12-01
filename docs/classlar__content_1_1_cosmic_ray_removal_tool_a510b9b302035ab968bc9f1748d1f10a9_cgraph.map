@@ -1,0 +1,19 @@
+<map id="lar_content::CosmicRayRemovalTool::ReclusterRemnant" name="lar_content::CosmicRayRemovalTool::ReclusterRemnant">
+<area shape="rect" id="Node000001" title="Reculster a given remnant cluster, merging insignificant created clusters into the parent muon (if pr..." alt="" coords="5,212,215,255"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="287,29,478,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,210,181,146,219,112,261,82,271,76,274,81,264,86,222,116,185,150,129,213"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_delta_ray_matching_algorithm.html#a1e4bc03055d3088b2c47211274a318dc" title="Get the name of the clustering algorithm to be used to recluster created delta ray remnants." alt="" coords="263,96,502,155"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,209,262,164,278,158,279,163,264,169,160,214"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_n_view_matching_algorithm.html#a014c2a2b07a505891ea5bdac3cad6d0a" title="Get the cluster list name corresponding to a specified hit type." alt="" coords="282,179,483,221"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="215,218,266,212,267,217,216,223"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="300,245,465,288"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="216,244,284,252,284,257,215,249"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="550,304,691,347"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="152,253,204,277,263,297,334,311,405,319,535,325,534,330,405,325,333,316,262,303,202,282,149,257"/>
+<area shape="rect" id="Node000007" href="$class_pandora_content_api.html#a5afbbc0153e06ff23de2f1ca8621e460" title="Run a clustering algorithm (an algorithm that will create new cluster objects)" alt="" coords="304,363,461,405"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="138,253,194,297,264,342,292,354,290,359,261,346,190,301,134,257"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="337,29,335,19,343,10,359,5,382,3,408,5,423,11,421,16,407,10,382,8,360,10,346,15,341,21,342,28"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="466,284,536,302,534,307,465,290"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="576,304,574,294,581,285,597,279,621,277,646,280,661,286,659,291,645,285,621,283,598,285,584,289,579,295,581,303"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="461,362,534,344,536,349,462,367"/>
+</map>

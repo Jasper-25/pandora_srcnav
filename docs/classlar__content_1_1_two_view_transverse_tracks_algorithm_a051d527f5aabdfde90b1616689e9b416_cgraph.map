@@ -1,0 +1,22 @@
+<map id="lar_content::TwoViewTransverseTracksAlgorithm::GetPrimaryAxisDotDriftAxis" name="lar_content::TwoViewTransverseTracksAlgorithm::GetPrimaryAxisDotDriftAxis">
+<area shape="rect" id="Node000001" title="Get the dot product between the cluster&#39;s primary axis and the drift axis." alt="" coords="5,97,241,156"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a47df1d15358b292715e5bb31a6bc56a7" title="Get vector of hit coordinates from an input cluster." alt="" coords="289,39,480,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,94,283,83,284,88,241,99"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="300,105,469,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="241,124,284,124,284,129,241,129"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="298,196,471,239"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="211,154,307,188,305,193,209,159"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="528,5,719,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,44,512,40,513,45,481,49"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#a7e2dfdec4d4e010c8edf3e07d6b9ebf0" title="Sort cartesian vectors by their position (use Z, followed by X, followed by Y)" alt="" coords="528,72,719,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="481,71,513,75,512,80,480,76"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="767,5,936,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="698,69,761,50,762,55,699,74"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="767,72,936,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="720,91,752,91,752,96,720,96"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="767,139,936,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="699,113,762,131,761,136,698,118"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="339,196,337,186,345,177,361,171,384,169,410,172,425,178,423,183,409,177,384,175,362,177,348,181,342,187,344,195"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="530,196,718,239"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="471,215,514,215,514,220,471,220"/>
+</map>

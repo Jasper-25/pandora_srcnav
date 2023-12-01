@@ -1,0 +1,50 @@
+<map id="lar_content::CheatingClusterCreationAlgorithm::Run" name="lar_content::CheatingClusterCreationAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,309,191,352"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cheating_cluster_creation_algorithm.html#a7c9c83d005f4681622d7c5e45bfc8411" title="Create clusters based on information in the mc particle to hit list map." alt="" coords="239,205,457,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,306,279,252,282,257,152,311"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_cheating_cluster_creation_algorithm.html#a49d000782852d5fc82cde4155de1a22a" title="Create map between each (primary) MC particle and associated calo hits." alt="" coords="239,372,457,431"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="177,350,228,365,227,370,175,355"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a6a4629cb66bb2d7b801358188d2be561" title="Alter the metadata information stored in a cluster." alt="" coords="521,84,726,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,202,578,115,580,120,397,207"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="535,205,712,248"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="457,224,519,224,519,229,457,229"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_input_type.html#a41ce2e807f3031f281deb5d614c5765a" title="Reset the pandora type." alt="" coords="798,5,977,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="676,81,790,50,791,55,677,86"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="818,72,957,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="654,203,715,164,788,124,802,118,804,123,791,129,718,169,657,207"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="803,139,972,181"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="710,202,787,182,789,188,711,207"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="818,205,957,248"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="712,224,802,224,802,229,712,229"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="1322,505,1461,548"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="713,243,864,277,986,308,1136,355,1199,382,1275,424,1321,458,1360,492,1357,496,1318,462,1273,429,1197,387,1134,360,985,313,863,282,712,248"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="818,323,957,365"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="698,246,743,266,767,284,791,302,814,314,812,318,788,306,764,288,740,270,696,251"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="553,280,694,323"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="413,369,504,332,537,321,539,326,506,337,415,374"/>
+<area shape="rect" id="Node000014" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="553,347,694,389"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="457,386,537,376,537,381,457,391"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a93fee88a5ffdce30da66b6babc7ed78e" title="Get mapping from individual mc particles (in a provided list) and their primary parent mc particles." alt="" coords="535,480,712,523"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="415,429,506,465,527,472,525,478,504,471,413,434"/>
+<area shape="rect" id="Node000019" href="$class_pandora_content_api.html#a3499a61eb9739f782f671502f4979e45" title="Is object, or a list of objects, available as a building block." alt="" coords="553,413,694,456"/>
+<area shape="poly" id="edge21_Node000011_Node000019" title=" " alt="" coords="457,412,537,422,537,427,457,417"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_cheating_cluster_creation_algorithm.html#ad6604081eb890cbd7d91417b04a73742" title="Simple mc particle collection, using main mc particle associated with each calo hit." alt="" coords="505,547,741,605"/>
+<area shape="poly" id="edge23_Node000011_Node000020" title=" " alt="" coords="379,429,435,481,470,508,506,532,515,537,513,542,504,537,467,513,432,485,375,433"/>
+<area shape="rect" id="Node000013" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="817,413,958,456"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="695,313,743,332,768,353,791,375,834,403,831,408,788,379,764,357,740,337,693,318"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="838,413,836,403,844,394,861,389,888,387,916,389,932,395,931,400,914,394,887,392,862,394,847,399,841,405,843,412"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="695,383,803,411,801,416,694,388"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="789,480,986,523"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="712,499,774,499,774,504,712,504"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="1084,439,1224,481"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="986,483,1068,470,1069,476,987,489"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="1065,505,1243,548"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="987,508,1050,514,1049,519,986,513"/>
+<area shape="poly" id="edge20_Node000018_Node000009" title=" " alt="" coords="1243,524,1307,524,1307,529,1243,529"/>
+<area shape="poly" id="edge22_Node000019_Node000013" title=" " alt="" coords="694,432,802,432,802,437,694,437"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="799,547,976,589"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="742,570,784,568,784,574,742,575"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_cheating_cluster_creation_algorithm.html#ad12dec27184020459a0054986d7c6630" title="Check whether mc particle is of a type specified for inclusion in cheated clustering." alt="" coords="1034,584,1274,643"/>
+<area shape="poly" id="edge25_Node000020_Node000022" title=" " alt="" coords="742,593,790,599,906,607,1018,610,1018,615,906,612,789,604,741,598"/>
+<area shape="poly" id="edge26_Node000022_Node000009" title=" " alt="" coords="1235,581,1316,551,1317,556,1237,586"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="lar_content::LArClusterHelper::GetEnergyFromLength" name="lar_content::LArClusterHelper::GetEnergyFromLength">
+<area shape="rect" id="Node000001" title="Get energy of cluster, based on length." alt="" coords="5,189,197,232"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#ad5e43543ab3a041efac7f3a2c0cf6ea0" title="Get length of cluster." alt="" coords="245,189,436,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,208,229,208,229,213,197,213"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#ad25a3f6ab4539b67890161352e50bf1c" title="Get length squared of cluster." alt="" coords="484,189,675,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,208,468,208,468,213,437,213"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="738,5,922,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,187,646,123,682,88,722,58,730,53,733,58,725,62,685,92,650,127,598,191"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="738,72,922,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="612,187,663,155,722,124,737,118,739,123,724,129,665,160,615,191"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="723,139,937,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="673,186,754,167,756,172,674,191"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="734,189,926,232"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="676,208,719,208,719,213,676,213"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="746,256,914,299"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="663,230,734,249,732,254,662,235"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="746,323,914,365"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="608,230,660,270,725,308,737,314,735,319,722,313,657,274,605,235"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="746,389,914,432"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="596,231,647,302,683,341,725,375,733,380,731,385,722,380,679,345,643,305,592,234"/>
+</map>

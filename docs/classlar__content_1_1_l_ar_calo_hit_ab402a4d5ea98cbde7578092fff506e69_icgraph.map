@@ -1,0 +1,21 @@
+<map id="lar_content::LArCaloHit::GetDaughterVolumeId" name="lar_content::LArCaloHit::GetDaughterVolumeId">
+<area shape="rect" id="Node000001" title="Get the daughter volume id." alt="" coords="1309,88,1465,131"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_calo_hit.html#ad741d00661e70c3f6a8d2fb9c4186414" title="Fill the parameters associated with this calo hit." alt="" coords="1084,21,1239,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1297,86,1236,67,1237,62,1299,81"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#aefdf17ed5a61e61a13bb92e5875810d1" title="Get the set of the daughter volumes that contains the cluster." alt="" coords="1066,88,1257,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1293,112,1258,112,1258,107,1293,107"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a51d0a6755f6fa51443bc0c01d59e78dd" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="1062,155,1261,197"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1299,138,1237,157,1236,151,1297,133"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_geometry_helper.html#a82a137b6e893ef2f0943e999a75465db" title="Return the set of common daughter volumes between two 2D clusters." alt="" coords="771,88,1014,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1050,112,1014,112,1014,107,1050,107"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_view_transverse_tracks_algorithm.html#aea534b66fe656e2928fcd69d845428c1" title="Calculates the two view overlap result." alt="" coords="503,5,723,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="795,86,723,67,724,62,796,81"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cosmic_ray_track_recovery_algorithm.html#aa342f31a12707eac48723aef989a8867" title="Match a seed cluster with a list of target clusters and populate the cluster association map." alt="" coords="502,88,723,131"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="756,112,724,112,724,107,756,107"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cosmic_ray_base_matching_algorithm.html#aea3cc188e21c9a41332776a945fc332a" title="Match sets of clusters from two views." alt="" coords="502,155,723,197"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="786,137,706,157,705,151,785,132"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_track_recovery_algorithm.html#a7f88c71ceed268ee8beed3692d5c496d" title="Match a pair of cluster vectors and populate the cluster association map." alt="" coords="246,88,454,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="486,112,455,112,455,107,486,107"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cosmic_ray_track_recovery_algorithm.html#a6ffbe773373fbedeb3f65e6b19b451e2" title="Run the algorithm." alt="" coords="5,88,198,131"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="230,112,198,112,198,107,230,107"/>
+</map>

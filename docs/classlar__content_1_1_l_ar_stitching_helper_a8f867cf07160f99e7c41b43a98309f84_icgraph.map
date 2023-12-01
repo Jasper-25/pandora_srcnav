@@ -1,0 +1,14 @@
+<map id="lar_content::LArStitchingHelper::GetTPCBoundaryCenterX" name="lar_content::LArStitchingHelper::GetTPCBoundaryCenterX">
+<area shape="rect" id="Node000001" title="Determine centre in X at the boundary between a pair of tpcs." alt="" coords="755,72,968,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a44a398e676055f8965a009e0e73462cb" title="Calculate x0 shift for a group of associated Pfos." alt="" coords="498,5,688,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,70,681,51,682,46,759,65"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a9acebbb913e33146b4cc87e74bfbb0ae" title="Create associations between Pfos using 3D pointing clusters." alt="" coords="478,72,707,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="740,96,708,96,708,91,740,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#ab8e7bb47406b019344c558a198cec938" title="Shift a pfo given its pfo stitching pair." alt="" coords="499,139,687,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="759,122,682,141,681,135,757,116"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a53215d62da054a9866bf09b2c1889989" title="Apply X0 corrections, and then stitch together Pfos." alt="" coords="242,72,430,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,55,421,74,420,69,492,50"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a1f9ac3835d752458d2b0ec4c25f71a2d" title="Run the algorithm tool." alt="" coords="5,72,194,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,96,194,96,194,91,226,91"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="492,137,420,118,421,113,494,132"/>
+</map>

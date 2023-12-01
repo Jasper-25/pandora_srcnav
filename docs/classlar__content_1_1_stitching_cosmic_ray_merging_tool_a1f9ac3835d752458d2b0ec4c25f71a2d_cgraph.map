@@ -1,0 +1,137 @@
+<map id="lar_content::StitchingCosmicRayMergingTool::Run" name="lar_content::StitchingCosmicRayMergingTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,613,194,656"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a75e17a276446ba05dd4c9d8e24e6aa60" title="Build a 3D pointing cluster for each Pfo." alt="" coords="242,555,513,597"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,612,258,598,259,604,195,617"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a96cbbf92cd7d8322d5917ceb31c75e7e" title="Build a list of Pfos for each tpc." alt="" coords="273,264,482,307"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="101,612,113,553,138,473,156,430,179,389,207,350,240,317,257,305,260,309,243,321,211,354,184,392,161,433,143,475,119,554,107,613"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a644a74fa7f4ac21c7bc7b9227f789bfe" title="Create associations between Pfos using 3D pointing clusters." alt="" coords="573,928,802,971"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="115,655,135,687,164,725,201,764,243,795,280,812,314,821,345,823,376,822,440,823,475,830,514,846,530,856,540,867,549,878,563,890,616,919,614,924,559,894,545,882,536,871,526,860,512,850,473,835,439,828,376,828,345,828,313,826,278,817,240,800,197,768,160,729,131,690,111,658"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="260,453,495,480"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="114,611,165,550,200,517,240,490,254,483,256,488,243,494,203,521,168,553,118,614"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="277,504,478,531"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="126,611,177,574,241,540,262,533,264,538,243,545,180,579,129,615"/>
+<area shape="rect" id="Node000021" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="307,85,448,128"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="103,612,119,548,147,456,187,352,212,300,239,251,287,187,337,137,341,140,291,191,244,253,217,302,192,354,153,458,125,550,108,614"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="287,621,468,648"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="194,632,271,632,271,637,194,637"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a72fab5e99a060b3684952da45a7c78a4" title="Identify the vertex Pfo and then re&#45;order the map of merges so that the vertex Pfo will be enlarged." alt="" coords="269,331,486,373"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="111,612,162,532,199,484,240,439,280,407,321,379,324,384,283,411,243,443,203,487,167,535,115,614"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a9e2ce28ebbb7ba8192a4f502e0b3a51a" title="Select the best associations between Pfos; create a mapping between associated Pfos,..." alt="" coords="263,672,492,715"/>
+<area shape="poly" id="edge44_Node000001_Node000034" title=" " alt="" coords="195,652,259,666,258,671,193,657"/>
+<area shape="rect" id="Node000038" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a08b0ca024ff87251435fc266473e519c" title="Create an initial map of Pfo merges to be made." alt="" coords="267,743,488,785"/>
+<area shape="poly" id="edge49_Node000001_Node000038" title=" " alt="" coords="130,654,181,690,243,724,269,735,267,740,241,729,178,694,127,659"/>
+<area shape="rect" id="Node000040" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#af8de4e04ae3cf0cf84541e60dac3e22e" title="Select primary Pfos from the input list of Pfos." alt="" coords="262,1109,493,1152"/>
+<area shape="poly" id="edge53_Node000001_Node000040" title=" " alt="" coords="109,656,127,715,156,797,195,890,244,980,293,1044,343,1097,339,1100,289,1048,239,983,191,892,151,799,122,716,104,657"/>
+<area shape="rect" id="Node000047" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="284,927,471,969"/>
+<area shape="poly" id="edge64_Node000001_Node000047" title=" " alt="" coords="108,656,122,709,148,778,166,815,188,851,213,884,243,913,270,929,268,933,240,917,209,888,183,854,161,818,143,781,117,710,103,657"/>
+<area shape="rect" id="Node000048" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a53215d62da054a9866bf09b2c1889989" title="Apply X0 corrections, and then stitch together Pfos." alt="" coords="283,860,472,903"/>
+<area shape="poly" id="edge65_Node000001_Node000048" title=" " alt="" coords="112,655,131,695,159,745,197,796,243,839,271,855,268,859,240,843,193,799,155,748,126,697,107,658"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#a13bdb547f45c2729806f42e6f2bb698e" title="Get the list of 3D clusters from an input pfo." alt="" coords="603,315,772,357"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,552,511,541,527,520,534,500,535,456,535,412,543,389,559,367,587,349,590,353,563,371,547,392,540,413,540,456,539,500,532,523,515,545,500,556"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="867,381,1059,424"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="773,354,858,375,857,380,772,359"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="871,448,1055,491"/>
+<area shape="poly" id="edge5_Node000003_Node000008" title=" " alt="" coords="774,347,816,367,833,384,841,401,849,418,864,434,870,438,866,442,861,438,844,421,836,403,828,387,813,372,772,352"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="1112,605,1315,632"/>
+<area shape="poly" id="edge4_Node000004_Node000006" title=" " alt="" coords="1051,422,1066,434,1081,454,1088,475,1090,515,1092,554,1099,573,1114,591,1117,595,1114,599,1110,595,1094,576,1086,555,1084,516,1083,476,1076,457,1062,438,1047,426"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="636,928,634,918,643,909,661,903,688,901,717,904,735,910,733,915,716,909,688,907,661,909,645,913,639,919,641,927"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_stitching_helper.html#a0cba0037a530996dfc96bd5a06bb6ccc" title="Whether particles from a given pair of tpcs can be stitched together." alt="" coords="870,848,1056,891"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="763,925,872,893,873,898,765,930"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_stitching_helper.html#a0a18264432835366dd5a2d6925222612" title="Sort tpcs by central positions." alt="" coords="1131,723,1296,765"/>
+<area shape="poly" id="edge15_Node000010_Node000018" title=" " alt="" coords="760,925,788,910,812,890,824,875,830,859,833,827,838,796,846,781,861,767,890,749,921,736,987,721,1054,718,1116,722,1116,728,1054,723,988,726,923,741,892,754,864,771,851,784,843,798,838,828,835,860,828,877,816,894,791,914,763,930"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_stitching_helper.html#a58b74fc1e2a8595c6186b3ec1c00e0bb" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="1129,789,1298,832"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="1056,845,1113,831,1114,837,1057,850"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_l_ar_t_p_c.html#a63735738ed5938f56845d7867364b754" title="Whether the electron drift is in the positive x direction." alt="" coords="1133,957,1294,1000"/>
+<area shape="poly" id="edge13_Node000011_Node000017" title=" " alt="" coords="1015,889,1150,948,1148,953,1013,894"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="1364,821,1558,848"/>
+<area shape="poly" id="edge10_Node000012_Node000013" title=" " alt="" coords="1299,816,1348,821,1348,826,1298,822"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="1363,708,1559,735"/>
+<area shape="poly" id="edge11_Node000012_Node000014" title=" " alt="" coords="1287,786,1314,775,1337,759,1362,744,1380,737,1382,742,1364,749,1340,764,1316,780,1289,791"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="1364,759,1558,785"/>
+<area shape="poly" id="edge12_Node000012_Node000015" title=" " alt="" coords="1298,795,1356,786,1357,791,1299,800"/>
+<area shape="poly" id="edge16_Node000018_Node000013" title=" " alt="" coords="1284,763,1316,775,1364,795,1410,813,1408,818,1362,800,1314,780,1282,768"/>
+<area shape="poly" id="edge17_Node000018_Node000014" title=" " alt="" coords="1296,734,1347,729,1348,734,1296,739"/>
+<area shape="poly" id="edge18_Node000018_Node000015" title=" " alt="" coords="1296,751,1349,757,1348,762,1296,756"/>
+<area shape="rect" id="Node000022" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="617,29,758,72"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="448,91,602,63,603,69,449,97"/>
+<area shape="poly" id="edge23_Node000022_Node000022" title=" " alt="" coords="636,29,634,19,643,10,661,5,688,3,717,5,735,11,733,16,716,10,688,8,661,10,645,15,639,21,641,28"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_l_ar_stitching_helper.html#ab8501ac1d0db79ecc858c84b346592f9" title="Given a pair of pointing clusters, find the pair of vertices with smallest yz&#45;separation." alt="" coords="873,781,1053,824"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="420,371,486,403,562,433,600,442,635,445,698,442,727,442,757,447,786,460,816,485,838,513,848,541,851,569,849,597,845,655,850,685,865,717,887,746,915,770,911,774,884,750,860,720,845,687,840,655,844,596,845,569,843,542,833,516,812,489,783,465,755,452,727,447,698,447,635,450,599,448,560,439,483,408,418,376"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="1133,656,1294,699"/>
+<area shape="poly" id="edge32_Node000024_Node000026" title=" " alt="" coords="485,332,511,317,527,297,533,275,540,253,548,243,560,234,594,216,626,206,655,201,684,202,743,214,815,233,895,253,958,273,986,288,1013,308,1039,334,1066,368,1086,405,1093,441,1092,476,1087,509,1083,542,1083,575,1092,608,1114,642,1122,650,1118,654,1110,646,1087,610,1078,576,1077,542,1082,509,1087,475,1088,442,1081,407,1061,371,1035,337,1009,312,983,293,956,278,894,258,814,239,742,219,683,207,655,207,627,211,596,221,562,238,552,246,545,255,538,276,532,299,515,321,487,336"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="1133,539,1294,581"/>
+<area shape="poly" id="edge33_Node000024_Node000027" title=" " alt="" coords="484,334,511,317,524,302,530,286,533,253,536,220,544,204,560,190,593,179,653,171,814,164,974,169,1032,178,1065,190,1084,209,1097,229,1105,249,1108,269,1106,311,1097,354,1087,397,1082,440,1089,482,1099,504,1114,525,1122,533,1118,537,1110,528,1094,506,1084,484,1077,440,1081,396,1092,352,1101,310,1103,270,1099,250,1092,231,1080,212,1062,194,1031,183,974,175,814,169,653,176,595,184,562,194,549,207,541,221,538,253,535,287,528,305,515,321,487,338"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_l_ar_stitching_helper.html#aa2a82fd921e0091deca49776e7f6b44b" title="Calculate distance between central positions of a pair of tpcs." alt="" coords="1118,472,1309,515"/>
+<area shape="poly" id="edge34_Node000024_Node000030" title=" " alt="" coords="484,335,511,317,527,295,533,273,532,227,530,204,532,181,540,159,559,139,603,117,663,101,734,93,811,90,887,94,959,103,1020,118,1065,139,1103,171,1133,209,1158,252,1177,297,1201,385,1212,456,1207,457,1196,386,1172,299,1153,254,1129,212,1099,174,1062,144,1018,123,958,108,887,99,811,95,735,98,664,107,605,122,563,143,545,162,537,183,535,204,537,227,539,274,532,298,515,321,487,339"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#ae3f63b089d733e9bebee92762dbe63b1" title="Is this the inner vertex." alt="" coords="592,248,784,291"/>
+<area shape="poly" id="edge38_Node000024_Node000031" title=" " alt="" coords="470,328,512,316,560,300,586,293,587,298,562,305,514,321,472,333"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_l_ar_pfo_helper.html#a99faf37b2fbe797865e4c26f2221d911" title="Sort pfos by number of constituent hits." alt="" coords="603,747,772,789"/>
+<area shape="poly" id="edge39_Node000024_Node000032" title=" " alt="" coords="432,372,477,400,498,418,515,440,535,481,541,520,539,557,533,593,528,628,529,663,539,697,563,733,590,752,587,757,559,737,534,700,523,664,523,628,528,593,534,557,536,520,529,483,511,443,494,422,474,404,430,376"/>
+<area shape="poly" id="edge27_Node000025_Node000013" title=" " alt="" coords="1029,822,1112,841,1172,847,1234,849,1348,844,1349,850,1234,854,1172,852,1111,847,1027,827"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="993,778,1047,743,1110,708,1124,702,1126,707,1113,713,1049,748,996,783"/>
+<area shape="poly" id="edge29_Node000025_Node000027" title=" " alt="" coords="996,779,1030,751,1062,717,1071,700,1077,684,1082,653,1088,623,1096,607,1110,591,1118,585,1121,589,1114,595,1101,610,1093,624,1087,654,1082,685,1076,702,1066,720,1034,755,1000,783"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="1121,1091,1306,1133"/>
+<area shape="poly" id="edge30_Node000025_Node000028" title=" " alt="" coords="1052,823,1066,834,1086,866,1094,897,1094,927,1090,958,1086,988,1086,1017,1094,1047,1114,1077,1115,1079,1112,1082,1110,1080,1089,1049,1081,1018,1081,987,1085,957,1089,927,1089,897,1081,868,1062,838,1049,827"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1129,1024,1298,1067"/>
+<area shape="poly" id="edge31_Node000025_Node000029" title=" " alt="" coords="1051,822,1066,834,1082,857,1089,880,1090,924,1091,967,1098,989,1114,1010,1118,1015,1115,1019,1110,1014,1094,991,1086,968,1085,924,1084,881,1077,859,1062,838,1048,827"/>
+<area shape="poly" id="edge35_Node000030_Node000013" title=" " alt="" coords="1304,513,1317,525,1339,560,1348,594,1347,628,1342,662,1337,695,1337,728,1344,761,1365,796,1385,812,1381,816,1361,799,1339,763,1331,729,1332,694,1337,661,1342,628,1343,595,1334,562,1313,528,1300,517"/>
+<area shape="poly" id="edge36_Node000030_Node000014" title=" " alt="" coords="1297,513,1317,525,1361,564,1398,610,1428,655,1449,693,1444,696,1423,658,1394,613,1357,568,1313,529,1294,518"/>
+<area shape="poly" id="edge37_Node000030_Node000015" title=" " alt="" coords="1303,513,1317,525,1336,553,1344,582,1344,610,1341,638,1338,665,1338,692,1346,718,1365,745,1367,747,1364,751,1361,748,1341,721,1333,693,1332,665,1335,637,1339,610,1338,583,1331,556,1313,528,1300,517"/>
+<area shape="poly" id="edge40_Node000032_Node000004" title=" " alt="" coords="772,758,794,748,812,733,836,696,845,660,844,624,837,587,830,550,828,512,837,473,860,434,862,433,866,436,864,438,841,475,833,512,835,549,842,586,849,623,850,661,841,698,816,736,797,752,774,762"/>
+<area shape="poly" id="edge43_Node000032_Node000006" title=" " alt="" coords="772,753,793,744,813,733,829,713,835,691,842,670,861,650,917,623,977,608,1038,601,1096,601,1096,607,1039,607,978,613,919,628,864,654,847,672,840,693,833,715,816,737,796,749,774,758"/>
+<area shape="poly" id="edge41_Node000032_Node000008" title=" " alt="" coords="772,755,794,746,813,733,826,718,835,703,842,674,846,641,860,603,895,548,931,501,935,504,899,551,865,605,851,642,847,675,839,705,830,721,816,737,796,751,774,760"/>
+<area shape="rect" id="Node000033" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="865,664,1061,707"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="772,744,814,732,884,710,886,715,815,737,774,749"/>
+<area shape="poly" id="edge48_Node000034_Node000032" title=" " alt="" coords="470,713,588,741,587,747,469,718"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#adb8b8dedf0db43b6df253d29ddeffd9a" title="Get daughter." alt="" coords="583,581,792,640"/>
+<area shape="poly" id="edge45_Node000034_Node000035" title=" " alt="" coords="468,669,512,657,568,642,570,647,514,663,470,674"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#ab5a18ad279ca015d078eb33afad3ca0f" title="Get figure of merit." alt="" coords="583,664,792,723"/>
+<area shape="poly" id="edge46_Node000034_Node000036" title=" " alt="" coords="492,691,567,691,567,696,492,696"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#a01bc44f404f643800f2476f16b8696da" title="Get parent." alt="" coords="583,499,792,557"/>
+<area shape="poly" id="edge47_Node000034_Node000037" title=" " alt="" coords="491,671,511,658,528,637,535,614,541,591,559,567,569,560,572,565,563,571,546,593,540,616,533,639,515,662,493,675"/>
+<area shape="poly" id="edge52_Node000038_Node000032" title=" " alt="" coords="488,763,588,764,587,769,488,768"/>
+<area shape="rect" id="Node000039" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a6535a24a0c1868c8398f272340c496d4" title="Collect up associations between Pfos." alt="" coords="561,837,814,880"/>
+<area shape="poly" id="edge50_Node000038_Node000039" title=" " alt="" coords="454,783,514,801,604,830,602,835,512,807,452,788"/>
+<area shape="poly" id="edge51_Node000039_Node000039" title=" " alt="" coords="636,837,634,827,643,818,661,813,688,811,717,813,735,819,733,824,716,818,688,816,661,818,645,823,639,829,641,836"/>
+<area shape="poly" id="edge63_Node000040_Node000032" title=" " alt="" coords="403,1107,458,1053,486,1018,511,980,521,954,526,930,527,886,532,843,541,821,559,799,587,780,590,785,563,803,546,824,537,845,532,886,532,931,527,956,515,983,491,1021,461,1056,406,1111"/>
+<area shape="rect" id="Node000041" href="$classlar__content_1_1_l_ar_pfo_helper.html#a09e2deb53cebbcf5d1db1b8c077362b0" title="Whether a pfo is a primary parent particle." alt="" coords="603,1288,772,1331"/>
+<area shape="poly" id="edge54_Node000040_Node000041" title=" " alt="" coords="418,1150,637,1278,634,1282,415,1155"/>
+<area shape="rect" id="Node000046" href="$classlar__content_1_1_l_ar_pfo_helper.html#a27f209ca33e90399c1e0cc56230dd9f7" title="Return track flag based on Pfo Particle ID." alt="" coords="878,1435,1048,1477"/>
+<area shape="poly" id="edge61_Node000040_Node000046" title=" " alt="" coords="393,1151,420,1192,458,1243,506,1296,562,1340,636,1379,716,1408,793,1428,864,1442,863,1447,792,1434,714,1413,634,1384,560,1345,503,1299,454,1246,415,1195,389,1154"/>
+<area shape="rect" id="Node000042" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="1121,1284,1306,1327"/>
+<area shape="poly" id="edge55_Node000041_Node000042" title=" " alt="" coords="773,1304,862,1303,1105,1302,1105,1307,862,1308,773,1310"/>
+<area shape="rect" id="Node000043" href="$classlar__content_1_1_l_ar_pfo_helper.html#a3b6b4122d5463ac81c2a4ffaff292814" title="Whether a pfo is a neutrino or (antineutrino)" alt="" coords="1129,1376,1298,1419"/>
+<area shape="poly" id="edge56_Node000041_Node000043" title=" " alt="" coords="739,1329,798,1351,863,1369,927,1381,993,1388,1113,1395,1113,1400,992,1393,926,1386,862,1375,796,1356,737,1334"/>
+<area shape="rect" id="Node000045" href="$classlar__content_1_1_l_ar_pfo_helper.html#a968e4ba1db6de993a8cf8a161eaa1ec5" title="Whether a pfo is a final&#45;state particle from a neutrino (or antineutrino) interaction." alt="" coords="878,1317,1048,1360"/>
+<area shape="poly" id="edge58_Node000041_Node000045" title=" " alt="" coords="773,1316,863,1325,862,1331,772,1321"/>
+<area shape="rect" id="Node000044" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="1369,1405,1553,1448"/>
+<area shape="poly" id="edge57_Node000043_Node000044" title=" " alt="" coords="1299,1405,1354,1411,1353,1417,1298,1410"/>
+<area shape="poly" id="edge59_Node000045_Node000042" title=" " alt="" coords="1048,1325,1105,1317,1106,1322,1049,1330"/>
+<area shape="poly" id="edge60_Node000045_Node000043" title=" " alt="" coords="1049,1356,1114,1371,1113,1377,1048,1361"/>
+<area shape="poly" id="edge62_Node000046_Node000044" title=" " alt="" coords="1048,1448,1353,1430,1354,1436,1048,1454"/>
+<area shape="poly" id="edge77_Node000048_Node000011" title=" " alt="" coords="473,893,515,913,531,930,539,949,546,966,562,980,630,1010,659,1017,688,1020,717,1017,746,1010,813,980,830,965,837,947,845,927,861,907,877,896,880,901,864,911,849,930,842,949,834,968,816,985,748,1015,717,1022,688,1025,659,1022,628,1015,560,985,542,969,534,951,527,933,511,917,471,898"/>
+<area shape="poly" id="edge82_Node000048_Node000032" title=" " alt="" coords="422,857,487,828,560,799,587,790,589,795,562,804,489,833,424,862"/>
+<area shape="rect" id="Node000049" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a44a398e676055f8965a009e0e73462cb" title="Calculate x0 shift for a group of associated Pfos." alt="" coords="593,1045,783,1088"/>
+<area shape="poly" id="edge66_Node000048_Node000049" title=" " alt="" coords="473,890,495,899,515,913,527,927,535,941,540,970,545,998,551,1011,563,1025,580,1038,577,1042,559,1029,547,1014,540,1000,535,971,530,943,523,930,511,917,492,904,471,895"/>
+<area shape="rect" id="Node000060" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#ab8e7bb47406b019344c558a198cec938" title="Shift a pfo given its pfo stitching pair." alt="" coords="869,1200,1057,1243"/>
+<area shape="poly" id="edge78_Node000048_Node000060" title=" " alt="" coords="473,888,495,898,515,913,532,936,540,960,542,983,540,1007,539,1030,540,1053,547,1076,563,1098,593,1125,628,1148,664,1167,703,1182,781,1203,854,1214,853,1219,780,1208,701,1187,662,1172,625,1153,590,1130,559,1102,542,1078,535,1054,533,1030,535,1007,537,983,535,961,528,939,511,917,493,903,471,893"/>
+<area shape="rect" id="Node000067" href="$classlar__content_1_1_master_algorithm.html#a470f97f608ac5f7ff2136d3e2bd9a498" title="Stitch together a pair of pfos." alt="" coords="594,381,782,424"/>
+<area shape="poly" id="edge83_Node000048_Node000067" title=" " alt="" coords="434,857,476,832,495,815,511,796,532,754,540,716,540,679,535,643,530,606,530,568,538,528,559,485,587,454,620,430,624,434,590,458,563,488,543,530,535,569,536,606,540,642,545,679,545,716,537,756,515,799,499,819,479,836,437,862"/>
+<area shape="poly" id="edge71_Node000049_Node000011" title=" " alt="" coords="782,1045,813,1025,824,1011,831,997,836,968,841,938,848,923,860,907,873,897,876,901,864,911,853,926,846,940,842,969,836,999,829,1014,816,1029,784,1049"/>
+<area shape="poly" id="edge72_Node000049_Node000013" title=" " alt="" coords="777,1043,813,1024,827,1011,836,997,845,983,861,970,900,951,952,933,1082,900,1225,871,1353,848,1354,854,1226,876,1083,905,953,938,902,956,864,974,849,987,840,1000,831,1015,816,1029,779,1047"/>
+<area shape="poly" id="edge76_Node000049_Node000017" title=" " alt="" coords="762,1042,813,1024,837,1012,862,1001,927,988,994,979,1117,974,1117,979,995,985,928,993,863,1007,839,1017,815,1029,764,1047"/>
+<area shape="poly" id="edge73_Node000049_Node000025" title=" " alt="" coords="735,1042,776,1016,812,981,824,962,830,943,833,907,838,871,846,853,860,834,863,832,867,836,864,838,850,855,843,872,838,907,835,944,829,964,816,984,779,1020,738,1047"/>
+<area shape="poly" id="edge74_Node000049_Node000028" title=" " alt="" coords="783,1072,1106,1100,1106,1105,783,1077"/>
+<area shape="rect" id="Node000050" href="$classlar__content_1_1_l_ar_stitching_helper.html#af53caf07c587789d1259c7b5ac48072f" title="Calculate X0 for a pair of vertices." alt="" coords="881,1016,1045,1059"/>
+<area shape="poly" id="edge67_Node000049_Node000050" title=" " alt="" coords="783,1054,865,1045,865,1050,784,1059"/>
+<area shape="rect" id="Node000058" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="862,1133,1064,1176"/>
+<area shape="poly" id="edge75_Node000049_Node000058" title=" " alt="" coords="758,1086,880,1126,879,1131,756,1091"/>
+<area shape="poly" id="edge70_Node000050_Node000017" title=" " alt="" coords="1045,1015,1117,998,1118,1004,1046,1021"/>
+<area shape="poly" id="edge68_Node000050_Node000028" title=" " alt="" coords="1038,1057,1125,1083,1124,1088,1037,1062"/>
+<area shape="poly" id="edge69_Node000050_Node000029" title=" " alt="" coords="1046,1037,1114,1039,1113,1045,1046,1043"/>
+<area shape="poly" id="edge79_Node000060_Node000013" title=" " alt="" coords="1058,1220,1120,1215,1187,1202,1254,1179,1285,1163,1313,1143,1345,1113,1372,1077,1395,1039,1413,999,1439,922,1453,863,1458,864,1444,924,1418,1001,1399,1041,1376,1080,1349,1116,1317,1147,1288,1168,1256,1184,1189,1207,1120,1220,1058,1226"/>
+<area shape="poly" id="edge80_Node000060_Node000028" title=" " alt="" coords="1033,1197,1063,1186,1159,1139,1161,1143,1065,1190,1035,1202"/>
+<area shape="poly" id="edge81_Node000060_Node000029" title=" " alt="" coords="1046,1197,1062,1186,1073,1173,1080,1160,1085,1133,1091,1105,1098,1091,1110,1077,1114,1073,1118,1077,1114,1081,1102,1094,1096,1107,1090,1134,1085,1162,1078,1176,1065,1190,1049,1202"/>
+<area shape="poly" id="edge84_Node000067_Node000004" title=" " alt="" coords="782,400,852,400,852,405,782,405"/>
+<area shape="poly" id="edge85_Node000067_Node000008" title=" " alt="" coords="779,422,858,441,857,446,778,427"/>
+</map>

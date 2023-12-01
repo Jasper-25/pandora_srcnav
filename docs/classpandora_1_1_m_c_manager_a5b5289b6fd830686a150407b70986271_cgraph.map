@@ -1,0 +1,17 @@
+<map id="pandora::MCManager::SelectPfoTargets" name="pandora::MCManager::SelectPfoTargets">
+<area shape="rect" id="Node000001" title="Select pfo targets." alt="" coords="5,105,151,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_pandora.html#aab2e2d035180c60b2219bf30810bebdd" title="Get the pandora settings instance." alt="" coords="210,21,411,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,102,152,79,198,58,220,50,221,55,200,62,154,84,114,107"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_manager.html#a1636d183e998893ef7f5c7d4b838d1eb" title="Remove all parent/daughter particle links from a mc particle and from its (previously) linked particl..." alt="" coords="202,72,419,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,114,186,108,187,114,151,119"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_input_object_manager.html#addde2c0d75f8ccef670783966100ead4" title="Save a list of objects in a list with a specified name; create new list if required." alt="" coords="215,139,406,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="151,134,200,141,199,147,150,140"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_settings.html#a9d4b6fa0e1025b18f7da46b7d9122672" title="Whether to collapse mc particle decay chains down to just the pfo target." alt="" coords="199,205,422,264"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="116,146,200,191,212,197,210,201,197,196,114,151"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="496,5,635,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,69,480,46,482,51,395,74"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="496,72,635,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="420,91,480,91,480,96,420,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_manager.html#a1470ba071a9c51c2d671869609037296" title="Access a modifiable object, when provided with address to const object." alt="" coords="470,139,661,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="407,113,490,132,489,137,406,118"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="lar_content::CosmicRayRemovalTool::PassElementChecks" name="lar_content::CosmicRayRemovalTool::PassElementChecks">
+<area shape="rect" id="Node000001" title="Determine whether element satifies simple checks." alt="" coords="5,356,215,399"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="264,323,437,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,360,248,355,249,361,216,365"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_removal_base_tool.html#a2dd3755f746fa34a124ffd985cb0d925" title="Determine whether element satifies simple checks." alt="" coords="263,389,438,432"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="216,389,247,394,246,399,215,395"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="509,323,695,365"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,341,493,341,493,347,437,347"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#ac718c69378746b694f3b15d304520824" title="Get upper and lower Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="509,197,695,240"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="394,320,542,245,545,250,396,325"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aff631b4d134b060bae38f05b3567be9a" title="Return the cluster of the common cosmic ray pfo in a given view (function demands there to be only on..." alt="" coords="486,389,717,432"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="434,363,505,382,503,387,433,368"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="780,139,964,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,320,673,288,715,250,729,234,738,219,747,205,764,191,771,186,774,191,767,195,751,209,742,222,733,237,719,254,676,292,635,324"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="765,205,979,232"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="631,320,690,280,764,242,784,234,786,239,766,246,693,285,633,324"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="768,389,976,416"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="696,362,792,383,791,388,695,367"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="775,256,969,299"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="690,319,767,300,769,306,692,325"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="788,323,956,365"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="695,341,773,341,773,347,695,347"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_input_type.html#a64650d8342a8802c1a1a7b4eed43090a" title="Whether the pandora type is initialized." alt="" coords="782,440,962,483"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="696,364,719,375,734,388,744,401,752,414,767,426,775,430,772,435,764,430,748,417,739,404,730,392,716,380,694,368"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_input_type.html#a39fe8ca55aba26b1dac81aac00333af6" title="Set the value held by the pandora type." alt="" coords="768,507,976,533"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="696,360,719,375,732,390,739,406,744,436,748,465,755,479,767,493,772,496,768,500,764,497,750,482,743,467,738,437,734,407,727,393,716,379,694,365"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="695,196,764,181,765,186,696,201"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="695,216,750,216,750,221,695,221"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="696,236,761,251,760,256,695,242"/>
+<area shape="poly" id="edge15_Node000011_Node000008" title=" " alt="" coords="638,238,697,273,766,308,781,314,779,319,764,313,694,278,635,243"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="776,5,968,48"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="618,195,677,128,718,90,764,58,774,52,776,57,767,62,722,94,681,132,622,199"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="788,72,956,115"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="635,194,694,159,764,124,779,118,781,123,766,129,697,164,638,199"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="787,581,957,624"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="702,430,719,442,738,467,745,493,751,518,767,544,804,571,800,576,763,547,746,520,740,494,734,470,716,446,699,435"/>
+<area shape="poly" id="edge19_Node000015_Node000015" title=" " alt="" coords="821,581,819,571,828,562,845,557,872,555,901,557,919,564,917,569,900,562,872,560,846,562,830,567,824,573,826,580"/>
+<area shape="poly" id="edge23_Node000016_Node000014" title=" " alt="" coords="439,408,470,408,470,413,439,413"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="506,480,697,523"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="413,430,527,472,525,477,411,435"/>
+<area shape="poly" id="edge22_Node000017_Node000017" title=" " alt="" coords="554,480,552,470,560,461,577,455,602,453,628,456,645,462,643,467,627,461,602,459,578,461,563,465,557,471,559,479"/>
+</map>

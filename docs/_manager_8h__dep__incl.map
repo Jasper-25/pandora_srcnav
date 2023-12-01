@@ -1,0 +1,65 @@
+<map id="PandoraSDK/include/Managers/Manager.h" name="PandoraSDK/include/Managers/Manager.h">
+<area shape="rect" id="Node000001" title="Header file for the manager class." alt="" coords="1327,5,1474,48"/>
+<area shape="rect" id="Node000002" href="$_algorithm_object_manager_8h.html" title="Header file for the algorithm object manager class." alt="" coords="670,96,910,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1311,44,911,101,910,96,1311,38"/>
+<area shape="rect" id="Node000014" href="$_input_object_manager_8h.html" title="Header file for the input object manager class." alt="" coords="1294,96,1507,139"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="1403,64,1403,96,1398,96,1398,64"/>
+<area shape="rect" id="Node000022" href="$_manager_8cc.html" title="Implementation of the manager class." alt="" coords="1531,96,1710,139"/>
+<area shape="poly" id="edge41_Node000001_Node000022" title=" " alt="" coords="1467,52,1570,93,1568,98,1465,57"/>
+<area shape="rect" id="Node000003" href="$_cluster_manager_8h.html" title="Header file for the cluster manager class." alt="" coords="696,195,884,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="792,154,792,194,787,194,787,154"/>
+<area shape="rect" id="Node000009" href="$_particle_flow_object_manager_8h.html" title="Header file for the particle flow object manager class." alt="" coords="476,187,671,245"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="731,148,639,189,637,184,728,143"/>
+<area shape="rect" id="Node000011" href="$_vertex_manager_8h.html" title="Header file for the vertex manager class." alt="" coords="266,195,452,237"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="670,145,465,189,435,197,434,192,464,184,668,140"/>
+<area shape="rect" id="Node000013" href="$_algorithm_object_manager_8cc.html" title="Implementation of the algorithm object manager class." alt="" coords="909,195,1095,237"/>
+<area shape="poly" id="edge20_Node000002_Node000013" title=" " alt="" coords="850,143,957,192,955,197,848,148"/>
+<area shape="rect" id="Node000004" href="$_pandora_api_impl_8cc.html" title="Implementation of the pandora api class." alt="" coords="638,293,779,336"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="765,251,728,295,724,291,761,247"/>
+<area shape="rect" id="Node000005" href="$_pandora_content_api_impl_8cc.html" title="Implementation of the pandora content api class." alt="" coords="803,293,982,336"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="824,246,872,291,868,295,820,250"/>
+<area shape="rect" id="Node000006" href="$_cluster_manager_8cc.html" title="Implementation of the cluster manager class." alt="" coords="435,293,614,336"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="720,246,582,295,580,290,718,241"/>
+<area shape="rect" id="Node000007" href="$_pandora_8cc.html" title="Implementation of the pandora class." alt="" coords="1006,293,1176,336"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="869,240,1027,290,1026,295,868,245"/>
+<area shape="rect" id="Node000008" href="$_pandora_impl_8cc.html" title="Implementation of the pandora impl class." alt="" coords="1201,293,1371,336"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="880,239,897,243,1043,268,1189,291,1201,293,1200,298,1188,296,1042,273,896,248,879,244"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="628,252,681,291,678,295,624,257"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="683,248,825,290,823,295,682,253"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="687,243,842,268,994,291,1006,293,1005,298,993,296,841,273,686,249"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="687,243,828,262,939,269,1049,275,1189,291,1201,293,1200,298,1188,296,1049,280,938,274,827,267,686,248"/>
+<area shape="rect" id="Node000010" href="$_particle_flow_object_manager_8cc.html" title="Implementation of the particle flow object manager class." alt="" coords="209,293,411,336"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="482,254,367,295,366,290,480,249"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="449,239,638,291,636,296,448,244"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="448,239,465,243,556,259,628,268,791,291,803,293,802,298,791,296,627,274,555,264,464,248,446,244"/>
+<area shape="poly" id="edge18_Node000011_Node000007" title=" " alt="" coords="445,239,465,243,613,263,729,269,845,274,994,291,1006,293,1005,298,993,296,845,280,728,274,612,268,464,248,444,244"/>
+<area shape="poly" id="edge19_Node000011_Node000008" title=" " alt="" coords="444,239,465,243,574,258,667,266,826,270,985,272,1079,278,1189,291,1201,292,1200,298,1188,296,1078,284,985,278,826,275,667,271,573,263,464,248,443,244"/>
+<area shape="rect" id="Node000012" href="$_vertex_manager_8cc.html" title="Implementation of the vertex manager class." alt="" coords="5,293,185,336"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="289,246,152,295,151,290,287,241"/>
+<area shape="rect" id="Node000015" href="$_calo_hit_manager_8h.html" title="Header file for the calo hit manager class." alt="" coords="1514,195,1703,237"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="1460,143,1565,192,1563,197,1458,148"/>
+<area shape="rect" id="Node000017" href="$_m_c_manager_8h.html" title="Header file for the mc particle manager class." alt="" coords="1119,195,1287,237"/>
+<area shape="poly" id="edge28_Node000014_Node000017" title=" " alt="" coords="1346,148,1246,197,1244,192,1343,143"/>
+<area shape="rect" id="Node000019" href="$_track_manager_8h.html" title="Header file for the track manager class." alt="" coords="1311,195,1490,237"/>
+<area shape="poly" id="edge34_Node000014_Node000019" title=" " alt="" coords="1403,154,1403,194,1398,194,1398,154"/>
+<area shape="rect" id="Node000021" href="$_input_object_manager_8cc.html" title="Implementation of the input object manager class." alt="" coords="1727,195,1906,237"/>
+<area shape="poly" id="edge40_Node000014_Node000021" title=" " alt="" coords="1518,140,1716,184,1745,192,1743,197,1714,189,1517,145"/>
+<area shape="poly" id="edge23_Node000015_Node000004" title=" " alt="" coords="1523,244,1502,248,1395,263,1303,270,1147,273,990,275,899,282,791,296,780,298,779,293,791,291,898,277,990,270,1146,268,1303,265,1394,257,1501,243,1522,239"/>
+<area shape="poly" id="edge24_Node000015_Node000005" title=" " alt="" coords="1522,244,1502,248,1360,268,1248,275,1137,280,994,296,983,298,982,292,993,291,1136,275,1248,269,1359,262,1501,243,1521,239"/>
+<area shape="poly" id="edge26_Node000015_Node000007" title=" " alt="" coords="1520,244,1502,248,1414,264,1346,273,1189,296,1177,298,1176,293,1188,291,1345,268,1414,259,1501,243,1519,239"/>
+<area shape="poly" id="edge27_Node000015_Node000008" title=" " alt="" coords="1525,245,1356,295,1354,290,1524,240"/>
+<area shape="rect" id="Node000016" href="$_calo_hit_manager_8cc.html" title="Implementation of the calo hit manager class." alt="" coords="1803,293,1982,336"/>
+<area shape="poly" id="edge25_Node000015_Node000016" title=" " alt="" coords="1685,240,1832,290,1831,295,1683,245"/>
+<area shape="poly" id="edge29_Node000017_Node000004" title=" " alt="" coords="1123,244,1108,248,1019,265,950,273,880,281,791,296,780,298,779,293,791,291,879,276,949,268,1018,259,1106,243,1122,239"/>
+<area shape="poly" id="edge30_Node000017_Node000005" title=" " alt="" coords="1123,245,960,295,958,290,1121,240"/>
+<area shape="poly" id="edge32_Node000017_Node000007" title=" " alt="" coords="1170,249,1117,295,1113,291,1166,245"/>
+<area shape="poly" id="edge33_Node000017_Node000008" title=" " alt="" coords="1232,247,1270,291,1266,295,1228,251"/>
+<area shape="rect" id="Node000018" href="$_m_c_manager_8cc.html" title="Implementation of the mc manager class." alt="" coords="1395,293,1574,336"/>
+<area shape="poly" id="edge31_Node000017_Node000018" title=" " alt="" coords="1279,240,1425,290,1423,295,1277,245"/>
+<area shape="poly" id="edge35_Node000019_Node000004" title=" " alt="" coords="1318,244,1299,248,1157,268,1045,273,934,278,791,296,780,298,779,293,791,291,933,273,1045,268,1157,262,1299,243,1317,239"/>
+<area shape="poly" id="edge36_Node000019_Node000005" title=" " alt="" coords="1316,244,1300,248,1214,264,1147,274,994,296,983,298,982,293,993,291,1146,269,1213,259,1298,243,1315,239"/>
+<area shape="poly" id="edge38_Node000019_Node000007" title=" " alt="" coords="1320,245,1158,295,1156,290,1319,240"/>
+<area shape="poly" id="edge39_Node000019_Node000008" title=" " alt="" coords="1366,249,1312,295,1309,291,1363,245"/>
+<area shape="rect" id="Node000020" href="$_track_manager_8cc.html" title="Implementation of the track manager class." alt="" coords="1599,293,1778,336"/>
+<area shape="poly" id="edge37_Node000019_Node000020" title=" " alt="" coords="1477,240,1627,290,1626,295,1475,245"/>
+</map>

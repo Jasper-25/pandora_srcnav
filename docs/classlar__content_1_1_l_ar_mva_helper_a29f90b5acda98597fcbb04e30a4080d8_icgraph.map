@@ -1,0 +1,31 @@
+<map id="lar_content::LArMvaHelper::GetTimestampString" name="lar_content::LArMvaHelper::GetTimestampString">
+<area shape="rect" id="Node000001" title="Get a timestamp string for this point in time." alt="" coords="812,280,986,323"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_mva_helper.html#ae46fa5647873bae972430c92ff0f672a" title="Produce a training example with the given features and result." alt="" coords="591,280,764,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="797,304,765,304,765,299,797,299"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a56004cd1d73d1c53f98832e34dadb2d6" title="Whether cluster is identified as a clear track." alt="" coords="313,5,542,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,266,647,219,621,164,586,109,565,84,541,62,524,51,527,46,545,58,569,80,590,106,626,162,652,217,669,264"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="313,72,542,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="656,268,610,197,578,160,541,129,521,118,524,113,545,124,582,156,614,193,661,265"/>
+<area shape="rect" id="Node000005" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a1608b4dbe3a9c6e4f258b90349a99c40" title=" " alt="" coords="318,139,537,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="643,271,597,232,542,196,516,184,518,179,544,191,600,228,646,267"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_mva_helper.html#a7090b24fcc74f1aabf8d0d6903269673" title="Produce a training example with the given features and result &#45; using a map." alt="" coords="341,205,514,248"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="591,277,542,263,504,251,505,246,544,257,592,272"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ab664f2fc44554042d0754f991b2900e7" title="Produce a set of training examples for a binary classifier." alt="" coords="312,272,543,331"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="575,304,543,304,543,299,575,299"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="337,355,518,413"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="597,331,519,357,518,351,595,326"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#ad58d896477422f06c252badcb9ee5b2d" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="332,437,523,480"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="651,336,604,383,575,407,544,428,520,439,518,434,542,423,572,403,601,379,647,332"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_neutrino_id_tool.html#aaa2e9353284706dc119f1585cddf14ee" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="340,504,515,547"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="663,338,644,375,617,417,584,459,545,494,517,509,514,505,541,490,580,455,613,414,639,372,658,335"/>
+<area shape="rect" id="Node000014" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#a9b485bb733b2058205ec963dd35f3c85" title="Produce files that act as inputs to network training." alt="" coords="342,571,513,613"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="670,338,654,388,628,448,592,509,570,536,545,561,514,579,511,574,541,557,566,533,588,506,624,446,649,387,665,337"/>
+<area shape="rect" id="Node000006" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a04e5aa6e1a6eb243574fcfda22ac6a57" title="Run the algorithm." alt="" coords="46,139,223,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="303,163,224,163,224,157,303,157"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,280,264,323"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="296,304,264,304,264,299,296,299"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="28,363,241,405"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="321,387,241,387,241,381,321,381"/>
+<area shape="rect" id="Node000015" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#a3cc588664937a012b74d5c02070512ce" title="Run the algorithm." alt="" coords="49,571,220,613"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="327,595,220,595,220,589,327,589"/>
+</map>

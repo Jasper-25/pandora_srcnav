@@ -1,0 +1,29 @@
+<map id="lar_content::LArHierarchyHelper::MCHierarchy::CollectContinuations" name="lar_content::LArHierarchyHelper::MCHierarchy::CollectContinuations">
+<area shape="rect" id="Node000001" title="Identify downstream particles that represent continuations of the parent particle from a reconstructi..." alt="" coords="5,389,274,432"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="84,389,82,379,91,370,110,365,140,363,171,365,190,371,188,376,170,370,139,368,111,370,94,375,87,381,89,388"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a40117622c117b7dbc425a64df36244de" title="Determine if two MC particles are topologically continuous within a given tolerance...." alt="" coords="322,139,548,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,387,395,190,398,194,168,391"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="812,201,981,244"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="170,387,237,345,278,325,321,308,386,290,443,280,541,275,640,273,697,268,764,257,811,246,812,251,765,263,698,273,640,278,541,280,443,285,387,295,323,313,280,330,239,350,173,391"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="365,323,505,365"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="236,386,349,360,350,366,238,391"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="365,389,505,432"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="274,408,350,408,350,413,274,413"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="365,456,505,499"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="238,430,350,456,349,461,236,435"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ac31296216787d084573cf24faf0ecf40" title="Check whether or not an MC particle came from an elastic scattering process." alt="" coords="346,523,524,565"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="176,430,243,469,323,508,339,515,337,520,321,513,240,474,174,435"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a059331e39d0dc42f0598583c2a865395" title="Check whether or not an MC particle came from an inelastic scattering process." alt="" coords="346,589,524,632"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="160,431,227,502,273,541,323,575,333,580,331,585,320,580,270,545,224,505,157,434"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="596,5,764,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,136,524,98,595,58,606,52,608,57,597,62,527,102,469,141"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="611,72,750,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="515,136,594,114,596,119,517,141"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="596,139,764,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="549,157,580,157,580,163,549,163"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="611,205,750,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="517,179,596,201,594,206,515,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="757,179,807,194,805,199,755,184"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1029,201,1197,244"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="981,220,1013,220,1013,225,981,225"/>
+</map>

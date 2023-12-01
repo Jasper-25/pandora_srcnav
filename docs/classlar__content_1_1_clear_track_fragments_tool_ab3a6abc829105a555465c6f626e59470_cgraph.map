@@ -1,0 +1,15 @@
+<map id="lar_content::ClearTrackFragmentsTool::Recluster" name="lar_content::ClearTrackFragmentsTool::Recluster">
+<area shape="rect" id="Node000001" title="Rearrange the hits in a cluster from the fragment list, using the Pandora fragmentation mechanism." alt="" coords="5,93,223,136"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="283,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,90,278,51,280,56,175,95"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="484,93,625,136"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="223,109,271,108,436,108,469,109,468,114,436,113,271,113,223,114"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="271,123,436,165"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="224,125,255,129,255,135,223,131"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#abc59b55c66f74e7785be5683759138d6" title="Remove a calo hit from a cluster. Note this function will not remove the final calo hit from a cluste..." alt="" coords="283,189,424,232"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="170,134,285,181,283,186,168,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,46,491,84,489,89,403,51"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="516,93,515,83,521,74,535,69,555,67,576,69,589,75,587,80,575,74,555,72,536,74,524,79,520,85,521,92"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="436,129,468,125,469,130,437,135"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="409,186,435,175,500,142,503,146,437,180,411,191"/>
+</map>

@@ -1,0 +1,107 @@
+<map id="lar_pandora::LArPandora::produce" name="lar_pandora::LArPandora::produce">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1173,170,1216"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora.html#a28d02ef2b57506377e53f085fd473d1a" title="Create pandora input hits, mc particles etc." alt="" coords="219,417,384,460"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,1172,287,474,292,476,97,1174"/>
+<area shape="rect" id="Node000034" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="219,1140,384,1183"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="169,1179,204,1174,204,1179,170,1185"/>
+<area shape="rect" id="Node000116" href="$classlar__pandora_1_1_i_l_ar_pandora.html#aa18f858c914e3efe9a3458838b09ce21" title="Reset all associated pandora instances." alt="" coords="218,1207,385,1249"/>
+<area shape="poly" id="edge54_Node000001_Node000116" title=" " alt="" coords="170,1205,202,1210,202,1215,169,1210"/>
+<area shape="rect" id="Node000117" href="$classlar__pandora_1_1_i_l_ar_pandora.html#a1850990095a521f3f77dfcc4260f5c24" title="Run all associated pandora instances." alt="" coords="218,1273,385,1316"/>
+<area shape="poly" id="edge55_Node000001_Node000117" title=" " alt="" coords="130,1214,219,1259,231,1264,229,1269,217,1264,128,1219"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aa0a8dd4a0308bb192716b0144e6d1381" title="Collect the links from reconstructed hits to their true energy deposits." alt="" coords="434,284,635,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,415,372,375,432,336,443,331,445,336,434,341,375,380,328,419"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#abded50958ae0cec5d5e5c3080b46584c" title="Collect a vector of MCParticle objects from the generator in the ART event record...." alt="" coords="434,351,635,393"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="377,414,442,396,443,401,379,419"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aed4904bff009e140879aa08c21fcbcc9" title="Collect a vector of MCParticle objects from the ART event record." alt="" coords="434,417,635,460"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="384,436,418,436,418,441,384,441"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aabb5df6cda08084ca999fe42a672ff3e" title="Collect a vector of SimChannel objects from the ART event record." alt="" coords="434,484,635,527"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="379,458,443,477,442,482,377,463"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a5ebae7a22254f562ac9d0cd437cfc8cf" title="Create the Pandora 2D hits from the ART hits." alt="" coords="439,896,631,939"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,459,519,881,514,883,311,462"/>
+<area shape="rect" id="Node000023" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a873541735445905bb3fdfb8d35604085" title="Create links between the 2D hits and Pandora MC particles." alt="" coords="439,76,631,119"/>
+<area shape="poly" id="edge19_Node000002_Node000023" title=" " alt="" coords="310,416,357,319,392,257,431,198,463,160,496,127,499,131,467,164,435,202,396,260,362,321,315,418"/>
+<area shape="rect" id="Node000025" href="$classlar__pandora_1_1_l_ar_pandora_input.html#abe7def9c34b1d7794b68fcefa770ce3d" title="Create the Pandora MC particles from the MC particles." alt="" coords="439,212,631,255"/>
+<area shape="poly" id="edge21_Node000002_Node000025" title=" " alt="" coords="312,416,358,345,392,305,431,270,448,260,450,264,435,274,396,309,363,348,316,419"/>
+<area shape="rect" id="Node000031" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a00241f9adf66bd95698e0dfff4493eed" title="Create pandora line gaps to cover any (continuous regions of) bad channels." alt="" coords="438,551,632,593"/>
+<area shape="poly" id="edge28_Node000002_Node000031" title=" " alt="" coords="328,458,375,498,434,536,445,542,443,547,432,541,372,502,324,463"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#a828601369ea86736af4fee7b585c4e4c" title="Get daughter volume ID from a specified cryostat/tpc pair." alt="" coords="733,1096,955,1139"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="551,938,573,970,604,1010,642,1049,686,1082,719,1097,717,1102,683,1086,638,1053,600,1013,569,974,547,941"/>
+<area shape="rect" id="Node000012" href="$namespacelar__pandora_1_1detector__functions.html#a8f989229c15e22af2c82091ea5190723" title="Factory class that returns the correct detector type interface." alt="" coords="751,563,937,605"/>
+<area shape="poly" id="edge8_Node000007_Node000012" title=" " alt="" coords="537,895,552,838,579,762,598,721,621,682,650,646,683,615,707,600,735,590,736,595,710,605,686,619,653,650,626,685,603,724,584,764,557,839,543,896"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_plugin_manager.html#a003182d975ff24de1514f6becde04234" title="Get the address of the lar transformation plugin." alt="" coords="748,1163,940,1205"/>
+<area shape="poly" id="edge9_Node000007_Node000013" title=" " alt="" coords="546,938,564,983,593,1041,634,1100,658,1126,686,1148,709,1161,734,1170,733,1175,707,1166,683,1153,655,1130,630,1103,588,1043,559,985,541,940"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a865debddfb0e4f417a03999785bf49d1" title="Convert charge in ADCs to approximate MIPs." alt="" coords="748,1229,940,1272"/>
+<area shape="poly" id="edge10_Node000007_Node000014" title=" " alt="" coords="543,939,557,995,584,1071,603,1111,626,1149,653,1185,686,1215,709,1229,734,1239,732,1244,706,1234,683,1219,650,1188,621,1152,598,1113,579,1073,552,997,537,940"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="746,1296,942,1323"/>
+<area shape="poly" id="edge11_Node000007_Node000015" title=" " alt="" coords="540,939,550,1007,573,1101,592,1151,617,1200,648,1244,686,1282,707,1295,732,1304,730,1309,705,1300,683,1286,644,1248,612,1202,587,1153,568,1103,545,1008,535,939"/>
+<area shape="rect" id="Node000016" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#aa82a4df94067e113c4e239e9b8070883" title="Get drift volume ID from a specified cryostat/tpc pair." alt="" coords="733,629,955,672"/>
+<area shape="poly" id="edge12_Node000007_Node000016" title=" " alt="" coords="541,895,559,849,588,791,630,732,655,705,683,682,717,664,720,669,686,686,658,709,634,735,593,794,564,851,546,897"/>
+<area shape="rect" id="Node000017" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#ab29f67c81ed6f6361c233509b5da5d0e" title="Map a LArSoft view to Pandora&#39;s U view." alt="" coords="737,696,951,739"/>
+<area shape="poly" id="edge13_Node000007_Node000017" title=" " alt="" coords="547,894,569,861,600,821,638,782,683,748,721,732,723,737,686,753,642,786,604,825,573,864,551,897"/>
+<area shape="rect" id="Node000018" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#ad741f81dbdadd4f7bce69ec110553dd2" title="Map a LArSoft view to Pandora&#39;s V view." alt="" coords="737,763,951,805"/>
+<area shape="poly" id="edge14_Node000007_Node000018" title=" " alt="" coords="560,893,614,853,648,832,683,815,721,802,723,807,685,820,651,837,617,858,563,898"/>
+<area shape="rect" id="Node000019" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#adcc5514ec723565ff79cb2a2864da976" title="Map a LArSoft view to Pandora&#39;s W view." alt="" coords="737,829,951,872"/>
+<area shape="poly" id="edge15_Node000007_Node000019" title=" " alt="" coords="631,893,684,881,722,873,723,878,685,887,632,898"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_l_ar_transformation_plugin.html#a66d7acad4d407dc932ae014114a59667" title="Transform from (Y,Z) to U position." alt="" coords="754,896,934,939"/>
+<area shape="poly" id="edge16_Node000007_Node000020" title=" " alt="" coords="631,915,739,915,739,920,631,920"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_l_ar_transformation_plugin.html#acaf09923298b3d11dcd395a9a6b9111d" title="Transform from (Y,Z) to V position." alt="" coords="754,963,934,1005"/>
+<area shape="poly" id="edge17_Node000007_Node000021" title=" " alt="" coords="632,936,685,948,739,960,738,965,684,953,631,942"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_l_ar_transformation_plugin.html#ab66b7af001dac8012f84a41d96537a3e" title="Transform from (Y,Z) to W position." alt="" coords="754,1029,934,1072"/>
+<area shape="poly" id="edge18_Node000007_Node000022" title=" " alt="" coords="563,937,617,977,651,998,685,1015,739,1032,738,1037,683,1020,648,1002,614,982,560,941"/>
+<area shape="rect" id="Node000024" href="$class_pandora_api.html#a5d3d06aab877dc39eb8d6f9c3cb20b87" title="Set calo hit to mc particle relationship." alt="" coords="758,5,930,48"/>
+<area shape="poly" id="edge20_Node000023_Node000024" title=" " alt="" coords="620,73,684,57,742,44,743,50,685,63,622,78"/>
+<area shape="rect" id="Node000026" href="$classlar__pandora_1_1_l_ar_pandora_input.html#aa608acdbdb3e5ded51fe97faf97df940" title="Populate a map from MC process string to enumeration." alt="" coords="748,139,940,181"/>
+<area shape="poly" id="edge22_Node000025_Node000026" title=" " alt="" coords="614,209,684,191,732,180,733,185,685,196,615,214"/>
+<area shape="rect" id="Node000027" href="$classlar__pandora_1_1_l_ar_pandora_input.html#abb180b3bfbe305c934e7f2a2c599fed4" title="Find all primary MCParticles in a given vector of MCParticles." alt="" coords="748,205,940,248"/>
+<area shape="poly" id="edge23_Node000025_Node000027" title=" " alt="" coords="631,229,732,226,732,232,631,234"/>
+<area shape="rect" id="Node000028" href="$classlar__pandora_1_1_l_ar_pandora_input.html#ae398bdd3f504342b52d56b8eb14d54e3" title="Loop over MC trajectory points and identify start and end points within the detector." alt="" coords="748,296,940,339"/>
+<area shape="poly" id="edge24_Node000025_Node000028" title=" " alt="" coords="617,253,749,289,747,294,615,258"/>
+<area shape="rect" id="Node000029" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a173b5bb749b4bd93c4754246d94d057c" title="Check whether an MCParticle can be found in a given map." alt="" coords="748,363,940,405"/>
+<area shape="poly" id="edge26_Node000025_Node000029" title=" " alt="" coords="611,253,638,270,655,291,662,311,669,331,686,349,709,361,734,371,732,376,706,366,683,353,665,334,657,313,650,293,635,274,608,258"/>
+<area shape="rect" id="Node000030" href="$class_pandora_api.html#a31d3d089a31908acbd54643b21d57591" title="Set parent&#45;daughter mc particle relationship." alt="" coords="731,72,957,115"/>
+<area shape="poly" id="edge27_Node000025_Node000030" title=" " alt="" coords="558,209,613,166,647,143,683,124,715,112,717,117,685,129,650,148,616,170,561,213"/>
+<area shape="poly" id="edge25_Node000028_Node000028" title=" " alt="" coords="786,296,784,286,794,277,814,271,844,269,877,272,897,278,895,283,876,277,844,275,814,277,796,281,789,287,791,295"/>
+<area shape="poly" id="edge31_Node000031_Node000012" title=" " alt="" coords="632,573,735,577,735,582,632,578"/>
+<area shape="poly" id="edge32_Node000031_Node000016" title=" " alt="" coords="604,591,685,615,719,623,718,628,684,620,602,596"/>
+<area shape="rect" id="Node000032" href="$classobject__creation_1_1_object_creation_helper.html#aaba95330f019ee6581dfd9ce26603816" title="Create a new object from a user factory." alt="" coords="742,429,946,472"/>
+<area shape="poly" id="edge29_Node000031_Node000032" title=" " alt="" coords="614,548,635,536,649,523,658,509,667,495,683,482,726,463,728,468,686,486,671,499,662,512,653,527,638,541,616,553"/>
+<area shape="rect" id="Node000033" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#a79d519ba8426729072ab593c7ed6ca50" title="Create the line gap parameters to give to the pandora API." alt="" coords="684,496,1004,539"/>
+<area shape="poly" id="edge30_Node000031_Node000033" title=" " alt="" coords="632,552,704,539,705,545,633,557"/>
+<area shape="rect" id="Node000035" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="433,1797,636,1840"/>
+<area shape="poly" id="edge34_Node000034_Node000035" title=" " alt="" coords="374,1181,387,1193,415,1240,441,1307,463,1388,483,1477,514,1652,532,1781,526,1782,509,1653,478,1478,458,1389,436,1309,411,1242,383,1196,370,1185"/>
+<area shape="rect" id="Node000036" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a1947236b7d301bbb3fd2583767528a29" title="Convert Create the associations between pre&#45;existing PFParticle and additional vertices." alt="" coords="742,1864,946,1907"/>
+<area shape="poly" id="edge35_Node000035_Node000036" title=" " alt="" coords="633,1838,685,1849,727,1859,726,1864,684,1855,632,1843"/>
+<area shape="rect" id="Node000038" href="$classlar__pandora_1_1_l_ar_pandora_output.html#ae6ffb93a7d3994beabec88e498052654" title="Convert pandora 2D clusters to ART clusters and add them to the output vector Create the associations..." alt="" coords="742,1955,946,1997"/>
+<area shape="poly" id="edge36_Node000035_Node000038" title=" " alt="" coords="565,1838,620,1877,686,1916,757,1947,755,1952,683,1921,617,1881,562,1843"/>
+<area shape="rect" id="Node000039" href="$classlar__pandora_1_1_l_ar_pandora_output.html#adf56447fd4a14b30bc7ddb340dae1f94" title="Build metadata objects from a list of input pfos." alt="" coords="742,2021,946,2064"/>
+<area shape="poly" id="edge38_Node000035_Node000039" title=" " alt="" coords="549,1839,569,1876,600,1922,639,1969,686,2007,728,2026,726,2031,683,2012,635,1973,595,1926,565,1879,544,1842"/>
+<area shape="rect" id="Node000042" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a8f55e099ad8c5738b802892ae28339f2" title="Convert between pfos and PFParticles and add them to the output vector Create the associations betwee..." alt="" coords="742,2088,946,2131"/>
+<area shape="poly" id="edge39_Node000035_Node000042" title=" " alt="" coords="544,1840,561,1889,589,1953,631,2019,657,2049,686,2074,706,2086,729,2095,727,2100,704,2091,683,2078,653,2052,627,2022,585,1955,556,1891,539,1841"/>
+<area shape="rect" id="Node000048" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a729c06efd94a1d1efb847981399fc2cc" title="Build slices &#45; collections of hits which each describe a single particle hierarchy." alt="" coords="742,2155,946,2197"/>
+<area shape="poly" id="edge40_Node000035_Node000048" title=" " alt="" coords="542,1840,554,1901,580,1983,599,2026,623,2068,652,2107,686,2141,706,2153,728,2163,726,2168,704,2158,683,2145,648,2111,618,2071,595,2029,575,1985,549,1902,537,1841"/>
+<area shape="rect" id="Node000073" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a9adc2b94f0485899bae97b85280d0335" title="Convert pandora 3D hits to ART spacepoints and add them to the output vector Create the associations ..." alt="" coords="742,2221,946,2264"/>
+<area shape="poly" id="edge41_Node000035_Node000073" title=" " alt="" coords="540,1840,549,1912,571,2012,590,2065,615,2118,647,2166,686,2207,706,2221,728,2230,726,2235,703,2225,683,2211,643,2169,610,2120,585,2067,566,2013,543,1913,535,1841"/>
+<area shape="rect" id="Node000080" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a48181aab1fc6bf58b56fa71f270753e7" title="Calculate the T0 of each pfos and add them to the output vector Create the associations between PFPar..." alt="" coords="742,2288,946,2331"/>
+<area shape="poly" id="edge42_Node000035_Node000080" title=" " alt="" coords="539,1840,543,1922,551,1978,563,2040,581,2104,607,2166,642,2224,686,2274,706,2288,728,2298,726,2303,703,2292,683,2278,637,2227,602,2169,576,2106,558,2041,545,1979,538,1923,533,1841"/>
+<area shape="rect" id="Node000082" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a99868411ad2e34c8fe5322d8cf79115f" title="Convert pandora vertices to ART vertices and add them to the output vector." alt="" coords="742,2355,946,2397"/>
+<area shape="poly" id="edge43_Node000035_Node000082" title=" " alt="" coords="542,1840,559,1946,591,2097,611,2175,634,2246,659,2303,686,2341,706,2355,728,2365,726,2370,703,2359,682,2345,654,2306,629,2247,606,2177,585,2099,554,1947,536,1841"/>
+<area shape="rect" id="Node000085" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a868fcc3afa4e4a912e425b45a06a865f" title="Collect a sorted vector of all 3D hits in the input pfo." alt="" coords="742,1347,946,1389"/>
+<area shape="poly" id="edge44_Node000035_Node000085" title=" " alt="" coords="534,1797,542,1722,565,1617,584,1560,609,1504,642,1451,683,1406,703,1391,727,1380,729,1385,706,1396,686,1410,646,1455,614,1506,589,1562,570,1618,548,1723,540,1797"/>
+<area shape="rect" id="Node000089" href="$classlar__pandora_1_1_l_ar_pandora_output.html#ad49367c29566e4f42fe498489964a91f" title="Collect the pfos (including all downstream pfos) from the master and daughter pandora instances." alt="" coords="742,1464,946,1507"/>
+<area shape="poly" id="edge45_Node000035_Node000089" title=" " alt="" coords="537,1796,552,1739,579,1663,598,1623,621,1584,650,1548,683,1517,704,1504,726,1494,728,1499,706,1508,686,1521,653,1551,626,1587,603,1625,584,1665,557,1741,543,1797"/>
+<area shape="rect" id="Node000090" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a5d7c7db16c2c3b7ebb1ea9ef8cb45d42" title="Collect the current pfos (including all downstream pfos) from the master pandora instance." alt="" coords="1052,1435,1255,1477"/>
+<area shape="poly" id="edge49_Node000035_Node000090" title=" " alt="" coords="534,1797,542,1727,551,1680,564,1630,583,1579,609,1530,642,1486,683,1450,729,1425,779,1409,832,1401,884,1399,937,1402,986,1408,1073,1427,1072,1433,985,1414,936,1407,884,1404,832,1406,781,1414,731,1430,686,1454,645,1489,613,1532,588,1581,569,1631,556,1681,547,1727,540,1797"/>
+<area shape="rect" id="Node000093" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a5dda05202c54406b757c55c0092853c4" title="Collect a sorted list of all 2D clusters contained in the input pfo list Order is guaranteed provided..." alt="" coords="742,1531,946,1573"/>
+<area shape="poly" id="edge48_Node000035_Node000093" title=" " alt="" coords="541,1796,559,1751,588,1693,630,1633,655,1606,683,1583,726,1563,728,1567,686,1588,658,1610,634,1636,593,1695,564,1753,546,1798"/>
+<area shape="rect" id="Node000104" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a082aa0df5112059a40dd23520d33c3a2" title="Collect all vertices contained in the input pfo list Order is guaranteed provided pfoVector is ordere..." alt="" coords="742,1597,946,1640"/>
+<area shape="poly" id="edge50_Node000035_Node000104" title=" " alt="" coords="547,1795,569,1762,600,1723,638,1683,683,1650,726,1631,729,1636,686,1654,642,1687,604,1726,573,1766,551,1798"/>
+<area shape="rect" id="Node000106" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a8d0344ff3dec94543a4733582a8def3c" title="Collect all 2D and 3D hits that were used / produced in the reconstruction and map them to their corr..." alt="" coords="742,1664,946,1707"/>
+<area shape="poly" id="edge51_Node000035_Node000106" title=" " alt="" coords="560,1795,614,1754,648,1734,683,1716,726,1702,728,1707,685,1721,651,1738,617,1759,563,1799"/>
+<area shape="rect" id="Node000110" href="$classlar__content_1_1_l_ar_pfo_helper.html#ab13d0833aa951fef0de5120142d3bc9a" title="Get the pfo test beam interaction vertex." alt="" coords="740,1731,948,1773"/>
+<area shape="poly" id="edge52_Node000035_Node000110" title=" " alt="" coords="632,1794,684,1783,725,1774,726,1779,685,1788,633,1799"/>
+<area shape="rect" id="Node000114" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="759,1797,929,1840"/>
+<area shape="poly" id="edge53_Node000035_Node000114" title=" " alt="" coords="637,1816,743,1816,743,1821,637,1821"/>
+<area shape="poly" id="edge37_Node000038_Node000038" title=" " alt="" coords="786,1955,784,1945,794,1935,814,1930,844,1928,877,1930,897,1937,895,1942,876,1936,844,1933,814,1935,796,1940,789,1946,791,1953"/>
+<area shape="poly" id="edge46_Node000089_Node000090" title=" " alt="" coords="946,1473,1036,1464,1036,1470,946,1478"/>
+<area shape="poly" id="edge47_Node000090_Node000090" title=" " alt="" coords="1096,1435,1093,1425,1103,1415,1123,1410,1153,1408,1186,1410,1206,1417,1204,1422,1185,1416,1153,1413,1124,1415,1105,1420,1098,1426,1101,1433"/>
+</map>

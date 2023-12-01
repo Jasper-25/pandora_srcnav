@@ -1,0 +1,10 @@
+<map id="lar_content::LArMuonLeadingHelper::GetLeadingProcess" name="lar_content::LArMuonLeadingHelper::GetLeadingProcess">
+<area shape="rect" id="Node000001" title="Return the MCProcess of the leading particle (tier 1) in the delta ray/michel hierarchy." alt="" coords="462,39,652,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a4bf40c494dafc5092514d81e720de0db" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;delta ray&#39; process tag." alt="" coords="224,5,414,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,47,414,43,415,37,447,42"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3448d55df94c9e2ef8d09180fd7bbad5" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;decay&#39; process tag." alt="" coords="224,72,414,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,78,415,83,414,77,446,73"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#ab505f6e161923c7fa9dd5bfc5fcc622c" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="5,31,176,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,45,177,50,176,45,208,40"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="208,80,176,75,177,70,208,75"/>
+</map>

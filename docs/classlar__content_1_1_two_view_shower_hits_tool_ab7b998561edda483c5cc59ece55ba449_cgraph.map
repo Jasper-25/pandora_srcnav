@@ -1,0 +1,15 @@
+<map id="lar_content::TwoViewShowerHitsTool::GetShowerHit3D" name="lar_content::TwoViewShowerHitsTool::GetShowerHit3D">
+<area shape="rect" id="Node000001" title="Get the three dimensional position for to a two dimensional calo hit, using the hit and a list of can..." alt="" coords="5,136,193,179"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_creation_base_tool.html#abe418d3722f959082b6efd74c43429f1" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="241,76,435,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,133,235,120,236,126,187,138"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a981b77481600c1378c63d60ee73c5ac0" title="Get the address of the parent 2D calo hit." alt="" coords="483,139,739,181"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="193,155,468,157,468,162,193,160"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="243,195,433,221"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="194,175,257,188,256,194,192,180"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="293,76,291,66,298,57,314,51,338,49,363,52,379,58,377,63,362,57,338,55,315,57,301,61,296,67,298,75"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a3435a0d86e2165a485fa3b229e82e96d" title="Get the chi squared value." alt="" coords="512,5,710,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="423,73,510,50,512,55,424,78"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="434,117,501,132,500,137,433,122"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a5b21120bf1564d55b3500e3f053b009e" title="Whether the proto hit position is set." alt="" coords="503,72,719,115"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="435,93,487,92,487,98,435,99"/>
+</map>

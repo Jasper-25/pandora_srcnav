@@ -1,0 +1,23 @@
+<map id="lar_content::VisualMonitoringAlgorithm::VisualizeCaloHitList" name="lar_content::VisualMonitoringAlgorithm::VisualizeCaloHitList">
+<area shape="rect" id="Node000001" title="Visualize a specified calo hit list." alt="" coords="5,197,206,240"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="303,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,196,172,128,209,90,252,58,287,42,289,47,255,62,213,94,176,131,123,199"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a0048d07a26ec9d5e11adb604df8333ce" title="Get the calibrated electromagnetic energy measure." alt="" coords="254,72,494,115"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="134,195,188,159,253,124,268,118,270,123,255,129,191,164,137,199"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="303,139,445,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="206,194,287,176,288,181,207,199"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="274,205,474,232"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="206,216,258,216,258,221,206,221"/>
+<area shape="rect" id="Node000007" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="303,256,445,299"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="207,238,288,256,287,261,206,243"/>
+<area shape="rect" id="Node000008" href="$class_pandora_content_api.html#a3499a61eb9739f782f671502f4979e45" title="Is object, or a list of objects, available as a building block." alt="" coords="303,323,445,365"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="137,238,191,274,255,308,289,321,287,326,253,313,188,278,134,243"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="280,389,468,432"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="123,239,176,306,213,343,255,375,267,382,265,386,252,380,209,347,172,310,119,242"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="542,197,683,240"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,35,471,45,496,58,528,86,556,119,597,182,592,185,552,122,525,90,492,62,469,49,444,40"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="567,197,566,187,573,178,589,173,613,171,638,173,653,179,651,184,637,178,613,176,590,178,576,183,571,189,573,196"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="445,175,527,195,526,200,444,180"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="444,257,526,237,527,242,445,263"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="444,327,493,308,538,280,576,248,580,253,541,284,495,313,446,332"/>
+</map>

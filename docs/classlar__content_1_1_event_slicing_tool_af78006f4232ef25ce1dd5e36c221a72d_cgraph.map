@@ -1,0 +1,36 @@
+<map id="lar_content::EventSlicingTool::PassPointing" name="lar_content::EventSlicingTool::PassPointing">
+<area shape="rect" id="Node000001" title="Compare the provided clusters to assess whether they are associated via pointing (checks association ..." alt="" coords="5,134,170,177"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_slicing_tool.html#a6395bcd1fc3abd8c1bb60cf5eeee4f38" title="Check closest approach metrics for a pair of pointing clusters." alt="" coords="218,134,407,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,153,202,153,202,158,170,158"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_event_slicing_tool.html#ac04e10bbc93ea7367b19b28b026d0df3" title="Check whether a pair of pointing clusters are consistent with an emission." alt="" coords="230,43,395,86"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="135,131,217,95,232,89,234,94,219,100,137,136"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_slicing_tool.html#a36cd1c6932a8b110f2ba9740d18a5d48" title="Check whether a pair of pointing clusters are nodally associated." alt="" coords="230,201,395,243"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="162,174,224,193,222,198,161,180"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="270,134,268,124,275,115,290,109,312,107,336,110,351,116,349,121,335,115,312,113,291,114,278,119,273,125,275,133"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="461,159,621,202"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="408,163,445,167,445,173,407,168"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="460,93,621,135"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="407,135,444,129,445,134,408,141"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="387,84,408,96,424,108,433,121,442,133,457,145,463,149,460,154,453,149,438,136,429,124,420,112,406,100,384,89"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="396,80,445,91,444,96,395,85"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="959,135,1143,178"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="361,40,406,24,454,11,503,4,541,3,627,11,708,22,771,34,832,52,910,79,958,101,1002,125,1000,129,956,106,908,84,831,57,770,39,707,27,626,16,540,8,503,10,456,16,407,29,363,45"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa792936e96ceb90b195ca0e633b73e02" title="Whether pointing vertex is emitted from a given position." alt="" coords="455,26,626,69"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="395,56,439,52,440,58,395,61"/>
+<area shape="poly" id="edge15_Node000007_Node000006" title=" " alt="" coords="628,63,944,131,943,136,626,68"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a31cb608e94ec43ad44dedd8469813f3a" title="Get the vertex direction." alt="" coords="957,327,1145,370"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="615,67,628,79,645,104,652,130,651,179,649,202,651,226,659,248,676,271,704,293,735,311,769,326,803,336,874,349,941,353,941,358,874,354,802,342,767,331,733,316,701,298,672,274,654,251,646,227,644,202,646,178,647,130,640,106,624,82,611,71"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a3c6c8d40c831aaa5a1d3fdc049aa4cd1" title="Calculate impact parameters between a pair of pointing vertices." alt="" coords="674,218,909,261"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="607,67,628,78,668,108,706,141,765,204,761,208,702,145,665,112,625,83,604,71"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="860,215,966,180,968,186,862,220"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="845,259,986,318,984,323,843,263"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="744,218,742,208,750,199,767,193,792,191,818,194,834,200,832,205,817,199,791,197,768,198,753,203,747,209,749,217"/>
+<area shape="poly" id="edge17_Node000010_Node000003" title=" " alt="" coords="395,204,444,195,445,200,396,210"/>
+<area shape="poly" id="edge18_Node000010_Node000004" title=" " alt="" coords="383,198,406,186,429,166,453,145,462,140,465,145,457,149,433,170,408,191,385,202"/>
+<area shape="poly" id="edge19_Node000010_Node000006" title=" " alt="" coords="395,229,447,232,506,231,567,225,625,211,639,205,649,196,659,187,673,179,742,161,812,151,881,147,943,147,943,152,881,152,813,156,743,167,675,184,662,191,652,200,642,209,627,216,568,230,506,236,447,237,395,235"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa23153c2605f276b88b21a3f3d9c5546" title="Whether pointing vertex is adjacent to a given position." alt="" coords="461,277,621,319"/>
+<area shape="poly" id="edge20_Node000010_Node000011" title=" " alt="" coords="380,241,461,269,459,274,378,246"/>
+<area shape="poly" id="edge23_Node000011_Node000006" title=" " alt="" coords="621,303,685,305,758,302,834,292,908,270,940,254,970,233,1019,187,1023,191,973,237,943,258,910,275,836,297,759,308,685,311,621,309"/>
+<area shape="poly" id="edge21_Node000011_Node000008" title=" " alt="" coords="574,317,620,344,675,365,743,376,813,378,880,375,941,368,942,373,880,380,813,384,742,381,674,370,618,349,572,322"/>
+<area shape="poly" id="edge22_Node000011_Node000009" title=" " alt="" coords="621,277,682,262,683,267,622,282"/>
+</map>

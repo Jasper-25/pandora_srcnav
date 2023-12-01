@@ -1,0 +1,27 @@
+var classpandora_1_1_geometry_manager =
+[
+    [ "HitTypeToGranularityMap", "classpandora_1_1_geometry_manager.html#a81d518fc7cd797240ea8d7320769fef5", null ],
+    [ "SubDetectorTypeMap", "classpandora_1_1_geometry_manager.html#a8ba8af5e6fe4d0de29b0843ec43ab073", null ],
+    [ "GeometryManager", "classpandora_1_1_geometry_manager.html#acc5493483e91c9755e335a057f033804", null ],
+    [ "~GeometryManager", "classpandora_1_1_geometry_manager.html#a25b783458a74451981852278f65dfe9f", null ],
+    [ "CreateGap", "classpandora_1_1_geometry_manager.html#ad5e1f60576c0c3064385b85fb055376f", null ],
+    [ "CreateLArTPC", "classpandora_1_1_geometry_manager.html#aebc225a30d8dac54805081e3b106bd0c", null ],
+    [ "CreateSubDetector", "classpandora_1_1_geometry_manager.html#a7d1ada4c481f793c80df236bf2a897da", null ],
+    [ "EraseAllContent", "classpandora_1_1_geometry_manager.html#a8cd82a43697ac9d16c038bdbfb57dd5f", null ],
+    [ "GetDefaultHitTypeToGranularityMap", "classpandora_1_1_geometry_manager.html#a7dcb69220eb159e2af6799082711125c", null ],
+    [ "GetDetectorGapList", "classpandora_1_1_geometry_manager.html#a5525ac445d8fd4ae84f6d6d5a89bfef1", null ],
+    [ "GetHitTypeGranularity", "classpandora_1_1_geometry_manager.html#aa44d6dc20562ed0de5d3f7e1846752b3", null ],
+    [ "GetLArTPC", "classpandora_1_1_geometry_manager.html#aff662c5c760440243d6fa03eea519af1", null ],
+    [ "GetLArTPCMap", "classpandora_1_1_geometry_manager.html#a7c94b2554e33ddc3a7539e259725f389", null ],
+    [ "GetSubDetector", "classpandora_1_1_geometry_manager.html#a7c4d089e1295f8aed438f86d9b6e6573", null ],
+    [ "GetSubDetector", "classpandora_1_1_geometry_manager.html#ad79d91c9aa69c85fc2daba95c0bf29f3", null ],
+    [ "GetSubDetectorMap", "classpandora_1_1_geometry_manager.html#a3e34469bc7065d7675633be19328b74e", null ],
+    [ "SetHitTypeGranularity", "classpandora_1_1_geometry_manager.html#a4bd22b4b44e9583c7e6b3a98c0f889b4", null ],
+    [ "PandoraApiImpl", "classpandora_1_1_geometry_manager.html#a372bde424d31abee3e91e5f8eb16ea05", null ],
+    [ "m_detectorGapList", "classpandora_1_1_geometry_manager.html#a7163de94efc72c65f906277e6d09e599", null ],
+    [ "m_hitTypeToGranularityMap", "classpandora_1_1_geometry_manager.html#a47fe2cbadd1ad8606dfe37ddaf65c378", null ],
+    [ "m_larTPCMap", "classpandora_1_1_geometry_manager.html#a4ccb9f31d95fcf8decf8aeaf7eaed556", null ],
+    [ "m_pPandora", "classpandora_1_1_geometry_manager.html#afb7e281eef6718d70ab0c32c8695f234", null ],
+    [ "m_subDetectorMap", "classpandora_1_1_geometry_manager.html#a0e903b96545a92c0912b99a5703d88d9", null ],
+    [ "m_subDetectorTypeMap", "classpandora_1_1_geometry_manager.html#a90317c5a2f9c2e371e7739a2d21ccf2a", null ]
+];

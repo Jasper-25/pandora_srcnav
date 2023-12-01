@@ -1,0 +1,29 @@
+<map id="lar_content::TestBeamParticleCreationAlgorithm::SetupTestBeamVertex" name="lar_content::TestBeamParticleCreationAlgorithm::SetupTestBeamVertex">
+<area shape="rect" id="Node000001" title="Set up the test beam vertex." alt="" coords="5,115,231,173"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a5cd2072891006cd27dcad53c57010faa" title="Add a cluster to a particle flow object." alt="" coords="321,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,112,278,64,310,51,312,56,280,69,178,117"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="587,64,728,107"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="231,116,278,108,433,92,571,85,571,90,434,98,279,113,232,121"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="279,123,505,165"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="231,141,263,141,263,147,231,147"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="307,256,477,299"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="162,172,217,208,280,242,294,248,292,253,278,246,214,212,159,176"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a919b4a1698c0108d05c3a12ff90d2d07" title="Remove a cluster from a particle flow object. Note this function will not remove the final object (tr..." alt="" coords="321,189,463,232"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="232,169,307,187,305,192,231,174"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,40,572,64,571,69,462,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="611,64,609,54,617,45,633,39,657,37,683,40,699,46,697,51,682,45,657,43,634,45,620,49,614,55,616,63"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="491,119,571,102,572,107,492,125"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="565,131,749,173"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="476,256,503,242,518,228,527,213,536,198,551,183,559,178,562,183,555,187,540,202,531,216,523,231,507,246,478,261"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#a5c15e83795337c11397a43566c1775a7" title="Get the vertex list." alt="" coords="565,197,749,240"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="476,256,549,240,550,245,478,261"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_vertex.html#a27d9a8f7296b40461cfe54531c4e4dff" title="Get the vertex type." alt="" coords="553,264,761,291"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="477,275,538,275,538,280,477,280"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pfo_helper.html#a41901bd1d1d3e8887b21cc62c705c4e7" title="Get the vertex with a specific vertex label in a given vertex list." alt="" coords="573,315,742,357"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="478,293,558,311,556,317,476,299"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1131739c54ecb80351077b80c730f0fc" title="Whether a pfo is a test beam particle." alt="" coords="573,381,742,424"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="428,297,486,332,554,367,569,373,567,378,552,372,483,337,425,301"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="809,381,994,424"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="742,400,794,400,794,405,742,405"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="462,194,504,175,518,161,527,147,536,132,551,117,571,105,574,110,555,121,540,135,531,149,523,165,506,180,464,199"/>
+</map>

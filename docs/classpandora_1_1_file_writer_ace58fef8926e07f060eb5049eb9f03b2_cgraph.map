@@ -1,0 +1,29 @@
+<map id="pandora::FileWriter::WriteGeometry" name="pandora::FileWriter::WriteGeometry">
+<area shape="rect" id="Node000001" title="Write the current geometry information to the file." alt="" coords="5,256,137,299"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_writer.html#aa1c83b7fc3204ff148da461b3264f731" title="Write the detector gap parameters to the file." alt="" coords="185,97,339,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,253,183,175,218,148,221,152,186,179,98,257"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_file_writer.html#a1c16ad2cf69cf276b251f4bbd6a8a44a" title="Write the container footer to the file." alt="" coords="196,323,328,365"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,297,185,314,183,320,133,302"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_writer.html#a22e31a5cae635da3e0fe31e35c03cd7e" title="Write the container header to the file." alt="" coords="196,389,328,432"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,297,135,336,186,375,193,380,191,384,183,380,132,340,91,301"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_file_writer.html#afd67faa75a0bdb593bf04025a585878c" title="Write the lar tpc parameters to the file." alt="" coords="196,189,328,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,253,183,235,185,240,135,258"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_file_writer.html#a3188e3eeecbbedea7a3876485181a340" title="Write the sub detector parameters to the file." alt="" coords="185,256,339,299"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="137,275,169,275,169,280,137,280"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_geometry_manager.html#a5525ac445d8fd4ae84f6d6d5a89bfef1" title="Get the list of gaps in the active detector volume." alt="" coords="401,72,583,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,108,385,102,385,108,340,113"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html#ad592a184f071bcbb9b741c2e6bf4b1ec" title="Get the pandora geometry instance." alt="" coords="387,139,596,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="340,127,381,133,380,138,339,132"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_writer.html#ab919f48967d4c1fd3d0c986c5e317eea" title="Write the detector gap parameters to the file." alt="" coords="425,5,558,48"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="304,94,386,58,410,49,411,54,388,62,307,99"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="327,190,386,175,417,167,418,172,388,180,329,195"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_geometry_manager.html#a7c94b2554e33ddc3a7539e259725f389" title="Get the map from name to lar tpc parameters." alt="" coords="401,256,583,299"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="328,227,402,249,400,254,327,232"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_file_writer.html#a54bcf1c13e0527e509076296b71c2e8e" title="Write a lar tpc to the file." alt="" coords="426,189,557,232"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="328,208,411,208,411,213,328,213"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="320,253,337,242,352,225,360,209,369,192,385,175,394,170,397,175,389,179,373,195,365,211,356,228,341,246,323,258"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_geometry_manager.html#a3e34469bc7065d7675633be19328b74e" title="Get the map from name to sub detector parameters." alt="" coords="401,389,583,432"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="323,297,341,309,357,326,365,343,373,360,389,375,395,379,392,384,385,379,369,363,360,346,352,329,337,313,320,301"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_file_writer.html#a2756d24ab4bd41e52bcfbeb314b846d5" title="Write a sub detector to the file." alt="" coords="426,323,558,365"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="338,297,411,318,410,323,337,302"/>
+</map>

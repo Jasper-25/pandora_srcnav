@@ -1,0 +1,16 @@
+<map id="lar_content::LArMCParticleHelper::CollectReconstructableTestBeamHierarchy2DHits" name="lar_content::LArMCParticleHelper::CollectReconstructableTestBeamHierarchy2DHits">
+<area shape="rect" id="Node000001" title="For a given Pfo, collect the hits which are reconstructable (=good hits belonging to a selected recon..." alt="" coords="5,109,206,168"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a20aa0b1c2d4724615d85baf56790a115" title="For a given Pfo, collect the hits which are reconstructable (=good hits belonging to a selected recon..." alt="" coords="254,29,493,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,106,291,75,293,80,198,111"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="549,59,718,101"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="206,125,533,88,533,94,206,130"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="281,147,466,189"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="207,147,266,154,266,159,206,152"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1131739c54ecb80351077b80c730f0fc" title="Whether a pfo is a test beam particle." alt="" coords="289,213,458,256"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="173,166,255,199,275,206,273,211,253,204,171,171"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="324,29,322,19,331,10,348,5,373,3,401,5,418,11,416,16,400,10,373,8,349,10,333,15,328,21,330,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="494,62,533,66,533,71,493,67"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="584,59,582,49,590,40,607,34,633,32,661,34,677,41,676,46,660,40,633,37,609,39,593,44,587,50,589,57"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="541,213,725,256"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="459,232,525,232,525,237,459,237"/>
+</map>

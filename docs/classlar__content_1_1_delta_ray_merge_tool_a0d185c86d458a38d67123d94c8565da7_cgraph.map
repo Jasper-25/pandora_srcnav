@@ -1,0 +1,34 @@
+<map id="lar_content::DeltaRayMergeTool::AreAssociated" name="lar_content::DeltaRayMergeTool::AreAssociated">
+<area shape="rect" id="Node000001" title="Determine, from a topological point of view, whether two delta ray clusters should be merged together..." alt="" coords="5,93,188,136"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_merge_tool.html#adc31d0df857d21a739569ecc22e350d5" title="Create a list of the shared common muon pfos of two elements." alt="" coords="236,5,471,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,90,235,64,273,51,275,56,237,69,161,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_merge_tool.html#a68b4e26a16fec32ad6d7067c7c3f98d9" title="Return the list of muon pfos that a specified delta ray cluster is directly connected to." alt="" coords="262,204,445,247"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,134,237,175,285,195,283,200,235,180,144,139"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_delta_ray_merge_tool.html#ad8e334b55a9a6c23c382810db688b509" title="Determine whether two delta ray clusters have been split." alt="" coords="519,49,701,92"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="188,104,503,77,504,82,188,110"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_delta_ray_merge_tool.html#a963bcf4a1ef0aeb944d5df3d2e695f1c" title="Determine whether two delta ray clusters are actually a single cluster that is hidden behind a cosmic..." alt="" coords="262,123,445,165"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="188,122,247,129,247,135,188,128"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_delta_ray_merge_tool.html#a2dca3f6062c19c532f00c7232b236b46" title="Determine whether a given cluster is connected to a cosmic ray pfo." alt="" coords="519,233,701,276"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,233,504,240,503,245,445,238"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="749,104,941,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="681,231,700,219,715,204,723,189,732,173,748,157,754,152,757,157,751,161,736,176,728,191,719,207,703,223,684,235"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="749,171,941,213"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="692,230,747,215,749,220,693,235"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="760,261,930,304"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="702,263,745,268,744,273,702,268"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="800,104,799,94,806,85,822,79,845,77,870,80,885,86,883,91,869,85,845,83,823,85,809,89,804,95,806,103"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="998,112,1183,155"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="936,167,983,156,984,161,938,173"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="989,179,1192,205"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="941,189,973,189,973,195,941,195"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="995,229,1186,272"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="938,211,984,223,983,228,936,217"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="800,261,799,251,806,242,822,237,845,235,870,237,885,243,883,248,869,242,845,240,823,242,809,247,804,253,806,260"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="703,89,736,97,735,103,701,95"/>
+<area shape="poly" id="edge19_Node000012_Node000005" title=" " alt="" coords="445,138,734,127,734,132,445,143"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_delta_ray_merge_tool.html#a79826b666f5b963f4e49b9d9ffbbef78" title="Find all connection points of a delta ray cluster and a cosmic ray pfo." alt="" coords="519,167,701,209"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="445,157,504,167,503,172,445,162"/>
+<area shape="poly" id="edge16_Node000013_Node000005" title=" " alt="" coords="692,164,747,149,749,154,693,169"/>
+<area shape="poly" id="edge17_Node000013_Node000006" title=" " alt="" coords="702,187,734,187,734,193,702,192"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="673,208,702,219,782,252,780,257,700,224,671,212"/>
+</map>

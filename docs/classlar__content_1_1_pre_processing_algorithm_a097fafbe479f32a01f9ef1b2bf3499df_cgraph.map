@@ -1,0 +1,43 @@
+<map id="lar_content::PreProcessingAlgorithm::ProcessCaloHits" name="lar_content::PreProcessingAlgorithm::ProcessCaloHits">
+<area shape="rect" id="Node000001" title="Build separate CaloHitLists for each view." alt="" coords="5,479,187,522"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_pre_processing_algorithm.html#a2ab26c52ed853ec801b310c416e1133b" title="Clean up the input CaloHitList." alt="" coords="235,266,446,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,477,302,317,305,321,124,481"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="517,466,658,509"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="187,495,235,494,502,487,502,492,235,499,187,501"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="494,399,681,442"/>
+<area shape="poly" id="edge24_Node000001_Node000014" title=" " alt="" coords="187,481,234,473,478,434,479,439,235,478,187,486"/>
+<area shape="rect" id="Node000015" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="270,509,411,551"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="188,509,255,517,254,523,187,514"/>
+<area shape="rect" id="Node000016" href="$class_pandora_content_api.html#a3499a61eb9739f782f671502f4979e45" title="Is object, or a list of objects, available as a building block." alt="" coords="270,575,411,618"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="143,520,236,561,256,568,254,573,234,566,141,525"/>
+<area shape="rect" id="Node000017" href="$class_pandora_content_api.html#a12872083dbe4252ceaebcc9814060c4a" title="Save a provided input object list under a new name." alt="" coords="270,642,411,685"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="117,521,167,574,200,603,236,628,256,638,254,643,233,632,197,607,164,578,113,525"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_k_d_tree_linker_algo.html#aa94df0ff1295b8ae4b4092ec29fc7987" title="Build the KD tree from the &quot;eltList&quot; in the space define by &quot;region&quot;." alt="" coords="502,175,673,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,263,493,228,510,221,512,226,495,233,400,268"/>
+<area shape="rect" id="Node000004" href="$namespacelar__content.html#aed106edce4a8d4837d5f3bcdd4faded5" title="build_2d_kd_search_region" alt="" coords="512,266,663,309"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="446,285,496,285,496,290,446,290"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="729,91,923,134"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="344,265,360,213,389,147,409,112,432,80,460,51,493,28,542,7,585,4,629,13,682,28,738,50,786,80,783,84,736,55,680,33,628,18,584,9,543,12,495,32,464,55,436,83,413,115,394,149,365,215,349,266"/>
+<area shape="rect" id="Node000006" href="$namespacelar__content.html#a0fa53f8f844dfe8a3aee6d08dcad0036" title="fill_and_bound_2d_kd_tree" alt="" coords="521,333,655,375"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="423,307,506,330,505,335,421,312"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_calo_hit.html#a8420e15da8bf785e85099af26922d0b7" title="Get the calibrated mip equivalent energy." alt="" coords="504,42,671,85"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="351,265,373,228,405,183,446,136,492,95,499,90,502,95,496,99,449,139,410,186,378,231,356,267"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="358,307,413,378,452,417,496,452,504,457,501,462,492,456,448,421,409,381,354,311"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_k_d_tree_linker_algo.html#ab24060eca7bcf2b2b0b7b0650110b49e" title="Search in the KDTree for all points that would be contained in the given searchbox The founded points..." alt="" coords="502,109,673,151"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="362,263,419,213,455,186,493,161,502,156,505,161,495,166,458,190,422,217,365,267"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="372,307,428,346,495,385,507,391,505,395,493,390,425,350,369,311"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="543,266,541,256,548,247,564,241,588,239,613,242,628,248,626,253,612,247,588,245,565,247,551,251,546,257,548,265"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="625,263,680,228,787,142,790,146,683,232,628,268"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="742,399,910,442"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="656,370,733,392,732,397,655,375"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="742,266,910,309"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="655,333,732,311,733,316,656,338"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1kdtree__type__adaptor.html#abbb025136be73421bb4fb5e61c0b9e94" title="position" alt="" coords="748,333,904,375"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="655,351,732,351,732,357,655,357"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="755,550,897,593"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="651,507,750,542,748,547,649,512"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="781,550,779,540,787,531,802,525,826,523,851,526,867,532,865,537,850,531,826,529,803,531,790,535,784,541,786,549"/>
+<area shape="poly" id="edge18_Node000015_Node000012" title=" " alt="" coords="412,533,740,562,740,567,411,539"/>
+<area shape="poly" id="edge21_Node000016_Node000012" title=" " alt="" coords="411,590,740,573,740,579,412,596"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="411,648,739,585,740,590,412,653"/>
+</map>

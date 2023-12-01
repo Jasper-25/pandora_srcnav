@@ -1,0 +1,29 @@
+<map id="lar_pandora::LArPandoraOutput::BuildClusters" name="lar_pandora::LArPandoraOutput::BuildClusters">
+<area shape="rect" id="Node000001" title="Convert from a pandora 2D cluster to a vector of ART clusters (produce multiple if the cluster is spl..." alt="" coords="5,105,209,148"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a210dcde2e7bd720c43fe8b217eb35d80" title="Build an ART cluster from an input vector of ART hits." alt="" coords="257,39,460,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,102,260,83,262,88,191,107"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a3409941de9806aac6af53058cb8edf02" title="Collect a sorted list of all 2D hits in a cluster." alt="" coords="257,105,460,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,124,241,124,241,129,209,129"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_l_ar_pandora_output.html#ab8e8cbc188ae27686ee2853337db977f" title="Find the index of an input object in an input list. Throw an exception if it doesn&#39;t exist." alt="" coords="257,172,460,215"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="191,146,262,165,260,170,189,151"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="512,5,696,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,102,459,91,483,75,507,58,519,52,521,57,509,62,486,79,461,96,435,107"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#aae293db8d449e737585add475f66d016" title="Get the isolated calo hit list." alt="" coords="509,72,699,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="460,110,493,106,493,111,461,115"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="508,139,699,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,138,493,142,492,148,460,143"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_cluster_helper.html#a5c6b1f6eb6de0c5ede0315d44119b3af" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="508,205,699,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="435,146,461,158,486,174,509,191,521,197,519,201,507,196,483,179,459,162,432,151"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="747,72,941,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="679,203,698,191,713,175,721,159,729,142,746,125,751,121,754,125,749,129,734,145,726,161,717,178,701,195,682,207"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="760,139,928,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="682,202,749,183,751,189,684,207"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="760,205,928,248"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="700,224,744,224,744,229,700,229"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="760,272,928,315"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="684,246,751,265,749,270,682,251"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="748,339,940,381"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="633,246,685,285,749,324,760,330,758,335,746,329,682,290,630,251"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="989,339,1186,381"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="940,357,973,357,973,363,940,363"/>
+</map>

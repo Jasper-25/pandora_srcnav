@@ -1,0 +1,68 @@
+<map id="lar_content::EventSlicingTool::CollectAssociatedClusters" name="lar_content::EventSlicingTool::CollectAssociatedClusters">
+<area shape="rect" id="Node000001" title="Collect all clusters associated with a provided cluster." alt="" coords="5,365,212,408"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="64,365,62,355,70,346,85,340,109,338,133,341,148,347,146,352,132,346,108,344,86,346,73,350,68,356,69,364"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_slicing_tool.html#af78006f4232ef25ce1dd5e36c221a72d" title="Compare the provided clusters to assess whether they are associated via pointing (checks association ..." alt="" coords="260,265,424,308"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="159,362,275,312,277,317,162,367"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_event_slicing_tool.html#a4f4ee3baf8862cecf9db5c35447acc4d" title="Compare the provided clusters to assess whether they are associated via pointing." alt="" coords="260,365,424,408"/>
+<area shape="poly" id="edge26_Node000001_Node000013" title=" " alt="" coords="212,384,244,384,244,389,212,389"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_event_slicing_tool.html#a274ef643f3479deb2746037fab236891" title="Compare the provided clusters to assess whether they are associated via cone fits to the shower clust..." alt="" coords="260,498,424,541"/>
+<area shape="poly" id="edge28_Node000001_Node000015" title=" " alt="" coords="149,406,291,488,288,492,146,410"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_event_slicing_tool.html#a6395bcd1fc3abd8c1bb60cf5eeee4f38" title="Check closest approach metrics for a pair of pointing clusters." alt="" coords="499,232,688,274"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="424,273,483,265,484,270,425,278"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_event_slicing_tool.html#ac04e10bbc93ea7367b19b28b026d0df3" title="Check whether a pair of pointing clusters are consistent with an emission." alt="" coords="512,141,676,184"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="367,262,414,227,471,193,496,183,498,188,473,198,417,232,370,267"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_event_slicing_tool.html#a36cd1c6932a8b110f2ba9740d18a5d48" title="Check whether a pair of pointing clusters are nodally associated." alt="" coords="512,298,676,341"/>
+<area shape="poly" id="edge18_Node000002_Node000011" title=" " alt="" coords="425,295,497,304,496,310,424,300"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="546,232,544,222,552,213,569,207,594,205,620,207,637,214,635,219,619,213,594,210,570,212,555,217,549,223,551,231"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="795,182,955,225"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="688,234,779,218,780,223,689,239"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="794,249,956,292"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="689,256,779,262,779,267,689,262"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="677,172,780,187,779,192,676,177"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="677,177,717,193,732,204,741,215,751,225,765,235,781,243,778,247,762,239,747,229,737,218,728,208,714,198,675,182"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="1319,206,1503,249"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="676,148,744,143,823,143,906,150,988,168,1003,175,1013,184,1022,193,1036,200,1103,218,1173,228,1242,232,1304,232,1304,238,1241,237,1173,233,1102,223,1034,205,1019,197,1009,188,1000,180,986,173,906,155,823,148,744,149,676,154"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa792936e96ceb90b195ca0e633b73e02" title="Whether pointing vertex is emitted from a given position." alt="" coords="789,65,961,108"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="675,138,778,110,779,115,676,143"/>
+<area shape="poly" id="edge17_Node000008_Node000007" title=" " alt="" coords="961,75,1030,72,1108,75,1191,86,1270,109,1303,126,1334,148,1383,193,1379,197,1330,152,1300,131,1268,114,1190,91,1108,80,1030,77,961,80"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a31cb608e94ec43ad44dedd8469813f3a" title="Get the vertex direction." alt="" coords="1317,14,1505,57"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="913,62,969,36,1034,15,1103,5,1173,3,1241,7,1302,13,1302,19,1241,12,1173,8,1103,10,1035,20,971,41,915,67"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a3c6c8d40c831aaa5a1d3fdc049aa4cd1" title="Calculate impact parameters between a pair of pointing vertices." alt="" coords="1035,148,1269,190"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="950,106,1064,140,1063,145,948,111"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="1250,188,1305,201,1304,206,1249,194"/>
+<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="1194,145,1353,62,1355,67,1196,150"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="1103,148,1101,138,1109,129,1126,123,1152,121,1179,123,1196,130,1194,135,1178,129,1152,126,1127,128,1112,133,1106,139,1108,147"/>
+<area shape="poly" id="edge19_Node000011_Node000004" title=" " alt="" coords="675,301,714,284,728,273,737,260,747,248,762,235,779,226,782,231,765,239,750,251,742,263,732,276,717,289,677,306"/>
+<area shape="poly" id="edge20_Node000011_Node000005" title=" " alt="" coords="676,303,779,285,780,290,677,308"/>
+<area shape="poly" id="edge21_Node000011_Node000007" title=" " alt="" coords="677,339,716,351,740,360,764,368,841,380,907,386,966,387,1020,382,1074,371,1131,355,1268,305,1318,282,1363,256,1366,260,1321,287,1270,310,1133,360,1076,376,1021,387,966,392,907,391,840,385,763,373,738,365,714,356,675,344"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa23153c2605f276b88b21a3f3d9c5546" title="Whether pointing vertex is adjacent to a given position." alt="" coords="795,316,955,358"/>
+<area shape="poly" id="edge22_Node000011_Node000012" title=" " alt="" coords="677,322,780,329,779,334,676,328"/>
+<area shape="poly" id="edge25_Node000012_Node000007" title=" " alt="" coords="955,318,1303,247,1304,252,956,323"/>
+<area shape="poly" id="edge23_Node000012_Node000009" title=" " alt="" coords="954,322,971,313,985,302,1001,279,1008,255,1009,231,1007,207,1005,182,1006,158,1014,134,1033,110,1061,87,1093,68,1127,54,1163,43,1234,30,1301,26,1302,31,1235,35,1164,48,1129,59,1096,73,1064,91,1037,114,1019,136,1011,159,1010,182,1012,206,1014,231,1013,256,1006,281,989,306,974,318,957,327"/>
+<area shape="poly" id="edge24_Node000012_Node000010" title=" " alt="" coords="955,315,985,301,1023,278,1059,252,1117,199,1121,203,1062,256,1026,283,988,306,957,320"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="498,365,689,408"/>
+<area shape="poly" id="edge27_Node000013_Node000014" title=" " alt="" coords="424,384,483,384,483,389,424,389"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_three_d_sliding_fit_result.html#aa95d7b2b1f2ddef37d586dd5ce416ca4" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="472,432,715,474"/>
+<area shape="poly" id="edge29_Node000015_Node000016" title=" " alt="" coords="424,495,495,476,496,482,425,501"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_three_d_sliding_fit_result.html#abaf6b65252c0876dd1a7df78e6e11dd6" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="474,498,713,541"/>
+<area shape="poly" id="edge30_Node000015_Node000017" title=" " alt="" coords="424,517,458,517,458,522,424,522"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a2e18871a23f9af454b7212b22698d7d9" title="Get the list of simple cones fitted to the three dimensional cluster." alt="" coords="482,653,705,696"/>
+<area shape="poly" id="edge31_Node000015_Node000018" title=" " alt="" coords="380,539,545,642,543,647,377,544"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a0eba49a77ffee6b8baa779b01f08d237" title="Get the sliding fit result for the full cluster." alt="" coords="763,520,987,562"/>
+<area shape="poly" id="edge40_Node000015_Node000021" title=" " alt="" coords="415,539,472,550,543,557,615,558,748,552,748,558,615,563,543,562,472,556,414,544"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_track_state.html#a0da4f028ef82406cb61bfcea28f27909" title="Get the track momentum vector." alt="" coords="806,653,944,696"/>
+<area shape="poly" id="edge32_Node000018_Node000019" title=" " alt="" coords="706,672,790,672,790,677,706,677"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_track_state.html#aad7ae5cbc32e5639283d9b3e13a5c6c9" title="Get the track position vector." alt="" coords="806,720,944,762"/>
+<area shape="poly" id="edge33_Node000018_Node000020" title=" " alt="" coords="687,694,791,719,790,724,686,699"/>
+<area shape="poly" id="edge34_Node000018_Node000021" title=" " alt="" coords="625,650,687,611,762,572,778,566,780,571,764,577,690,616,628,655"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#ae1ed97ee7b3c14b0c93bb1cd372882c8" title="Get the track state map, which caches results from the sliding fit result." alt="" coords="765,786,985,829"/>
+<area shape="poly" id="edge35_Node000018_Node000022" title=" " alt="" coords="628,694,690,733,764,772,780,778,778,783,762,777,687,738,625,699"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="791,853,959,896"/>
+<area shape="poly" id="edge36_Node000018_Node000023" title=" " alt="" coords="613,694,675,765,717,805,765,839,778,846,775,850,762,843,714,809,671,769,609,698"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="791,586,959,629"/>
+<area shape="poly" id="edge39_Node000018_Node000026" title=" " alt="" coords="686,650,775,629,776,634,687,655"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="1068,853,1236,896"/>
+<area shape="poly" id="edge37_Node000023_Node000024" title=" " alt="" coords="960,872,1052,872,1052,877,960,877"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1327,853,1495,896"/>
+<area shape="poly" id="edge38_Node000024_Node000025" title=" " alt="" coords="1236,872,1311,872,1311,877,1236,877"/>
+</map>

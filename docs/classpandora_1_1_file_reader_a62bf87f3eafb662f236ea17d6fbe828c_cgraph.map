@@ -1,0 +1,18 @@
+<map id="pandora::FileReader::ReadEvent" name="pandora::FileReader::ReadEvent">
+<area shape="rect" id="Node000001" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="5,131,143,173"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_reader.html#a8b1569bbcd3c6d3bd0090f30dfac7e8b" title="Get the id of the next container in the file without changing the current position in the file." alt="" coords="465,5,607,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,128,132,87,160,66,190,50,255,29,324,18,390,15,449,16,449,21,390,20,324,24,256,34,192,54,162,70,136,91,95,132"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_reader.html#ae65283cafd49ab95eb55a2f8397d2b5b" title="Skip to next event container in the file." alt="" coords="223,64,360,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,128,207,108,208,113,144,133"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_reader.html#a85377a4fbc6ecb2ae31f5d3872aab223" title="Read the container header from the current position in the file, checking for properly written contai..." alt="" coords="223,131,360,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="143,149,207,149,207,155,143,155"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_file_reader.html#a1fc9b0cd7170769a58ffa3bac5de6696" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="199,197,384,240"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="144,171,205,190,204,195,142,176"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="191,264,392,307"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="97,172,139,211,192,250,202,255,199,259,189,254,136,215,94,176"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="360,66,448,45,450,50,361,71"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_reader.html#a18da5af74c20f505939f3d6b09272ff0" title="Skip to next container in the file." alt="" coords="465,72,607,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="361,85,449,88,449,93,361,90"/>
+<area shape="rect" id="Node000008" href="$namespacepandora.html#a3315325079ef7c1c6dfa614b98eed31a" title="Get status code as a string." alt="" coords="440,272,631,299"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="392,283,425,283,425,288,392,288"/>
+</map>

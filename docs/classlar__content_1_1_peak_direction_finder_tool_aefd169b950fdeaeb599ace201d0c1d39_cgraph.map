@@ -1,0 +1,19 @@
+<map id="lar_content::PeakDirectionFinderTool::CollectHitsWithinROI" name="lar_content::PeakDirectionFinderTool::CollectHitsWithinROI">
+<area shape="rect" id="Node000001" title="Collect the 2D hits within a region of interest (m_ambiguousParticleMode ? hits not in the shower : h..." alt="" coords="5,72,217,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_peak_direction_finder_tool.html#a6c716fab3041131642a2dfad485e9153" title="Collect the hits that lie within the initial shower cone (originating from the nu vertex)" alt="" coords="265,39,503,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,78,249,74,249,79,218,83"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_peak_direction_finder_tool.html#a2bc365d02dfc9bb472ff0b20283bdbc5" title="Determine the angle (from the +ve drift&#45;axis) of the shower cone boundaries (originating from the nu ..." alt="" coords="282,105,486,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="218,104,267,110,266,115,217,109"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="551,39,719,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,57,535,57,535,63,503,63"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="551,105,719,148"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="468,79,538,98,537,103,466,84"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="767,39,936,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="720,57,752,57,752,63,720,63"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="984,5,1152,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="936,44,968,39,969,45,936,50"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="984,72,1152,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="936,70,969,75,968,81,936,76"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="466,102,537,83,538,88,468,107"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="486,124,535,124,535,129,486,129"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="lar_content::ThreeViewShowersAlgorithm::GetShowerPositionMaps" name="lar_content::ThreeViewShowersAlgorithm::GetShowerPositionMaps">
+<area shape="rect" id="Node000001" title="Get the shower position maps." alt="" coords="5,113,233,156"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_showers_algorithm_1_1_x_sampling.html#ae0944c4e85563a5ac6f7cec2ce9052dd" title="Convert an x position into a sampling bin." alt="" coords="292,25,495,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,110,280,77,302,70,304,76,281,83,184,115"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="293,92,494,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,120,277,115,278,120,233,125"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#a36395f42b5e3467838be9bf12bcd2326" title="Get the most appropriate shower edges at a given x coordinate." alt="" coords="281,143,506,185"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,144,266,148,265,153,233,150"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="304,209,483,252"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="174,154,282,195,302,202,300,207,280,200,172,159"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#af1ff59577cbf21655177f06f8c39434c" title="Get the minimum and maximum x coordinates associated with the sliding fit." alt="" coords="562,39,740,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="479,140,505,128,528,110,553,91,564,85,566,90,555,96,532,114,507,133,481,145"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_d_sliding_fit_result.html#afee73197d9ed9b0fee78d0efc58995da" title="Get the minimum and maximum z coordinates associated with the sliding fit." alt="" coords="562,105,740,148"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="506,145,546,139,547,144,507,150"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#a48be65b01a488a69e83e463a20b6400e" title="Get the sliding fit result for the negative shower edge." alt="" coords="554,172,748,231"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="507,178,539,182,538,188,506,183"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ae230c76025f4033f9f8c06e336a7f200" title="Get the sliding fit result for the positive shower edge." alt="" coords="556,255,746,313"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="483,183,507,195,523,206,532,218,542,229,556,241,562,245,559,249,552,245,538,233,528,221,519,210,505,200,481,188"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ab3e8d24c31d77264dba0e34b8bd04a12" title="Get the minimum and maximum x or z coordinates associated with the sliding fit." alt="" coords="796,72,1030,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="741,69,782,74,781,79,741,74"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="1078,5,1264,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="998,69,1070,50,1072,55,999,74"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1087,72,1255,115"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1030,91,1071,91,1071,96,1030,96"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="1087,139,1255,181"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="999,113,1072,132,1071,137,998,118"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="741,113,781,107,782,113,741,118"/>
+</map>

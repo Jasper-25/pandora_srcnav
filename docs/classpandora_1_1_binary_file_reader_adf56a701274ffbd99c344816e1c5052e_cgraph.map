@@ -1,0 +1,44 @@
+<map id="pandora::BinaryFileReader::ReadNextGeometryComponent" name="pandora::BinaryFileReader::ReadNextGeometryComponent">
+<area shape="rect" id="Node000001" title="Read the next pandora geometry component from the current position in the file, recreating the stored..." alt="" coords="5,172,215,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_binary_file_reader.html#ae6c4f6c565ee884ba5e849b4cad81700" title="Read a box gap from the current position in the file." alt="" coords="263,272,437,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,213,264,258,278,263,276,268,262,262,158,218"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_binary_file_reader.html#a8424826e0bd7933de28c1c829e1b3e93" title="Read a variable from the file." alt="" coords="500,272,674,315"/>
+<area shape="poly" id="edge31_Node000001_Node000007" title=" " alt="" coords="129,213,153,241,184,272,221,302,264,324,294,333,326,339,392,339,455,331,510,317,512,322,456,336,392,345,326,344,293,339,262,329,219,306,180,276,149,245,125,217"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_binary_file_reader.html#a7fab9ffe297a43dbcb0db1cb9f2b783a" title="Read a concentric gap from the current position in the file." alt="" coords="263,5,437,48"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,170,186,115,222,85,261,58,270,53,272,58,264,62,225,89,189,119,133,174"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_binary_file_reader.html#a8f6a80216e94597925fea3b3fc1fdc5a" title="Read a lar tpc from the current position in the file." alt="" coords="263,72,437,115"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="158,169,262,124,276,118,278,123,264,129,161,174"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_binary_file_reader.html#a7349bd3dff102b82f5ffb70a5e6b256c" title="Read a line gap from the current position in the file." alt="" coords="263,139,437,181"/>
+<area shape="poly" id="edge19_Node000001_Node000010" title=" " alt="" coords="215,176,247,172,248,177,215,181"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_binary_file_reader.html#a6e348039a06475e8dd7796ee61476a24" title="Read a sub detector from the current position in the file." alt="" coords="263,205,437,248"/>
+<area shape="poly" id="edge25_Node000001_Node000011" title=" " alt="" coords="215,205,248,210,247,215,215,211"/>
+<area shape="rect" id="Node000003" href="$classobject__creation_1_1_object_creation_helper.html#aaba95330f019ee6581dfd9ce26603816" title="Create a new object from a user factory." alt="" coords="485,72,688,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,269,435,258,448,242,454,226,458,193,462,159,470,142,483,125,486,122,489,126,487,128,474,145,467,160,463,193,459,227,452,244,439,262,424,274"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="486,139,687,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,269,435,258,450,242,458,225,467,208,483,191,490,187,493,191,487,195,471,211,463,228,455,245,439,262,420,274"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_object_factory.html#ab6a76d16bb7a2b0dd7cae309e426a079" title="Create new parameters instance on the heap (memory&#45;management to be controlled by user)" alt="" coords="508,205,665,248"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,269,493,250,495,255,429,274"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_object_factory.html#ae2fdbf043b438f7252f45866b6012cd5" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="508,5,665,48"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="422,269,435,258,451,233,459,209,460,184,458,160,456,135,457,109,465,84,483,58,493,49,497,53,487,62,470,86,462,110,461,135,463,159,465,184,464,210,456,236,439,262,426,273"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="437,291,484,291,484,296,437,296"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="429,46,495,65,493,70,427,51"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="420,46,439,58,455,75,463,92,471,109,487,125,493,129,490,133,483,129,467,112,458,95,450,78,435,62,417,51"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="424,46,439,58,452,76,459,93,463,127,467,160,474,175,487,191,496,199,493,203,483,195,470,178,462,161,458,127,454,94,448,78,435,62,421,51"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="437,24,492,24,492,29,437,29"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="426,47,439,58,456,84,464,110,465,136,463,161,461,185,462,210,470,234,487,258,489,260,485,264,483,262,465,236,457,211,456,185,458,160,460,136,459,111,451,87,435,62,422,51"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="437,91,469,91,469,96,437,96"/>
+<area shape="poly" id="edge15_Node000009_Node000004" title=" " alt="" coords="429,113,495,131,493,137,427,118"/>
+<area shape="poly" id="edge16_Node000009_Node000005" title=" " alt="" coords="420,113,439,125,455,142,463,159,471,175,487,191,496,197,493,202,483,195,467,178,458,161,450,145,435,129,417,117"/>
+<area shape="poly" id="edge17_Node000009_Node000006" title=" " alt="" coords="427,69,493,50,495,55,429,74"/>
+<area shape="poly" id="edge18_Node000009_Node000007" title=" " alt="" coords="424,113,439,125,452,142,459,160,463,193,467,226,474,242,487,258,489,260,486,264,483,262,470,245,462,228,458,194,454,161,448,145,435,129,421,117"/>
+<area shape="poly" id="edge20_Node000010_Node000003" title=" " alt="" coords="427,136,493,117,495,122,429,141"/>
+<area shape="poly" id="edge21_Node000010_Node000004" title=" " alt="" coords="437,157,470,157,470,163,437,163"/>
+<area shape="poly" id="edge22_Node000010_Node000005" title=" " alt="" coords="429,179,495,198,493,203,427,184"/>
+<area shape="poly" id="edge23_Node000010_Node000006" title=" " alt="" coords="417,136,435,125,450,108,458,92,467,75,483,58,493,52,496,56,487,62,471,78,463,94,455,111,439,129,420,140"/>
+<area shape="poly" id="edge24_Node000010_Node000007" title=" " alt="" coords="420,180,439,191,455,209,463,226,471,242,487,258,493,262,490,266,483,262,467,245,458,228,450,212,435,195,417,184"/>
+<area shape="poly" id="edge26_Node000011_Node000003" title=" " alt="" coords="417,203,435,191,450,175,458,159,467,142,483,125,490,120,493,125,487,129,471,145,463,161,455,178,439,195,420,207"/>
+<area shape="poly" id="edge27_Node000011_Node000004" title=" " alt="" coords="427,202,493,183,495,189,429,207"/>
+<area shape="poly" id="edge28_Node000011_Node000005" title=" " alt="" coords="437,224,492,224,492,229,437,229"/>
+<area shape="poly" id="edge29_Node000011_Node000006" title=" " alt="" coords="421,203,435,191,448,175,454,159,458,126,462,92,470,75,483,58,493,50,496,54,487,62,474,78,467,94,463,127,459,160,452,178,439,195,424,207"/>
+<area shape="poly" id="edge30_Node000011_Node000007" title=" " alt="" coords="429,246,495,265,493,270,427,251"/>
+</map>

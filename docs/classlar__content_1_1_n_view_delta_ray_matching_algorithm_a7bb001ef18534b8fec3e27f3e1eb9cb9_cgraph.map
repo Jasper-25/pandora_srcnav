@@ -1,0 +1,21 @@
+<map id="lar_content::NViewDeltaRayMatchingAlgorithm::CollectHitsFromMuon" name="lar_content::NViewDeltaRayMatchingAlgorithm::CollectHitsFromMuon">
+<area shape="rect" id="Node000001" title="In one view, pull out any hits from a cosmic ray cluster that belong to the child delta ray cluster." alt="" coords="5,161,206,220"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="497,9,681,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,159,143,127,173,91,210,56,253,30,309,12,368,4,427,3,481,7,481,13,427,9,369,10,310,18,255,35,213,61,177,94,148,130,126,162"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3b7139da1f86c69958fe387e426dbf83" title="Get closest distance between a specified cluster and list of positions." alt="" coords="254,69,445,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,158,280,116,282,120,180,163"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="493,98,684,141"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="205,173,477,133,478,138,206,178"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="254,210,445,253"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="207,205,239,210,238,215,206,210"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="265,277,434,320"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="163,218,255,262,269,268,267,273,253,267,160,222"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="265,344,434,386"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="133,218,186,274,219,304,255,329,264,334,261,339,252,334,216,308,182,278,129,222"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="436,66,485,53,487,58,438,71"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="304,69,302,59,310,50,326,44,349,42,375,45,390,51,388,56,374,50,349,48,327,49,313,54,307,60,309,68"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="445,99,478,103,477,109,445,104"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="304,210,302,200,310,191,326,186,349,184,375,186,390,192,388,197,374,191,349,189,327,191,313,196,307,201,309,209"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="505,344,673,386"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="434,362,489,362,489,368,434,368"/>
+</map>

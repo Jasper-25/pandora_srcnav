@@ -1,0 +1,57 @@
+<map id="lar_content::ThreeDHitCreationAlgorithm::RefineHitPositions" name="lar_content::ThreeDHitCreationAlgorithm::RefineHitPositions">
+<area shape="rect" id="Node000001" title="Refine the 3D hit positions (and chi2) for a list of proto hits, in accordance with a provided 3D sli..." alt="" coords="5,597,204,640"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_sliding_fit_result.html#a203f6180a8d87938984f65ec3e2c69bf" title="Get global fit position for a given longitudinal coordinate." alt="" coords="252,179,453,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,596,115,527,139,429,158,376,182,324,212,275,250,231,253,229,257,232,254,235,217,278,187,326,163,378,144,431,120,528,110,597"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="257,245,448,272"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="106,596,118,534,143,449,162,404,186,359,215,318,250,282,255,278,259,282,253,286,219,321,191,362,167,406,148,451,123,535,111,597"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_plugin_manager.html#a003182d975ff24de1514f6becde04234" title="Get the address of the lar transformation plugin." alt="" coords="257,296,448,339"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="110,596,127,547,156,483,197,415,222,384,250,355,264,345,268,349,253,359,226,387,201,418,161,486,132,549,115,598"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_three_d_sliding_fit_result.html#a97bfb819e4e8ed5ce1fcfbba64a5c305" title="Get longitudinal projection onto primary axis." alt="" coords="501,355,751,397"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="111,596,128,552,157,497,198,443,222,419,250,399,306,374,367,360,427,354,485,354,485,360,428,360,367,366,308,379,253,404,226,423,202,446,162,500,133,554,115,598"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_l_ar_transformation_plugin.html#a01b0defdf8183f96a814d4a25b251b17" title="Get the y, z position that yields the minimum chi squared value with respect to specified u,..." alt="" coords="257,413,448,456"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="119,595,173,532,209,496,250,466,259,461,261,466,253,470,213,501,177,535,123,599"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="252,480,453,507"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="130,595,184,555,251,516,268,509,270,514,253,521,186,559,133,599"/>
+<area shape="rect" id="Node000016" href="$class_pandora_content_api.html#ab27d68e8d774844ce661de3f247cc2be" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="282,531,423,573"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="186,594,266,572,267,578,187,599"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="256,597,449,640"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="204,616,240,616,240,621,204,621"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_geometry_helper.html#a154f5cbcebc791c2bc24ab42232a8619" title="Find the sigmaUVW value for the detector geometry." alt="" coords="267,664,438,707"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="187,638,256,657,255,662,186,643"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="268,731,437,773"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="134,638,188,677,253,716,265,722,263,727,250,721,185,682,131,643"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="268,797,437,840"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="121,639,174,709,211,749,253,783,261,788,258,792,250,788,207,753,170,713,117,642"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="268,864,437,907"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="116,639,135,684,164,740,203,799,227,826,253,850,259,854,255,858,250,854,223,830,199,802,159,743,130,686,111,642"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_l_ar_transformation_plugin.html#a66d7acad4d407dc932ae014114a59667" title="Transform from (Y,Z) to U position." alt="" coords="262,931,443,973"/>
+<area shape="poly" id="edge27_Node000001_Node000024" title=" " alt="" coords="113,640,128,695,155,770,173,809,196,848,223,885,253,917,257,920,254,924,250,921,218,888,191,851,169,812,150,772,122,697,108,641"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_l_ar_transformation_plugin.html#acaf09923298b3d11dcd395a9a6b9111d" title="Transform from (Y,Z) to V position." alt="" coords="262,997,443,1040"/>
+<area shape="poly" id="edge28_Node000001_Node000025" title=" " alt="" coords="111,640,122,706,146,798,165,848,189,897,218,943,254,983,257,986,253,990,250,987,214,946,184,900,160,850,141,800,117,707,106,641"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_l_ar_transformation_plugin.html#ab66b7af001dac8012f84a41d96537a3e" title="Transform from (Y,Z) to W position." alt="" coords="262,1064,443,1107"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="109,640,117,717,138,827,157,887,181,946,213,1001,254,1050,256,1052,252,1056,250,1054,209,1004,177,948,152,889,133,828,111,718,104,641"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="526,100,727,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,176,534,145,536,150,430,181"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aba240516cd246a5981e4e09a4a78e909" title="Get layer number for given sliding linear fit longitudinal coordinate." alt="" coords="1357,129,1521,172"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="453,194,829,179,1309,156,1341,154,1341,160,1309,161,829,184,454,199"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_three_d_sliding_fit_result.html#af0f94413686b0b1765a08bb60ac41320" title="Get global coordinates for a given pair of sliding linear fit coordinates." alt="" coords="533,221,719,264"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="454,213,518,223,517,228,453,218"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a25ffcc10ccdc78ccd2168f610f83cd55" title="Get local sliding fit coordinates for a given global position." alt="" coords="536,288,716,331"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="431,219,454,231,469,242,479,253,488,264,502,274,523,283,521,288,500,278,485,268,475,257,466,246,452,236,428,224"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="575,100,573,90,581,81,599,75,626,73,656,76,673,82,671,87,654,81,626,79,600,81,584,85,578,91,580,99"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aff0efd8176db6dc22a1ccb1e46137648" title="Get the pair of layers surrounding a specified longitudinal position." alt="" coords="799,96,1020,139"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="727,117,784,116,784,122,727,123"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6162a45ebeb7c2bfbcc3773dbe91bc0f" title="Get interpolation weights for layers surrounding a specified longitudinal position." alt="" coords="1068,5,1309,64"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="983,93,1072,66,1073,72,985,98"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a80384406405256b9cb4d50975bd2b13e" title="Get iterators for layers surrounding the specified longitudinal position." alt="" coords="1068,88,1309,147"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="1020,115,1052,115,1052,120,1020,120"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1309,131,1342,135,1341,140,1309,136"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="825,321,994,364"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="717,317,810,328,810,334,716,323"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="752,359,810,352,811,357,752,364"/>
+<area shape="rect" id="Node000017" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="556,531,697,573"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="423,549,540,549,540,555,423,555"/>
+<area shape="poly" id="edge20_Node000017_Node000017" title=" " alt="" coords="575,531,573,521,581,512,599,506,626,504,656,506,673,513,671,518,654,512,626,509,600,511,584,516,578,522,580,529"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_l_ar_t_p_c.html#aecc58c49773257731f8d9c50b59b727e" title="Get the u, v, w resolution, units mm." alt="" coords="518,672,735,699"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="438,683,502,683,502,688,438,688"/>
+</map>

@@ -1,0 +1,65 @@
+<map id="lar_content::LArGeometryHelper::MergeTwoPositions3D" name="lar_content::LArGeometryHelper::MergeTwoPositions3D">
+<area shape="rect" id="Node000001" title="Merge 2D positions from two views to give unified 3D position." alt="" coords="1144,436,1339,479"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_longitudinal_tracks_algorithm.html#a19c13ba80758344b2bf8dd398ddf6557" title="Calculate the overlap result for given group of clusters." alt="" coords="838,5,1096,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1235,421,1225,345,1202,248,1183,197,1160,148,1130,102,1094,62,1079,51,1082,46,1097,58,1134,99,1164,145,1188,195,1207,247,1230,344,1240,420"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a84d7c77b3240528f5274ac6cde47e973" title="Attempt to create candidate vertex positions, using 2D crossing points in 2 views." alt="" coords="856,72,1078,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1231,421,1215,361,1189,286,1171,248,1149,210,1123,175,1094,145,1076,132,1080,128,1097,141,1128,172,1153,207,1175,245,1194,284,1220,359,1236,420"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a00ab1bed2e6333487b9aacff55aa8c27" title="Create a candidate vertex position, using an end&#45;point position from one cluster and sliding fit to a..." alt="" coords="856,155,1078,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1225,423,1205,378,1177,326,1140,273,1094,227,1077,216,1079,211,1097,223,1144,269,1181,323,1210,376,1230,421"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#add8caf501655073314a0b078003be9bd" title="A relaxed approach to create a 3D shower start position from an input 2D position,..." alt="" coords="861,237,1073,296"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1214,426,1162,367,1130,336,1094,310,1072,299,1075,294,1097,306,1133,332,1166,363,1218,422"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_hit_creation_base_tool.html#a59e11f14f8469c595f4d0520881fdf32" title="Get the three dimensional position using a provided two dimensional calo hit and a candidate fit posi..." alt="" coords="870,320,1064,363"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1193,429,1147,402,1095,377,1063,366,1064,361,1097,372,1149,397,1196,425"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#abe8e8ead1d4a9fdf4deb857edcb17d36" title="Merge two pointing clusters and return chi&#45;squared metric giving consistency of matching." alt="" coords="883,387,1051,445"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1128,443,1051,431,1052,426,1129,438"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="856,469,1078,528"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1129,477,1079,485,1078,479,1128,472"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a2dc0621be4fc33ceb7007f4ea526713d" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="879,552,1055,595"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="1196,490,1149,517,1097,542,1057,556,1055,551,1095,538,1147,513,1193,485"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a2009db8714535ce909d5c02d326f0349" title="Perform the refinement proceduce on a list of vertices." alt="" coords="869,619,1065,661"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="1218,493,1167,553,1134,583,1097,609,1067,623,1065,618,1094,604,1130,579,1163,549,1214,490"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#a08744900f048d94f6449a9cc108e41a4" title="Combine two 2D coordinates to give a 3D coordinate." alt="" coords="840,685,1094,728"/>
+<area shape="poly" id="edge28_Node000001_Node000027" title=" " alt="" coords="1228,494,1208,536,1180,585,1142,634,1097,675,1077,687,1075,683,1094,671,1139,631,1175,582,1203,534,1223,492"/>
+<area shape="rect" id="Node000030" href="$classlar__dl__content_1_1_dl_vertexing_algorithm_1_1_vertex_tuple.html#a40ef8d250a7d8a22a428c5916d949d54" title=" " alt="" coords="878,752,1056,811"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="1234,495,1216,549,1189,616,1150,683,1125,715,1097,742,1078,755,1057,765,1055,761,1076,751,1094,738,1121,711,1145,680,1184,613,1211,547,1229,493"/>
+<area shape="rect" id="Node000031" href="$classlar__dl__content_1_1_dl_vertexing_algorithm_1_1_vertex_tuple.html#ac40cc436ac1533c327283abc3e1b73d8" title=" " alt="" coords="878,835,1056,893"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="1238,494,1226,564,1201,652,1182,699,1159,744,1131,787,1097,825,1079,839,1057,849,1055,844,1076,834,1094,821,1127,784,1155,742,1178,697,1196,651,1221,563,1233,493"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a8020d3a4ba50fe599c684fc108d8028a" title="Extrapolate 2D clusters, find where they cross, and match crossing points between views to create ver..." alt="" coords="557,72,778,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="841,104,778,104,778,99,841,99"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#ae7886a7ce290244298a9630a4a908c38" title="Run the algorithm." alt="" coords="286,163,476,205"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,138,458,165,457,159,548,133"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a5f8378a87ab28c6e93d7f1dc3b93abe7" title="Create candidate vertex positions by comparing pairs of cluster end positions." alt="" coords="557,155,778,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="841,187,778,187,778,181,841,181"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="541,187,476,187,476,181,541,181"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae589839cfb47ee86d85d738273cfe061" title="Create 3D shower start position(s) from three input 2D positions." alt="" coords="550,237,785,280"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="845,266,785,264,785,259,846,261"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="290,229,472,288"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="534,261,472,261,472,256,534,256"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="5,237,218,280"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="274,261,218,261,218,256,274,256"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#afcfcbb30643f5ad07c6967eff1c1d192" title="Get best&#45;matched pair of clusters from a set of input cluster vectors." alt="" coords="583,304,751,363"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="867,391,751,359,752,354,869,386"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a90a51d12c6fbbe6e1f9e215fa8837011" title="Get best&#45;matched triplet of clusters from a set of input cluster vectors." alt="" coords="583,387,751,445"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="867,419,752,419,752,413,867,413"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a1a5552bd07d5206c8b7cfab614f9ad72" title="Match clusters from three views." alt="" coords="297,349,465,408"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="567,406,465,392,466,387,568,400"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a832fc523c43ec6249adade9c37663cad" title="Match clusters from two views." alt="" coords="297,432,465,491"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="568,434,466,451,465,445,567,429"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a8b8fe4c33c95124f1d1054d56657c48a" title="Run the algorithm." alt="" coords="22,399,201,441"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="282,397,202,409,201,404,281,391"/>
+<area shape="poly" id="edge19_Node000018_Node000017" title=" " alt="" coords="281,449,201,436,202,431,282,443"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="546,469,789,528"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="841,501,789,501,789,496,841,496"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a655ca29512f8d530cc1c8534103a81cc" title="Get modification objects for specific elements of the matrix, identifying required splits and merges ..." alt="" coords="544,552,790,595"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="863,576,791,576,791,571,863,571"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#aedd9f95ee4b81e027a57ef3c32d7fb7d" title="Get modification objects, identifying required splits and merges for clusters." alt="" coords="288,552,474,595"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="529,576,474,576,474,571,529,571"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a8e8520e0c14ffad7e86187d068fb1468" title="Run the algorithm tool." alt="" coords="23,552,200,595"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="273,576,200,576,200,571,273,571"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a5e34b714d4d280b8d3b1646055151b82" title="Run the algorithm." alt="" coords="569,619,765,661"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="853,643,766,643,766,637,853,637"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#a92f6c39f4d5cd0c9a0bbfacc0bf1fd12" title="Get reconstructed vertex and end positions for this 3D track." alt="" coords="557,685,777,744"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="825,713,778,714,778,709,825,708"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#ada11d1751209dd53355bc7b829c11d97" title="Calculate 3D hits from an input list of 2D hits." alt="" coords="266,693,496,736"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="542,717,497,717,497,712,542,712"/>
+</map>

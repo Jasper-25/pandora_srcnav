@@ -1,0 +1,57 @@
+<map id="pandora::Cluster::RemoveCaloHit" name="pandora::Cluster::RemoveCaloHit">
+<area shape="rect" id="Node000001" title="Remove a calo hit from the cluster." alt="" coords="5,551,176,593"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="252,5,436,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,550,108,448,135,303,153,228,174,160,197,104,222,65,236,52,240,56,226,68,201,106,179,162,159,230,141,304,113,449,97,551"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="771,107,956,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,550,93,476,99,425,110,371,126,315,150,260,181,210,222,167,252,145,284,126,353,99,426,82,501,75,575,75,645,80,766,100,765,105,645,85,574,80,501,80,427,87,355,104,287,131,255,150,225,171,185,213,155,263,131,317,115,372,104,426,98,476,94,550"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="237,283,451,309"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,549,108,501,133,438,170,374,194,344,222,319,229,315,232,319,225,323,198,348,175,377,138,441,113,503,99,551"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#adf50170204bf79f4708be9646f6660dc" title="Searches the container for an element with specified layer and returns an iterator to it if found,..." alt="" coords="252,333,436,376"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="100,549,119,515,146,473,181,430,222,393,241,381,244,385,225,397,185,433,151,476,124,517,105,551"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="514,429,722,456"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,549,123,521,150,489,184,459,223,436,264,422,306,413,393,407,476,412,545,423,545,428,475,418,393,412,307,419,265,427,225,441,187,463,154,493,127,524,107,552"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a0048d07a26ec9d5e11adb604df8333ce" title="Get the calibrated electromagnetic energy measure." alt="" coords="224,517,464,560"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,558,208,554,209,559,176,563"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="245,584,443,627"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="176,581,230,588,229,593,176,586"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="247,651,441,693"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="131,591,225,636,243,643,242,648,223,641,129,596"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_calo_hit.html#a2f0de9662f27837168f74125699552c2" title="Get pseudo layer for the calo hit." alt="" coords="249,451,439,493"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="129,548,223,503,242,496,243,501,225,508,131,553"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="260,717,428,760"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="110,592,157,648,189,678,225,703,246,713,244,718,222,708,186,682,153,652,106,596"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="260,784,428,827"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="103,593,120,631,146,679,181,728,225,770,246,782,244,787,222,774,177,732,142,682,115,634,98,595"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="260,851,428,893"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="99,593,112,643,137,709,174,778,198,809,225,837,247,850,244,855,222,841,194,813,169,781,132,711,107,645,94,594"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#a17e9def4de8b7f21c462705101a0d536" title="Whether cell is in one of the outermost detector sampling layers." alt="" coords="255,917,433,960"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="96,593,106,655,128,738,145,783,166,827,193,868,225,903,243,916,240,920,222,907,189,871,161,830,140,785,123,740,101,656,91,594"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_calo_hit.html#aa5fcd814ef363a903a7f5b4f68bced94" title="Whether the calo hit is flagged as a possible mip hit." alt="" coords="241,984,447,1011"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="95,594,100,666,118,769,134,824,157,877,187,927,226,970,229,973,226,977,222,974,183,930,152,880,129,825,112,770,94,667,89,594"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_ordered_calo_hit_list.html#abd2b6b8be1876ff5ce80db36a61fa4ea" title="Returns a const reverse iterator referring to the first element in the ordered calo hit list." alt="" coords="252,1035,436,1077"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="94,594,97,674,103,729,113,789,130,851,153,913,184,970,226,1021,240,1032,236,1036,222,1025,180,973,148,915,124,853,108,790,98,729,92,674,89,594"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_ordered_calo_hit_list.html#a86bf0b2a5e9f6a2f3a015386adcbf8f1" title="Remove the hits in a second ordered calo hit list from this list." alt="" coords="252,1125,436,1168"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="94,593,96,681,102,743,112,811,128,884,152,956,184,1025,226,1088,241,1103,260,1116,257,1120,238,1107,222,1091,179,1028,147,958,123,885,107,812,96,743,91,682,89,594"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cluster.html#ad4fe0f30a561594d1c4f086d6b1e71bb" title="Reset those cluster properties that must be recalculated upon addition/removal of a calo hit." alt="" coords="512,291,723,333"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="91,550,100,491,121,412,138,371,160,332,188,297,222,268,254,251,283,241,311,239,338,241,395,254,465,268,536,283,535,288,463,273,394,259,337,246,311,244,285,247,256,256,225,273,192,301,165,335,143,373,126,414,105,492,96,551"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cluster.html#abb902d117749801d3edc3019c193aac7" title="Reset all cluster properties." alt="" coords="235,181,453,208"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="91,550,100,486,121,398,138,351,160,305,188,262,222,225,238,213,241,217,225,229,192,265,165,308,143,353,126,400,105,487,96,550"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="439,459,498,453,498,458,440,464"/>
+<area shape="poly" id="edge18_Node000017_Node000017" title=" " alt="" coords="296,1125,294,1115,302,1106,319,1101,344,1099,371,1101,387,1107,385,1112,370,1106,344,1104,320,1106,305,1111,299,1117,301,1124"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_cluster_fit_result.html#acaca623f18cf1538e640d9676e9bb979" title="Reset the cluster fit result." alt="" coords="779,341,948,384"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="724,331,765,340,764,345,723,336"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_pandora_input_type.html#a41ce2e807f3031f281deb5d614c5765a" title="Reset the pandora type." alt="" coords="1004,283,1183,325"/>
+<area shape="poly" id="edge23_Node000018_Node000020" title=" " alt="" coords="724,308,988,303,988,308,724,313"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="1009,375,1178,417"/>
+<area shape="poly" id="edge24_Node000018_Node000021" title=" " alt="" coords="649,332,705,366,738,382,772,393,828,404,886,409,993,406,994,411,886,414,827,409,771,399,736,387,702,371,647,336"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="947,339,992,327,993,332,949,344"/>
+<area shape="poly" id="edge22_Node000019_Node000021" title=" " alt="" coords="949,372,994,379,993,384,948,378"/>
+<area shape="poly" id="edge26_Node000022_Node000003" title=" " alt="" coords="407,178,512,159,638,143,756,133,756,138,639,149,512,164,408,183"/>
+<area shape="poly" id="edge31_Node000022_Node000018" title=" " alt="" coords="420,206,465,224,481,236,490,247,500,258,513,270,535,282,533,286,511,274,496,262,486,251,477,240,463,229,418,211"/>
+<area shape="poly" id="edge30_Node000022_Node000020" title=" " alt="" coords="410,206,512,225,769,263,988,290,988,295,768,268,512,231,409,211"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_ordered_calo_hit_list.html#a50a93b3038338d475c2de54b6b6e2853" title="Reset the ordered calo hit list, emptying its contents." alt="" coords="526,173,710,216"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="453,192,510,192,510,197,453,197"/>
+<area shape="poly" id="edge29_Node000023_Node000003" title=" " alt="" coords="698,170,767,151,768,157,700,175"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_ordered_calo_hit_list.html#a35ec6b4106b0172e54ad55dea48acf5f" title="Clear the ordered calo hit list." alt="" coords="771,173,956,216"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="710,192,756,192,756,197,710,197"/>
+</map>

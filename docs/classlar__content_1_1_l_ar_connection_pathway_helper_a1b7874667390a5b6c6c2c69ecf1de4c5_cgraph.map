@@ -1,0 +1,34 @@
+<map id="lar_content::LArConnectionPathwayHelper::FindShowerStartFromXProjection" name="lar_content::LArConnectionPathwayHelper::FindShowerStartFromXProjection">
+<area shape="rect" id="Node000001" title="Create a 3D shower start position from an input 2D position, assuming consistency of the drift coordi..." alt="" coords="5,272,218,331"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae4ae5c80097bc6d20405f48ae4eb1160" title="Find the 2D spine hit that is closest to the neutrino vertex and shares a drift coordinate with an in..." alt="" coords="266,147,484,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,269,264,215,277,209,279,214,267,220,164,274"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="553,5,720,48"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="130,270,185,201,222,164,264,132,331,98,403,71,473,51,537,38,538,43,474,56,404,76,333,102,267,137,226,168,189,204,135,273"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="275,229,475,256"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="218,275,296,257,297,263,219,280"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_proto_shower.html#a0ba81d8bb82dd7d01b16092e3f465ae0" title="Get the shower core." alt="" coords="291,280,459,323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="218,299,276,299,276,304,218,304"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_shower_core.html#afde9b583e9af5c319d0fdf4fd148bbab" title="Get the start position of the shower core." alt="" coords="293,347,457,389"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="219,326,279,341,277,346,217,331"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_geometry_helper.html#ad52277795bbaccbb77c28cadee5682c0" title="Merge 2D positions from three views to give unified 3D position." alt="" coords="273,413,477,456"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="153,329,206,365,267,399,280,405,278,410,264,404,203,370,150,334"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="285,480,465,523"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="135,329,189,398,226,435,267,466,275,470,273,475,264,470,223,439,185,402,130,333"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="553,72,720,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,143,551,117,552,122,471,149"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="552,139,720,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="484,167,536,163,536,169,485,172"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,144,463,100,531,58,543,52,545,57,533,62,466,105,411,148"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="532,205,740,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="485,195,517,201,516,206,484,200"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_connection_pathway.html#ae4c2ceebbf5c426f23b46a54603c8785" title="Get the start position of the connection pathway." alt="" coords="532,272,740,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="464,204,485,215,500,226,510,237,519,247,533,258,543,263,541,268,531,262,516,251,506,241,496,230,483,220,462,208"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="552,339,720,381"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="471,204,486,215,498,230,505,244,510,272,516,299,522,312,534,325,541,330,537,334,530,329,518,315,511,301,505,273,500,246,493,233,482,219,468,208"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="452,410,544,384,545,389,453,415"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#aa2348e8d2a02b2785164c1991f7d2f3c" title="Merge 2D positions from three views to give unified 2D positions for each view." alt="" coords="542,429,730,472"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="478,438,527,441,526,447,477,444"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="552,496,720,539"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="448,454,485,465,533,481,553,488,552,493,531,487,483,471,447,459"/>
+<area shape="poly" id="edge15_Node000013_Node000013" title=" " alt="" coords="587,429,585,419,593,410,610,405,636,403,664,405,681,411,679,416,663,410,636,408,611,410,596,415,590,421,592,428"/>
+</map>

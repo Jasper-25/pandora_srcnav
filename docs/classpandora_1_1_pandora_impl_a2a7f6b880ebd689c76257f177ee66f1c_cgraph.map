@@ -1,0 +1,15 @@
+<map id="pandora::PandoraImpl::ResetEvent" name="pandora::PandoraImpl::ResetEvent">
+<area shape="rect" id="Node000001" title="Ï event, calling manager reset functions and any registered reset functions." alt="" coords="5,72,153,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm_manager.html#a49d5fb9788d54566e34ae5381d10f56b" title="Call the reset callback in all managed algorithms and algorithm tools." alt="" coords="204,5,384,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,69,207,51,209,56,151,74"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_manager.html#ac771a333f3f2d3345d907ea6eefd1c81" title="Reset the manager." alt="" coords="201,72,387,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,91,185,91,185,96,153,96"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_plugin_manager.html#a03e77c5d2c765ae448e9384d65e02ef1" title="Call the reset callback in all managed plugins." alt="" coords="213,139,375,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,113,209,131,207,136,149,118"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a57a51287fa79cdd4910d65266f9a2375" title="Perform any operations when pandora is reset, typically at the end of each event." alt="" coords="444,88,609,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="374,137,455,116,456,122,376,142"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_energy_corrections.html#a39e7e5992d995bc25bbc2a7004f233aa" title="Call the reset callback in all managed plugins." alt="" coords="435,139,617,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="375,157,420,157,420,163,375,163"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_id.html#a59ff5f9b447320b82304f09152f038b5" title="Call the reset callback in all managed plugins." alt="" coords="456,205,597,248"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="371,179,442,200,440,205,370,184"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="lar_content::CosmicRaySplittingAlgorithm::PerformDoubleSplit" name="lar_content::CosmicRaySplittingAlgorithm::PerformDoubleSplit">
+<area shape="rect" id="Node000001" title="Split a branch cluster for case of two replacement clusters." alt="" coords="5,197,213,240"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_splitting_algorithm.html#afb84f106f4079c799ed83b10540a9ac7" title="Get lists of calo hits to move in order to split a branch cluster into two segments for case of two r..." alt="" coords="261,139,480,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,194,257,183,258,188,208,199"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_splitting_algorithm.html#ab4bb7003fc33d8d157a6534f967260d6" title="Split the branch cluster and add hits to the replacement cluster." alt="" coords="264,72,477,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="139,195,194,159,260,124,274,118,276,123,262,129,197,164,142,199"/>
+<area shape="rect" id="Node000008" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="288,231,453,273"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="214,229,272,237,272,242,213,235"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_cosmic_ray_splitting_algorithm.html#adf863c1c2a297db78050884db9c84b84" title="Split the branch cluster and add hits to the replacement cluster." alt="" coords="267,323,474,365"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="157,238,312,313,310,318,154,243"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="533,72,717,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,136,525,117,527,122,455,141"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="541,205,709,248"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,179,527,198,525,203,454,184"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="529,5,720,48"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="459,136,478,125,494,109,502,92,510,75,526,58,532,54,535,58,530,62,515,78,507,95,498,112,482,129,462,140"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="528,139,721,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="481,157,512,157,512,163,481,163"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="477,91,517,91,517,96,477,96"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="454,69,525,50,527,55,455,74"/>
+<area shape="rect" id="Node000009" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="769,323,911,365"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="454,260,580,280,722,308,755,316,753,321,721,313,579,286,453,266"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="799,323,797,313,804,304,819,298,840,296,863,298,877,305,875,309,862,304,840,301,820,303,807,308,803,314,804,322"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="554,323,695,365"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="474,341,538,341,538,347,474,347"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#abc59b55c66f74e7785be5683759138d6" title="Remove a calo hit from a cluster. Note this function will not remove the final calo hit from a cluste..." alt="" coords="554,389,695,432"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="455,363,539,386,538,391,454,368"/>
+<area shape="poly" id="edge14_Node000011_Node000009" title=" " alt="" coords="696,341,754,341,754,347,696,347"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="695,386,753,368,755,373,696,391"/>
+</map>

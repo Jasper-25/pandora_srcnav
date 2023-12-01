@@ -1,0 +1,8 @@
+<map id="pandora::CaloHit::GetWeight" name="pandora::CaloHit::GetWeight">
+<area shape="rect" id="Node000001" title="Get the calo hit weight, which may not be unity if the hit has been fragmented." alt="" coords="463,43,650,69"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_manager.html#a53ef316ddd32f30c93d6b0b329b121de" title="Whether two candidate calo hit fragments can be merged." alt="" coords="223,5,415,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,45,415,41,416,36,448,40"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit_manager.html#ab269e64ca9c5ef422a3dc050c3507acf" title="Merge two calo hit fragments, originally from the same parent hit, to form a new calo hit." alt="" coords="5,35,175,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="447,62,415,63,223,63,175,62,175,56,223,57,415,57,447,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,44,175,48,175,43,207,38"/>
+</map>

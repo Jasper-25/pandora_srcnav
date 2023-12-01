@@ -1,0 +1,42 @@
+<map id="lar_content::CosmicRayExtensionAlgorithm::FillClusterAssociationMatrix" name="lar_content::CosmicRayExtensionAlgorithm::FillClusterAssociationMatrix">
+<area shape="rect" id="Node000001" title="Form association between two pointing clusters." alt="" coords="5,423,252,465"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_extension_algorithm.html#a7740e066ff3553cdb5e32abaeb6cd685" title="Calculate RMS deviation of a cluster with respect to the reference line." alt="" coords="301,139,519,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,421,201,327,246,270,298,218,344,187,347,191,301,222,250,274,205,330,144,424"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="581,5,749,48"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="133,421,150,362,183,282,205,239,231,197,262,158,298,125,328,103,361,85,430,58,501,40,565,30,566,35,502,45,432,63,363,90,331,108,301,129,266,162,236,200,210,242,188,284,156,364,138,423"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a2815fbc1ef97e25f05526fabdfee25c2" title="Given a pair of pointing clusters, receive the closest or farthest pair of vertices." alt="" coords="300,276,520,319"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,420,222,378,298,335,327,322,329,327,301,340,224,383,161,425"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a87b171fa1c7c508c97a0dcfdf25da7ef" title="Get the address of the cluster." alt="" coords="585,272,745,315"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="140,421,164,383,200,338,245,295,271,276,299,262,335,249,373,242,450,240,524,249,588,264,587,270,523,254,450,245,373,247,336,254,301,266,274,281,248,299,204,342,168,386,144,423"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="585,339,745,381"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="176,420,234,397,299,379,369,367,440,360,569,355,569,361,440,365,370,372,300,384,236,402,178,425"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="584,405,745,448"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="252,448,381,450,520,445,569,440,569,445,520,451,381,455,252,453"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="326,561,494,604"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="165,464,227,501,301,540,330,553,328,558,299,545,224,506,162,468"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a7aaefbd44d37e29940b0fbde2048f2c9" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="302,393,518,436"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="252,428,286,425,287,430,252,434"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="573,485,757,528"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="253,456,557,492,557,497,252,461"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="326,628,494,671"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="148,464,210,538,253,578,301,614,313,620,310,625,298,618,249,583,206,541,144,468"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a4b4f60de733b91a335cebbc19fbc5ef7" title="Whether the vertex has been initialized." alt="" coords="320,695,500,737"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="142,465,164,510,199,568,245,629,272,656,301,681,308,685,305,689,298,685,268,660,241,632,195,571,160,512,137,467"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#ae3f63b089d733e9bebee92762dbe63b1" title="Is this the inner vertex." alt="" coords="314,761,506,804"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="138,465,157,522,190,598,212,639,238,678,267,715,301,747,306,751,303,755,298,751,264,719,233,681,207,641,185,600,152,524,133,467"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="573,72,757,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,136,565,117,567,122,495,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="439,136,497,97,567,58,579,52,582,57,569,62,500,102,442,141"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="569,139,760,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="520,157,553,157,553,163,520,163"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="568,205,761,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="495,179,567,198,565,203,493,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="520,293,569,292,569,297,520,298"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="500,317,570,334,569,339,499,322"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="444,317,501,354,569,391,582,397,580,401,567,396,498,358,441,322"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="512,390,569,378,570,383,513,395"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="518,417,569,419,568,425,518,422"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="472,434,590,477,588,482,470,439"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="581,628,749,671"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="494,647,565,647,565,652,494,652"/>
+</map>

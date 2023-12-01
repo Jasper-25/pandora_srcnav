@@ -1,0 +1,32 @@
+<map id="lar_content::CosmicRayTrackRecoveryAlgorithm::BuildParticles" name="lar_content::CosmicRayTrackRecoveryAlgorithm::BuildParticles">
+<area shape="rect" id="Node000001" title="Build particle flow objects." alt="" coords="5,156,223,199"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="540,5,766,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,153,193,107,230,83,270,64,333,45,399,32,464,25,525,21,525,27,465,30,400,37,334,50,272,69,233,88,197,111,140,158"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="839,136,981,179"/>
+<area shape="poly" id="edge17_Node000001_Node000003" title=" " alt="" coords="153,153,207,128,270,108,345,97,422,91,499,91,575,96,714,113,825,134,824,139,713,118,574,101,499,97,422,97,346,102,271,113,209,133,155,158"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="313,123,450,165"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="223,161,297,152,298,157,223,166"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="313,189,450,232"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="223,188,298,198,297,203,223,194"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#a3499a61eb9739f782f671502f4979e45" title="Is object, or a list of objects, available as a building block." alt="" coords="583,207,724,249"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="155,197,209,222,271,241,349,252,427,253,502,248,567,241,567,246,502,254,427,258,348,257,270,247,207,227,153,202"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_track_recovery_algorithm.html#ae8e7403d03643c1925e1daa1e22d7e6e" title="Merge broken clusters into a single cluster." alt="" coords="271,307,492,349"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="143,197,200,241,272,286,298,298,296,303,269,290,197,245,140,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="725,46,768,64,821,94,868,125,865,129,818,98,765,69,722,51"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="864,136,862,126,870,117,886,111,910,109,936,112,952,118,950,123,935,117,910,115,887,117,872,121,867,127,869,135"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="724,206,824,178,825,183,725,211"/>
+<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="447,304,491,286,539,259,567,248,569,253,541,264,493,290,449,309"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_cluster_helper.html#a27107a0032f464e70ee73a4b6a3be4de" title="Get the subset of clusters, from a provided list, that match the specified hit type." alt="" coords="558,340,749,383"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="493,339,542,345,542,350,492,344"/>
+<area shape="rect" id="Node000013" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="571,273,736,316"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="492,312,554,304,555,309,493,317"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="814,340,1006,383"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="749,359,799,359,799,364,749,364"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="1063,281,1248,324"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1001,337,1048,326,1049,331,1003,342"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="1054,348,1257,375"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1006,359,1038,359,1038,364,1006,364"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="1060,399,1251,441"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="1003,381,1049,392,1048,397,1001,386"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="735,271,765,259,823,224,872,186,875,191,826,228,768,264,737,276"/>
+</map>

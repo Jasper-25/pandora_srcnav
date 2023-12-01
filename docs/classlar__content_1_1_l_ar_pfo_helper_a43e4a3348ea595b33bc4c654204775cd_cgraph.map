@@ -1,0 +1,18 @@
+<map id="lar_content::LArPfoHelper::GetCoordinateVector" name="lar_content::LArPfoHelper::GetCoordinateVector">
+<area shape="rect" id="Node000001" title="Get a list of coordinates of a particular hit type from an input pfos." alt="" coords="5,63,175,105"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="234,29,403,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,69,218,63,219,68,175,74"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#a47df1d15358b292715e5bb31a6bc56a7" title="Get vector of hit coordinates from an input cluster." alt="" coords="223,96,414,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="175,94,208,98,207,104,174,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="275,29,273,19,281,10,296,5,318,3,343,5,357,11,355,16,341,10,318,8,297,10,284,15,278,21,280,28"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="462,63,653,105"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="414,101,446,97,447,102,415,107"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#a7e2dfdec4d4e010c8edf3e07d6b9ebf0" title="Sort cartesian vectors by their position (use Z, followed by X, followed by Y)" alt="" coords="462,129,653,172"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="415,128,447,133,446,138,414,133"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="701,63,870,105"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="632,126,695,108,696,113,633,131"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="701,129,870,172"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="654,148,686,148,686,153,654,153"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="701,196,870,239"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="633,170,696,189,695,194,632,175"/>
+</map>

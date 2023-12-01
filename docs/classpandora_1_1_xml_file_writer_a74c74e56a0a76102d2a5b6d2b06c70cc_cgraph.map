@@ -1,0 +1,66 @@
+<map id="pandora::XmlFileWriter::WriteCaloHit" name="pandora::XmlFileWriter::WriteCaloHit">
+<area shape="rect" id="Node000001" title="Write a calo hit to the current position in the file." alt="" coords="5,715,158,757"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a117c170278ecf08b3e198cc2162561eb" title="Get the cell geometry." alt="" coords="242,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,714,90,581,110,385,126,283,147,189,172,111,187,81,204,58,225,41,229,46,208,62,192,84,177,113,152,190,131,284,115,385,95,582,86,714"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#abbebb42380f33c11388582a358b450c0" title="Get the unit vector normal to the sampling layer, pointing outwards from the origin." alt="" coords="242,72,410,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,714,92,594,114,417,130,325,150,242,175,172,189,145,204,125,226,108,229,112,208,129,193,148,180,174,155,243,135,327,119,418,97,594,87,715"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#ab7c46a1d52985dd9a20f957240ae2bc4" title="Get the cell size 0 [pointing: eta, rectangular: up in ENDCAP, along beam in BARREL,..." alt="" coords="242,139,410,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="82,714,94,605,118,449,135,368,154,294,177,233,204,192,226,175,230,179,208,195,182,236,159,296,140,369,123,450,100,606,87,715"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="242,205,410,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="83,714,97,617,122,480,139,410,158,347,180,294,204,258,226,242,229,246,208,262,184,297,163,348,144,412,128,481,102,618,88,715"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#aa7817ed4f7626ba531ee1a2425ac176f" title="Get the thickness of cell, units mm." alt="" coords="242,272,410,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="80,714,83,640,99,536,115,479,137,423,166,371,204,325,226,309,229,313,207,329,170,374,141,425,120,481,105,537,89,641,85,714"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a0048d07a26ec9d5e11adb604df8333ce" title="Get the calibrated electromagnetic energy measure." alt="" coords="206,339,446,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="81,714,89,651,108,564,123,517,144,472,171,429,204,391,207,389,211,393,208,395,175,432,149,474,128,519,113,566,94,652,87,715"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#ae6150c84f0bc4e7f7e1e21db276c9e03" title="Get the unit vector in direction of expected hit propagation." alt="" coords="225,405,427,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="83,714,95,662,117,593,132,556,152,520,176,487,204,458,210,453,214,457,207,462,180,490,157,523,137,559,122,595,100,663,89,715"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="227,472,425,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="87,714,102,673,126,622,160,570,181,546,204,525,212,519,215,523,207,529,184,549,164,573,131,625,107,675,92,715"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_calo_hit.html#a3349630fbdfc71a85cdba1dc85cee32d" title="Get the region of the detector in which the calo hit is located." alt="" coords="245,539,407,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="94,713,137,652,169,619,204,591,229,578,232,583,207,596,172,623,142,655,98,716"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="231,605,421,632"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="104,712,148,676,204,642,222,635,224,640,207,646,151,680,107,716"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_calo_hit.html#abfeb59e172d45e4b769b3577a233028f" title="Get the corrected energy of the calorimeter cell, units GeV, as supplied by the user." alt="" coords="239,656,413,699"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="157,715,223,699,225,704,159,720"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_calo_hit.html#a7f762c0f596394c25a1be6d16a51a0c6" title="Get the subdetector readout layer number." alt="" coords="237,723,415,749"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="158,733,221,733,221,739,158,739"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#a8420e15da8bf785e85099af26922d0b7" title="Get the calibrated mip equivalent energy." alt="" coords="242,773,410,816"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="159,752,228,768,226,774,157,757"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_calo_hit.html#a9ca56fe0b3af1a03a95baa4bbddf64e2" title="Get the absorber material in front of cell, units interaction lengths." alt="" coords="237,840,415,883"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="108,756,152,792,207,826,224,833,222,838,204,830,149,796,105,760"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_calo_hit.html#a94a5f4dfc0df0d776869198b7935da2d" title="Get the absorber material in front of cell, units radiation lengths." alt="" coords="237,907,415,949"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="96,756,139,824,170,861,207,892,224,902,221,907,204,897,166,865,134,827,91,759"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_calo_hit.html#acb3ad8b0e1d30fcba8a9a6b8fb15a8ee" title="Get the address of the parent calo hit in the user framework." alt="" coords="234,973,418,1016"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="91,757,105,800,128,855,162,911,183,937,207,959,221,968,218,973,204,963,179,941,158,914,124,857,100,802,86,759"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="229,1040,423,1083"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="88,757,98,812,119,884,135,923,155,961,179,996,207,1026,217,1034,214,1038,204,1030,175,999,150,963,130,925,114,886,93,813,83,758"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_calo_hit.html#ac05bac71613631e539cdf4afc9335a46" title="Get the time of (earliest) energy deposition in this cell, units ns." alt="" coords="239,1107,413,1133"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="86,757,92,824,109,915,125,963,146,1011,173,1055,207,1093,226,1105,223,1109,204,1097,169,1058,141,1013,120,965,104,916,86,824,81,758"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_calo_hit.html#ab303d1e29b28930096a59eebc804da1f" title="Whether cell should be treated as digital." alt="" coords="240,1157,412,1184"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="85,758,88,832,93,882,103,936,118,993,140,1048,169,1099,207,1143,227,1157,225,1161,204,1147,165,1102,135,1050,113,994,98,938,88,882,82,832,80,758"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_calo_hit.html#a17e9def4de8b7f21c462705101a0d536" title="Whether cell is in one of the outermost detector sampling layers." alt="" coords="237,1208,415,1251"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="88,757,103,851,129,983,145,1050,164,1111,185,1161,208,1194,225,1207,222,1212,204,1198,180,1163,159,1113,140,1051,123,984,98,852,83,758"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="529,1300,665,1343"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="87,757,99,864,122,1017,139,1095,158,1166,181,1223,194,1245,207,1261,222,1268,249,1275,328,1289,514,1311,513,1317,327,1295,247,1280,220,1273,204,1265,190,1248,176,1226,153,1167,133,1096,117,1018,94,865,82,758"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_object_factory.html#af72543cbef634e4741728b8d5e3b67ad" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="247,1325,405,1368"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="87,758,99,871,123,1035,139,1120,159,1198,182,1262,208,1305,234,1325,231,1329,204,1308,177,1264,154,1199,134,1121,117,1036,94,872,82,758"/>
+<area shape="rect" id="Node000031" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="250,1392,402,1435"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="87,758,96,885,117,1071,133,1168,153,1257,178,1329,192,1357,208,1378,236,1398,233,1402,204,1382,188,1360,173,1331,148,1258,128,1169,112,1072,91,885,81,758"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="762,1217,898,1260"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="658,1297,753,1263,754,1268,660,1302"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_ti_xml_document.html#adae6a3f19b9317f9eabb208117c2c23a" title=" " alt="" coords="747,1300,913,1343"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="665,1319,732,1319,732,1324,665,1324"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_ti_xml_node.html#a562e3b0008d5492ad24e5f8efff772db" title=" " alt="" coords="762,1367,898,1409"/>
+<area shape="poly" id="edge28_Node000022_Node000029" title=" " alt="" coords="666,1338,747,1362,746,1367,665,1343"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_ti_xml_node.html#a3e733899bd721c108cc52baee363b305" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="981,1200,1118,1243"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="898,1231,965,1225,966,1231,899,1236"/>
+<area shape="rect" id="Node000026" href="$structpandora_1_1_ti_xml_cursor.html#ae085f786cc1a4b0e9bfbdbb94f508257" title=" " alt="" coords="977,1267,1122,1309"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="913,1306,961,1299,962,1304,914,1311"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_ti_xml_parsing_data.html#aabc0cea97a507668987148a678452457" title=" " alt="" coords="961,1333,1138,1376"/>
+<area shape="poly" id="edge26_Node000025_Node000027" title=" " alt="" coords="914,1331,946,1336,945,1341,913,1337"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_ti_xml_parsing_data.html#ad7f0937f19f1dc1abc9a562be2891213" title=" " alt="" coords="961,1400,1138,1443"/>
+<area shape="poly" id="edge27_Node000025_Node000028" title=" " alt="" coords="891,1341,914,1352,938,1369,962,1386,972,1391,970,1396,959,1390,935,1374,911,1357,888,1346"/>
+<area shape="poly" id="edge31_Node000031_Node000022" title=" " alt="" coords="402,1391,445,1377,528,1347,530,1352,447,1383,403,1396"/>
+<area shape="rect" id="Node000032" href="$namespacepandora.html#a8f6ce14b100b1ef4d94aab7285a717ba" title=" " alt="" coords="494,1400,699,1427"/>
+<area shape="poly" id="edge32_Node000031_Node000032" title=" " alt="" coords="403,1411,478,1411,478,1416,403,1416"/>
+</map>

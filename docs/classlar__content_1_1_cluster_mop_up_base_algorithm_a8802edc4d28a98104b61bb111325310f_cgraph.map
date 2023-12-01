@@ -1,0 +1,26 @@
+<map id="lar_content::ClusterMopUpBaseAlgorithm::GetPfoClusterLists" name="lar_content::ClusterMopUpBaseAlgorithm::GetPfoClusterLists">
+<area shape="rect" id="Node000001" title="Get the two dimensional clusters contained in the input pfo list, divided into three different views." alt="" coords="5,160,229,203"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="287,59,471,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,157,276,111,293,104,295,109,278,116,167,162"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#add8d3a4be610d0a144c12e045dfa612c" title="Get the two dimensional clusters contained in an input cluster list, divided into three different vie..." alt="" coords="277,125,481,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,164,261,160,262,165,229,169"/>
+<area shape="rect" id="Node000009" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="308,193,450,236"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="229,193,293,201,292,206,229,198"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_pfo_helper.html#a27f209ca33e90399c1e0cc56230dd9f7" title="Return track flag based on Pfo Particle ID." alt="" coords="294,264,464,307"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="170,201,278,246,304,256,302,261,276,250,168,206"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="529,64,720,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,122,521,108,523,113,468,127"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a0eb35c01d1dd5e6467efee1d4e35e877" title="Whether the cluster is available to be added to a particle flow object." alt="" coords="532,131,717,157"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="482,143,516,143,516,148,482,148"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="778,5,962,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="716,61,762,50,764,55,717,66"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="768,72,972,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="721,83,753,83,753,88,721,88"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="774,123,966,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="717,105,764,116,762,121,716,110"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="554,205,695,248"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="450,215,539,220,538,225,450,221"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="578,205,576,195,584,186,600,181,625,179,651,181,667,187,665,192,650,186,625,184,601,186,587,191,582,197,583,204"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="533,272,717,315"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="464,285,517,287,517,293,464,291"/>
+</map>

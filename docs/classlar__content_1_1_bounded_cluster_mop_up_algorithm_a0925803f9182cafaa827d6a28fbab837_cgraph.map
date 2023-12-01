@@ -1,0 +1,19 @@
+<map id="lar_content::BoundedClusterMopUpAlgorithm::GetBoundedFraction" name="lar_content::BoundedClusterMopUpAlgorithm::GetBoundedFraction">
+<area shape="rect" id="Node000001" title="Get the fraction of hits in a cluster bounded by a specified shower position map." alt="" coords="5,227,250,269"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="312,5,497,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,225,165,189,201,144,245,98,296,58,304,53,307,57,299,62,249,102,205,147,170,192,145,228"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="298,72,511,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,224,210,166,252,135,296,108,312,102,314,106,299,113,255,139,213,170,151,228"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_bounded_cluster_mop_up_algorithm_1_1_x_sampling.html#ade52893f2ee9383932d8d661a59a5be6" title="Convert an x position into a sampling bin." alt="" coords="311,123,498,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,224,302,184,304,189,192,229"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="303,205,506,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="250,232,287,228,287,234,251,238"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="309,256,500,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="251,258,294,263,293,268,250,264"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="308,323,501,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="187,267,299,308,319,315,317,320,297,313,185,272"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="320,389,489,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="153,268,216,321,256,350,299,375,311,381,308,385,296,380,254,354,213,325,150,272"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="320,456,489,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="144,268,169,306,204,352,248,400,299,442,308,447,305,452,296,446,245,404,200,356,164,309,139,271"/>
+</map>

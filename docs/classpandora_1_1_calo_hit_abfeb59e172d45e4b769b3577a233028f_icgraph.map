@@ -1,0 +1,19 @@
+<map id="pandora::CaloHit::GetInputEnergy" name="pandora::CaloHit::GetInputEnergy">
+<area shape="rect" id="Node000001" title="Get the corrected energy of the calorimeter cell, units GeV, as supplied by the user." alt="" coords="744,131,919,173"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="503,5,691,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,123,746,92,695,62,669,51,672,46,698,58,748,87,793,119"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#aef5212e719a8dd2c034452d1fb01bd38" title="Create a new three dimensional hit from a two dimensional hit." alt="" coords="498,72,696,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="729,129,685,118,686,113,730,124"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#ab9b6c2b7be7c7590fa66d583c244527b" title="operator&lt; sorting by position, then energy" alt="" coords="507,139,687,165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="729,155,688,155,688,149,729,149"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_binary_file_writer.html#a79550babfc8713146f6aa82c25812b39" title="Write a calo hit to the current position in the file." alt="" coords="513,189,681,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="730,180,682,192,681,187,729,175"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_xml_file_writer.html#a74c74e56a0a76102d2a5b6d2b06c70cc" title="Write a calo hit to the current position in the file." alt="" coords="521,256,673,299"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="793,185,748,217,698,246,672,258,669,253,695,242,746,212,790,181"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="257,5,445,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,29,445,29,445,24,488,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a6f21d18ad3ad6c7086d9abd414402363" title="Create new three dimensional hits from two dimensional hits." alt="" coords="252,72,450,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,96,451,96,451,91,482,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="5,72,204,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,96,204,96,204,91,236,91"/>
+</map>

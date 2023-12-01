@@ -1,0 +1,23 @@
+<map id="lar_content::LArPfoHelper::IsShower" name="lar_content::LArPfoHelper::IsShower">
+<area shape="rect" id="Node000001" title="Return shower flag based on Pfo Particle ID." alt="" coords="548,267,717,309"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_pca_shower_particle_building_algorithm.html#a81b6dba74d44ff40549bd0dc1778ad7a" title="Create specialised Pfo from an generic input Pfo." alt="" coords="270,5,473,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,253,601,209,576,157,542,105,521,82,498,62,472,47,475,43,502,58,525,79,546,102,580,154,606,207,623,251"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#ada61010a398c30c88b96fe691722a2f6" title="Starting with provided pfo, find all downstream shower pfos that themselves have daughter pfos." alt="" coords="243,72,500,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="610,255,565,190,534,157,499,129,477,118,480,113,501,124,537,153,569,187,614,252"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#a745160047eb432ee379457e6f8e93aa2" title="Get the cluster merge map describing all potential 3d cluster merges." alt="" coords="268,139,475,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="585,260,544,235,499,212,471,200,473,195,501,207,547,230,588,256"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a047266045d03d4cc478fe2ca247f47c2" title="Get all 3d clusters contained in the input pfo lists and a mapping from clusters to pfos." alt="" coords="290,221,453,280"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="532,276,453,265,454,260,533,271"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_unattached_delta_rays_algorithm.html#a8312edeb96121eeb689438c9eb6c3e2a" title="Run the algorithm." alt="" coords="277,304,466,347"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="533,305,467,314,466,309,532,300"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="272,371,471,413"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="584,320,501,361,468,373,466,367,499,356,582,315"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_delta_ray_shower_hits_tool.html#ae386e3543378931d17819153314e4379" title="Run the algorithm tool." alt="" coords="277,437,466,480"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="610,323,564,377,534,405,501,428,468,443,465,438,499,423,531,400,560,374,606,320"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_shower_hits_base_tool.html#aed9c31be40001a46d5c5a8de8d34df3b" title="Run the algorithm tool." alt="" coords="277,504,466,547"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="620,325,602,365,576,410,543,456,502,494,467,512,465,507,498,490,539,452,572,408,597,362,615,323"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ad7f3d95ab917b1265d41918d27d7a4c4" title="Run the algorithm." alt="" coords="16,147,184,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="253,171,184,171,184,165,253,165"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a58b6ad7f6839d3c14badf0009dcc40d6" title="Run the algorithm." alt="" coords="5,229,195,272"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="275,253,195,253,195,248,275,248"/>
+</map>

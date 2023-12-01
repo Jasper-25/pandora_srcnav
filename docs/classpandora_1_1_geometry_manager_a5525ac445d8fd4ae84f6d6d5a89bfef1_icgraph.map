@@ -1,0 +1,21 @@
+<map id="pandora::GeometryManager::GetDetectorGapList" name="pandora::GeometryManager::GetDetectorGapList">
+<area shape="rect" id="Node000001" title="Get the list of gaps in the active detector volume." alt="" coords="998,88,1180,131"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_particle_recovery_algorithm.html#aa7e83a04891348f0ef5af9aab746e885" title="Calculate effective overlap fractions taking into account gaps." alt="" coords="720,5,950,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="998,86,936,67,938,62,1000,81"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a4814a2748eb9f38d0faec6c3e56eb7a3" title="Run the algorithm tool." alt="" coords="743,88,927,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="982,112,927,112,927,107,982,107"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_writer.html#aa1c83b7fc3204ff148da461b3264f731" title="Write the detector gap parameters to the file." alt="" coords="758,155,912,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="991,138,913,158,912,153,990,133"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac85986434192420fb00867cfdd07f0af" title="Whether two clusters overlap convincingly in x." alt="" coords="482,13,672,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="705,37,673,37,673,32,705,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac52744a6dc9a1eab5c78ceb9441ce2f2" title="Find cluster overlaps and record these in the overlap tensor." alt="" coords="244,13,434,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="466,37,434,37,434,32,466,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab40b548d133dfc832cd57f3efcbc55b0" title="Run the algorithm." alt="" coords="5,13,196,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="228,37,196,37,196,32,228,32"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_file_writer.html#ace58fef8926e07f060eb5049eb9f03b2" title="Write the current geometry information to the file." alt="" coords="512,155,643,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="742,179,643,179,643,173,742,173"/>
+<area shape="rect" id="Node000009" href="$class_event_writing_algorithm.html#ab7b5d0e6c689790f4db5514aceccffdd" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="264,121,414,164"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="496,167,414,156,414,150,497,162"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="256,188,422,231"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="497,190,423,200,422,195,496,185"/>
+</map>

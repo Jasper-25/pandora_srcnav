@@ -1,0 +1,28 @@
+<map id="pandora::LineGap::GetLineStartX" name="pandora::LineGap::GetLineStartX">
+<area shape="rect" id="Node000001" title="Get the line start x coordinate." alt="" coords="1454,172,1630,215"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="1204,5,1393,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1513,162,1466,111,1436,85,1405,62,1382,51,1384,46,1407,58,1440,80,1470,107,1517,158"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="1204,72,1393,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1486,167,1405,129,1374,118,1375,113,1407,124,1489,162"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ad3fa6ae226f1d97c6ea6548f84027f31" title="Calculate the track length between two points that lies in gaps." alt="" coords="1199,139,1398,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1438,182,1398,176,1399,171,1439,177"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a72a9bd7805b14a8df190e58c8f9870c5" title="Move an input position to the higher line gap edge if it lies within a gap." alt="" coords="1191,205,1406,248"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1439,210,1407,215,1406,209,1438,205"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_binary_file_writer.html#a5a76c7286e7e572f186dd87add5a43ff" title="Write the detector gap parameters to the file." alt="" coords="1214,272,1383,315"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1489,225,1407,262,1375,274,1374,269,1405,258,1486,220"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_xml_file_writer.html#aa98c533b2d1bd1fd0328408fd3fe54e2" title="Write the detector gap parameters to the file." alt="" coords="1222,339,1375,381"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1517,228,1470,280,1440,306,1407,329,1376,344,1374,339,1405,324,1436,302,1466,276,1513,225"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="906,5,1095,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1188,29,1095,29,1095,24,1188,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="590,13,809,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="891,29,810,29,810,24,891,24"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="858,172,1143,215"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1183,176,1143,180,1143,175,1183,170"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="589,172,810,215"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="843,196,811,196,811,191,843,191"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="280,172,541,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="574,196,541,196,541,191,574,191"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#aa4fc20068d9fdd50c3c43a9e2396a664" title="Run the algorithm." alt="" coords="5,172,232,215"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="264,196,232,196,232,191,264,191"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="1175,216,1143,212,1143,207,1175,210"/>
+</map>

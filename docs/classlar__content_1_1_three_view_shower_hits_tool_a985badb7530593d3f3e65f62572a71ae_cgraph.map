@@ -1,0 +1,25 @@
+<map id="lar_content::ThreeViewShowerHitsTool::GetShowerHit3D" name="lar_content::ThreeViewShowerHitsTool::GetShowerHit3D">
+<area shape="rect" id="Node000001" title="Get the three dimensional position for to a two dimensional calo hit, using the hit and a list of can..." alt="" coords="5,240,202,283"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_creation_base_tool.html#abe418d3722f959082b6efd74c43429f1" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="253,131,447,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,237,249,190,278,177,280,182,251,194,150,242"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a3435a0d86e2165a485fa3b229e82e96d" title="Get the chi squared value." alt="" coords="527,5,725,48"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="111,239,129,198,159,149,198,99,222,77,248,59,312,32,381,17,449,10,512,11,512,16,449,16,381,22,314,37,251,64,225,81,202,102,163,152,134,201,116,241"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a981b77481600c1378c63d60ee73c5ac0" title="Get the address of the parent 2D calo hit." alt="" coords="498,79,754,121"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="113,238,133,204,163,163,202,123,224,106,249,92,282,80,317,71,388,63,458,65,521,73,520,78,457,70,388,68,317,76,283,85,251,97,227,110,205,127,167,166,138,207,118,241"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a5b21120bf1564d55b3500e3f053b009e" title="Whether the proto hit position is set." alt="" coords="518,160,734,203"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="202,241,249,233,502,196,503,201,250,239,203,247"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="255,248,445,275"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="202,259,239,259,239,264,202,264"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="250,299,450,325"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="203,279,267,292,266,298,202,284"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="253,349,447,392"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="143,281,251,335,266,341,264,346,249,340,141,285"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="266,416,434,459"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="124,282,177,341,212,373,251,402,260,407,257,411,248,406,209,378,173,345,120,285"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="260,483,440,525"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="117,282,136,322,166,372,204,424,251,469,257,472,254,477,248,473,200,427,161,375,131,324,112,284"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,131,301,121,309,112,325,106,350,104,376,106,392,113,390,118,375,112,350,109,327,111,312,116,307,122,308,130"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="382,128,435,96,497,64,530,51,532,56,499,69,438,101,385,132"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="447,131,494,122,495,127,448,136"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="448,160,503,166,503,171,447,165"/>
+</map>

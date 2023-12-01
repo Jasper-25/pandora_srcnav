@@ -1,0 +1,23 @@
+<map id="pandora::CaloHitManager::EndReclustering" name="pandora::CaloHitManager::EndReclustering">
+<area shape="rect" id="Node000001" title="End reclustering operations and update calo hit lists accordingly." alt="" coords="5,139,173,181"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_metadata.html#a7b92fa794cdff4856022376164d4e1da" title="Clear all metadata content." alt="" coords="229,5,401,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,136,160,97,219,58,230,52,232,57,222,62,163,101,115,140"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_recluster_metadata.html#aa04145517e6886f384870f44c340d902" title="Extract specific calo hit metadata, removing entry from map and receiving a pointer to the metadata." alt="" coords="223,72,407,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,136,224,117,226,122,164,141"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_recluster_metadata.html#a6e1f7e8d1bcb179bf6626d348831ef14" title="Get the current calo hit metadata." alt="" coords="221,139,409,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,157,205,157,205,163,173,163"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit_manager.html#aa7e88daddf21bf63e288e9a869f94534" title="Update all calo hit lists to account for changes by daughter recluster processes." alt="" coords="231,320,399,363"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,180,161,228,222,282,262,309,259,314,219,286,157,232,108,183"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit_metadata.html#a48c45479b9123f7f361a0609ff00eda1" title="Update metadata to account for changes by daughter recluster processes." alt="" coords="229,229,401,272"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="145,179,247,221,245,226,143,184"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="272,320,270,310,277,301,292,295,315,293,339,296,354,302,351,307,338,301,315,299,294,301,280,305,275,311,277,319"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit_metadata.html#af2c72412baff880f7e69227ece572b15" title="Get the calo hit replacement list." alt="" coords="458,296,647,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="399,330,442,326,443,331,399,336"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit_metadata.html#a40838e2e94f61ec0be2035c6e3b2570d" title="Get the calo hit usage map." alt="" coords="467,229,638,272"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="367,317,456,282,473,275,475,280,458,286,369,322"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_manager.html#a1470ba071a9c51c2d671869609037296" title="Access a modifiable object, when provided with address to const object." alt="" coords="457,363,648,389"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="399,351,442,357,441,362,399,356"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="394,270,460,289,459,294,392,275"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="401,248,451,248,451,253,401,253"/>
+<area shape="poly" id="edge12_Node000009_Node000009" title=" " alt="" coords="272,229,270,219,277,210,292,205,315,203,339,205,354,211,351,216,338,210,315,208,294,210,280,215,275,221,277,228"/>
+</map>

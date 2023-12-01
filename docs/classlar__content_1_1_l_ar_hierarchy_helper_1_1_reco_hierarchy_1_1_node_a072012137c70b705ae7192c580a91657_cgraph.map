@@ -1,0 +1,14 @@
+<map id="lar_content::LArHierarchyHelper::RecoHierarchy::Node::FillFlat" name="lar_content::LArHierarchyHelper::RecoHierarchy::Node::FillFlat">
+<area shape="rect" id="Node000001" title="Fill this node by folding all descendent particles to this node." alt="" coords="5,112,174,171"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#a2c28c40f442763240b5ecbbf80173c2f" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="222,75,391,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,121,206,114,207,120,175,126"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="222,165,391,208"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="175,156,207,163,206,168,174,162"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="439,29,608,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,76,423,69,424,74,392,81"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a7a0f820e2aa8e2332efe849d6eac85e5" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="439,120,608,163"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="392,111,424,118,423,123,391,116"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="482,29,481,19,488,10,502,5,524,3,547,5,561,11,559,16,546,10,524,8,503,10,491,15,486,21,487,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="482,120,481,110,488,101,502,95,524,93,547,96,561,102,559,107,546,101,524,99,503,101,491,105,486,111,487,119"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="265,165,263,155,270,146,285,141,306,139,330,141,344,147,341,152,328,146,306,144,286,146,273,151,269,157,270,164"/>
+</map>

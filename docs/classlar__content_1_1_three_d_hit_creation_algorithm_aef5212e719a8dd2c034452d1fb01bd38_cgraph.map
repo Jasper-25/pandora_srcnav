@@ -1,0 +1,49 @@
+<map id="lar_content::ThreeDHitCreationAlgorithm::CreateThreeDHit" name="lar_content::ThreeDHitCreationAlgorithm::CreateThreeDHit">
+<area shape="rect" id="Node000001" title="Create a new three dimensional hit from a two dimensional hit." alt="" coords="5,580,204,623"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a21cd259138edd97a01e71d056047b187" title="Check that a new three dimensional position is not unphysical." alt="" coords="281,80,479,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,580,108,497,115,439,127,376,145,311,171,246,205,186,250,133,265,121,269,126,254,137,210,189,176,249,150,313,132,378,120,440,113,497,108,580"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#ae93963fa4d76fb227de8ded6cb46650a" title="Get the output 3D position." alt="" coords="556,14,779,56"/>
+<area shape="poly" id="edge21_Node000001_Node000005" title=" " alt="" coords="106,580,121,471,151,315,171,236,194,163,220,105,235,83,250,66,283,44,319,27,357,15,396,8,475,3,549,8,548,14,475,8,397,13,358,20,321,32,285,48,253,70,239,86,225,108,199,165,176,237,156,316,127,472,111,581"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#ab2c4bbe39162d7829f7a164588baf06a" title="Get the typical length scale of cell, units mm." alt="" coords="296,147,464,190"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="104,580,113,507,135,405,154,349,178,295,210,244,250,200,280,181,283,185,253,204,214,247,183,297,159,351,140,406,118,508,110,580"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#abbebb42380f33c11388582a358b450c0" title="Get the unit vector normal to the sampling layer, pointing outwards from the origin." alt="" coords="296,214,464,256"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="106,579,118,518,144,433,163,388,186,343,215,302,250,266,280,248,283,253,253,271,219,306,191,346,167,390,149,435,124,519,111,581"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_calo_hit.html#aa7817ed4f7626ba531ee1a2425ac176f" title="Get the thickness of cell, units mm." alt="" coords="296,280,464,323"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="109,579,125,528,153,462,194,392,220,361,250,333,280,316,283,321,253,337,224,364,198,395,158,464,130,530,114,581"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_calo_hit.html#a0048d07a26ec9d5e11adb604df8333ce" title="Get the calibrated electromagnetic energy measure." alt="" coords="260,347,500,390"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="113,579,133,540,163,491,202,442,250,400,258,395,260,399,253,404,206,445,167,494,138,542,118,581"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_calo_hit.html#ae6150c84f0bc4e7f7e1e21db276c9e03" title="Get the unit vector in direction of expected hit propagation." alt="" coords="279,414,481,456"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="122,578,175,522,211,492,250,466,264,459,266,464,253,471,214,496,179,526,126,582"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="281,480,479,523"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="147,577,251,533,272,526,273,531,253,538,149,582"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#a3349630fbdfc71a85cdba1dc85cee32d" title="Get the region of the detector in which the calo hit is located." alt="" coords="299,547,461,590"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="204,587,283,577,283,583,205,592"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_calo_hit.html#abfeb59e172d45e4b769b3577a233028f" title="Get the corrected energy of the calorimeter cell, units GeV, as supplied by the user." alt="" coords="293,614,467,656"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="205,611,278,620,277,625,204,616"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_calo_hit.html#a7f762c0f596394c25a1be6d16a51a0c6" title="Get the subdetector readout layer number." alt="" coords="291,680,469,707"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="148,621,197,645,253,666,280,674,279,679,251,671,195,649,146,626"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_calo_hit.html#a8420e15da8bf785e85099af26922d0b7" title="Get the calibrated mip equivalent energy." alt="" coords="296,731,464,774"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="129,622,182,670,216,695,253,717,282,729,280,734,250,721,214,700,179,674,125,626"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_calo_hit.html#a9ca56fe0b3af1a03a95baa4bbddf64e2" title="Get the absorber material in front of cell, units interaction lengths." alt="" coords="291,798,469,840"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="119,622,140,658,170,702,208,746,253,784,278,796,275,801,250,788,204,750,166,705,135,661,115,625"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_calo_hit.html#a94a5f4dfc0df0d776869198b7935da2d" title="Get the absorber material in front of cell, units radiation lengths." alt="" coords="291,864,469,907"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="115,623,132,671,160,732,200,796,225,825,253,850,279,865,276,870,250,855,221,829,196,799,155,735,127,673,110,625"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a981b77481600c1378c63d60ee73c5ac0" title="Get the address of the parent 2D calo hit." alt="" coords="252,931,508,974"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="112,623,125,682,151,762,170,804,193,846,220,884,253,917,258,921,255,925,250,921,216,887,188,849,165,807,146,764,120,684,107,624"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_calo_hit.html#ac05bac71613631e539cdf4afc9335a46" title="Get the time of (earliest) energy deposition in this cell, units ns." alt="" coords="293,998,467,1024"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="110,623,118,694,141,792,159,845,184,896,215,943,253,984,280,999,277,1004,250,988,211,947,179,899,154,847,136,794,113,695,104,624"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_calo_hit.html#ab303d1e29b28930096a59eebc804da1f" title="Whether cell should be treated as digital." alt="" coords="294,1048,466,1075"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="109,623,114,702,122,755,134,814,152,874,177,933,211,988,253,1034,280,1050,278,1055,250,1038,207,991,173,936,147,876,129,815,116,756,109,702,103,624"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_calo_hit.html#a17e9def4de8b7f21c462705101a0d536" title="Whether cell is in one of the outermost detector sampling layers." alt="" coords="291,1099,469,1142"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="108,623,112,709,118,768,130,833,148,901,173,968,208,1031,253,1085,279,1102,276,1107,250,1089,204,1034,169,971,143,903,124,835,113,769,106,709,103,624"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#ab27d68e8d774844ce661de3f247cc2be" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="597,80,738,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,99,581,99,581,104,479,104"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="474,77,557,58,558,63,476,82"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pseudo_layer_plugin.html#abd28ea84c19c35e9369a0beaf5e67c56" title="Get the appropriate pseudolayer for a specified position vector." alt="" coords="574,147,761,190"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="476,121,559,141,558,146,474,126"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_plugin_manager.html#a0f6b8339deee851093763988596c5fde" title="Get the address of the pseudo layer plugin." alt="" coords="587,214,749,256"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="480,118,510,133,526,150,535,167,542,184,558,200,574,209,571,214,554,204,538,187,530,169,522,153,506,137,478,122"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="827,80,969,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="739,99,812,99,812,104,739,104"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="854,80,853,70,860,61,875,56,898,54,923,56,937,62,935,67,921,61,898,59,876,61,863,66,858,72,859,79"/>
+</map>

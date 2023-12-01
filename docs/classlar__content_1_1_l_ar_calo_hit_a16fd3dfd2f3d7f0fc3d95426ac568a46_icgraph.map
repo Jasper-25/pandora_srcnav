@@ -1,0 +1,13 @@
+<map id="lar_content::LArCaloHit::GetTrackProbability" name="lar_content::LArCaloHit::GetTrackProbability">
+<area shape="rect" id="Node000001" title="Get the probability that the hit is track&#45;like." alt="" coords="289,171,444,213"/>
+<area shape="rect" id="Node000002" href="$classlar__dl__content_1_1_dl_track_shower_stream_selection_algorithm.html#a1f2aba2da2c84ac2b552c6d93c2a1e5b" title="Allocate a cluster to the appropriate streams." alt="" coords="24,5,222,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,161,292,118,239,78,218,67,220,62,242,74,295,114,339,157"/>
+<area shape="rect" id="Node000003" href="$classlar__dl__content_1_1_dl_cluster_characterisation_algorithm.html#a2af9ec06bd2ad7a9a0c568d8f36482c2" title="Whether cluster is identified as a clear track." alt="" coords="38,88,208,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,168,208,146,210,141,281,163"/>
+<area shape="rect" id="Node000004" href="$classlar__dl__content_1_1_dl_pfo_characterisation_algorithm.html#aa938717629cc3d6a3018b4d846250e4a" title="Whether cluster is identified as a clear track." alt="" coords="5,171,241,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,195,241,195,241,189,273,189"/>
+<area shape="rect" id="Node000005" href="$classlar__dl__content_1_1_dl_pfo_characterisation_algorithm.html#ab88983f74400bb368075a0444571016d" title="Whether pfo is identified as a clear track." alt="" coords="5,237,241,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="275,220,204,239,203,234,273,215"/>
+<area shape="rect" id="Node000006" href="$classlar__dl__content_1_1_dl_hit_validation_algorithm.html#abe59d61752f0c3b972c272ead2d18e9f" title="Run the algorithm." alt="" coords="25,304,221,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="335,226,292,262,242,294,216,306,214,301,239,290,289,257,331,222"/>
+</map>

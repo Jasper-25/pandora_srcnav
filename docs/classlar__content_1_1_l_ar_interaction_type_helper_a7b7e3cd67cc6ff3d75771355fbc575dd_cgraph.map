@@ -1,0 +1,40 @@
+<map id="lar_content::LArInteractionTypeHelper::GetInteractionType" name="lar_content::LArInteractionTypeHelper::GetInteractionType">
+<area shape="rect" id="Node000001" title="Get the interaction type of an event." alt="" coords="5,181,209,224"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_interaction_type_helper.html#a62fdc3dd940fb7649c25966abddf5050" title="Get the interaction type of an event under a cosmic ray hypothesis." alt="" coords="264,152,491,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,189,248,185,249,190,209,194"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="1284,68,1461,111"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="132,179,186,137,255,96,357,51,439,23,523,7,633,3,881,3,989,8,1096,23,1195,42,1278,61,1277,66,1194,47,1095,28,988,14,881,8,633,8,524,13,440,28,358,56,258,101,189,141,135,183"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ae7576ee11a242f2a2f70f2b3f8bd7153" title="Returns true if passed a primary neutrino final state MCParticle." alt="" coords="771,211,989,253"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="209,204,756,225,756,230,209,209"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a5314cda1ff5cae45c84e1195bd3424b3" title="Get the parent mc particle." alt="" coords="1037,285,1226,328"/>
+<area shape="poly" id="edge18_Node000001_Node000007" title=" " alt="" coords="210,214,257,220,680,264,1021,295,1021,300,680,269,256,225,209,219"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a22f1bcd2d1edcf1b100824b24d0eba6c" title="Returns true if passed a primary beam MCParticle." alt="" coords="791,43,969,85"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="150,178,200,156,256,137,395,107,536,86,667,73,775,65,776,71,667,78,537,91,396,112,257,143,202,161,152,183"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_interaction_type_helper.html#a42cb64fa9c495e4da3a1d133dd1805ae" title="Set parameters describing the number and species of primary interaction products." alt="" coords="257,328,498,371"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="135,222,190,265,258,307,286,320,284,325,255,312,187,269,132,227"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a018627fa33cc304f41ab7b48ddd53cac" title="Return true if passed a primary cosmic ray MCParticle." alt="" coords="546,152,723,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,171,531,171,531,176,491,176"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="723,158,771,152,1267,97,1268,102,772,157,724,164"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="725,192,774,204,772,209,723,197"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="1043,152,1220,195"/>
+<area shape="poly" id="edge16_Node000003_Node000011" title=" " alt="" coords="724,171,1027,171,1027,176,724,176"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="1518,68,1696,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1461,87,1503,87,1503,92,1461,92"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="955,251,1043,278,1041,283,954,257"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f66058246ca58340ca7f0dc68340660" title="Whether a mc particle is a neutrino or antineutrino." alt="" coords="1043,219,1220,261"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="989,233,1027,234,1027,239,989,238"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="974,207,1027,195,1028,200,975,213"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="1537,279,1677,321"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1226,303,1522,299,1522,304,1226,308"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="1205,216,1224,205,1240,191,1249,177,1258,162,1272,146,1313,117,1316,121,1276,150,1262,165,1253,180,1244,194,1228,209,1208,220"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="1744,189,1883,232"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1220,234,1728,212,1728,217,1221,239"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="1274,160,1470,203"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1220,174,1259,175,1259,180,1220,179"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="1417,201,1551,269,1548,274,1415,205"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="1518,160,1696,203"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1471,179,1502,179,1502,184,1471,184"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="1696,191,1729,196,1728,201,1696,197"/>
+<area shape="poly" id="edge21_Node000014_Node000004" title=" " alt="" coords="969,66,1268,81,1268,87,969,71"/>
+<area shape="poly" id="edge22_Node000014_Node000011" title=" " alt="" coords="932,83,1068,143,1066,148,930,88"/>
+</map>

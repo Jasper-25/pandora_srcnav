@@ -1,0 +1,11 @@
+<map id="lar_pandora::LArPandoraOutput::Collect3DHits" name="lar_pandora::LArPandoraOutput::Collect3DHits">
+<area shape="rect" id="Node000001" title="Collect a sorted vector of all 3D hits in the input pfo." alt="" coords="681,39,885,81"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a5e2e0bdba2388a5f33b488756fd0fd8f" title="Collect a sorted list of all 3D hits contained in the input pfo list Order is guaranteed provided pfo..." alt="" coords="430,5,633,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,47,634,43,634,38,666,42"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="430,72,633,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="666,78,634,82,634,77,666,73"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="218,72,382,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,96,382,96,382,91,414,91"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,72,170,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,96,170,96,170,91,202,91"/>
+</map>

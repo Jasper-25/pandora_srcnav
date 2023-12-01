@@ -1,0 +1,24 @@
+<map id="lar_content::RemovalBaseTool::FindExtrapolatedHits" name="lar_content::RemovalBaseTool::FindExtrapolatedHits">
+<area shape="rect" id="Node000001" title="Collect the hits that are closest to and can be projected onto a defined line." alt="" coords="5,105,180,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="231,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,103,227,58,241,52,243,56,229,62,135,107"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="228,72,419,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,111,212,107,212,112,180,117"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_removal_base_tool.html#abb409d6bf7e6ba20aa42857b9c42058b" title="Whether a given position is close to a defined line." alt="" coords="237,139,410,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,137,222,143,221,148,180,142"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_removal_base_tool.html#ac16c727c2c37c8bdbad04337f67a0346" title="Whether the projection of a given position lies on a defined line." alt="" coords="237,235,410,277"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="134,146,272,224,269,229,131,151"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="467,51,635,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,136,418,124,484,97,486,102,420,129,389,141"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="683,139,852,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="410,155,467,153,635,153,668,154,667,159,635,159,467,159,410,160"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="467,168,635,211"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="410,168,452,174,451,179,409,174"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="900,139,1068,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="852,157,884,157,884,163,852,163"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="635,175,667,171,668,176,636,181"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="467,235,635,277"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="410,253,452,253,452,259,410,259"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="467,301,635,344"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="399,275,462,294,461,299,398,280"/>
+</map>

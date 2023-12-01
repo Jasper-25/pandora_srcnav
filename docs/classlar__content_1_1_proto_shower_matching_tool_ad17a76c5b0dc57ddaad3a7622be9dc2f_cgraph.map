@@ -1,0 +1,26 @@
+<map id="lar_content::ProtoShowerMatchingTool::AreDirectionsConsistent" name="lar_content::ProtoShowerMatchingTool::AreDirectionsConsistent">
+<area shape="rect" id="Node000001" title="Determine whether three 2D initial spine directions correspond to the same 3D initial spine direction..." alt="" coords="5,136,252,179"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="316,12,484,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,133,299,76,336,59,338,64,301,81,178,138"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="300,253,500,280"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,177,301,232,338,246,337,251,299,237,173,182"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="548,72,716,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="232,133,299,121,420,107,532,97,533,102,421,112,300,127,233,138"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="548,205,716,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="235,177,300,188,533,216,532,221,299,193,234,182"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_geometry_helper.html#a7128b99ebafff79fb3f6bd4a150cc507" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="308,136,492,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="252,155,292,155,292,160,252,160"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="548,5,716,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,28,532,27,532,32,484,34"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="764,5,933,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="717,24,749,24,749,29,717,29"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="981,105,1149,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="717,46,765,57,966,103,965,108,764,63,716,51"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="479,133,537,117,538,122,480,138"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="475,177,545,198,543,203,473,182"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="548,139,716,181"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="492,156,532,156,532,162,492,161"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="764,135,933,177"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="717,156,749,155,749,161,717,161"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="933,142,965,138,965,143,933,147"/>
+</map>

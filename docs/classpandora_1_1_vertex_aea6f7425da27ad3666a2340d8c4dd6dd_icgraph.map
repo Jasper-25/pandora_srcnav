@@ -1,0 +1,14 @@
+<map id="pandora::Vertex::GetX0" name="pandora::Vertex::GetX0">
+<area shape="rect" id="Node000001" title="For LArTPC usage, the x&#45;coordinate shift associated with a drift time t0 shift, units mm." alt="" coords="772,71,929,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#a58c12903ae0862d99bb2b5488c9054aa" title="Adjust neutrino vertex to ensure agreement with at least one pfo (first in sorted input list)" alt="" coords="503,29,724,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,73,724,69,725,64,757,68"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#acfbd4ae7d5d36e7a81ec4206bd83c543" title="Check if each candidate is &quot;in time&quot;." alt="" coords="511,96,716,139"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="757,100,717,105,717,100,756,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#aa31269d20709a0dd4b8cf5901b4b028e" title="Process the information in a pfo info map, creating pfo parent/daughter links." alt="" coords="254,29,451,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,53,451,53,451,48,488,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="393,16,378,10,352,8,329,10,314,15,309,21,311,28,305,29,303,19,311,10,328,5,352,3,379,5,395,11"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac6de384d3d43d2b0a5644c46aa388eba" title="Run the algorithm." alt="" coords="5,29,202,72"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="238,53,202,53,202,48,238,48"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="250,96,455,139"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="495,120,455,120,455,115,495,115"/>
+</map>

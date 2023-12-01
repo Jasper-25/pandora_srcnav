@@ -1,0 +1,43 @@
+<map id="lar_content::HitWidthClusterMergingAlgorithm::GetClusterDirection" name="lar_content::HitWidthClusterMergingAlgorithm::GetClusterDirection">
+<area shape="rect" id="Node000001" title="Determine the cluster direction at a reference point by performing a weighted least squared fit to th..." alt="" coords="5,379,249,421"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_width_cluster_merging_algorithm.html#a311e3d69834da03e5dce20fd29292fbf" title="Obtain a vector of the minimum number of hits closest to a reference point that exceed a given weight..." alt="" coords="316,163,534,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,377,205,306,248,266,295,231,304,226,306,231,298,236,251,270,208,309,147,380"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_hit_width_cluster_merging_algorithm.html#ae7ff514c6dd5d5e17a87a2dae91401ad" title="Obtain the axes of the fitting frame." alt="" coords="316,245,534,288"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,376,360,292,362,297,178,381"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_hit_width_cluster_merging_algorithm.html#a6d803dd81aaf229eca3313b4b39c2abd" title="Translate from (x, y, z) coordinates to (rL, rT) coordinates." alt="" coords="297,445,553,488"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="226,419,312,439,311,444,225,425"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="625,512,793,555"/>
+<area shape="poly" id="edge23_Node000001_Node000016" title=" " alt="" coords="157,419,219,461,257,481,297,497,378,517,460,529,540,534,610,535,610,540,539,539,460,534,377,523,296,503,255,486,216,466,154,424"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_hit_width_cluster_merging_algorithm.html#a938436508724de60956070a5c3ddbce4" title="Translate a gradient in the fitting coordinate frame to a direction vector in the detector frame." alt="" coords="305,379,545,421"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="249,397,290,397,290,403,249,403"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a4fe11ed23b3a0ea7c17a10ec5740a9a2" title="Obtain a vector of the contituent hit central positions." alt="" coords="601,5,817,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,245,551,231,566,213,573,194,575,156,577,116,584,95,599,74,601,73,604,76,603,78,589,97,583,117,581,156,578,195,570,216,555,235,535,250"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="625,88,793,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="532,243,551,231,568,210,575,188,581,164,599,141,610,133,613,138,603,145,586,166,580,189,573,213,555,235,535,248"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="625,245,793,288"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="534,264,609,264,609,269,534,269"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="625,312,793,355"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="519,286,611,308,609,313,518,291"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="623,179,796,221"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="518,242,606,221,608,226,519,247"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="875,279,1044,321"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="794,275,860,284,859,289,793,281"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1102,312,1270,355"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1045,310,1086,316,1086,321,1044,315"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="662,179,660,169,668,160,684,154,709,152,736,154,752,161,750,166,735,160,709,157,685,159,671,164,665,170,667,178"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="865,179,1054,221"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="796,197,850,197,850,203,796,203"/>
+<area shape="poly" id="edge18_Node000012_Node000009" title=" " alt="" coords="531,443,551,431,567,416,575,399,583,382,599,365,610,358,613,362,603,369,587,385,580,401,571,419,555,435,534,447"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="625,445,793,488"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="553,464,610,464,610,469,553,469"/>
+<area shape="poly" id="edge17_Node000012_Node000016" title=" " alt="" coords="519,486,611,508,609,513,518,491"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="875,412,1044,455"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="793,453,859,444,860,449,794,458"/>
+<area shape="poly" id="edge16_Node000014_Node000008" title=" " alt="" coords="1009,409,1121,359,1123,364,1011,414"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="1102,412,1270,455"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1044,431,1086,431,1086,436,1044,436"/>
+<area shape="poly" id="edge21_Node000017_Node000006" title=" " alt="" coords="458,376,522,337,600,298,616,291,618,296,602,302,525,342,461,380"/>
+<area shape="poly" id="edge20_Node000017_Node000013" title=" " alt="" coords="519,419,611,441,609,446,518,425"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="625,379,793,421"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="545,397,609,397,609,403,545,403"/>
+</map>

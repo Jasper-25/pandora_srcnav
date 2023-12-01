@@ -1,0 +1,25 @@
+<map id="lar_content::OneViewDeltaRayMatchingAlgorithm::PerformRecovery" name="lar_content::OneViewDeltaRayMatchingAlgorithm::PerformRecovery">
+<area shape="rect" id="Node000001" title="Create a delta ray pfo from any remaining, significant clusters." alt="" coords="5,251,264,293"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#a8453022938df56c949d6c11b7686d6d6" title="Create a pfo from the input clusters updating the cluster to pfo map accordingly." alt="" coords="312,184,529,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,247,310,228,312,233,230,253"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#a16fd880a1022c6b49f11c34b8e1d3579" title="Get the input cluster list of a given hit type." alt="" coords="316,280,525,339"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="265,286,301,291,300,296,264,292"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_matching_containers.html#a6b4b59416b3817bfe711a4c75d79e0ea" title="Add the clusters of a cosmic ray/delta ray pfo to the cluster to pfo maps." alt="" coords="577,29,804,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,181,500,132,537,105,576,82,588,76,591,81,578,86,540,109,503,136,446,185"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="578,96,804,139"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="488,181,608,141,609,146,489,186"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="866,155,1008,197"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="529,197,850,178,851,184,530,202"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="622,213,759,256"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="530,214,607,223,606,228,529,220"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="622,280,759,323"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="474,225,578,265,608,275,607,281,576,271,472,230"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="852,29,1022,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="805,48,837,48,837,53,805,53"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="890,29,889,19,896,10,913,5,937,3,963,5,979,11,977,16,962,10,937,8,914,10,899,15,894,21,896,28"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="784,137,852,153,850,158,782,142"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="890,155,889,145,896,136,913,130,937,128,963,130,979,137,977,142,962,136,937,133,914,135,899,140,894,146,896,154"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="620,347,761,389"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="526,329,605,347,604,352,525,335"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="761,352,803,332,837,305,868,273,913,209,918,212,872,276,841,309,806,337,763,357"/>
+</map>

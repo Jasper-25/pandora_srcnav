@@ -1,0 +1,32 @@
+<map id="lar_reco::CreatePandoraInstances" name="lar_reco::CreatePandoraInstances">
+<area shape="rect" id="Node000001" title="Create pandora instances." alt="" coords="5,265,223,292"/>
+<area shape="rect" id="Node000002" href="$class_multi_pandora_api.html#aee9018b94546923bf7736536c643ad1d" title="Declare a new primary pandora instance and receive the relevant multi pandora book&#45;keeping instance." alt="" coords="285,31,478,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,263,181,193,223,149,269,109,316,78,319,83,272,113,227,153,185,196,127,267"/>
+<area shape="rect" id="Node000004" href="$namespacelar__reco.html#a24310ccf5395e296c032835b7e03a8e8" title="Process list of external, commandline parameters to be passed to specific algorithms." alt="" coords="296,123,467,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,263,191,220,269,175,284,169,286,174,272,180,194,225,135,267"/>
+<area shape="rect" id="Node000010" href="$class_pandora_api.html#a04ff874add1da542c8449c64f22fe7e5" title="Read pandora settings." alt="" coords="294,189,469,216"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="154,262,270,225,300,218,301,223,271,231,155,267"/>
+<area shape="rect" id="Node000011" href="$class_l_ar_content.html#a904979d78596710c7c8cef66cb5a5992" title="Register all the lar content algorithms and tools with pandora." alt="" coords="279,240,484,267"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="223,266,263,262,264,267,223,271"/>
+<area shape="rect" id="Node000012" href="$class_l_ar_d_l_content.html#aab14c1c2fe81122ae719157dd61f959c" title="Register all the lar dl content algorithms and tools with pandora." alt="" coords="271,291,492,317"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="223,286,256,289,255,295,223,292"/>
+<area shape="rect" id="Node000013" href="$class_l_ar_content.html#aff3a7dbc759958ffe350f306178ff57a" title="Register the basic lar content plugins with pandora." alt="" coords="294,341,469,384"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="158,290,271,327,294,334,292,339,270,332,157,295"/>
+<area shape="rect" id="Node000014" href="$class_pandora_api.html#a45b5254503a518f350c1dd7f714fa1c6" title="Set the lar transformation plugin used by pandora." alt="" coords="271,408,492,451"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="132,291,190,340,230,369,272,394,284,399,282,404,269,398,227,373,187,345,128,295"/>
+<area shape="rect" id="Node000015" href="$class_pandora_api.html#a972528eb576214bd9477e0066f684df9" title="Set the pseudo layer plugin used by pandora." alt="" coords="285,475,478,517"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="125,291,147,325,180,371,222,419,272,460,280,465,277,470,269,465,219,423,176,374,142,328,121,294"/>
+<area shape="rect" id="Node000003" href="$class_multi_pandora_api_impl.html#a66c79a327d79eabecd789666bc525d44" title="Declare a new primary pandora instance." alt="" coords="559,5,753,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,40,543,34,544,40,478,46"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="552,72,760,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,123,574,100,576,105,468,128"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_input_type.html#a64650d8342a8802c1a1a7b4eed43090a" title="Whether the pandora type is initialized." alt="" coords="566,123,745,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="468,141,550,141,550,147,468,147"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_externally_configured_algorithm.html#ad05b0ece5b1fceedf9c63a01390a57be" title="Set the external parameters associated with an algorithm instance of a specific type,..." alt="" coords="819,207,1039,249"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="468,161,540,175,677,195,804,212,803,217,676,201,540,180,467,166"/>
+<area shape="rect" id="Node000009" href="$class_pandora_api.html#a4f7108ab8bf07653c71ed3e3b894bbb3" title="Set the external parameters associated with an algorithm instance of a specific type...." alt="" coords="540,240,771,267"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="468,163,493,175,508,186,518,198,527,209,541,219,571,232,569,237,539,224,524,212,514,201,505,190,491,180,466,168"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_externally_configured_algorithm_1_1_external_parameters_map.html#a0320bab79040c7a03c15990d08c01312" title="Set the external parameters associated with an algorithm instance of a specific type,..." alt="" coords="1087,199,1311,257"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1039,225,1071,225,1071,231,1039,231"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="772,240,804,237,804,242,772,245"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="lar_content::VertexBasedPfoRecoveryAlgorithm::GetBestChi2" name="lar_content::VertexBasedPfoRecoveryAlgorithm::GetBestChi2">
+<area shape="rect" id="Node000001" title="Get best&#45;matched pair of clusters from a set of input cluster vectors." alt="" coords="5,285,174,344"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#abe8e8ead1d4a9fdf4deb857edcb17d36" title="Merge two pointing clusters and return chi&#45;squared metric giving consistency of matching." alt="" coords="222,285,390,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,312,206,312,206,317,174,317"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a87b171fa1c7c508c97a0dcfdf25da7ef" title="Get the address of the cluster." alt="" coords="458,56,618,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,284,334,244,360,197,395,150,436,109,443,104,446,108,440,113,399,153,365,200,339,247,321,286"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="443,123,634,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,283,373,228,403,200,437,175,445,170,447,175,439,180,407,204,377,232,331,287"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a39113131cf6f807652c3853ffcc9fe9d" title="Find furthest end of pointing cluster from a specified position vector." alt="" coords="454,189,622,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="378,282,450,252,452,257,380,287"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="438,272,638,299"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="390,301,422,297,423,303,390,307"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="446,323,630,365"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="390,323,431,328,430,333,390,328"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_vertex.html#a97d6b7c37f9f7de1717cd506f3dbe9d7" title="Get the vertex position." alt="" coords="444,389,633,416"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="365,342,439,375,461,382,459,387,437,380,362,347"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab421842850d620960bfd7e33dbedc703" title="Merge 2D positions from two views to give unified 3D position." alt="" coords="441,440,636,483"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="337,342,383,385,439,426,449,431,446,435,437,430,379,389,333,346"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="453,523,623,565"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="325,343,371,416,403,456,440,493,470,513,467,517,436,497,399,460,367,419,320,346"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="696,5,880,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,120,637,108,651,96,660,84,670,71,685,58,693,53,696,57,688,62,673,74,664,87,655,100,640,113,618,124"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="686,72,890,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="631,119,712,100,713,105,633,125"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="692,123,884,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="634,141,677,141,677,147,634,147"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#a38cc9bf16806e377fbf3bbcff1fb6c80" title="Find nearest end of pointing cluster to a specified position vector." alt="" coords="704,189,872,248"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="623,216,688,216,688,221,623,221"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#ae3f63b089d733e9bebee92762dbe63b1" title="Is this the inner vertex." alt="" coords="692,272,884,315"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="624,241,700,264,699,270,622,246"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="704,489,872,532"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="637,478,689,488,688,494,636,483"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="698,356,878,399"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="604,437,637,425,685,408,705,402,706,407,687,413,639,431,606,442"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="704,423,872,465"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="636,452,688,448,689,454,637,457"/>
+<area shape="poly" id="edge18_Node000018_Node000015" title=" " alt="" coords="624,530,688,521,689,527,624,535"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="704,556,872,599"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="624,553,689,561,688,567,624,558"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="704,623,872,665"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="586,564,687,608,704,615,702,620,685,613,584,568"/>
+</map>

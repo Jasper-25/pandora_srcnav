@@ -1,0 +1,27 @@
+<map id="lar_content::LArMCParticleHelper::IsCosmicRay" name="lar_content::LArMCParticleHelper::IsCosmicRay">
+<area shape="rect" id="Node000001" title="Return true if passed a primary cosmic ray MCParticle." alt="" coords="5,123,183,165"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="731,5,908,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,119,230,108,362,75,496,49,609,36,715,28,715,34,609,42,496,55,363,80,231,113,184,125"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ae7576ee11a242f2a2f70f2b3f8bd7153" title="Returns true if passed a primary neutrino final state MCParticle." alt="" coords="231,123,448,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,141,215,141,215,147,183,147"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="496,181,673,224"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="175,163,231,175,361,190,481,197,480,203,360,195,230,180,174,169"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="966,5,1143,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="909,24,950,24,950,29,909,29"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a5314cda1ff5cae45c84e1195bd3424b3" title="Get the parent mc particle." alt="" coords="725,123,914,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,141,709,141,709,147,448,147"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f66058246ca58340ca7f0dc68340660" title="Whether a mc particle is a neutrino or antineutrino." alt="" coords="496,64,673,107"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="431,119,480,108,481,113,432,125"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="432,163,481,175,480,180,431,169"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="985,123,1124,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="915,141,969,141,969,147,915,147"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="672,61,716,50,717,55,673,66"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="1191,127,1330,169"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="674,80,771,79,888,82,1016,91,1143,108,1188,119,1187,124,1143,113,1016,96,888,87,770,84,674,85"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="721,189,918,232"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="674,203,706,204,706,209,674,208"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="896,186,969,165,970,170,898,191"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="966,189,1143,232"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="918,208,950,208,950,213,918,213"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="1126,186,1176,171,1177,176,1128,191"/>
+</map>

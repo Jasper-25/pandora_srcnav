@@ -1,0 +1,18 @@
+<map id="lar_content::SplitShowersTool::CheckClusterSplitPositions" name="lar_content::SplitShowersTool::CheckClusterSplitPositions">
+<area shape="rect" id="Node000001" title="Check the consistency of the split positions in the provided u, v and w cluster lists." alt="" coords="5,163,217,205"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_split_showers_tool.html#ad68d58db40556544fe4aa6215d7f4bdd" title="Get the x coordinate representing the midpoint between two clusters (hypothesis: clusters represent a..." alt="" coords="265,163,434,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,181,249,181,249,187,217,187"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_showers_algorithm.html#ad0fe69beb421b1034bb888f46fa5d9ce" title="Get a sliding shower fit result from the algorithm cache." alt="" coords="482,5,722,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,160,414,109,446,81,481,58,491,52,494,57,483,62,449,86,418,113,370,164"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="504,72,700,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="416,160,495,133,497,139,418,165"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="506,155,698,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="435,181,491,181,491,187,435,187"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ab8417ac239b06a403b92ac0f53bffaa2" title="Get the sliding fit result for the full shower cluster." alt="" coords="501,237,704,296"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="418,203,497,229,495,235,416,208"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="518,320,686,363"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="370,204,418,255,449,282,483,306,504,316,502,321,481,310,446,287,414,259,366,208"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="770,121,957,164"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="701,114,755,123,755,128,701,120"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="698,166,755,157,755,162,699,171"/>
+</map>

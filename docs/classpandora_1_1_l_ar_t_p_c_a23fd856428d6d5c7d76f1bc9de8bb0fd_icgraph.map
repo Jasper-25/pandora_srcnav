@@ -1,0 +1,21 @@
+<map id="pandora::LArTPC::GetWidthZ" name="pandora::LArTPC::GetWidthZ">
+<area shape="rect" id="Node000001" title="Get the width in z, units mm." alt="" coords="762,213,953,240"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="518,5,706,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="838,201,787,132,752,95,713,62,692,51,695,46,716,58,756,91,792,129,842,198"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="518,72,706,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="827,205,776,167,713,129,687,118,689,113,716,124,779,162,830,201"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="509,139,714,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="790,211,692,185,694,179,791,206"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#a13e8c73246a2390dcc09bf2bb28781d0" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="516,205,707,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="747,229,708,229,708,224,747,224"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_beam_particle_id_tool.html#a481b12de0d8a2b794e57b138cd15830b" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="526,272,697,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="791,247,694,274,692,269,790,242"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_binary_file_writer.html#a6f6513f8320903d5c178e5ad96549221" title="Write a lar tpc to the file." alt="" coords="528,339,696,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="830,252,779,291,716,329,689,341,687,336,713,324,776,286,827,248"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_xml_file_writer.html#a153219a605015486dd563bcc8882ad8f" title="Write a lar tpc to the file." alt="" coords="536,405,688,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="842,255,792,325,756,363,716,396,690,409,687,405,713,391,752,359,787,321,838,252"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="273,5,461,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,29,461,29,461,24,502,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,13,225,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,29,225,29,225,24,257,24"/>
+</map>

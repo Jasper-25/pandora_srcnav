@@ -1,0 +1,20 @@
+<map id="lar_dl_content::DlHitTrackShowerIdAlgorithm::Infer" name="lar_dl_content::DlHitTrackShowerIdAlgorithm::Infer">
+<area shape="rect" id="Node000001" title="Run network inference." alt="" coords="5,197,176,240"/>
+<area shape="rect" id="Node000002" href="$classlar__dl__content_1_1_l_ar_d_l_helper.html#ab6643d797da2dd5ff14c7e2b9d552642" title="Run a deep learning model." alt="" coords="254,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,196,148,128,182,90,222,58,239,48,242,53,225,62,186,94,153,131,106,199"/>
+<area shape="rect" id="Node000003" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#ac02a0cbadc4cb9c9f7b2db79d8b9a5b3" title="Identify the XZ range containing the hits for an event." alt="" coords="239,72,453,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,195,164,159,222,124,237,118,239,123,225,129,167,163,119,199"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="275,139,417,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,196,260,177,261,182,177,202"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="246,205,446,232"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="176,216,230,216,230,221,176,221"/>
+<area shape="rect" id="Node000007" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#ac73a942c7e85409e01c5b2ec04948425" title="Populate a map between pixels and tiles." alt="" coords="224,256,468,299"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="177,236,236,249,235,255,176,241"/>
+<area shape="rect" id="Node000008" href="$classlar__dl__content_1_1_l_ar_d_l_helper.html#a724868895692d7a1924c296d59886569" title="Create a torch input tensor." alt="" coords="254,323,438,365"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="119,238,167,274,225,308,240,315,238,320,222,313,164,279,116,243"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_calo_hit.html#a504d7c4ed8b00ca13f3bbf286aa910d0" title="Set the probability that the hit is shower&#45;like." alt="" coords="268,389,424,432"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="106,239,153,307,186,344,225,375,255,390,252,395,222,380,182,348,148,310,102,242"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="516,139,657,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="417,157,501,157,501,163,417,163"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="541,139,539,129,547,120,563,114,587,112,612,114,628,121,626,126,611,120,587,117,564,119,550,124,544,130,546,138"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="lar_content::SimpleCone::GetBoundedHitFraction" name="lar_content::SimpleCone::GetBoundedHitFraction">
+<area shape="rect" id="Node000001" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="5,172,170,215"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_simple_cone.html#a248e317f9ad895f187e12374fe540679" title="Get the cone apex." alt="" coords="238,5,401,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,170,149,114,181,84,216,58,225,53,227,57,219,62,184,88,153,118,106,173"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#a47df1d15358b292715e5bb31a6bc56a7" title="Get vector of hit coordinates from an input cluster." alt="" coords="224,72,415,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,169,217,124,232,118,234,123,219,129,128,174"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="235,139,404,181"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="170,179,219,172,220,177,171,184"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="235,205,404,248"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="171,203,220,210,219,215,170,208"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="235,272,404,315"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,213,219,258,234,264,232,269,217,262,126,217"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="218,339,421,365"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="106,213,152,269,184,299,219,324,231,330,228,335,216,329,180,303,148,273,102,217"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="469,39,660,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,78,453,72,454,78,416,83"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#a7e2dfdec4d4e010c8edf3e07d6b9ebf0" title="Sort cartesian vectors by their position (use Z, followed by X, followed by Y)" alt="" coords="469,105,660,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="416,104,454,109,453,114,415,109"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="708,39,877,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="639,102,702,84,703,89,640,107"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="708,105,877,148"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="661,124,693,124,693,129,661,129"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="708,172,877,215"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="640,146,703,165,702,170,639,151"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="481,272,649,315"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="404,291,465,291,465,296,404,296"/>
+</map>

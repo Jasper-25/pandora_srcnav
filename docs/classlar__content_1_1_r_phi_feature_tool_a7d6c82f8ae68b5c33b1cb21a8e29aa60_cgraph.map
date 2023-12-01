@@ -1,0 +1,32 @@
+<map id="lar_content::RPhiFeatureTool::FillKernelEstimate" name="lar_content::RPhiFeatureTool::FillKernelEstimate">
+<area shape="rect" id="Node000001" title="Use hits in clusters (in the provided kd tree) to fill a provided kernel estimate with hit&#45;vertex rel..." alt="" coords="5,329,171,372"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_r_phi_feature_tool_1_1_kernel_estimate.html#ab7e6058ea42b50c8a0e8b48cc6d0a2f3" title="Add a contribution to the distribution." alt="" coords="236,5,402,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,328,105,278,129,210,166,138,190,104,217,74,222,70,225,74,221,78,194,108,171,141,134,212,110,279,96,330"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_r_phi_feature_tool.html#a774f535ef0ee2692ea8570cbc2950dbf" title="Fast estimate of std::atan2 function. Rather coarse (max |error| &gt; 0.01) but should suffice for this ..." alt="" coords="236,88,402,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,328,111,288,137,238,173,186,217,141,222,137,226,141,220,145,177,189,142,241,116,290,99,330"/>
+<area shape="rect" id="Node000004" href="$namespacelar__content.html#aed106edce4a8d4837d5f3bcdd4faded5" title="build_2d_kd_search_region" alt="" coords="243,179,395,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,327,154,279,184,253,217,231,228,225,230,230,220,236,188,258,157,283,110,331"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="235,245,403,288"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="142,326,218,297,236,291,238,296,220,303,144,331"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="219,312,419,339"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="171,339,203,335,203,341,171,344"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_vertex.html#a97d6b7c37f9f7de1717cd506f3dbe9d7" title="Get the vertex position." alt="" coords="224,363,414,389"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="171,357,209,361,208,367,171,362"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="480,397,648,440"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="135,370,176,386,219,399,282,409,346,416,464,419,464,425,346,421,281,415,218,404,174,391,133,375"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="480,531,648,573"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="101,371,119,405,145,445,179,485,220,516,279,541,343,555,406,560,464,560,464,565,406,566,342,560,278,546,217,521,175,489,140,448,114,407,96,373"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="234,464,404,507"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="117,371,164,407,220,443,244,455,242,460,217,448,161,411,114,375"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_k_d_tree_linker_algo.html#ab24060eca7bcf2b2b0b7b0650110b49e" title="Search in the KDTree for all points that would be contained in the given searchbox The founded points..." alt="" coords="233,581,405,624"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="100,371,117,411,142,462,177,514,220,561,236,572,233,576,217,565,173,518,138,464,112,414,95,373"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="275,179,273,169,281,160,296,154,319,152,344,154,358,161,356,166,342,160,319,157,297,159,284,164,278,170,280,178"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="467,179,660,221"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="395,197,451,197,451,203,395,203"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="480,245,648,288"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="404,264,464,264,464,269,404,269"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="399,461,467,442,469,447,401,466"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="401,505,469,523,467,529,399,510"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="480,464,648,507"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="405,483,464,483,464,488,405,488"/>
+</map>

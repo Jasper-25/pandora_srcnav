@@ -1,0 +1,61 @@
+<map id="pandora::CaloHit::GetCellSize1" name="pandora::CaloHit::GetCellSize1">
+<area shape="rect" id="Node000001" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="2106,296,2274,339"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a43afa74fd4aee77d137a4dfd46548cb7" title="Calculate the typical length scale of the cell, units mm." alt="" coords="1861,7,2040,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2177,282,2161,233,2136,175,2101,116,2080,90,2056,66,2035,52,2038,48,2060,62,2084,86,2106,113,2141,173,2166,231,2182,280"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="1856,76,2045,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2170,284,2125,209,2093,170,2056,137,2030,122,2033,117,2060,133,2097,167,2129,206,2174,281"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a4f46d4cb1822f52809455b9a54b82ce0" title="Find the smallest separation between two hits, with the consideration of their hit widths." alt="" coords="1859,147,2042,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2157,286,2112,243,2057,204,2033,192,2035,187,2059,199,2116,239,2161,282"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_hit_width_helper.html#ae28649969057467eed3e7635a4db7223" title="Consider the hit width to find the smallest distance between a calo hit and a given point." alt="" coords="1852,213,2049,272"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2104,293,2046,275,2047,270,2106,288"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a8a9bef12ad5931fc5d2834805dfae895" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="1843,296,2058,339"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2090,320,2058,320,2058,315,2090,315"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_calo_hit.html#a041ca38b4ad4471be3ba0609d2b6469f" title="Get the list of cartesian coordinates for pointing cell corners." alt="" coords="1854,363,2047,405"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="2098,346,2031,365,2029,359,2096,341"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_calo_hit.html#aadf98ed9882cbd841eb0b0e203ea45ef" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="1843,429,2058,472"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="2156,351,2111,387,2059,420,2033,431,2031,426,2057,415,2108,382,2152,347"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_binary_file_writer.html#a79550babfc8713146f6aa82c25812b39" title="Write a calo hit to the current position in the file." alt="" coords="1866,496,2035,539"/>
+<area shape="poly" id="edge30_Node000001_Node000027" title=" " alt="" coords="2172,354,2126,421,2095,456,2060,486,2036,499,2033,494,2056,482,2092,452,2122,418,2168,351"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_xml_file_writer.html#a74c74e56a0a76102d2a5b6d2b06c70cc" title="Write a calo hit to the current position in the file." alt="" coords="1874,563,2027,605"/>
+<area shape="poly" id="edge31_Node000001_Node000028" title=" " alt="" coords="2180,355,2164,400,2138,453,2104,507,2060,553,2028,571,2025,566,2056,549,2099,503,2133,451,2159,398,2175,353"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a5fab51106c7bbc85c0ffe49d7954444f" title="Constructor." alt="" coords="1592,5,1759,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1845,27,1759,24,1760,19,1845,22"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="1581,56,1770,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1840,92,1770,87,1770,82,1841,87"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a520085350cf50fc0e9122a5c7114acd9" title="Check whether a hit is close to a boundary point." alt="" coords="1572,123,1779,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1855,209,1842,204,1794,180,1761,168,1763,163,1796,175,1844,199,1857,204"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#a4039903a2ec928d1d43658d058cb99a9" title="Check the separation of the extremal extrapolated hits with the cluster merge points or,..." alt="" coords="1216,123,1508,165"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1557,147,1508,147,1508,141,1557,141"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_shower_spine_finder_tool.html#a732c6601a68f5ce78d13f86f483e2d04" title="Add to the shower spine the connecting hits." alt="" coords="1568,189,1783,232"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1854,292,1841,286,1817,270,1793,253,1751,235,1753,230,1796,248,1820,265,1844,282,1857,287"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_shower_spine_finder_tool.html#a580cb28030430184705b1b8e17dd8237" title="Perform a running fit step: collect hits which lie close to the shower spine projection." alt="" coords="1254,208,1471,251"/>
+<area shape="poly" id="edge19_Node000010_Node000012" title=" " alt="" coords="1827,302,1471,248,1472,243,1828,296"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a70628edc4c1f9c56e3dd36f7d4557b28" title="Find the unprotected hits that are contained within a defined box with the option to apply a cut on t..." alt="" coords="1240,295,1485,337"/>
+<area shape="poly" id="edge20_Node000010_Node000019" title=" " alt="" coords="1827,320,1485,319,1485,314,1827,314"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="1565,357,1786,400"/>
+<area shape="poly" id="edge22_Node000010_Node000021" title=" " alt="" coords="1837,345,1775,359,1774,354,1836,340"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_track_refinement_base_algorithm_1_1_sort_by_distance_along_line.html#ae10606f5337ebe851b1553f26712f3f3" title="Sort hits by their projected distance along a line from a start point." alt="" coords="1556,424,1795,483"/>
+<area shape="poly" id="edge25_Node000010_Node000023" title=" " alt="" coords="1851,349,1844,353,1829,367,1821,382,1812,398,1796,414,1777,426,1775,421,1793,410,1808,395,1816,380,1825,364,1841,349,1848,344"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1553,221,1472,226,1471,220,1552,215"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_shower_spine_finder_tool.html#ad9a3d4122f0d976baa2e7c40786eef63" title="Perform a running fit to collect the hits of the shower spine." alt="" coords="960,208,1150,251"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1238,232,1150,232,1150,227,1238,227"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_shower_spine_finder_tool.html#a96a59a3ac30728651acad2f69b0c4eb1" title=" " alt="" coords="724,208,894,251"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="944,232,894,232,894,227,944,227"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#abd52ec03592270e97c45fb1d34f4e6b8" title="Build the connection pathways of all other particles in the event." alt="" coords="495,159,676,217"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="709,214,676,207,677,202,710,208"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#ab46655214320f8dd9c3cbc09bd0c1b96" title="Build the 2D ProtoShower objects for a given view." alt="" coords="495,241,676,300"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="710,250,677,256,676,251,709,245"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="266,200,447,259"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="480,210,448,216,447,210,480,204"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="5,208,218,251"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="250,232,218,232,218,227,250,227"/>
+<area shape="poly" id="edge18_Node000018_Node000016" title=" " alt="" coords="480,254,447,248,448,243,480,249"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#aa4fc20068d9fdd50c3c43a9e2396a664" title="Run the algorithm." alt="" coords="942,328,1168,371"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1224,334,1169,340,1168,334,1224,328"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="1232,361,1493,404"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="1549,383,1493,384,1493,378,1549,378"/>
+<area shape="poly" id="edge24_Node000022_Node000020" title=" " alt="" coords="1216,369,1168,364,1169,359,1216,364"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="1591,507,1760,549"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="1850,416,1844,419,1829,438,1821,457,1814,477,1796,497,1761,515,1759,511,1793,493,1809,474,1816,455,1824,435,1841,415,1847,411"/>
+<area shape="poly" id="edge29_Node000026_Node000025" title=" " alt="" coords="1858,479,1795,497,1755,509,1753,504,1794,492,1857,474"/>
+</map>

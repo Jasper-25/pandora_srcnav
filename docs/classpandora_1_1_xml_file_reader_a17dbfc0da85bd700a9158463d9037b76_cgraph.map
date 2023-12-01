@@ -1,0 +1,36 @@
+<map id="pandora::XmlFileReader::ReadRelationship" name="pandora::XmlFileReader::ReadRelationship">
+<area shape="rect" id="Node000001" title="Read a relationship from the current position in the file, recreating the stored relationship." alt="" coords="5,272,164,315"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_xml_file_reader.html#a80d92973c0a9f6010761febc2512351e" title="Read a variable from the file." alt="" coords="246,105,404,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,270,144,214,175,184,210,158,230,147,232,152,213,162,179,188,148,218,103,273"/>
+<area shape="rect" id="Node000013" href="$class_pandora_api.html#a5d3d06aab877dc39eb8d6f9c3cb20b87" title="Set calo hit to mc particle relationship." alt="" coords="239,172,411,215"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="121,269,211,224,228,218,229,223,213,229,124,274"/>
+<area shape="rect" id="Node000014" href="$class_pandora_api.html#a31d3d089a31908acbd54643b21d57591" title="Set parent&#45;daughter mc particle relationship." alt="" coords="212,239,438,281"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="164,280,196,275,197,280,165,285"/>
+<area shape="rect" id="Node000015" href="$class_pandora_api.html#ac3a947b4a74b2b442515aeae9e01d0a5" title="Set parent&#45;daughter track relationship." alt="" coords="232,305,418,348"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="165,302,216,309,216,314,164,307"/>
+<area shape="rect" id="Node000016" href="$class_pandora_api.html#aa5500c7896d57f4dd42e07716e720ce5" title="Set sibling track relationship." alt="" coords="231,372,419,415"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="124,313,213,358,229,364,228,369,211,362,121,318"/>
+<area shape="rect" id="Node000017" href="$class_pandora_api.html#a2a6a44b1139d77fe7d2ee70d56da50eb" title="Set track to mc particle relationship." alt="" coords="212,439,438,481"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="103,313,148,369,179,399,213,424,222,429,219,434,210,429,175,403,144,373,99,317"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_xml_helper.html#a4c31774825e5cb5d7f3f38eabb889b12" title="Read a value from an xml element." alt="" coords="486,105,619,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,124,470,124,470,129,404,129"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_handle.html#a0646cc781c7288abc2e3835264174aa3" title=" " alt="" coords="671,5,818,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="587,103,666,58,676,53,678,58,669,62,590,107"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_handle.html#a4e5eaba7177abb6d44bdc86a2362070e" title="Return a handle to the first child node." alt="" coords="671,72,818,115"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="619,112,656,106,657,111,620,118"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ti_xml_element.html#ac30030547fca44cfb876380d7002aeb4" title=" " alt="" coords="667,139,822,181"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="620,136,653,141,652,147,619,141"/>
+<area shape="rect" id="Node000012" href="$namespacepandora.html#a2b8dfb6844696f374179f8bd1ee7e7b9" title=" " alt="" coords="669,205,820,232"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="588,146,668,191,683,197,681,202,666,196,585,151"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_handle.html#a86da3ac32d75446bafeec167e48338b7" title=" " alt="" coords="870,5,1016,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="818,24,854,24,854,29,818,29"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_node.html#a351d0fe57709c10ba9355f90703882f3" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="1064,5,1200,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1016,24,1049,24,1049,29,1016,29"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="875,72,1011,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="818,91,859,91,859,96,818,96"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="809,136,862,118,863,123,811,141"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_node.html#a8caab284c224f0d4726ebf175bf66c5e" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="875,139,1011,181"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="822,157,859,157,859,163,822,163"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_node.html#ac3eec12e25197da0dec780fbeb3a4d29" title=" " alt="" coords="875,205,1011,248"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="811,179,863,197,862,202,809,184"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="lar_content::DeltaRayMatchingContainers::FillClusterProximityMap" name="lar_content::DeltaRayMatchingContainers::FillClusterProximityMap">
+<area shape="rect" id="Node000001" title="Populate the cluster proximity map from a list of clusters." alt="" coords="5,217,235,260"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_matching_containers.html#a88b6f4e09b7f0e4afb473233b3c057bb" title="Add a cluster to the cluster proximity map." alt="" coords="283,155,532,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,214,291,198,293,204,221,219"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="580,217,771,260"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="235,236,565,236,565,241,235,241"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_delta_ray_matching_containers.html#a1c18905e582e9a54a29bd80302747bc3" title="Build the KD tree." alt="" coords="308,305,507,348"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="193,258,322,298,320,303,192,263"/>
+<area shape="rect" id="Node000003" href="$namespacelar__content.html#aed106edce4a8d4837d5f3bcdd4faded5" title="build_2d_kd_search_region" alt="" coords="600,96,751,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,151,584,134,586,140,509,157"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="584,5,768,48"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="434,152,498,106,579,58,591,52,593,57,581,62,501,110,437,157"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="502,195,567,211,566,216,501,201"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="825,152,1017,195"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="532,173,810,171,810,177,532,178"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="629,96,627,86,635,77,651,71,676,69,702,72,718,78,716,83,701,77,676,75,652,77,638,81,633,87,634,95"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="824,85,1018,128"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="752,111,809,109,809,114,752,117"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="829,219,1013,261"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="772,237,813,237,813,242,772,242"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="819,285,1023,312"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="766,258,849,278,848,284,765,263"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="758,214,823,197,824,202,759,219"/>
+<area shape="rect" id="Node000011" href="$namespacelar__content.html#a0fa53f8f844dfe8a3aee6d08dcad0036" title="fill_and_bound_2d_kd_tree" alt="" coords="609,369,743,412"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="500,346,594,369,593,374,499,351"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="837,403,1005,445"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="744,397,822,408,821,413,743,402"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="837,469,1005,512"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="721,410,820,455,837,461,835,466,818,460,719,415"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1kdtree__type__adaptor.html#abbb025136be73421bb4fb5e61c0b9e94" title="position" alt="" coords="843,336,999,379"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="743,379,827,367,828,373,744,384"/>
+</map>

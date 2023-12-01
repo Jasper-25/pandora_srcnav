@@ -1,0 +1,65 @@
+<map id="lar_content::TwoDSlidingFitResult::GetL" name="lar_content::TwoDSlidingFitResult::GetL">
+<area shape="rect" id="Node000001" title="Get longitudinal coordinate for a given sliding linear fit layer number." alt="" coords="1389,256,1553,299"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_kink_splitting_algorithm.html#ab09e77f35401501421e3b2dc62d40c6e" title="Use sliding linear fit to identify the best split position." alt="" coords="1106,5,1315,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1456,242,1439,200,1414,151,1381,103,1339,62,1314,48,1317,43,1343,58,1385,99,1419,148,1444,198,1461,240"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a91a8b14fa7eafcfb342e62e3f350b589" title="Get extrapolated position (beyond span) for a given input coordinate." alt="" coords="1099,72,1322,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1445,245,1400,188,1371,160,1340,136,1303,118,1306,113,1342,131,1375,156,1404,185,1449,241"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a5233a0eb9a82888e955974831692e666" title="Get a list of spacepoints representing cluster 2D hit positions and extrapolated positions." alt="" coords="806,72,1032,115"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="1436,247,1392,211,1340,180,1270,155,1213,145,1154,140,1079,129,1023,118,1025,113,1080,124,1155,135,1214,140,1272,150,1342,175,1395,207,1439,243"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_connection_region_feature_tool.html#a3dd29871515010d72f5ca786f8c51310" title="Obtain a cautious estimate of the largest 2D deflection of a connection pathway in a given view." alt="" coords="1080,189,1341,232"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1373,255,1340,247,1296,235,1298,230,1342,241,1375,250"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a147e8811ccf17271ae1ba322274b45db" title="Get a sampling point in x that is common to sliding linear fit objects in two views." alt="" coords="1110,256,1311,299"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1373,280,1311,280,1311,275,1373,275"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_three_d_kink_base_tool.html#a4a243d2b55a391ec2d7515a99fde605d" title="Get a sampling point in x that is common to sliding linear fit objects in three views." alt="" coords="1115,323,1306,365"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1375,305,1342,313,1298,325,1296,319,1340,308,1373,300"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a20733a39835ba0dd40c513595e2dfe5c" title="Perform the sliding linear fit." alt="" coords="1103,476,1318,519"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1434,311,1239,478,1236,473,1431,307"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_two_d_sliding_fit_multi_split_algorithm.html#a655b1bafd74cb76fe6fdab2b2d42b855" title="Split cluster." alt="" coords="1128,543,1293,601"/>
+<area shape="poly" id="edge29_Node000001_Node000028" title=" " alt="" coords="1463,315,1448,364,1423,422,1389,481,1367,509,1343,533,1320,548,1294,559,1292,554,1317,543,1339,529,1363,505,1384,478,1419,420,1443,362,1458,313"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_three_d_sliding_fit_result.html#affa4f646020fbff021956fd9773e15bb" title="Constructor." alt="" coords="1104,625,1317,668"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="1469,315,1459,380,1437,461,1420,503,1400,544,1374,582,1343,615,1319,631,1316,627,1339,611,1370,579,1395,541,1416,501,1432,459,1454,378,1464,314"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1084,96,1032,96,1032,91,1084,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a269837411059987f2a7b30ca5b569fd8" title="Identify where (extrapolated) clusters plausibly cross in 2D." alt="" coords="531,60,739,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="791,94,740,93,740,88,791,89"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="681,48,664,41,635,39,610,41,594,45,586,52,586,60,580,59,581,49,592,41,609,35,635,33,665,36,683,43"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#a8020d3a4ba50fe599c684fc108d8028a" title="Extrapolate 2D clusters, find where they cross, and match crossing points between views to create ver..." alt="" coords="243,60,464,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="516,92,464,92,464,87,516,87"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_candidate_vertex_creation_algorithm.html#ae7886a7ce290244298a9630a4a908c38" title="Run the algorithm." alt="" coords="5,68,195,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,92,195,92,195,87,227,87"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_connection_region_feature_tool.html#ab36fb1008b9a484e0474fbff545ecc64" title="Obtain a cautious estimate of the largest 2D deflection of the connection pathway." alt="" coords="820,143,1018,185"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1064,190,1018,182,1019,177,1065,185"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_connection_region_feature_tool.html#a776e75ae74a76bd004047b5080fb98ce" title=" " alt="" coords="536,143,734,185"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="804,167,735,167,735,161,804,161"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_connection_region_feature_tool.html#a6422a7f4165cd13730e46cf8e345cedb" title=" " alt="" coords="254,143,453,185"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="520,167,453,167,453,161,520,161"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a2dc0621be4fc33ceb7007f4ea526713d" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="831,209,1007,252"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1094,261,1007,247,1008,242,1095,256"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a655ca29512f8d530cc1c8534103a81cc" title="Get modification objects for specific elements of the matrix, identifying required splits and merges ..." alt="" coords="512,209,758,252"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="815,233,759,233,759,228,815,228"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#aedd9f95ee4b81e027a57ef3c32d7fb7d" title="Get modification objects, identifying required splits and merges for clusters." alt="" coords="261,209,446,252"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="496,233,446,233,446,228,496,228"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_view_three_d_kink_tool.html#a8e8520e0c14ffad7e86187d068fb1468" title="Run the algorithm tool." alt="" coords="12,209,188,252"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="245,233,189,233,189,228,245,228"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_overshoot_tracks_tool.html#a370b4220dc01b6a8506fd23f9b10e6ae" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="824,276,1014,319"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="1100,329,1014,315,1015,310,1100,324"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_undershoot_tracks_tool.html#aaf545c52b300206cec75b5a505a37496" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="820,343,1018,385"/>
+<area shape="poly" id="edge21_Node000017_Node000020" title=" " alt="" coords="1100,354,1019,360,1019,355,1100,349"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_overshoot_tracks_tool.html#a0582eff2429ada7793c5e289b982ba32" title="Get modification objects for a specific elements of the tensor, identifying required splits and merge..." alt="" coords="530,276,741,319"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="808,300,741,300,741,295,808,295"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_undershoot_tracks_tool.html#a40485a7c0cfc39093328df7e70338567" title="Get modification objects for a specific elements of the tensor, identifying required splits and merge..." alt="" coords="530,343,741,385"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="804,367,741,367,741,361,804,361"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a09a794873dc5fe0434d17f999307e83a" title=" " alt="" coords="817,409,1021,452"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="1099,475,1015,455,1016,450,1100,469"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a9e74ead94178039f69736c73cc4cbfb2" title=" " alt="" coords="817,476,1021,519"/>
+<area shape="poly" id="edge25_Node000022_Node000024" title=" " alt="" coords="1087,500,1022,500,1022,495,1087,495"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="817,543,1021,585"/>
+<area shape="poly" id="edge26_Node000022_Node000025" title=" " alt="" coords="1100,525,1016,545,1015,539,1099,520"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="817,609,1021,652"/>
+<area shape="poly" id="edge27_Node000022_Node000026" title=" " alt="" coords="1090,527,1081,533,1066,548,1058,565,1050,582,1033,599,1013,611,1011,606,1030,595,1045,579,1053,563,1061,545,1078,529,1088,523"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a0f4e2026dcacd6cbad481858014c8b91" title="Constructor using specified primary axis and layer fit contribution map. User is responsible for ensu..." alt="" coords="817,676,1021,719"/>
+<area shape="poly" id="edge28_Node000022_Node000027" title=" " alt="" coords="1091,525,1082,533,1068,548,1062,564,1058,597,1054,632,1047,649,1034,666,1018,678,1015,673,1030,662,1043,646,1049,630,1053,597,1056,563,1064,545,1078,529,1088,521"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_two_d_sliding_fit_multi_split_algorithm.html#a9d2d93275a902cadea7c88afb7ec6673" title="Split clusters." alt="" coords="837,743,1001,801"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="1115,594,1081,615,1070,629,1063,643,1058,672,1053,702,1046,717,1033,733,1003,753,1000,749,1030,729,1041,715,1048,700,1053,671,1058,641,1065,626,1078,611,1112,590"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_two_d_sliding_fit_multi_split_algorithm.html#a225c89215e59c1deef74110c1040ff63" title="Run the algorithm." alt="" coords="547,751,723,793"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="821,775,724,775,724,769,821,769"/>
+</map>

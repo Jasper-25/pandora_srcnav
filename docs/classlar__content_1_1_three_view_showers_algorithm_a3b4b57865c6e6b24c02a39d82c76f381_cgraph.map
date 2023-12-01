@@ -1,0 +1,20 @@
+<map id="lar_content::ThreeViewShowersAlgorithm::PrepareInputClusters" name="lar_content::ThreeViewShowersAlgorithm::PrepareInputClusters">
+<area shape="rect" id="Node000001" title="Perform any preparatory steps required on the input clusters, e.g. caching expensive fit results." alt="" coords="5,72,211,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_showers_algorithm.html#ac51d1164601c0a27c2636b43f87f859b" title="Add a new sliding fit result, for the specified cluster, to the algorithm cache." alt="" coords="259,72,471,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,91,243,91,243,96,211,96"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="519,21,719,48"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="197,69,258,57,385,43,503,36,504,41,385,49,259,63,198,74"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="264,139,466,181"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="194,113,266,132,265,137,192,118"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,69,542,50,544,55,461,74"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="534,72,704,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="471,91,518,91,518,96,471,96"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="767,72,938,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="704,91,752,91,752,96,704,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="986,5,1162,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="925,69,985,50,987,56,926,74"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="986,72,1162,115"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="938,91,970,91,970,96,938,96"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="986,139,1162,181"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="926,113,987,131,985,136,925,118"/>
+</map>

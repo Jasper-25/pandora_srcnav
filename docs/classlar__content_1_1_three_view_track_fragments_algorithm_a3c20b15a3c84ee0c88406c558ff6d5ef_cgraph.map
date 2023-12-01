@@ -1,0 +1,14 @@
+<map id="lar_content::ThreeViewTrackFragmentsAlgorithm::RebuildClusters" name="lar_content::ThreeViewTrackFragmentsAlgorithm::RebuildClusters">
+<area shape="rect" id="Node000001" title="Rebuild clusters after fragmentation." alt="" coords="5,72,243,115"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a9dbcf378f09362b6ca748806cf8a4b6c" title="End reclustering operations on clusters in the algorithm input list." alt="" coords="299,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,69,283,47,284,52,206,74"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#ab487e2815dd3ce6527e11064764030f6" title="Initialize reclustering operations on clusters in the algorithm input list. This allows hits in a lis..." alt="" coords="299,72,440,115"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="243,91,283,91,283,96,243,96"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a5afbbc0153e06ff23de2f1ca8621e460" title="Run a clustering algorithm (an algorithm that will create new cluster objects)" alt="" coords="291,139,448,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="206,113,277,132,275,137,204,118"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="496,72,637,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,46,488,64,486,69,434,51"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="529,72,527,62,534,53,547,47,567,45,588,48,601,54,598,59,586,53,567,51,548,53,537,57,533,63,534,71"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="440,91,481,91,481,96,440,96"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="434,136,486,118,488,123,435,141"/>
+</map>

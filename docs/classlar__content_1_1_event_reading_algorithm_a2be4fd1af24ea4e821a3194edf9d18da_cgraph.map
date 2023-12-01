@@ -1,0 +1,31 @@
+<map id="lar_content::EventReadingAlgorithm::MoveToNextEventFile" name="lar_content::EventReadingAlgorithm::MoveToNextEventFile">
+<area shape="rect" id="Node000001" title="Proceed to process next event file named in the input list." alt="" coords="5,293,214,336"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="60,293,58,283,66,274,83,269,110,267,138,269,155,275,153,280,137,274,109,272,84,274,69,279,63,285,65,292"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_reader.html#a62bf87f3eafb662f236ea17d6fbe828c" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="306,164,443,207"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="154,290,314,212,316,216,156,295"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_reading_algorithm.html#a61ff57b161128dd5569d66c40de1aaa6" title="Replace the current event file reader with a new reader for the specified file." alt="" coords="262,360,487,403"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="198,334,273,353,271,358,196,339"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_reader.html#a8b1569bbcd3c6d3bd0090f30dfac7e8b" title="Get the id of the next container in the file without changing the current position in the file." alt="" coords="809,5,951,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="392,162,450,103,490,73,534,50,600,30,668,19,734,15,793,16,793,21,734,20,669,24,601,35,536,54,493,78,454,107,395,165"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_reader.html#ae65283cafd49ab95eb55a2f8397d2b5b" title="Skip to next event container in the file." alt="" coords="567,64,704,107"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="425,161,534,116,552,110,554,115,536,121,427,166"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_file_reader.html#a85377a4fbc6ecb2ae31f5d3872aab223" title="Read the container header from the current position in the file, checking for properly written contai..." alt="" coords="567,131,704,173"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="443,174,551,160,552,165,444,179"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_reader.html#a1fc9b0cd7170769a58ffa3bac5de6696" title="Read the next pandora event component from the current position in the file, recreating the stored co..." alt="" coords="544,197,728,240"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="444,191,528,202,527,208,443,197"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="535,264,736,307"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="427,205,536,250,554,256,552,261,534,254,425,210"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="704,66,793,45,794,50,706,71"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_reader.html#a18da5af74c20f505939f3d6b09272ff0" title="Skip to next container in the file." alt="" coords="809,72,951,115"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="705,85,793,88,793,93,705,90"/>
+<area shape="rect" id="Node000009" href="$namespacepandora.html#a3315325079ef7c1c6dfa614b98eed31a" title="Get status code as a string." alt="" coords="784,272,976,299"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="737,283,769,283,769,288,737,288"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_event_reading_algorithm.html#a518e9bee40494db7e2fcc126ac7db269" title="Analyze a provided file name to extract the file type/extension." alt="" coords="550,331,722,373"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="487,366,534,361,534,366,488,371"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="536,397,736,424"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="488,391,520,395,520,400,487,397"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_persistency.html#abae9a18dde627e69e91870c7d7f946b8" title="Set the factory to use for all instantiations and parameter persistence." alt="" coords="564,448,708,491"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="440,401,536,433,555,440,553,445,534,439,438,406"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_persistency.html#a8cb9434c19f35e75ff79b0a5a1ea7850" title="Replace the current factory with the provided instance." alt="" coords="799,448,961,491"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="708,467,783,467,783,472,708,472"/>
+</map>

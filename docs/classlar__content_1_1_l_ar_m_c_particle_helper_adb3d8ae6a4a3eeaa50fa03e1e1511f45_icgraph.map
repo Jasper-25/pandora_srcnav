@@ -1,0 +1,24 @@
+<map id="lar_content::LArMCParticleHelper::GetTrueNeutrinos" name="lar_content::LArMCParticleHelper::GetTrueNeutrinos">
+<area shape="rect" id="Node000001" title="Get neutrino MC particles from an input MC particle list." alt="" coords="889,229,1067,272"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ac20f007f1607dd5bc667b3cbdda2fa9d" title="Use the MC information to get the best vertex from a list." alt="" coords="615,80,839,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="944,220,898,177,840,137,815,126,817,121,843,132,901,173,948,216"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cheating_neutrino_creation_algorithm.html#a46a7bb9f1e955bc884b82342a20af800" title="Get the mc neutrino vector." alt="" coords="616,147,837,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="888,227,827,208,828,203,890,222"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_neutrino_id_tool.html#ae6f07fed434abd387c14993a298d8c10" title="Use the current MCParticle list to get the nuance code of the neutrino in the event." alt="" coords="639,229,814,272"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="874,253,815,253,815,248,874,248"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_event_writing_algorithm.html#a09056942a3913fc527523ad95c9c0e0a" title="Whether current event passes neutrino vertex position filter (e.g. fiducial volume cut)" alt="" coords="612,296,841,339"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="881,279,811,298,809,293,880,274"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_event_writing_algorithm.html#afb2feff24ca58c5bf82c3627bc549fbf" title="Whether current event passes nuance code filter." alt="" coords="618,363,835,405"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="943,284,897,320,843,353,815,365,813,360,840,348,894,316,940,280"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cheating_vertex_selection_algorithm.html#a60227d4bee2643e4716cb0cada403da1" title="Get the vertex score list." alt="" coords="312,5,564,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="626,78,523,51,524,46,627,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ab664f2fc44554042d0754f991b2900e7" title="Produce a set of training examples for a binary classifier." alt="" coords="322,72,554,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="599,104,554,104,554,99,599,99"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,80,264,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,104,264,104,264,99,306,99"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cheating_neutrino_creation_algorithm.html#a62d8687e2a001ac834114f6faa25446b" title="Run the algorithm." alt="" coords="342,155,534,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="600,179,534,179,534,173,600,173"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="355,329,521,372"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="597,335,522,344,521,338,596,330"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="602,372,521,363,522,358,603,367"/>
+</map>

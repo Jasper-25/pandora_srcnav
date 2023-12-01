@@ -1,0 +1,44 @@
+<map id="pandora::FileWriter::WriteEvent" name="pandora::FileWriter::WriteEvent">
+<area shape="rect" id="Node000001" title="Write the specified event components to the file." alt="" coords="5,288,137,331"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_writer.html#a9511045243a64194476bed41bc2b16a3" title="Write a calo hit list to the current position in the file." alt="" coords="243,5,375,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,287,84,240,104,178,136,113,158,84,183,58,204,44,228,35,230,40,207,49,186,62,162,87,141,116,109,180,89,241,78,288"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_writer.html#a6fe5646593f9ebcb7a424120dc86092f" title="Write calo hit to mc particle relationships for a specified calo hit list." alt="" coords="219,72,399,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,286,117,215,147,175,183,141,203,128,206,132,186,145,151,179,122,218,84,289"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_file_writer.html#a1c16ad2cf69cf276b251f4bbd6a8a44a" title="Write the container footer to the file." alt="" coords="243,155,375,197"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="89,285,130,245,156,225,183,207,227,189,229,194,186,212,159,229,133,249,93,289"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_file_writer.html#a22e31a5cae635da3e0fe31e35c03cd7e" title="Write the container header to the file." alt="" coords="243,221,375,264"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="136,287,184,273,228,261,229,266,185,279,138,292"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_file_writer.html#ae3a3b62d6ad1d21afeecf8a2c7c26a6a" title="Write a mc particle list to the current position in the file." alt="" coords="236,288,382,331"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="137,307,221,307,221,312,137,312"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_file_writer.html#a7a6798737560ad64fe53fb4885f662b9" title="Write mc particle relationships for a specified mc particle list." alt="" coords="208,379,410,421"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="130,329,237,370,235,375,128,334"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_file_writer.html#a3dfb2b98fe39d6a4969d5056eecd78b6" title="Write a track list to the current position in the file." alt="" coords="243,445,375,488"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="88,330,128,381,156,408,186,431,229,450,227,455,183,436,152,412,124,385,84,333"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_file_writer.html#a6a40f94483bd73d38aa4cb9304859a15" title="Write track relationships for a specified list of tracks." alt="" coords="224,536,394,579"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="83,330,98,366,120,410,150,457,186,498,230,527,227,531,183,502,145,460,115,413,93,368,78,332"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_file_writer.html#a2a5e3e056a1164ee89dacf313e215c25" title="Write track to mc particle relationships for a specified track list." alt="" coords="185,603,433,645"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="77,331,86,383,105,453,119,490,137,526,159,560,187,589,190,592,187,596,183,593,155,563,132,529,114,492,99,455,81,384,72,331"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_writer.html#a4f02773f059c9c867e08ab9a476822be" title="Write a calo hit to the current position in the file." alt="" coords="536,5,667,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,24,521,24,521,29,375,29"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_writer.html#a8b524f46333d6ba975f4ced255a1f089" title="Write a calo hit to mc particle relationship to the current position in the file." alt="" coords="512,129,692,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,116,497,136,496,141,399,122"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a34041b35bb1382db0ef423cb46bc2c8d" title="Get mc particle weight map for the calo hit." alt="" coords="770,104,981,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="692,145,754,137,755,143,692,150"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#acb3ad8b0e1d30fcba8a9a6b8fb15a8ee" title="Get the address of the parent calo hit in the user framework." alt="" coords="783,171,968,213"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="692,167,768,176,768,182,692,172"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_file_writer.html#a74585c2b371031eb90c54e1a5aed8caf" title="Write a relationship between two objects with specified addresses." alt="" coords="810,399,941,441"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="636,187,843,386,839,390,632,191"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_file_writer.html#aa44a1f8eaeaecbd09d347ee8a172e9ad" title="Write a mc particle to the current position in the file." alt="" coords="536,288,667,331"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="382,307,520,307,520,312,382,312"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="264,379,262,369,270,360,285,354,309,352,334,354,349,361,347,366,333,360,309,357,286,359,273,364,267,370,269,378"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_file_writer.html#a8c7252d367b35243e08beb2d15854144" title="Write a track to the current position in the file." alt="" coords="536,445,667,488"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="375,464,521,464,521,469,375,469"/>
+<area shape="poly" id="edge17_Node000016_Node000016" title=" " alt="" coords="264,536,262,526,270,517,285,511,309,509,334,512,349,518,347,523,333,517,309,515,286,517,273,521,267,527,269,535"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_file_writer.html#aad15998c8fc27b6f39d26ef8ea29f5c6" title="Write a track to mc particle relationship to the current position in the file." alt="" coords="481,557,722,600"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="433,602,465,597,466,602,434,607"/>
+<area shape="poly" id="edge22_Node000018_Node000008" title=" " alt="" coords="639,555,822,447,825,452,641,559"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_track.html#ae3c6c95e3449bfb7644b35b0f66283dd" title="Get mc particle weight map for the track." alt="" coords="775,524,976,567"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="722,561,760,557,760,562,723,567"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_track.html#aeb2cacef4d84f24877dddce89418374d" title="Get the address of the parent track in the user framework." alt="" coords="788,591,963,633"/>
+<area shape="poly" id="edge21_Node000018_Node000020" title=" " alt="" coords="723,591,773,597,773,602,722,596"/>
+</map>

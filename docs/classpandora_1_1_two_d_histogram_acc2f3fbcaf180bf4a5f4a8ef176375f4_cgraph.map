@@ -1,0 +1,39 @@
+<map id="pandora::TwoDHistogram::WriteToXml" name="pandora::TwoDHistogram::WriteToXml">
+<area shape="rect" id="Node000001" title="Write the histogram to an xml document." alt="" coords="5,205,172,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_two_d_histogram.html#a2a6e98b4843fc0990563da3e447b35e4" title="Get the content of a specified bin." alt="" coords="226,5,393,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,204,145,133,179,93,218,58,224,54,227,58,221,62,183,97,149,136,104,207"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_two_d_histogram.html#a0b674d0961f93d87cd6dc635ea54f31f" title="Get the overflow x bin number of the histogram." alt="" coords="225,72,394,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,203,159,164,218,124,228,119,231,124,221,129,163,168,115,207"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_two_d_histogram.html#a05b858810b53c7e517af55fc96bb5e06" title="Get the overflow y bin number of the histogram." alt="" coords="224,139,395,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,202,221,184,222,189,162,207"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_two_d_histogram.html#ab267bada085015a2724bff1bf6820434" title="Get the underflow x bin number of the histogram." alt="" coords="221,205,398,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,224,205,224,205,229,172,229"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_two_d_histogram.html#a3e24478aa03197fa757c269874ed673f" title="Get the underflow y bin number of the histogram." alt="" coords="220,272,399,315"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="162,246,222,264,221,270,160,251"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="241,339,378,381"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="115,246,163,285,221,324,231,329,228,334,218,329,159,290,112,251"/>
+<area shape="rect" id="Node000019" href="$namespacepandora.html#ad3ba408c26aa33c53e239b12e4191fe0" title=" " alt="" coords="234,405,385,432"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="103,247,148,318,182,358,221,391,229,396,227,401,218,395,178,361,144,321,98,250"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_two_d_histogram.html#af2623dce95ec9bc0a44adacf8fef8709" title="Get the max x bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="447,72,613,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,91,431,91,431,96,394,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_two_d_histogram.html#a86e7de6a1d8960f80bca263db77485a4" title="Get the max y bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="447,139,613,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="396,157,432,157,432,163,396,163"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_two_d_histogram.html#ae6e244808defc2574cbcdd58c3687c4b" title="Get the min x bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="447,205,613,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="398,224,432,224,432,229,398,229"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_two_d_histogram.html#ad6535f7eb9abe49b33fd004190024921" title="Get the min y bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="447,272,613,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="399,291,431,291,431,296,399,296"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="462,339,598,381"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="378,357,446,357,446,363,378,363"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ti_xml_document.html#adae6a3f19b9317f9eabb208117c2c23a" title=" " alt="" coords="448,405,613,448"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="379,378,443,398,442,403,377,383"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_ti_xml_node.html#a562e3b0008d5492ad24e5f8efff772db" title=" " alt="" coords="462,472,598,515"/>
+<area shape="poly" id="edge17_Node000011_Node000018" title=" " alt="" coords="379,378,401,391,417,408,425,425,434,442,449,458,453,461,450,466,445,462,429,445,421,428,413,411,397,395,377,383"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_ti_xml_node.html#a3e733899bd721c108cc52baee363b305" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="682,305,818,348"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="598,347,666,337,666,342,599,352"/>
+<area shape="rect" id="Node000015" href="$structpandora_1_1_ti_xml_cursor.html#ae085f786cc1a4b0e9bfbdbb94f508257" title=" " alt="" coords="678,372,822,415"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="613,412,662,404,663,409,613,417"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_ti_xml_parsing_data.html#aabc0cea97a507668987148a678452457" title=" " alt="" coords="661,439,839,481"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="613,437,646,442,646,447,613,442"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_ti_xml_parsing_data.html#ad7f0937f19f1dc1abc9a562be2891213" title=" " alt="" coords="661,505,839,548"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="591,446,615,458,639,475,663,491,673,496,671,501,660,496,636,479,612,462,589,451"/>
+</map>

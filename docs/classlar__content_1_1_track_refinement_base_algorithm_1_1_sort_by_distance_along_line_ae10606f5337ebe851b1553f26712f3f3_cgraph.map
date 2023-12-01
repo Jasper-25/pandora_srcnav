@@ -1,0 +1,20 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::SortByDistanceAlongLine::operator()" name="lar_content::TrackRefinementBaseAlgorithm::SortByDistanceAlongLine::operator()">
+<area shape="rect" id="Node000001" title="Sort hits by their projected distance along a line from a start point." alt="" coords="5,115,244,173"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a8a9bef12ad5931fc5d2834805dfae895" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="292,89,507,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,127,276,123,276,128,244,132"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="557,5,750,48"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="189,112,238,92,291,75,420,48,541,33,542,38,421,53,292,80,240,97,191,117"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="315,156,484,199"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="244,156,300,163,299,168,244,161"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="304,239,495,281"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="197,171,334,230,332,235,195,176"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="570,72,738,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,101,554,97,554,103,508,106"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="465,86,572,51,573,56,467,91"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="570,139,738,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="508,129,555,138,554,143,507,134"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="570,205,738,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="486,130,508,142,524,154,533,167,542,179,557,191,565,196,562,200,553,196,538,183,529,170,520,158,506,146,483,135"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="555,272,752,315"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="496,270,540,276,539,281,495,275"/>
+</map>

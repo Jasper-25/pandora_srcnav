@@ -1,0 +1,42 @@
+<map id="lar_content::CustomParticleCreationAlgorithm::Run" name="lar_content::CustomParticleCreationAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,356,188,399"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#a7ee62d7f536d3aeda0a35a003cdb4083" title="Create specialised Pfo from an generic input Pfo." alt="" coords="254,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,355,110,296,134,216,152,173,174,131,202,92,234,58,239,54,243,58,237,62,206,96,179,134,157,176,139,218,115,297,104,356"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="236,72,462,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,354,118,308,146,249,184,186,207,157,234,131,250,120,253,124,237,135,211,161,188,189,150,251,123,310,107,356"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="544,323,685,365"/>
+<area shape="poly" id="edge20_Node000001_Node000004" title=" " alt="" coords="103,355,119,314,147,263,185,213,208,192,234,175,295,149,322,143,348,142,401,151,463,175,506,202,543,236,573,274,596,308,591,311,569,277,539,240,503,206,461,180,400,156,348,147,323,149,296,154,237,180,211,196,189,217,151,266,124,316,108,357"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="257,189,441,232"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="113,354,163,298,197,268,234,242,244,236,247,241,237,246,200,272,167,302,117,357"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="257,256,441,299"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="138,353,235,308,253,302,255,307,237,313,140,358"/>
+<area shape="rect" id="Node000007" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="278,323,420,365"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="188,363,262,353,263,358,189,368"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="522,456,706,499"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="114,398,135,425,163,456,197,486,237,508,297,525,346,526,462,508,513,500,514,505,462,513,346,532,296,531,235,513,194,490,159,460,131,428,110,401"/>
+<area shape="rect" id="Node000009" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="278,389,420,432"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="189,387,263,397,262,402,188,392"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="264,573,434,616"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="112,398,160,473,196,516,237,553,256,564,253,568,234,557,192,519,156,476,107,401"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_particle_flow_object.html#a5c15e83795337c11397a43566c1775a7" title="Get the vertex list." alt="" coords="522,707,706,749"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="106,398,121,446,147,508,185,572,210,601,237,626,266,644,293,656,318,661,343,664,397,665,428,668,463,676,511,692,531,699,530,704,509,697,461,681,427,674,396,670,342,669,317,667,291,661,264,649,234,630,206,605,181,575,142,511,116,448,101,400"/>
+<area shape="rect" id="Node000016" href="$class_pandora_content_api.html#a821de4a34e66feeabe4e4f5b584e48d9" title="Set parent&#45;daughter particle flow object relationship." alt="" coords="238,456,460,499"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="140,397,237,442,255,448,253,453,235,446,138,402"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="255,691,443,733"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="105,399,118,453,144,526,183,603,208,639,237,670,251,681,248,685,234,674,204,642,178,606,139,528,113,455,99,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,113,464,131,508,173,546,220,577,267,599,308,594,310,572,270,542,223,504,176,460,135,429,117"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="568,323,566,313,574,304,590,298,614,296,640,298,656,305,654,310,639,304,614,301,591,303,577,308,571,314,573,322"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="420,341,528,341,528,347,420,347"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="419,390,528,363,529,368,421,396"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="423,570,461,552,475,542,484,531,494,520,509,508,518,503,521,508,511,513,497,524,488,534,478,545,463,557,425,575"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="430,614,464,633,479,648,488,663,497,678,512,693,519,697,516,702,508,697,492,682,484,666,475,651,460,637,427,619"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_vertex.html#a27d9a8f7296b40461cfe54531c4e4dff" title="Get the vertex type." alt="" coords="510,523,718,549"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="433,573,535,551,536,556,435,579"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_pfo_helper.html#a41901bd1d1d3e8887b21cc62c705c4e7" title="Get the vertex with a specific vertex label in a given vertex list." alt="" coords="530,573,699,616"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="434,592,514,592,514,597,434,597"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1131739c54ecb80351077b80c730f0fc" title="Whether a pfo is a test beam particle." alt="" coords="530,640,699,683"/>
+<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="435,613,515,634,513,639,433,619"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="766,640,951,683"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="699,659,751,659,751,664,699,664"/>
+<area shape="poly" id="edge22_Node000016_Node000004" title=" " alt="" coords="433,453,461,442,520,408,572,373,575,377,523,413,463,446,435,458"/>
+</map>

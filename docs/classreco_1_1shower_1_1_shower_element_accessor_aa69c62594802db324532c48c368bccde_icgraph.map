@@ -1,0 +1,81 @@
+<map id="reco::shower::ShowerElementAccessor::SetShowerElement" name="reco::shower::ShowerElementAccessor::SetShowerElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="814,983,1010,1025"/>
+<area shape="rect" id="Node000002" href="$classreco_1_1shower_1_1_shower_element_holder.html#aaf601e6b3373577dcd28837d9e4dc55a" title=" " alt="" coords="330,953,524,996"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="799,1000,524,983,525,978,799,995"/>
+<area shape="rect" id="Node000031" href="$classreco_1_1shower_1_1_shower_element_holder.html#a0705a4dd0f574bb2db52eb8d87f6b37c" title=" " alt="" coords="572,1012,766,1055"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="799,1020,767,1024,766,1019,798,1015"/>
+<area shape="rect" id="Node000003" href="$class_shower_reco_tools_1_1_shower_direction_cheater.html#a4690e524e9a577d7e68d9ee43cfe7b5e" title=" " alt="" coords="30,920,257,963"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,964,258,957,258,952,315,959"/>
+<area shape="rect" id="Node000004" href="$class_shower_reco_tools_1_1_shower_start_position_cheater.html#ad7e74558aca261b49f4b52079d94832c" title=" " alt="" coords="32,987,255,1029"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="315,990,256,998,255,992,314,985"/>
+<area shape="rect" id="Node000005" href="$class_shower_reco_tools_1_1_shower_track_finder_cheater.html#a62324a43029e8d4ba7ba97befa55ab65" title=" " alt="" coords="37,1053,250,1096"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="372,1006,283,1044,246,1055,244,1050,281,1039,370,1001"/>
+<area shape="rect" id="Node000006" href="$class_shower_reco_tools_1_1_shower2_d_linear_regression_track_hit_finder.html#aadead5a0ddab2b1624fc17665a8a169c" title=" " alt="" coords="36,5,251,64"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="414,939,373,762,327,526,323,481,322,424,321,293,318,226,311,165,299,114,280,78,266,65,250,55,252,50,269,61,284,74,304,112,317,164,323,226,326,292,327,424,328,481,332,525,378,761,419,938"/>
+<area shape="rect" id="Node000007" href="$class_shower_reco_tools_1_1_shower3_d_cylinder_track_hit_finder.html#a4e9e4cf13cf73a5dac130ee45f573611" title=" " alt="" coords="52,88,235,147"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="414,939,374,762,327,526,321,443,318,335,314,281,307,232,296,190,280,160,259,143,234,131,237,127,262,139,284,157,301,188,312,230,319,281,323,335,326,443,332,525,379,761,419,938"/>
+<area shape="rect" id="Node000008" href="$class_shower_reco_tools_1_1_shower_bayesian_trucatingd_edx.html#a4459a37abedd7ca37d9a38aa6e90e9ff" title=" " alt="" coords="28,1120,259,1163"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="401,1009,350,1062,318,1088,283,1110,257,1122,255,1117,280,1106,315,1084,346,1058,397,1006"/>
+<area shape="rect" id="Node000009" href="$class_shower_reco_tools_1_1_shower_direction_topology_decision_tool.html#a627b9ae52fa23a7d29e7510ad7bbc466" title=" " alt="" coords="15,1187,272,1229"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="412,1011,391,1050,363,1095,327,1140,283,1177,262,1188,260,1184,280,1172,323,1136,358,1092,387,1048,407,1009"/>
+<area shape="rect" id="Node000010" href="$class_shower_reco_tools_1_1_shower_example_tool.html#a9b7728eb8dd7690fcb8d0a267a71b106" title=" " alt="" coords="30,1253,257,1296"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="419,1012,401,1064,374,1127,335,1190,311,1219,283,1243,259,1258,256,1253,280,1239,307,1215,331,1187,369,1124,396,1062,414,1010"/>
+<area shape="rect" id="Node000011" href="$class_shower_reco_tools_1_1_shower_incremental_track_hit_finder.html#a06b83db3f167114e103c864d5ed5acb0" title=" " alt="" coords="22,171,265,213"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="414,939,375,761,327,526,321,458,316,369,304,284,294,251,280,227,264,214,267,210,284,224,299,249,309,283,321,369,326,457,332,525,380,760,420,938"/>
+<area shape="rect" id="Node000012" href="$class_shower_reco_tools_1_1_shower_length_percentile.html#a55b1dae0a440b1b5b0e5b85cbe03f934" title=" " alt="" coords="36,237,251,280"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="415,939,327,526,322,489,321,456,322,398,321,372,315,347,302,321,280,294,250,274,253,269,283,290,306,318,320,345,326,372,328,398,326,456,327,488,332,525,420,937"/>
+<area shape="rect" id="Node000013" href="$class_shower_reco_tools_1_1_shower_pandora_sliding_fit_track_finder.html#ade4a3f51c8b971322ea357439d8a3f2c" title=" " alt="" coords="31,1320,256,1379"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="423,1012,408,1076,383,1156,364,1198,342,1239,315,1277,283,1310,258,1327,255,1323,280,1306,311,1273,337,1236,360,1196,378,1154,403,1075,417,1011"/>
+<area shape="rect" id="Node000014" href="$class_shower_reco_tools_1_1_shower_p_c_a_direction.html#a1a61fedaf793264fd7e8432c431ad4ea" title=" " alt="" coords="16,304,271,347"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="415,939,345,608,306,441,290,385,280,360,266,349,269,345,284,357,295,383,311,439,350,607,421,937"/>
+<area shape="rect" id="Node000015" href="$class_shower_reco_tools_1_1_shower_p_c_a_eigenvalue_length.html#a0403cea7469b82a97f065a93933b0233" title=" " alt="" coords="11,1403,276,1445"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="427,1012,418,1091,396,1194,377,1248,353,1301,322,1350,283,1393,267,1405,264,1400,280,1389,318,1347,348,1298,372,1246,391,1193,413,1090,421,1012"/>
+<area shape="rect" id="Node000016" href="$class_shower_reco_tools_1_1_shower_p_c_a_propergation_start_position.html#a19376a25a9e0f21ae560b6b6a8e91449" title=" " alt="" coords="5,371,282,413"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="416,939,353,652,313,505,295,454,280,427,266,416,269,412,284,424,300,452,318,504,358,651,421,937"/>
+<area shape="rect" id="Node000017" href="$class_shower_reco_tools_1_1_shower_p_f_p_vertex_start_position.html#ae18463bbda66bc3da378d14f7deb5011" title=" " alt="" coords="23,437,264,480"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="423,938,419,848,412,790,400,728,381,664,356,602,323,544,280,494,262,481,266,477,283,490,327,541,361,600,386,662,405,727,417,789,424,847,429,938"/>
+<area shape="rect" id="Node000018" href="$class_shower_reco_tools_1_1_shower_track_colinear_traj_point_direction.html#ad6c984c26f1e4684c7b7279a8aa16e09" title=" " alt="" coords="39,1469,248,1528"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="428,1012,423,1101,415,1159,403,1221,384,1285,359,1348,326,1407,283,1459,250,1482,247,1478,280,1455,322,1404,354,1346,379,1284,398,1220,410,1158,417,1101,423,1011"/>
+<area shape="rect" id="Node000019" href="$class_shower_reco_tools_1_1_shower_track_direction.html#a92ea39b75a9bfcca8b87d4f10c0636bc" title=" " alt="" coords="39,1552,248,1595"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="424,1012,407,1132,377,1290,358,1370,336,1442,311,1501,284,1542,267,1555,249,1564,247,1559,265,1550,280,1538,307,1499,331,1440,353,1369,372,1289,401,1131,418,1011"/>
+<area shape="rect" id="Node000020" href="$class_shower_reco_tools_1_1_shower_track_hit_direction.html#a02fe84d2bc247bb65fe5ea189ace1d8c" title=" " alt="" coords="39,504,248,547"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="421,938,413,859,391,757,372,703,348,651,318,603,280,561,247,541,249,536,283,557,322,599,353,648,377,701,396,755,418,858,427,937"/>
+<area shape="rect" id="Node000021" href="$class_shower_reco_tools_1_1_shower_track_p_c_a_direction.html#ab681922c7f1fde339831e6592693f9d4" title=" " alt="" coords="39,571,248,613"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="419,938,406,871,381,787,363,743,340,700,313,661,280,627,247,608,250,604,283,623,317,658,345,698,368,741,386,785,411,870,424,937"/>
+<area shape="rect" id="Node000022" href="$class_shower_reco_tools_1_1_shower_track_space_point_direction.html#a9ff3f9eeef710cd41ce3b4ef13fe51cf" title=" " alt="" coords="19,1619,268,1661"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="421,1012,351,1351,311,1524,295,1581,284,1608,269,1620,266,1616,280,1605,290,1579,306,1522,346,1350,416,1011"/>
+<area shape="rect" id="Node000023" href="$class_shower_reco_tools_1_1_shower_track_start_position.html#ae56a7a5ae3d59a3175757f73dc3c966e" title=" " alt="" coords="39,1685,248,1728"/>
+<area shape="poly" id="edge22_Node000002_Node000023" title=" " alt="" coords="421,1012,344,1394,284,1675,268,1688,249,1698,247,1693,265,1684,279,1672,339,1393,416,1011"/>
+<area shape="rect" id="Node000024" href="$class_shower_reco_tools_1_1_shower_track_traj_point_direction.html#a019d2dc4c87192bd2df73cd865e854c6" title=" " alt="" coords="27,1752,260,1795"/>
+<area shape="poly" id="edge23_Node000002_Node000024" title=" " alt="" coords="421,1012,332,1458,326,1522,320,1605,308,1686,298,1718,284,1742,262,1759,259,1754,280,1738,293,1716,303,1684,315,1604,321,1521,327,1457,415,1011"/>
+<area shape="rect" id="Node000025" href="$class_shower_reco_tools_1_1_shower_track_traj_to_space_point.html#a5ee701e5323cd3a597cda3ca70280f3d" title=" " alt="" coords="27,1885,260,1928"/>
+<area shape="poly" id="edge24_Node000002_Node000025" title=" " alt="" coords="420,1012,379,1202,332,1458,327,1551,326,1674,323,1736,316,1792,303,1840,284,1875,262,1892,259,1888,280,1872,298,1838,311,1791,317,1735,321,1674,322,1551,327,1457,374,1201,415,1010"/>
+<area shape="rect" id="Node000026" href="$class_shower_reco_tools_1_1_shower_traj_pointd_edx.html#ab97957e9c93584d5f870071bd535792d" title=" " alt="" coords="45,637,242,680"/>
+<area shape="poly" id="edge25_Node000002_Node000026" title=" " alt="" coords="415,939,399,884,372,818,333,750,308,720,280,694,242,674,244,669,283,690,312,717,337,747,376,815,404,882,420,938"/>
+<area shape="rect" id="Node000027" href="$class_shower_reco_tools_1_1_shower_unidirectiond_edx.html#a5315861486601d9707afb647e800f507" title=" " alt="" coords="18,1819,269,1861"/>
+<area shape="poly" id="edge26_Node000002_Node000027" title=" " alt="" coords="420,1012,380,1202,332,1458,327,1536,323,1639,319,1691,312,1739,301,1779,284,1808,270,1820,267,1816,280,1805,296,1777,307,1738,314,1691,318,1639,321,1536,327,1457,375,1201,415,1011"/>
+<area shape="rect" id="Node000028" href="$class_shower_reco_tools_1_1_shower_linear_energy.html#af84470b0a5a30a5bca2f75faf9a083cc" title=" " alt="" coords="38,704,249,747"/>
+<area shape="poly" id="edge27_Node000002_Node000028" title=" " alt="" coords="409,940,390,898,361,849,325,801,280,761,248,744,251,740,283,756,329,798,366,847,394,896,414,938"/>
+<area shape="rect" id="Node000029" href="$class_shower_reco_tools_1_1_shower_num_electrons_energy.html#ad917c46a183c7cf5f4cc25bf032cf67b" title=" " alt="" coords="30,771,257,813"/>
+<area shape="poly" id="edge28_Node000002_Node000029" title=" " alt="" coords="400,943,349,883,317,853,280,828,257,816,259,812,283,823,320,849,353,879,404,939"/>
+<area shape="rect" id="Node000030" href="$classreco_1_1shower_1_1_l_ar_pandora_modular_shower_creation.html#add2947af1d9c4a86cfcc19e2544dd476" title=" " alt="" coords="58,837,229,896"/>
+<area shape="poly" id="edge29_Node000002_Node000030" title=" " alt="" coords="368,949,281,910,229,893,231,888,283,906,370,944"/>
+<area shape="rect" id="Node000032" href="$classreco_1_1shower_1_1_shower_element_holder.html#a79625841de8e1376022f22c0dd0b447e" title=" " alt="" coords="330,471,524,513"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="650,999,435,515,440,512,654,997"/>
+<area shape="rect" id="Node000033" href="$classreco_1_1shower_1_1_shower_element_holder.html#ada6671734ee7ed5f06f039d86cff9c6b" title=" " alt="" coords="330,1469,524,1512"/>
+<area shape="poly" id="edge45_Node000031_Node000033" title=" " alt="" coords="652,1069,442,1470,437,1467,647,1067"/>
+<area shape="poly" id="edge32_Node000032_Node000006" title=" " alt="" coords="421,456,412,377,389,276,371,222,347,170,317,121,280,78,250,58,253,53,283,74,321,118,352,167,376,220,394,274,417,376,426,455"/>
+<area shape="poly" id="edge33_Node000032_Node000007" title=" " alt="" coords="417,456,403,392,378,312,360,271,337,231,311,193,280,161,259,146,235,135,237,130,261,141,283,157,315,190,342,228,364,269,383,310,408,391,423,455"/>
+<area shape="poly" id="edge34_Node000032_Node000011" title=" " alt="" coords="414,456,396,404,369,342,331,280,307,252,280,227,262,216,265,212,283,223,311,248,335,277,374,340,401,403,419,455"/>
+<area shape="poly" id="edge35_Node000032_Node000012" title=" " alt="" coords="407,458,387,419,358,374,323,331,280,294,250,279,253,274,283,290,327,327,363,371,391,416,412,455"/>
+<area shape="poly" id="edge36_Node000032_Node000014" title=" " alt="" coords="397,461,346,409,315,383,280,361,255,350,257,345,283,356,318,379,350,405,401,457"/>
+<area shape="poly" id="edge37_Node000032_Node000016" title=" " alt="" coords="370,466,281,428,244,417,246,411,283,423,372,461"/>
+<area shape="poly" id="edge38_Node000032_Node000017" title=" " alt="" coords="314,481,264,475,265,470,315,476"/>
+<area shape="poly" id="edge39_Node000032_Node000020" title=" " alt="" coords="315,508,248,516,248,510,314,503"/>
+<area shape="poly" id="edge40_Node000032_Node000021" title=" " alt="" coords="372,523,283,561,246,573,244,567,281,556,370,518"/>
+<area shape="poly" id="edge41_Node000032_Node000026" title=" " alt="" coords="401,527,350,579,318,605,283,628,244,644,242,639,280,623,315,601,346,575,397,523"/>
+<area shape="poly" id="edge42_Node000032_Node000028" title=" " alt="" coords="412,529,391,568,363,613,327,657,283,694,251,710,249,706,280,690,323,653,358,610,387,565,407,526"/>
+<area shape="poly" id="edge43_Node000032_Node000029" title=" " alt="" coords="419,529,401,581,374,644,335,707,311,736,283,761,259,775,256,771,280,757,307,732,331,704,369,642,396,580,414,528"/>
+<area shape="poly" id="edge44_Node000032_Node000030" title=" " alt="" coords="423,529,408,593,383,674,364,715,342,756,315,794,283,827,258,844,231,856,229,851,256,840,280,823,311,791,337,753,360,713,378,672,403,592,417,528"/>
+<area shape="poly" id="edge46_Node000033_Node000025" title=" " alt="" coords="425,1528,415,1601,391,1695,373,1744,349,1792,320,1837,283,1875,262,1890,259,1886,280,1871,315,1833,344,1790,368,1742,386,1693,410,1600,420,1527"/>
+</map>

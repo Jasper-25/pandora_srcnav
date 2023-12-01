@@ -1,0 +1,34 @@
+<map id="lar_content::ThreeDHitCreationAlgorithm::ProtoHit::GetChi2" name="lar_content::ThreeDHitCreationAlgorithm::ProtoHit::GetChi2">
+<area shape="rect" id="Node000001" title="Get the chi squared value." alt="" coords="831,317,1030,360"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#a8d23651cbdb441239f9175a201cc8349" title="Calculate an additional contribution to the chi&#45;squared based on the steepness of the track." alt="" coords="560,41,777,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,305,855,225,820,181,782,139,746,110,709,87,712,82,749,106,785,135,824,177,859,222,912,303"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#ae5feacbcbf442646e6858e541e655218" title="Calculate 3D hits from an input list of 2D hits." alt="" coords="275,5,473,48"/>
+<area shape="poly" id="edge17_Node000001_Node000003" title=" " alt="" coords="879,311,731,218,551,98,528,79,504,62,472,50,474,45,506,58,531,74,555,94,734,214,882,307"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_hit_creation_base_tool.html#abe418d3722f959082b6efd74c43429f1" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="571,288,765,331"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="815,329,765,323,766,318,816,323"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_view_shower_hits_tool.html#a985badb7530593d3f3e65f62572a71ae" title="Get the three dimensional position for to a two dimensional calo hit, using the hit and a list of can..." alt="" coords="276,504,472,547"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="816,346,741,352,664,362,599,376,573,385,555,395,543,406,537,418,531,442,525,469,518,482,507,494,474,513,471,508,503,490,514,479,520,467,526,441,532,416,539,403,551,391,571,380,597,371,664,357,740,347,816,341"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_shower_hits_base_tool.html#a63e67d218d9aaf9b4026ef4260c0d2e1" title="Create three dimensional hits, using a list of input two dimensional hits and the hits (contained in ..." alt="" coords="574,405,763,448"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="851,368,735,407,733,402,849,363"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#ada11d1751209dd53355bc7b829c11d97" title="Calculate 3D hits from an input list of 2D hits." alt="" coords="553,472,783,515"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="900,373,849,419,785,462,759,474,757,469,782,458,845,415,897,369"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,50,473,41,474,36,544,45"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="711,275,695,269,668,267,643,269,628,273,622,279,624,287,619,288,617,278,625,269,642,263,668,261,696,264,713,270"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_shower_hits_tool.html#a4d427df23661f6875490cd39ad2b0519" title="Create three dimensional hits, using a list of input two dimensional hits and the 3D hits from the pa..." alt="" coords="249,72,499,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="637,277,561,188,503,129,481,118,483,113,507,125,564,184,641,274"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_clear_longitudinal_track_hits_tool.html#a9b1fee613c08cd31fef0c56eddfa0bbb" title="Get the three dimensional position using a provided two dimensional calo hit and sliding linear fits ..." alt="" coords="243,139,505,181"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="630,280,573,236,504,196,475,184,477,179,506,191,576,232,633,276"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_multi_valued_longitudinal_track_hits_tool.html#a637052df0712dae9b1a4994ebda3787e" title="Get the three dimensional position using a provided two dimensional calo hit and sliding linear fits ..." alt="" coords="282,205,466,264"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="566,286,465,261,467,255,567,281"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_view_shower_hits_tool.html#ab7b998561edda483c5cc59ece55ba449" title="Get the three dimensional position for to a two dimensional calo hit, using the hit and a list of can..." alt="" coords="280,288,468,331"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="555,312,468,312,468,307,555,307"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="567,341,555,351,542,369,535,386,532,422,529,458,521,476,507,494,474,514,471,510,503,490,517,473,524,457,527,421,530,385,537,366,551,347,563,337"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_clear_transverse_track_hits_tool.html#abfd014c392fabf1efb249b01d6aa7662" title="Get the three dimensional position using a provided two dimensional calo hit and sliding linear fits ..." alt="" coords="246,355,502,397"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="557,337,472,357,471,351,555,332"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_multi_valued_transverse_track_hits_tool.html#a11cc68f72377c7fa2862f27af29ad41f" title="Get the three dimensional position using a provided two dimensional calo hit and sliding linear fits ..." alt="" coords="286,421,462,480"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="574,340,555,351,540,366,531,381,523,396,507,412,464,433,461,428,503,407,518,393,527,378,536,363,551,347,571,335"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_shower_hits_tool.html#ae386e3543378931d17819153314e4379" title="Run the algorithm tool." alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="234,96,195,96,195,91,234,91"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_shower_hits_base_tool.html#aed9c31be40001a46d5c5a8de8d34df3b" title="Run the algorithm tool." alt="" coords="279,571,469,613"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="562,457,555,462,544,474,538,485,532,510,526,536,519,548,507,561,470,581,468,576,503,557,514,545,521,534,527,509,533,483,540,470,551,458,559,452"/>
+</map>

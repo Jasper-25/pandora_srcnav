@@ -1,0 +1,75 @@
+<map id="lar_content::TwoDParticleCreationAlgorithm::CreatePFOs" name="lar_content::TwoDParticleCreationAlgorithm::CreatePFOs">
+<area shape="rect" id="Node000001" title="Create pfos for provided clusters." alt="" coords="5,595,210,637"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a7b24c3e486aea675969c09f901784807" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="258,440,497,483"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,592,183,542,218,515,256,492,269,486,271,491,259,497,221,520,186,546,131,596"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="297,507,458,549"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,592,257,559,282,551,283,556,259,564,166,597"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="276,573,479,600"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="210,602,260,597,260,602,211,608"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_plugin_manager.html#a8997713a39c58d7e3a381d3be72e8529" title="Get the address of the pandora particle id instance." alt="" coords="297,624,458,667"/>
+<area shape="poly" id="edge34_Node000001_Node000030" title=" " alt="" coords="211,624,282,632,281,638,210,630"/>
+<area shape="rect" id="Node000031" href="$class_pandora_content_api.html#ab27d68e8d774844ce661de3f247cc2be" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="307,691,448,733"/>
+<area shape="poly" id="edge35_Node000001_Node000031" title=" " alt="" coords="158,636,259,676,292,687,291,692,257,681,156,640"/>
+<area shape="rect" id="Node000033" href="$classpandora_1_1_particle_id.html#a64b8edc4950a654ffe14c80609fc53d4" title="Provide identification of whether a cluster or pfo is a muon." alt="" coords="313,757,442,800"/>
+<area shape="poly" id="edge38_Node000001_Node000033" title=" " alt="" coords="130,636,185,690,220,718,259,743,299,760,297,765,256,748,217,723,181,693,126,640"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="545,507,710,549"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,525,529,525,529,531,458,531"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="758,507,927,549"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="710,525,743,525,743,531,710,531"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster_fit_helper.html#afd78a8214d35cede5db97b7e00b54b79" title="Perform linear regression of x vs d and y vs d and z vs d (assuming same error on all hits)" alt="" coords="986,440,1155,483"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="917,504,980,485,981,490,918,509"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="975,507,1166,549"/>
+<area shape="poly" id="edge31_Node000005_Node000027" title=" " alt="" coords="927,525,959,525,959,531,927,531"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_ordered_calo_hit_list.html#ad77035f7ad19c0f80cab30eb196e5566" title="Returns the number of elements in the container." alt="" coords="978,573,1163,616"/>
+<area shape="poly" id="edge32_Node000005_Node000028" title=" " alt="" coords="918,547,981,566,980,571,917,552"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="1214,323,1415,365"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1108,437,1213,382,1241,369,1243,374,1215,386,1110,442"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="1469,5,1637,48"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1154,439,1414,375,1439,338,1448,301,1447,264,1441,226,1434,188,1431,149,1439,108,1461,66,1471,56,1475,59,1465,70,1444,110,1437,149,1439,187,1446,225,1453,263,1453,302,1443,340,1417,380,1156,444"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster_fit_helper.html#a573d696d44cf8fcb2df784da349c3624" title="Perform linear fit to cluster fit points." alt="" coords="1231,440,1399,483"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="1155,459,1215,459,1215,464,1155,464"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cluster_fit_result.html#a096205aeb0db4da435ec9805efc9f75e" title="Set the fit success flag." alt="" coords="1469,840,1637,883"/>
+<area shape="poly" id="edge30_Node000006_Node000023" title=" " alt="" coords="1147,481,1167,492,1221,534,1261,576,1292,618,1317,659,1343,701,1373,742,1412,784,1465,826,1471,830,1469,834,1462,830,1409,788,1369,746,1339,704,1313,662,1287,621,1257,579,1218,538,1165,497,1144,486"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_cluster_fit_result.html#acaca623f18cf1538e640d9676e9bb979" title="Reset the cluster fit result." alt="" coords="1231,907,1399,949"/>
+<area shape="poly" id="edge27_Node000006_Node000024" title=" " alt="" coords="1154,481,1168,493,1188,520,1199,545,1204,570,1205,595,1205,647,1208,676,1217,709,1257,809,1297,892,1292,894,1252,812,1211,710,1203,677,1200,647,1200,595,1199,571,1194,547,1183,522,1164,496,1151,485"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="1691,64,1859,107"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1637,46,1677,57,1676,62,1635,51"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1907,93,2075,136"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1860,94,1892,99,1891,104,1859,99"/>
+<area shape="poly" id="edge17_Node000011_Node000008" title=" " alt="" coords="1393,438,1413,420,1429,397,1439,374,1448,331,1446,288,1438,245,1430,202,1427,158,1435,113,1446,89,1461,65,1470,55,1474,59,1465,68,1451,92,1441,114,1432,158,1435,202,1443,244,1451,287,1453,331,1444,376,1433,399,1417,423,1396,442"/>
+<area shape="poly" id="edge16_Node000011_Node000009" title=" " alt="" coords="1392,437,1413,420,1427,400,1436,380,1442,340,1439,300,1431,261,1423,222,1422,184,1433,146,1445,127,1462,109,1484,91,1509,78,1564,63,1621,58,1675,62,1675,67,1621,64,1565,68,1511,83,1487,96,1465,113,1449,130,1438,148,1428,184,1429,222,1436,260,1444,300,1448,340,1441,381,1431,402,1417,423,1396,441"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="1469,123,1637,165"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1392,437,1413,420,1432,390,1440,361,1440,332,1437,303,1434,274,1435,245,1442,214,1461,182,1470,173,1474,176,1465,186,1447,216,1440,245,1439,274,1443,303,1446,332,1445,362,1437,392,1417,423,1395,442"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="1691,181,1859,224"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="1391,437,1413,420,1429,395,1435,371,1433,321,1431,297,1433,272,1442,249,1462,226,1485,209,1510,197,1565,182,1622,178,1675,181,1675,186,1622,183,1566,187,1512,202,1488,214,1465,230,1447,251,1438,274,1436,297,1438,321,1441,371,1434,397,1417,423,1394,442"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="1469,240,1637,283"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="1389,437,1413,419,1425,404,1432,389,1437,357,1441,326,1448,309,1461,293,1464,290,1468,294,1465,296,1453,312,1446,327,1442,358,1437,390,1430,407,1417,423,1392,442"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1469,307,1637,349"/>
+<area shape="poly" id="edge18_Node000011_Node000015" title=" " alt="" coords="1382,437,1414,419,1428,405,1437,390,1446,375,1462,359,1467,355,1470,360,1465,363,1450,378,1442,393,1433,408,1417,423,1385,442"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="1469,373,1637,416"/>
+<area shape="poly" id="edge19_Node000011_Node000016" title=" " alt="" coords="1392,437,1459,418,1460,423,1394,442"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="1469,440,1637,483"/>
+<area shape="poly" id="edge20_Node000011_Node000017" title=" " alt="" coords="1399,459,1454,459,1454,464,1399,464"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cluster_fit_result.html#af0e1d17dd5c45053a76d6becba9c6887" title="Set the fit chi2." alt="" coords="1469,507,1637,549"/>
+<area shape="poly" id="edge21_Node000011_Node000018" title=" " alt="" coords="1394,481,1460,499,1459,505,1392,486"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_cluster_fit_result.html#aba2fee28c6d7dc2c75160917476fdaa9" title="Set the fit direction." alt="" coords="1469,573,1637,616"/>
+<area shape="poly" id="edge22_Node000011_Node000019" title=" " alt="" coords="1345,481,1399,520,1465,559,1476,564,1473,569,1462,564,1396,524,1342,485"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cluster_fit_result.html#ae7fcaa019b180ceace7c40dd7ba85d27" title="Set the fit intercept." alt="" coords="1469,640,1637,683"/>
+<area shape="poly" id="edge23_Node000011_Node000020" title=" " alt="" coords="1332,482,1386,552,1423,591,1465,626,1471,630,1468,634,1462,630,1419,595,1382,555,1328,485"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cluster_fit_result.html#aaed84042d8ce6417e8dde951ae8e4acd" title="Set the fit direction cosine w.r.t. the radial direction." alt="" coords="1465,707,1641,749"/>
+<area shape="poly" id="edge24_Node000011_Node000021" title=" " alt="" coords="1327,482,1346,526,1375,582,1415,641,1439,668,1465,693,1470,696,1466,700,1462,697,1435,672,1411,645,1371,585,1341,528,1322,484"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cluster_fit_result.html#a9acb8af26e12c259a38177539ea8394c" title="Set the fit rms." alt="" coords="1469,773,1637,816"/>
+<area shape="poly" id="edge25_Node000011_Node000022" title=" " alt="" coords="1329,482,1405,642,1444,722,1465,760,1468,762,1465,766,1461,763,1439,724,1400,645,1324,484"/>
+<area shape="poly" id="edge26_Node000011_Node000023" title=" " alt="" coords="1330,482,1371,564,1418,671,1430,717,1433,755,1441,790,1450,807,1465,826,1468,829,1464,832,1461,830,1446,810,1436,792,1428,756,1424,718,1413,673,1366,566,1325,484"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="1638,136,1892,119,1892,124,1638,141"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1637,163,1677,174,1676,179,1635,168"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_pandora_input_type.html#a41ce2e807f3031f281deb5d614c5765a" title="Reset the pandora type." alt="" coords="1463,907,1643,949"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="1399,925,1448,925,1448,931,1399,931"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="1469,973,1637,1016"/>
+<area shape="poly" id="edge29_Node000024_Node000026" title=" " alt="" coords="1394,947,1460,966,1459,971,1392,952"/>
+<area shape="rect" id="Node000032" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="557,691,698,733"/>
+<area shape="poly" id="edge36_Node000031_Node000032" title=" " alt="" coords="448,709,541,709,541,715,448,715"/>
+<area shape="poly" id="edge37_Node000032_Node000032" title=" " alt="" coords="587,691,585,681,592,672,606,666,628,664,651,666,665,673,662,677,649,672,628,669,607,671,595,676,590,682,592,690"/>
+<area shape="rect" id="Node000034" href="$classpandora_1_1_particle_id_plugin.html#ac7a6f74d52441207c82f7ea53bd31fd3" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="545,757,710,800"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="442,776,529,776,529,781,442,781"/>
+</map>

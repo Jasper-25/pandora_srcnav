@@ -1,0 +1,15 @@
+<map id="lar_content::LArCaloHit::GetLArTPCVolumeId" name="lar_content::LArCaloHit::GetLArTPCVolumeId">
+<area shape="rect" id="Node000001" title="Get the lar tpc volume id." alt="" coords="526,105,681,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#acfbd4ae7d5d36e7a81ec4206bd83c543" title="Check if each candidate is &quot;in time&quot;." alt="" coords="273,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,100,477,62,448,51,450,46,479,58,554,95"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_calo_hit.html#ad741d00661e70c3f6a8d2fb9c4186414" title="Fill the parameters associated with this calo hit." alt="" coords="298,72,453,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="510,116,453,107,454,102,511,111"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#af1e3ea06057fa0d308a3a9c7b8c85521" title="Get the mapping from lar tpc volume id to lists of all hits, and truncated hits." alt="" coords="281,139,470,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="511,143,470,149,469,144,510,138"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a51d0a6755f6fa51443bc0c01d59e78dd" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="276,205,475,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="554,158,479,196,450,207,448,202,477,191,551,154"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="12,5,218,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,29,218,29,218,24,257,24"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,147,225,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="266,163,225,163,225,157,266,157"/>
+</map>

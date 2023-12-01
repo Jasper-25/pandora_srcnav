@@ -1,0 +1,15 @@
+<map id="lar_content::LArMuonLeadingHelper::SelectReconstructableLeadingParticles" name="lar_content::LArMuonLeadingHelper::SelectReconstructableLeadingParticles">
+<area shape="rect" id="Node000001" title="Select target, reconstructable mc particles in the cosmic ray hierarchy." alt="" coords="997,88,1239,147"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a921d985249fcd7ab77fd6164ef1c4bd9" title="Perform the main matching procedure." alt="" coords="771,88,949,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="981,120,949,120,949,115,981,115"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a19f8348e6301622285a10772ee8b89e2" title="Perform the cosmic ray matching procedure and identify incorrectly reconstructed cosmic rays." alt="" coords="491,5,723,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="756,89,723,80,725,75,757,84"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a680bc82f7516a20203f0353b3a83aa90" title="Fill the validation info containers." alt="" coords="5,88,176,147"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="755,120,176,120,176,115,755,115"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a7ae6a8baf321b94fd37b124f9df65bee" title="Determine all reconstructable hits in cosmic ray pfos." alt="" coords="248,155,419,213"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="756,134,724,139,419,177,419,171,723,133,756,129"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a327ef2e54d21b20b41810901a038458a" title="Remove incorrectly reconstructed cosmic rays from main matching maps." alt="" coords="224,5,443,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,45,443,45,443,40,475,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="210,84,177,94,175,89,208,78"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="233,159,175,143,177,138,234,154"/>
+</map>

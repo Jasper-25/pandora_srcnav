@@ -1,0 +1,33 @@
+<map id="pandora::BinaryFileWriter::WriteSubDetector" name="pandora::BinaryFileWriter::WriteSubDetector">
+<area shape="rect" id="Node000001" title="Write a sub detector to the file." alt="" coords="5,472,174,515"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_sub_detector.html#a66482e68b9b3bfc5c057a7a4b634595b" title="Get the inner cylindrical polar phi coordinate (angle wrt cartesian x axis)" alt="" coords="238,5,398,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,471,93,394,111,284,127,224,150,165,181,108,220,58,224,54,228,58,224,62,185,111,155,167,132,226,116,286,98,395,94,472"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_sub_detector.html#a41a70e3ef1740d29cf0ab8fd2a8f5131" title="Get the inner cylindrical polar r coordinate, origin interaction point, units mm." alt="" coords="243,72,393,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,471,98,405,119,313,135,262,157,213,185,166,220,125,228,117,232,121,224,129,190,169,162,215,140,264,124,314,103,406,95,472"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_sub_detector.html#a77611c93e528c18e4c8566bdd9369916" title="Get the order of symmetry of the innermost edge of subdetector." alt="" coords="233,139,403,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,471,104,415,127,341,144,300,165,261,190,224,220,191,223,189,227,193,224,195,194,227,169,264,149,303,132,342,109,417,97,472"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_sub_detector.html#af1cdd5f4969b289ae16328575715c63d" title="Get the inner cylindrical polar z coordinate, origin interaction point, units mm." alt="" coords="244,205,392,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="95,471,110,427,136,370,172,310,195,282,220,258,229,251,232,256,223,262,199,286,177,313,141,372,115,429,100,472"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_sub_detector.html#a8e5c6daa44d31b47b5b57a73b7eef272" title="Get the number of layers in the sub detector." alt="" coords="244,272,392,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="100,470,146,399,180,359,220,325,229,319,232,323,223,329,184,363,151,402,105,473"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_sub_detector.html#a241be5444548aee6ed833197dfa77c17" title="Get the outer cylindrical polar phi coordinate (angle wrt cartesian x axis)" alt="" coords="236,339,400,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="113,470,161,430,220,391,231,386,233,390,223,396,164,435,116,474"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_sub_detector.html#a6bddb336ccc0e3e2089a6f9318e8cca6" title="Get the outer cylindrical polar r coordinate, origin interaction point, units mm." alt="" coords="241,405,395,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="164,469,227,450,229,455,165,474"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_sub_detector.html#a614ee5f6d2f19be68e1ff3c2369ad011" title="Get the order of symmetry of the outermost edge of sub detector." alt="" coords="231,472,405,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="174,491,215,491,215,496,174,496"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_sub_detector.html#a8756e4f12eacbb8a521f64a31ee29942" title="Get the outer cylindrical polar z coordinate, origin interaction point, units mm." alt="" coords="242,539,394,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="165,513,229,531,227,536,164,518"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_sub_detector.html#ad27acf6a98170483ce8ad205af49b9d8" title="Get the vector of layer parameters for the sub detector." alt="" coords="222,605,414,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="116,513,164,552,223,591,233,596,231,601,220,596,161,556,113,517"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_sub_detector.html#a03ee11709c1a81959d3e81e104985673" title="Get the sub detector name, uniquely specifying the sub detector." alt="" coords="240,672,396,715"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="105,514,151,584,184,624,223,658,229,662,227,666,220,662,180,627,146,587,100,516"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_sub_detector.html#a69a5198fe587e7eea131ddf4169533e0" title="Get the sub detector type, e.g. ECAL_BARREL, HCAL_ENDCAP, TPC, etc." alt="" coords="243,739,393,781"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="100,514,115,558,141,615,177,674,199,701,223,725,231,730,228,735,220,729,195,704,172,677,136,617,110,560,95,516"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_sub_detector.html#acb9a460ea89b7cb580b99008a2f07b35" title="Whether a second sub detector exists, equivalent to a reflection in z=0 plane." alt="" coords="244,805,392,848"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="97,515,109,570,132,644,149,684,169,723,194,759,223,791,232,798,229,803,220,795,190,763,165,726,144,686,127,646,104,571,92,516"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_object_factory.html#af72543cbef634e4741728b8d5e3b67ad" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="239,872,397,915"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="95,515,103,581,124,673,140,722,162,771,190,817,224,858,228,863,225,866,220,862,185,821,157,774,135,724,119,674,98,582,90,515"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_binary_file_writer.html#ae87fdc56acd71e14db46a0aa07800931" title="Write a variable to the file." alt="" coords="234,939,402,981"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="94,515,98,592,116,701,132,761,155,820,185,876,224,925,226,927,222,931,220,928,181,878,150,822,127,762,111,702,93,592,88,515"/>
+</map>

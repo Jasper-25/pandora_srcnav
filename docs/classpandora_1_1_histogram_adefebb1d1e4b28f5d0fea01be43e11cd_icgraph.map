@@ -1,0 +1,24 @@
+<map id="pandora::Histogram::GetUnderflowBinNumber" name="pandora::Histogram::GetUnderflowBinNumber">
+<area shape="rect" id="Node000001" title="Get the underflow bin number of the histogram." alt="" coords="803,205,973,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a305a7ef85212d38d6848ca7e495d9783" title="Get the bin number for a specified value." alt="" coords="617,39,752,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="857,195,811,145,753,95,735,84,738,80,756,91,815,141,861,192"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_histogram.html#a724113ae87c3b196515c33245131c719" title="Get the cumulative sum of bin entries in a specified range of the histogram (includes overflow and un..." alt="" coords="614,105,755,148"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="829,201,753,162,730,151,733,146,756,158,832,196"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_histogram.html#acbfa30052db6ad7ba0e7a1eeb1bf7e9f" title="Get the maximum value in a specified range of the histogram and the corresponding bin numbers (includ..." alt="" coords="617,172,752,215"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="787,213,751,207,752,202,788,208"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_histogram.html#a73201723b9a300db84827db9e969c2d9" title="Constructor." alt="" coords="617,239,752,281"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="788,246,752,252,751,246,787,240"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_histogram.html#a76241a42572f8cdaee9097eced93fa88" title="Set the contents of a specified bin." alt="" coords="617,305,752,348"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="832,258,756,296,733,307,730,302,753,291,829,253"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_histogram.html#aad92946c82d5f00e63d5394878401950" title="Write the histogram to an xml document." alt="" coords="617,372,752,415"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="861,262,815,312,756,362,738,374,735,369,753,358,811,308,857,258"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_histogram.html#a349cb7822c54fdf75111db71c00acacd" title="Add an entry to the histogram." alt="" coords="432,39,566,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,63,567,63,567,57,602,57"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_r_phi_feature_tool.html#ad544f63093bdca75a13947442b425ae8" title="Get the score for a trio of kernel estimations, using fast histogram approach." alt="" coords="219,5,384,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,49,384,43,385,38,417,44"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_r_phi_feature_tool.html#a60b390ac9db38cd24cc02eaf69d24a15" title="Get the score for a trio of kernel estimations, using kernel density estimation but with reduced (bin..." alt="" coords="219,72,384,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="417,76,385,82,384,77,416,71"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_r_phi_feature_tool.html#a64828d838355ea8d4be9224747730d47" title="Run the tool." alt="" coords="5,39,171,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,45,172,50,171,44,203,39"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="203,81,171,76,172,70,204,75"/>
+</map>

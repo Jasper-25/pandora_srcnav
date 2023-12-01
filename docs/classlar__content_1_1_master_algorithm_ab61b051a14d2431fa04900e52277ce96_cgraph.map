@@ -1,0 +1,128 @@
+<map id="lar_content::MasterAlgorithm::Run" name="lar_content::MasterAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,553,225,580"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#aa0a6e153f0974db834891ae4f0fc4f25" title="Copy mc particles in the named input list to all pandora worker instances." alt="" coords="282,189,470,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,552,135,500,166,425,211,340,239,300,271,263,305,238,308,242,274,267,243,303,216,343,171,427,140,502,123,554"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_master_algorithm.html#af1e3ea06057fa0d308a3a9c7b8c85521" title="Get the mapping from lar tpc volume id to lists of all hits, and truncated hits." alt="" coords="282,97,470,140"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="116,552,129,488,157,389,178,334,203,278,234,225,271,175,307,146,310,150,275,179,238,227,208,281,183,336,162,391,134,489,121,553"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="282,851,470,893"/>
+<area shape="poly" id="edge12_Node000001_Node000016" title=" " alt="" coords="129,579,189,659,275,765,343,838,339,841,271,768,185,663,124,582"/>
+<area shape="rect" id="Node000050" href="$classlar__content_1_1_master_algorithm.html#a57c24c2d7f7df99197c92275ff4e4f36" title="Recreate cosmic&#45;ray pfos (created by worker instances) in the master instance." alt="" coords="282,579,470,621"/>
+<area shape="poly" id="edge33_Node000001_Node000050" title=" " alt="" coords="225,578,267,583,266,589,224,583"/>
+<area shape="rect" id="Node000054" href="$classlar__content_1_1_master_algorithm.html#a74d26f2198e4ea13ed5be24a2b2b0383" title="Reset all worker instances." alt="" coords="282,1367,470,1409"/>
+<area shape="poly" id="edge38_Node000001_Node000054" title=" " alt="" coords="120,580,132,678,159,842,180,939,206,1040,237,1141,275,1238,310,1300,348,1353,344,1356,306,1303,270,1240,232,1143,201,1041,175,940,154,843,127,679,115,581"/>
+<area shape="rect" id="Node000056" href="$classlar__content_1_1_master_algorithm.html#a30245ea45f969b906fdbafb1b7054a9b" title="Run cosmic&#45;ray hit removal, freeing hits in ambiguous pfos for further processing." alt="" coords="282,1184,470,1227"/>
+<area shape="poly" id="edge40_Node000001_Node000056" title=" " alt="" coords="124,580,362,1168,357,1170,119,582"/>
+<area shape="rect" id="Node000064" href="$classlar__content_1_1_master_algorithm.html#aca8703c760cb88061669c1e03f446a59" title="Run the cosmic&#45;ray reconstruction worker instances." alt="" coords="273,277,479,320"/>
+<area shape="poly" id="edge51_Node000001_Node000064" title=" " alt="" coords="123,551,180,468,223,415,271,365,321,326,325,331,274,369,227,418,184,471,127,554"/>
+<area shape="rect" id="Node000066" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="282,379,470,421"/>
+<area shape="poly" id="edge55_Node000001_Node000066" title=" " alt="" coords="127,551,186,494,227,460,271,431,282,426,284,430,274,436,230,465,189,498,131,555"/>
+<area shape="rect" id="Node000069" href="$classlar__content_1_1_master_algorithm.html#aaf15232ca65ed6ab5b9f22a565badcf0" title="Run the event slicing procedures, dividing available hits up into distinct 3D regions." alt="" coords="282,445,470,488"/>
+<area shape="poly" id="edge60_Node000001_Node000069" title=" " alt="" coords="146,550,272,498,290,491,291,496,274,502,148,555"/>
+<area shape="rect" id="Node000071" href="$classlar__content_1_1_master_algorithm.html#a6786e7855e69331c7d51c538d1770a25" title="Examine slice hypotheses to identify the most appropriate to provide in final event output." alt="" coords="280,512,472,555"/>
+<area shape="poly" id="edge68_Node000001_Node000071" title=" " alt="" coords="224,550,264,545,265,550,225,555"/>
+<area shape="rect" id="Node000072" href="$classlar__content_1_1_master_algorithm.html#a559d016bf5be93f33dfb449e8c17a8a7" title="Stitch together cosmic&#45;ray pfos crossing between adjacent lar tpcs." alt="" coords="282,712,470,755"/>
+<area shape="poly" id="edge70_Node000001_Node000072" title=" " alt="" coords="131,578,189,635,230,669,274,698,284,703,282,708,271,702,227,673,186,639,127,582"/>
+<area shape="rect" id="Node000073" href="$classlar__content_1_1_master_algorithm.html#afc67eb7486e5be1376267357824ae6c7" title="Tag clear, unambiguous cosmic&#45;ray pfos." alt="" coords="282,645,470,688"/>
+<area shape="poly" id="edge73_Node000001_Node000073" title=" " alt="" coords="148,578,274,631,291,637,290,642,272,636,146,583"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a8b8e63050c9fed846db550e96b48aff5" title="Copy a specified calo hit to the provided pandora instance." alt="" coords="536,189,724,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,208,520,208,520,213,471,213"/>
+<area shape="rect" id="Node000011" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="560,72,701,115"/>
+<area shape="poly" id="edge5_Node000002_Node000011" title=" " alt="" coords="423,186,567,119,569,124,425,191"/>
+<area shape="rect" id="Node000004" href="$class_pandora_api.html#a5d3d06aab877dc39eb8d6f9c3cb20b87" title="Set calo hit to mc particle relationship." alt="" coords="819,223,992,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="725,219,804,229,804,234,725,225"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="817,156,994,199"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="725,197,801,187,802,193,725,202"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="835,461,976,504"/>
+<area shape="poly" id="edge6_Node000011_Node000012" title=" " alt="" coords="703,109,720,119,735,131,750,150,759,167,767,200,771,235,784,276,834,370,883,447,878,450,829,373,779,278,766,236,762,201,754,169,745,153,731,135,717,123,700,114"/>
+<area shape="poly" id="edge7_Node000012_Node000012" title=" " alt="" coords="854,461,852,451,860,442,878,437,906,435,935,437,953,443,951,448,934,442,905,440,879,442,863,447,857,453,859,460"/>
+<area shape="poly" id="edge10_Node000013_Node000011" title=" " alt="" coords="470,107,543,99,544,105,471,112"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_calo_hit.html#a1eaaf25541258f25fc0da3e477ede82a" title="Get the lar tpc volume id." alt="" coords="553,5,708,48"/>
+<area shape="poly" id="edge9_Node000013_Node000014" title=" " alt="" coords="430,94,526,57,545,51,547,56,528,63,432,99"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="805,689,1006,716"/>
+<area shape="poly" id="edge11_Node000013_Node000015" title=" " alt="" coords="471,126,633,147,699,161,735,175,766,216,781,256,784,295,780,334,769,418,771,465,784,515,806,562,832,606,884,676,880,679,828,609,801,564,779,517,766,465,763,418,774,334,778,295,776,257,761,219,732,179,698,166,632,153,470,131"/>
+<area shape="poly" id="edge30_Node000016_Node000015" title=" " alt="" coords="423,891,489,917,529,927,571,935,614,938,656,935,696,924,732,903,749,885,757,865,759,843,757,821,756,774,763,751,779,729,790,720,793,724,783,733,768,753,761,775,762,820,764,843,762,866,754,888,735,907,698,929,657,940,614,944,570,941,528,933,488,922,421,896"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="536,1125,724,1168"/>
+<area shape="poly" id="edge13_Node000016_Node000017" title=" " alt="" coords="387,893,406,938,436,997,477,1059,501,1087,529,1111,534,1115,531,1119,525,1115,498,1090,473,1062,431,1000,401,941,382,895"/>
+<area shape="rect" id="Node000047" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="530,784,731,827"/>
+<area shape="poly" id="edge31_Node000016_Node000047" title=" " alt="" coords="459,848,531,829,532,834,461,853"/>
+<area shape="rect" id="Node000048" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="530,851,731,893"/>
+<area shape="poly" id="edge32_Node000016_Node000048" title=" " alt="" coords="471,869,514,869,514,875,471,875"/>
+<area shape="poly" id="edge25_Node000017_Node000015" title=" " alt="" coords="719,1123,731,1112,748,1087,759,1063,766,1039,768,1016,763,968,752,921,742,873,738,825,741,801,748,777,761,753,779,729,790,719,794,723,783,732,765,756,753,779,746,802,743,826,747,872,758,919,769,967,773,1016,771,1040,764,1065,753,1090,735,1115,723,1127"/>
+<area shape="rect" id="Node000018" href="$class_multi_pandora_api.html#a3d072f674cddfae9529cf2cf1a8baebd" title="Add a pandora daughter instance, associated to a primary pandora instance." alt="" coords="806,997,1005,1040"/>
+<area shape="poly" id="edge14_Node000017_Node000018" title=" " alt="" coords="712,1123,732,1111,747,1096,755,1081,764,1065,780,1050,791,1043,793,1048,783,1054,768,1068,759,1084,751,1100,735,1115,714,1127"/>
+<area shape="rect" id="Node000020" href="$classobject__creation_1_1_object_creation_helper.html#aaba95330f019ee6581dfd9ce26603816" title="Create a new object from a user factory." alt="" coords="804,1064,1007,1107"/>
+<area shape="poly" id="edge15_Node000017_Node000020" title=" " alt="" coords="724,1123,792,1108,793,1113,726,1128"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="808,1131,1003,1157"/>
+<area shape="poly" id="edge16_Node000017_Node000021" title=" " alt="" coords="725,1143,793,1142,793,1148,725,1148"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="807,1181,1004,1208"/>
+<area shape="poly" id="edge17_Node000017_Node000022" title=" " alt="" coords="725,1160,810,1175,809,1181,724,1166"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="808,1232,1003,1259"/>
+<area shape="poly" id="edge18_Node000017_Node000023" title=" " alt="" coords="710,1166,735,1178,749,1188,759,1199,768,1208,783,1218,799,1224,797,1229,780,1222,765,1213,755,1202,746,1192,732,1182,708,1171"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_l_ar_t_p_c.html#ac38715e51a11f0ccee056e2bb1e9d324" title="Get the lar volume id, uniquely specifying the lar tpc." alt="" coords="781,743,1030,769"/>
+<area shape="poly" id="edge19_Node000017_Node000024" title=" " alt="" coords="719,1123,731,1112,746,1091,756,1070,764,1029,761,988,753,947,744,905,742,864,752,822,763,802,779,781,784,777,787,780,783,784,767,804,757,824,747,864,749,905,758,946,766,987,770,1029,761,1072,751,1093,735,1115,722,1127"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_line_gap.html#af8f1fa8491d69c8f7db41c7912607182" title="Get the line end x coordinate." alt="" coords="802,1283,1009,1309"/>
+<area shape="poly" id="edge20_Node000017_Node000025" title=" " alt="" coords="718,1166,735,1178,753,1202,759,1225,766,1248,783,1269,790,1273,787,1278,780,1273,761,1250,754,1227,748,1204,731,1182,715,1171"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_line_gap.html#a1de63926ffcf30d36616aa75aa3448fe" title="Get the line end z coordinate." alt="" coords="802,1333,1009,1360"/>
+<area shape="poly" id="edge21_Node000017_Node000026" title=" " alt="" coords="720,1167,735,1178,749,1196,756,1215,759,1251,762,1287,769,1303,783,1319,791,1325,788,1330,779,1323,765,1306,757,1288,754,1252,751,1216,745,1199,731,1182,717,1171"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_line_gap.html#acd1d54cecd0581c056b38636d0221d74" title="Get the line gap type." alt="" coords="817,1384,994,1427"/>
+<area shape="poly" id="edge22_Node000017_Node000027" title=" " alt="" coords="721,1167,735,1178,752,1203,760,1228,761,1253,759,1277,758,1301,759,1324,766,1347,783,1370,805,1386,802,1390,779,1374,762,1350,754,1325,752,1301,754,1276,756,1252,755,1229,748,1205,731,1182,718,1171"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_line_gap.html#ae46cc6ddddf1a8e3ed3d62ff6e2bca49" title="Get the line start x coordinate." alt="" coords="817,1451,994,1493"/>
+<area shape="poly" id="edge23_Node000017_Node000028" title=" " alt="" coords="722,1167,735,1178,757,1212,765,1245,764,1278,759,1310,754,1342,754,1374,762,1405,783,1437,804,1453,801,1457,779,1440,757,1408,749,1375,749,1342,754,1310,759,1278,760,1246,752,1214,731,1182,719,1171"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_line_gap.html#aedff78e44502aabce470756b8dcb0455" title="Get the line start z coordinate." alt="" coords="817,1517,994,1560"/>
+<area shape="poly" id="edge24_Node000017_Node000029" title=" " alt="" coords="722,1166,735,1178,751,1199,761,1221,770,1262,767,1304,759,1344,751,1384,749,1424,758,1464,768,1483,783,1503,805,1520,802,1525,779,1507,764,1486,753,1465,743,1424,746,1384,754,1343,762,1303,764,1263,756,1222,746,1202,731,1182,719,1170"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_l_ar_t_p_c.html#aecc58c49773257731f8d9c50b59b727e" title="Get the u, v, w resolution, units mm." alt="" coords="797,795,1014,821"/>
+<area shape="poly" id="edge26_Node000017_Node000030" title=" " alt="" coords="719,1123,731,1112,753,1077,761,1042,759,1007,753,972,747,937,746,902,755,866,779,832,783,828,786,832,783,835,760,869,751,902,752,936,758,971,764,1006,766,1042,758,1079,735,1115,722,1127"/>
+<area shape="rect" id="Node000031" href="$classpandora_1_1_l_ar_t_p_c.html#a8202d7611d477276af455b73b15cacbf" title="Get the width in x, units mm." alt="" coords="810,845,1001,872"/>
+<area shape="poly" id="edge27_Node000017_Node000031" title=" " alt="" coords="718,1123,731,1112,750,1083,757,1055,757,1026,753,997,749,969,750,940,759,911,779,882,795,870,798,875,783,886,763,913,755,940,755,968,758,997,762,1026,762,1055,755,1085,735,1115,722,1127"/>
+<area shape="rect" id="Node000032" href="$classpandora_1_1_l_ar_t_p_c.html#a842e1999d3562cec4a3beb0606a17dc1" title="Get the width in y, units mm." alt="" coords="809,896,1002,923"/>
+<area shape="poly" id="edge28_Node000017_Node000032" title=" " alt="" coords="718,1123,731,1112,747,1090,754,1068,753,1023,752,1000,754,977,762,955,779,933,794,922,797,926,783,937,767,957,759,979,757,1000,759,1023,759,1069,752,1092,735,1115,721,1127"/>
+<area shape="rect" id="Node000033" href="$classpandora_1_1_l_ar_t_p_c.html#a23fd856428d6d5c7d76f1bc9de8bb0fd" title="Get the width in z, units mm." alt="" coords="810,947,1001,973"/>
+<area shape="poly" id="edge29_Node000017_Node000033" title=" " alt="" coords="717,1123,731,1111,744,1096,750,1080,754,1048,758,1015,766,999,780,983,795,973,798,977,783,987,770,1002,763,1017,759,1049,755,1082,748,1099,735,1115,720,1127"/>
+<area shape="rect" id="Node000051" href="$class_pandora_api.html#aab6e86add265f24609e8a7c7da5dbbc6" title="Get the current pfo list." alt="" coords="531,632,730,659"/>
+<area shape="poly" id="edge34_Node000050_Node000051" title=" " alt="" coords="471,614,537,626,536,631,470,619"/>
+<area shape="rect" id="Node000052" href="$classlar__content_1_1_master_algorithm.html#a52e91926aca7504a15d291ee3b4c2824" title="Recreate a specified list of pfos in the current pandora instance." alt="" coords="536,565,724,608"/>
+<area shape="poly" id="edge35_Node000050_Node000052" title=" " alt="" coords="470,592,520,590,521,595,471,598"/>
+<area shape="poly" id="edge37_Node000052_Node000012" title=" " alt="" coords="688,562,832,508,833,512,690,567"/>
+<area shape="poly" id="edge36_Node000052_Node000052" title=" " alt="" coords="582,565,580,555,588,546,605,541,630,539,657,541,674,547,672,552,656,546,630,544,606,546,591,551,585,557,587,564"/>
+<area shape="rect" id="Node000055" href="$class_pandora_api.html#a1a60ab4e6f520e942589f04cecefd18c" title="Reset pandora to process another event." alt="" coords="565,1491,695,1517"/>
+<area shape="poly" id="edge39_Node000054_Node000055" title=" " alt="" coords="409,1408,463,1443,528,1476,551,1485,550,1490,526,1481,460,1447,406,1412"/>
+<area shape="rect" id="Node000057" href="$classpandora_1_1_calo_hit.html#aae19b8c35ab87bf8eb3c4d3562e5875c" title="Alter the metadata information stored in a calo hit." alt="" coords="527,1192,733,1219"/>
+<area shape="poly" id="edge41_Node000056_Node000057" title=" " alt="" coords="471,1203,512,1203,512,1208,471,1208"/>
+<area shape="rect" id="Node000058" href="$class_pandora_content_api.html#a9eb8f6692af705c0049d69a8e9aab4f5" title="Delete an object from the current list." alt="" coords="560,1059,701,1101"/>
+<area shape="poly" id="edge42_Node000056_Node000058" title=" " alt="" coords="407,1181,461,1146,526,1111,544,1103,546,1108,528,1116,464,1151,410,1186"/>
+<area shape="rect" id="Node000059" href="$classlar__content_1_1_l_ar_pfo_helper.html#a04ee63638ae6f53e337c543a96baad41" title="Get a flat list of all pfos, recursively including all daughters and parents associated with those pf..." alt="" coords="546,1267,715,1309"/>
+<area shape="poly" id="edge44_Node000056_Node000059" title=" " alt="" coords="445,1225,548,1259,547,1264,443,1230"/>
+<area shape="rect" id="Node000060" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="546,992,715,1035"/>
+<area shape="poly" id="edge46_Node000056_Node000060" title=" " alt="" coords="390,1182,445,1115,483,1077,526,1044,534,1040,537,1044,528,1049,486,1081,449,1118,394,1185"/>
+<area shape="rect" id="Node000061" href="$classlar__content_1_1_l_ar_pfo_helper.html#a7a0f820e2aa8e2332efe849d6eac85e5" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="546,1357,715,1400"/>
+<area shape="poly" id="edge48_Node000056_Node000061" title=" " alt="" coords="404,1225,460,1270,528,1319,575,1347,572,1352,526,1324,457,1274,401,1229"/>
+<area shape="rect" id="Node000062" href="$classlar__content_1_1_l_ar_stitching_helper.html#a16c79bbc86712bc0cd6b5e3220d2d51f" title="Whether a pfo has been stitched." alt="" coords="537,1424,723,1467"/>
+<area shape="poly" id="edge50_Node000056_Node000062" title=" " alt="" coords="394,1226,468,1332,505,1383,529,1410,535,1414,532,1419,525,1414,501,1386,463,1335,390,1229"/>
+<area shape="poly" id="edge43_Node000058_Node000012" title=" " alt="" coords="700,1066,717,1057,731,1045,761,999,775,957,777,915,773,873,767,829,762,783,765,732,779,676,799,630,824,586,874,515,879,518,829,589,804,633,784,678,770,733,768,783,772,829,779,872,783,915,780,958,766,1002,735,1048,720,1062,703,1071"/>
+<area shape="poly" id="edge45_Node000059_Node000059" title=" " alt="" coords="582,1267,580,1257,588,1248,605,1242,630,1240,657,1242,674,1249,672,1254,656,1248,630,1245,606,1247,591,1252,585,1258,587,1266"/>
+<area shape="poly" id="edge47_Node000060_Node000060" title=" " alt="" coords="582,992,580,982,588,973,605,967,630,965,657,968,674,974,672,979,656,973,630,971,606,973,591,977,585,983,587,991"/>
+<area shape="poly" id="edge49_Node000061_Node000061" title=" " alt="" coords="582,1357,580,1347,588,1338,605,1333,630,1331,657,1333,674,1339,672,1344,656,1338,630,1336,606,1338,591,1343,585,1349,587,1356"/>
+<area shape="poly" id="edge52_Node000064_Node000003" title=" " alt="" coords="439,274,551,235,553,240,441,279"/>
+<area shape="poly" id="edge53_Node000064_Node000024" title=" " alt="" coords="435,274,503,256,583,246,624,248,664,255,702,270,735,293,747,308,756,328,765,379,766,441,763,509,759,576,759,639,766,691,773,711,783,726,789,732,785,735,779,730,769,713,761,692,754,639,754,576,758,508,761,441,760,380,751,330,743,311,732,297,699,274,663,260,624,253,583,252,504,261,436,279"/>
+<area shape="rect" id="Node000065" href="$class_pandora_api.html#a0a77215c29c12ca5034fb936e9afe472" title="Process an event." alt="" coords="542,307,718,333"/>
+<area shape="poly" id="edge54_Node000064_Node000065" title=" " alt="" coords="480,305,526,309,526,314,479,310"/>
+<area shape="poly" id="edge57_Node000066_Node000003" title=" " alt="" coords="410,376,477,330,589,240,593,244,481,334,413,380"/>
+<area shape="poly" id="edge58_Node000066_Node000051" title=" " alt="" coords="467,420,481,432,498,456,505,480,505,528,503,551,505,574,512,596,529,618,532,621,528,625,525,622,508,598,499,575,498,551,500,527,500,481,493,458,477,435,464,424"/>
+<area shape="poly" id="edge59_Node000066_Node000065" title=" " alt="" coords="432,376,526,343,553,335,555,340,528,348,434,381"/>
+<area shape="rect" id="Node000067" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="538,424,722,467"/>
+<area shape="poly" id="edge56_Node000066_Node000067" title=" " alt="" coords="471,414,523,424,522,429,470,419"/>
+<area shape="poly" id="edge61_Node000069_Node000003" title=" " alt="" coords="462,443,477,431,491,415,498,399,504,367,508,332,514,313,525,293,550,264,580,239,583,243,554,267,529,296,519,315,513,333,509,367,503,401,495,418,481,435,466,447"/>
+<area shape="poly" id="edge64_Node000069_Node000015" title=" " alt="" coords="471,474,619,496,687,510,735,527,784,560,827,600,863,641,889,675,885,678,859,644,823,604,781,564,732,532,685,515,618,501,470,479"/>
+<area shape="poly" id="edge63_Node000069_Node000051" title=" " alt="" coords="465,486,481,498,494,513,501,529,505,560,510,590,516,604,529,618,533,622,530,626,525,622,512,607,505,592,500,561,496,531,489,516,477,502,462,491"/>
+<area shape="poly" id="edge62_Node000069_Node000060" title=" " alt="" coords="469,487,481,498,500,524,513,550,527,599,527,647,520,694,511,742,506,792,510,846,518,874,529,904,557,946,591,980,587,984,553,949,525,907,513,876,505,847,501,792,506,741,515,693,522,646,522,600,508,552,495,527,477,502,465,491"/>
+<area shape="poly" id="edge67_Node000069_Node000065" title=" " alt="" coords="460,443,477,431,494,410,500,388,507,365,525,343,532,339,535,343,529,347,512,368,505,390,498,413,481,435,463,447"/>
+<area shape="rect" id="Node000070" href="$class_pandora_content_api.html#a3499a61eb9739f782f671502f4979e45" title="Is object, or a list of objects, available as a building block." alt="" coords="560,357,701,400"/>
+<area shape="poly" id="edge65_Node000069_Node000070" title=" " alt="" coords="446,442,478,431,526,410,544,403,546,408,528,414,480,436,448,447"/>
+<area shape="poly" id="edge66_Node000070_Node000012" title=" " alt="" coords="702,398,734,410,841,452,839,457,732,414,700,403"/>
+<area shape="poly" id="edge69_Node000071_Node000052" title=" " alt="" coords="473,551,521,561,520,566,471,556"/>
+<area shape="poly" id="edge72_Node000072_Node000015" title=" " alt="" coords="470,726,733,712,790,708,790,714,733,717,471,732"/>
+<area shape="poly" id="edge71_Node000072_Node000051" title=" " alt="" coords="444,709,478,697,577,662,579,667,480,703,446,714"/>
+<area shape="poly" id="edge76_Node000073_Node000015" title=" " alt="" coords="470,670,790,692,790,698,470,676"/>
+<area shape="poly" id="edge75_Node000073_Node000051" title=" " alt="" coords="470,656,515,652,516,658,471,661"/>
+<area shape="poly" id="edge74_Node000073_Node000067" title=" " alt="" coords="461,643,477,631,496,607,503,583,509,557,525,528,552,499,581,474,585,478,556,502,529,531,514,559,508,584,501,610,481,635,464,647"/>
+</map>

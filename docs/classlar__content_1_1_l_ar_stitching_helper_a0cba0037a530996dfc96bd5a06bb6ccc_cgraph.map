@@ -1,0 +1,15 @@
+<map id="lar_content::LArStitchingHelper::CanTPCsBeStitched" name="lar_content::LArStitchingHelper::CanTPCsBeStitched">
+<area shape="rect" id="Node000001" title="Whether particles from a given pair of tpcs can be stitched together." alt="" coords="5,107,191,149"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_stitching_helper.html#a58b74fc1e2a8595c6186b3ec1c00e0bb" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="239,73,408,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,112,223,107,224,112,192,117"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#a63735738ed5938f56845d7867364b754" title="Whether the electron drift is in the positive x direction." alt="" coords="243,140,404,183"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="192,139,228,144,227,150,191,144"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="457,5,651,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,70,455,41,480,34,481,39,457,47,378,75"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="456,56,652,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="408,83,440,79,441,84,409,88"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="457,107,651,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="409,101,442,105,441,110,408,107"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_l_ar_t_p_c.html#a8202d7611d477276af455b73b15cacbf" title="Get the width in x, units mm." alt="" coords="459,157,649,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="380,114,457,143,481,150,480,155,455,148,379,119"/>
+</map>

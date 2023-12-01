@@ -1,0 +1,79 @@
+<map id="pandora::ParticleFlowObject::GetDaughterPfoList" name="pandora::ParticleFlowObject::GetDaughterPfoList">
+<area shape="rect" id="Node000001" title="Get the daughter pfo list." alt="" coords="1325,579,1509,621"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a629241209a823e3038d423b3b739f904" title="Convert from a pfo to and ART PFParticle." alt="" coords="1047,5,1250,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1409,564,1392,449,1363,299,1345,223,1324,155,1301,99,1275,62,1249,44,1252,40,1279,58,1305,97,1329,153,1350,222,1368,297,1397,448,1414,563"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac08ad8505d38eaadc73f4c0251a089e8" title="Display the information in a pfo info map, visualising pfo parent/daughter links." alt="" coords="1050,72,1247,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1414,564,1409,475,1402,419,1391,358,1373,296,1349,235,1317,178,1275,129,1246,110,1249,105,1279,125,1321,175,1354,233,1378,294,1396,357,1408,418,1415,475,1419,563"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="1064,139,1233,197"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1411,563,1401,490,1378,395,1360,345,1338,297,1310,251,1275,211,1255,196,1231,185,1234,180,1258,192,1279,207,1314,248,1343,294,1365,343,1383,394,1406,489,1416,563"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#ada61010a398c30c88b96fe691722a2f6" title="Starting with provided pfo, find all downstream shower pfos that themselves have daughter pfos." alt="" coords="1020,221,1277,264"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1408,563,1395,501,1370,424,1353,384,1331,345,1306,309,1275,278,1259,267,1262,262,1279,274,1310,306,1336,342,1358,381,1375,422,1400,500,1413,562"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_pfo_helper.html#a87e03e8d3ae1a634438f8dcaa0416e23" title="Get a flat list of all pfos, recursively including all daughters and parents associated with an input..." alt="" coords="1064,288,1233,331"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1404,564,1387,514,1361,455,1324,395,1301,368,1275,345,1255,332,1232,323,1234,318,1257,327,1279,341,1305,365,1328,392,1365,452,1392,512,1409,563"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae5c827d4314d80b2981098073b26cc75" title="Get a flat list of all pfos, recursively, of all daughters and parents associated with an input pfo." alt="" coords="1064,355,1233,397"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1397,566,1377,529,1350,488,1316,446,1276,412,1232,392,1235,387,1278,407,1320,443,1354,484,1382,527,1402,564"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1e6e3108fa436540a84955d1b1e35b7c" title="Get flat lists of all downstream track pfos and also shower&#45;like pfos. This method collects together ..." alt="" coords="1064,421,1233,464"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1385,569,1337,522,1307,498,1276,478,1232,461,1234,456,1278,474,1310,494,1340,518,1389,565"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_neutrino_properties_algorithm.html#a3c56b8109a6b5c905943c49f7309d91b" title="Get the number of two dimensional hits (TPC_VIEW_U, V or W) contained in clusters in a pfo and all it..." alt="" coords="1033,579,1264,621"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1309,603,1264,603,1264,597,1309,597"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_neutrino_properties_algorithm.html#a45b4bea4b433ead2d6581eb8fc548883" title="identifying the primary daughter of a neutrino pfo and set the particle id accordingly" alt="" coords="752,629,953,672"/>
+<area shape="poly" id="edge34_Node000001_Node000019" title=" " alt="" coords="1322,628,1277,636,1192,645,1106,651,953,655,953,649,1106,646,1192,640,1277,631,1321,623"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_neutrino_properties_algorithm.html#af3db301567ed4b6838e20c0ece0bd0a8" title="Run the algorithm." alt="" coords="480,651,680,693"/>
+<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="1360,631,1320,647,1278,660,1198,676,1116,687,952,697,802,694,680,686,680,681,802,689,952,691,1115,682,1197,671,1276,655,1318,642,1358,626"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a13d95cecb421c4aaeb0bc4b17d84ff8b" title="Retrieves the primary PFOs from a list and returns the root (neutrino) for hierarchy,..." alt="" coords="1062,488,1235,531"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="1353,575,1276,545,1234,533,1236,527,1278,540,1355,570"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#a9088dbeede88d07fb7bbead7da6e7c90" title="Merge and delete a pair of pfos, with a specific set of conventions for cluster merging,..." alt="" coords="1045,747,1252,789"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1390,635,1341,684,1311,709,1278,730,1239,748,1236,744,1276,726,1308,704,1337,680,1386,631"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="1054,813,1243,856"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="1404,636,1384,675,1356,721,1321,766,1279,804,1244,821,1242,816,1275,799,1317,762,1352,718,1379,673,1399,634"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="1057,880,1240,923"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="1410,638,1393,690,1367,753,1329,816,1306,845,1279,870,1241,890,1239,886,1275,866,1302,841,1325,813,1362,750,1388,688,1405,636"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a8b76a0a80938a5eb5041c6fab5922069" title="Set up the test beam pfo." alt="" coords="1026,947,1271,989"/>
+<area shape="poly" id="edge35_Node000001_Node000032" title=" " alt="" coords="1414,637,1401,702,1377,783,1359,825,1337,866,1311,904,1279,937,1262,948,1259,944,1275,933,1307,900,1333,863,1354,823,1372,781,1396,701,1409,636"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_neutrino_id_tool_1_1_slice_features.html#ae3142c58729a99cb4a4e10d0568ad7d6" title="Constructor." alt="" coords="1050,1013,1247,1056"/>
+<area shape="poly" id="edge37_Node000001_Node000034" title=" " alt="" coords="1417,637,1408,713,1386,812,1369,864,1345,915,1316,962,1279,1003,1249,1022,1246,1018,1275,999,1311,959,1341,912,1364,862,1381,811,1403,713,1412,636"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_master_algorithm.html#a470f97f608ac5f7ff2136d3e2bd9a498" title="Stitch together a pair of pfos." alt="" coords="1054,1080,1243,1123"/>
+<area shape="poly" id="edge38_Node000001_Node000035" title=" " alt="" coords="1419,637,1414,725,1407,781,1395,842,1378,903,1353,964,1321,1020,1279,1070,1262,1083,1244,1092,1241,1087,1260,1078,1275,1066,1316,1017,1348,962,1372,902,1390,840,1402,780,1409,725,1414,637"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a8f55e099ad8c5738b802892ae28339f2" title="Convert between pfos and PFParticles and add them to the output vector Create the associations betwee..." alt="" coords="751,5,954,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1031,29,954,29,954,24,1031,24"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="478,5,681,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="735,29,682,29,682,24,735,24"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="240,5,404,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,29,404,29,404,24,463,24"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,5,170,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="225,29,170,29,170,24,225,24"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#ac6de384d3d43d2b0a5644c46aa388eba" title="Run the algorithm." alt="" coords="754,72,951,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1035,96,951,96,951,91,1035,91"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="768,309,937,368"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1051,198,1021,212,983,235,947,261,887,311,883,307,943,256,980,230,1018,207,1049,193"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="496,317,664,360"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="753,341,664,341,664,336,753,336"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_hierarchy_monitoring_algorithm.html#a76cfde4fc06bb0d0af605b20aaa1108d" title="Run the algorithm." alt="" coords="218,284,426,327"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="480,328,426,321,427,316,480,323"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_hierarchy_validation_algorithm.html#a07a7ee90c48cc7ea4578c2a3f29c78de" title="Run the algorithm." alt="" coords="219,351,425,393"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="481,354,425,361,425,356,480,349"/>
+<area shape="poly" id="edge18_Node000018_Node000018" title=" " alt="" coords="1193,566,1176,560,1148,557,1123,559,1107,564,1101,570,1103,577,1098,579,1096,569,1104,560,1122,554,1148,552,1178,555,1195,561"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1018,625,954,636,953,631,1017,620"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="737,662,680,667,680,662,737,657"/>
+<area shape="poly" id="edge22_Node000021_Node000010" title=" " alt="" coords="1046,490,1018,478,978,454,940,425,880,370,883,366,943,421,981,450,1021,474,1048,485"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#aa425d0781806b7d783a9f36a6546da01" title="Make pfo merges based on the provided cluster merge map." alt="" coords="733,747,972,789"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="1030,771,972,771,972,765,1030,765"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="749,813,956,856"/>
+<area shape="poly" id="edge26_Node000022_Node000025" title=" " alt="" coords="1036,796,951,815,950,810,1035,791"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a8ed8c56eeb89a914fb600ec6a0f1a056" title="For each parent shower pfo, merge all downstream pfos back into the parent shower." alt="" coords="736,880,969,923"/>
+<area shape="poly" id="edge29_Node000022_Node000028" title=" " alt="" coords="1032,797,1021,803,1006,819,998,836,990,853,973,870,953,882,950,877,970,866,985,850,993,833,1001,816,1018,799,1030,792"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ad7f3d95ab917b1265d41918d27d7a4c4" title="Run the algorithm." alt="" coords="496,739,663,781"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="717,767,664,765,664,760,717,761"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="474,805,685,864"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="734,837,686,837,686,832,734,832"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="238,813,406,856"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="458,837,407,837,407,832,458,832"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_shower_hierarchy_mop_up_algorithm.html#a043a27f1a8ca373dbf8651c2a7fd9852" title="Run the algorithm." alt="" coords="484,888,675,931"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="721,908,676,909,676,904,721,903"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a7374eca3988e39d155529ab96b623c7d" title="Run the algorithm." alt="" coords="754,947,951,989"/>
+<area shape="poly" id="edge36_Node000032_Node000033" title=" " alt="" coords="1010,971,951,971,951,965,1010,965"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a53215d62da054a9866bf09b2c1889989" title="Apply X0 corrections, and then stitch together Pfos." alt="" coords="758,1080,947,1123"/>
+<area shape="poly" id="edge39_Node000035_Node000036" title=" " alt="" coords="1039,1104,947,1104,947,1099,1039,1099"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a1f9ac3835d752458d2b0ec4c25f71a2d" title="Run the algorithm tool." alt="" coords="486,1080,674,1123"/>
+<area shape="poly" id="edge40_Node000036_Node000037" title=" " alt="" coords="743,1104,674,1104,674,1099,743,1099"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="lar_pandora::LArPandoraExternalEventBuilding::produce" name="lar_pandora::LArPandoraExternalEventBuilding::produce">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,184,218,227"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#aa8a6b9668ad47d73c1529b6a2c28c6cc" title="Build mapping from ID to PFParticle for fast navigation through the hierarchy." alt="" coords="280,5,503,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,182,184,120,222,86,264,58,275,52,278,57,267,62,225,91,188,124,132,185"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#ac5c7f7e4b01836de2143c8b1f44d7421" title="Collect PFParticles that have been identified as clear cosmic ray muons by pandora." alt="" coords="266,72,517,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,181,202,152,265,124,284,117,286,122,267,129,205,157,151,186"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#a48582f45f2fc01c3c7128cf1e791cec3" title="Get the consolidated collection of particles based on the slice ids." alt="" coords="280,139,503,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="218,189,265,182,265,187,218,194"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#a0780eaa58ee7b168a30cc309bc262054" title="Collect PFParticles from the ART event and their mapping to metadata objects." alt="" coords="284,221,499,264"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="218,217,268,224,268,229,218,222"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#a081b13043ee7ba2bfbb7f80db3b93c9d" title="Collect slices." alt="" coords="285,288,498,331"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,225,208,250,267,274,287,280,285,286,265,278,206,254,154,230"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora_event.html#a175daff31b524ab6ce20ebc9b0560081" title="Write (put) the collections in this LArPandoraEvent to the art::Event." alt="" coords="293,355,490,397"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="133,225,189,283,226,314,267,340,280,347,277,351,264,345,223,318,185,287,129,229"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#a2bfb6b38ac7e10b42bb8818e94b9a8aa" title="Query a metadata object for a given key and return the corresponding value." alt="" coords="825,229,1041,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="518,90,579,94,646,102,713,116,778,136,813,153,846,174,900,217,897,221,843,178,811,158,776,141,712,121,645,107,579,99,517,95"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#aa67b16e8a4309de1d4761da83e9ab0f6" title="Return the top&#45;level parent particle by navigating up the chain of parent/daughter associations." alt="" coords="571,151,772,193"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="476,113,518,124,583,143,582,148,516,129,475,118"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="495,285,565,273,691,260,810,253,810,258,691,266,565,279,496,290"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="491,285,516,274,530,264,540,253,563,230,612,199,615,203,567,234,544,257,534,268,518,278,493,290"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora_external_event_building.html#a0b55305d64b0aa0740c54fd6e5105dfd" title="Query a metadata object to see if it is a target particle." alt="" coords="565,288,777,331"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="498,307,550,307,550,312,498,312"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="769,285,819,273,820,279,770,290"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_event.html#a961345cf53a34e9f64c65fa22318a850" title="Write a given association to the event." alt="" coords="573,355,769,397"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="490,373,557,373,557,379,490,379"/>
+<area shape="rect" id="Node000013" href="$classlar__pandora_1_1_l_ar_pandora_event.html#a28bce47c2b844bad5496f1ceb466ea0f" title="Write a given collection to the event." alt="" coords="573,421,769,464"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="484,395,564,415,563,420,483,401"/>
+<area shape="rect" id="Node000012" href="$classlar__pandora_1_1_l_ar_pandora_event.html#acad534b3e5ee4b5d3f2e0f294f80229f" title="Get the index of an objet in a given collection." alt="" coords="835,355,1031,397"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="770,373,819,373,819,379,770,379"/>
+</map>

@@ -1,0 +1,103 @@
+<map id="pandora::PandoraInputType::IsInitialized" name="pandora::PandoraInputType::IsInitialized">
+<area shape="rect" id="Node000001" title="Whether the pandora type is initialized." alt="" coords="881,1037,1061,1080"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a8e4f2a07ec4a6502658165145dbd1c07" title="Add a calo hit to the cluster." alt="" coords="613,255,802,281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="960,1023,912,817,875,681,831,544,800,465,766,390,714,283,719,281,771,387,805,463,836,542,880,679,917,816,965,1022"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="615,555,801,597"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="967,1022,962,938,954,884,943,827,925,768,902,711,871,658,832,611,800,591,802,587,835,607,875,655,907,709,930,767,948,826,960,883,967,937,972,1022"/>
+<area shape="rect" id="Node000045" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a603d81d47ab7301fe72e8e51c21f5167" title="Get the coordinate span." alt="" coords="582,1288,833,1331"/>
+<area shape="poly" id="edge33_Node000001_Node000045" title=" " alt="" coords="959,1095,941,1138,914,1187,879,1236,835,1278,816,1290,813,1285,832,1274,875,1233,910,1184,936,1135,955,1093"/>
+<area shape="rect" id="Node000048" href="$classpandora_1_1_cluster.html#a2a8a548966b78a419a0fed97418c37f4" title="Get the corrected electromagnetic estimate of the cluster energy, units GeV." alt="" coords="607,704,808,747"/>
+<area shape="poly" id="edge35_Node000001_Node000048" title=" " alt="" coords="961,1022,947,964,922,894,905,857,884,822,860,789,832,761,807,746,810,741,835,757,864,786,889,819,910,855,927,892,952,963,966,1021"/>
+<area shape="rect" id="Node000049" href="$classpandora_1_1_cluster.html#a9ed312eaec0dc1af8dc2ef5e1e371a75" title="Get the corrected hadronic estimate of the cluster energy, units GeV." alt="" coords="607,771,808,813"/>
+<area shape="poly" id="edge36_Node000001_Node000049" title=" " alt="" coords="956,1024,938,979,912,925,877,872,855,848,832,827,807,813,810,809,835,823,859,845,881,869,917,923,943,976,961,1022"/>
+<area shape="rect" id="Node000050" href="$classpandora_1_1_cluster.html#a9ccd3dd101f5ae00267f08f0997b6b13" title="Get the typical inner layer hit type." alt="" coords="621,837,794,880"/>
+<area shape="poly" id="edge37_Node000001_Node000050" title=" " alt="" coords="948,1026,901,958,869,924,832,894,794,877,796,872,835,890,872,920,905,955,953,1023"/>
+<area shape="rect" id="Node000051" href="$classpandora_1_1_cluster.html#a831a2953f6093ac578b34a9749abe9d5" title="Get the typical outer layer hit type." alt="" coords="619,904,796,947"/>
+<area shape="poly" id="edge38_Node000001_Node000051" title=" " alt="" coords="933,1029,886,993,832,961,796,947,798,942,835,956,889,989,936,1025"/>
+<area shape="rect" id="Node000052" href="$classpandora_1_1_cluster.html#acd8c997bdd5300251b9370504ac2ecc9" title="Get the cluster shower profile discrepancy." alt="" coords="614,971,802,1013"/>
+<area shape="poly" id="edge39_Node000001_Node000052" title=" " alt="" coords="869,1036,794,1017,795,1011,870,1030"/>
+<area shape="rect" id="Node000053" href="$classpandora_1_1_cluster.html#a732de5ac3944fad2a569a18cfac0401f" title="Get the cluster shower profile start, units radiation lengths." alt="" coords="614,1037,802,1080"/>
+<area shape="poly" id="edge40_Node000001_Node000053" title=" " alt="" coords="866,1061,802,1061,802,1056,866,1056"/>
+<area shape="rect" id="Node000054" href="$classpandora_1_1_cluster.html#aecb5c5f0ea4b60ca6eb6b6ad402e4b33" title="Get the pseudo layer at which shower commences." alt="" coords="614,1104,802,1147"/>
+<area shape="poly" id="edge41_Node000001_Node000054" title=" " alt="" coords="870,1087,795,1106,794,1101,869,1082"/>
+<area shape="rect" id="Node000055" href="$classpandora_1_1_cluster.html#a93ab226a244c3d0272a5bdb59c8784a6" title="Get the best energy estimate to use when comparing cluster energy to associated track momentum,..." alt="" coords="619,1171,796,1213"/>
+<area shape="poly" id="edge42_Node000001_Node000055" title=" " alt="" coords="936,1092,889,1128,835,1161,798,1175,796,1170,832,1156,886,1124,933,1088"/>
+<area shape="rect" id="Node000056" href="$classpandora_1_1_cluster.html#a47d3a735dc9942f3a559008f81f76ccd" title="Whether the cluster passes the photon id." alt="" coords="605,1237,810,1264"/>
+<area shape="poly" id="edge43_Node000001_Node000056" title=" " alt="" coords="953,1095,906,1164,873,1199,835,1228,810,1239,808,1234,832,1223,869,1195,902,1160,949,1092"/>
+<area shape="rect" id="Node000057" href="$namespacelar__reco.html#a24310ccf5395e296c032835b7e03a8e8" title="Process list of external, commandline parameters to be passed to specific algorithms." alt="" coords="622,1355,793,1397"/>
+<area shape="poly" id="edge44_Node000001_Node000057" title=" " alt="" coords="965,1096,950,1151,925,1218,887,1287,863,1318,835,1345,816,1357,794,1366,792,1361,813,1353,832,1341,859,1314,882,1284,920,1216,945,1150,960,1095"/>
+<area shape="rect" id="Node000060" href="$classlar__content_1_1_master_algorithm.html#a6a6fc093319e1692554558f2e966d51a" title="Read settings from external steering parameters block, if present, otherwise from xml as standard." alt="" coords="614,1555,802,1597"/>
+<area shape="poly" id="edge46_Node000001_Node000060" title=" " alt="" coords="973,1095,970,1186,964,1244,952,1306,935,1371,911,1434,878,1493,835,1545,804,1565,801,1560,832,1541,873,1490,906,1431,930,1369,947,1305,958,1243,965,1185,968,1095"/>
+<area shape="rect" id="Node000062" href="$classlar__content_1_1_event_reading_algorithm.html#a635efbb37d59457cfa1101947a2b82b8" title="Read the algorithm settings." alt="" coords="622,1421,794,1464"/>
+<area shape="poly" id="edge48_Node000001_Node000062" title=" " alt="" coords="969,1096,958,1164,934,1248,917,1293,895,1336,868,1376,835,1411,816,1425,795,1434,793,1429,814,1420,832,1407,864,1373,890,1333,912,1291,929,1247,952,1162,964,1095"/>
+<area shape="rect" id="Node000063" href="$class_event_reading_algorithm.html#a635efbb37d59457cfa1101947a2b82b8" title="Read the algorithm settings." alt="" coords="630,1488,785,1531"/>
+<area shape="poly" id="edge49_Node000001_Node000063" title=" " alt="" coords="971,1096,964,1175,943,1278,926,1332,903,1385,873,1435,835,1478,812,1494,786,1504,784,1499,810,1489,832,1474,868,1431,898,1383,921,1330,938,1276,959,1174,966,1095"/>
+<area shape="rect" id="Node000064" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a87a0ff5ede89b03c2d1c0fa3cb32d1b1" title="Update the min/max coordinate spans." alt="" coords="603,621,812,680"/>
+<area shape="poly" id="edge50_Node000001_Node000064" title=" " alt="" coords="964,1022,953,953,930,865,913,819,891,773,864,731,832,694,811,679,815,675,835,690,868,728,896,771,918,817,935,863,958,952,969,1022"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a961701c5cd322cadc41a03e4e2e1dee3" title="Constructor." alt="" coords="335,5,500,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="691,242,667,198,632,145,587,91,561,67,533,46,499,32,501,27,535,42,564,63,591,87,636,141,672,195,696,239"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a9117d6884e755c6ac40c87509505f98e" title="Look at consistency of a combination of clusters." alt="" coords="316,323,519,365"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="683,543,657,505,622,461,580,417,533,380,511,368,513,363,535,375,584,413,626,457,662,502,688,540"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a482b7635f8229147fe2f74ef0c2e247c" title="Calculate the overlap result for given pair of clusters." alt="" coords="310,389,525,448"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="665,547,604,505,533,462,508,451,510,446,535,458,607,500,668,543"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_view_transverse_tracks_algorithm.html#aea534b66fe656e2928fcd69d845428c1" title="Calculates the two view overlap result." alt="" coords="307,472,528,531"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="606,553,527,532,529,527,608,548"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_view_remnants_algorithm.html#abae8cd2b60a1bb89ffe3d4c573ad671d" title="Calculate cluster overlap result and store in container." alt="" coords="308,555,527,597"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="599,579,527,579,527,573,599,573"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="7,707,251,765"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="602,601,584,611,568,627,561,644,553,662,535,678,485,697,414,712,252,731,251,726,413,707,484,692,533,674,548,659,556,642,564,624,580,607,599,596"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab674b9b1270bb202f7d0d346fe57bb0f" title="Whether a trio of clusters are consistent with representing projections of the same 3d trajectory." alt="" coords="321,621,514,664"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="600,603,514,623,513,618,599,598"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_cosmic_ray_shower_matching_algorithm.html#a302a910b26c6bbf89967d178a4bb83a5" title="Check that three clusters have a consistent 3D position." alt="" coords="305,739,530,797"/>
+<area shape="poly" id="edge13_Node000004_Node000015" title=" " alt="" coords="602,599,584,611,572,624,565,637,560,664,554,693,548,707,536,722,511,740,508,736,532,718,543,704,549,691,554,663,560,635,568,621,580,607,599,595"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aac181605230498590d2768ca50f6f635" title="Create delta ray pfos maxmising completeness by searching for and merging in any stray clusters." alt="" coords="317,904,518,947"/>
+<area shape="poly" id="edge14_Node000004_Node000016" title=" " alt="" coords="602,597,584,611,561,646,553,680,554,715,560,750,567,785,568,821,559,857,536,894,520,907,517,903,532,890,554,855,563,821,561,786,555,751,549,715,548,680,556,644,580,608,599,593"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa3efbf0e2e50f0f836230ec55b3efe1f" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="311,971,524,1029"/>
+<area shape="poly" id="edge17_Node000004_Node000021" title=" " alt="" coords="603,596,584,611,568,633,557,654,547,697,550,739,559,782,568,825,571,869,563,914,552,937,536,960,524,972,520,968,532,957,547,935,558,913,566,869,563,826,554,783,545,740,542,696,552,652,563,630,580,607,599,592"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="306,821,529,880"/>
+<area shape="poly" id="edge20_Node000004_Node000030" title=" " alt="" coords="602,597,584,611,567,635,559,659,558,683,560,708,562,733,561,759,553,785,536,811,523,823,519,819,532,808,549,783,556,758,557,733,554,709,552,683,554,658,562,633,580,607,599,593"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78c7deb41fedce4d81dacaf750e344ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="308,1061,527,1104"/>
+<area shape="poly" id="edge22_Node000004_Node000031" title=" " alt="" coords="603,596,584,611,564,638,551,665,544,691,541,717,546,770,558,823,571,876,577,930,575,958,568,986,555,1014,536,1043,513,1063,510,1059,532,1040,551,1012,563,984,569,957,572,931,566,877,553,824,540,771,536,717,538,690,546,663,560,635,580,608,599,592"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="331,1164,504,1207"/>
+<area shape="poly" id="edge24_Node000004_Node000034" title=" " alt="" coords="602,596,584,611,572,629,564,653,555,712,553,782,556,859,559,1009,553,1071,546,1096,536,1117,510,1145,479,1166,476,1161,507,1141,532,1115,541,1095,548,1070,554,1009,551,859,548,782,550,711,559,651,568,627,580,608,599,592"/>
+<area shape="rect" id="Node000039" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac85986434192420fb00867cfdd07f0af" title="Whether two clusters overlap convincingly in x." alt="" coords="322,56,513,99"/>
+<area shape="poly" id="edge27_Node000004_Node000039" title=" " alt="" coords="686,542,635,432,579,294,572,266,568,240,567,195,560,154,550,134,532,113,511,97,514,93,536,109,554,131,565,153,572,195,574,240,577,265,585,292,640,430,691,539"/>
+<area shape="rect" id="Node000041" href="$classlar__content_1_1_cosmic_ray_shower_matching_algorithm.html#a30616042e46d8f7d808062fcec0a5f7e" title="Match a pair of clusters from two views." alt="" coords="307,123,528,165"/>
+<area shape="poly" id="edge29_Node000004_Node000041" title=" " alt="" coords="688,541,580,294,569,259,563,231,554,205,532,179,516,168,519,164,536,175,558,203,568,229,574,258,584,292,693,539"/>
+<area shape="rect" id="Node000042" href="$classlar__content_1_1_cosmic_ray_track_matching_algorithm.html#aee07c2468345e9bdcd25cfa858d9e9b6" title="Match a pair of clusters from two views." alt="" coords="307,189,528,232"/>
+<area shape="poly" id="edge30_Node000004_Node000042" title=" " alt="" coords="690,541,618,380,573,298,552,267,532,246,515,235,518,230,536,242,556,264,578,295,622,377,694,539"/>
+<area shape="rect" id="Node000043" href="$classlar__content_1_1_particle_recovery_algorithm.html#a37021938131c94506c0d45a1a0f643e3" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="302,256,533,299"/>
+<area shape="poly" id="edge31_Node000004_Node000043" title=" " alt="" coords="690,541,667,490,633,428,588,366,561,337,532,313,514,302,516,297,536,309,565,334,592,362,637,425,672,487,695,539"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aae25161ec9a1fd6579144e9812ba3716" title="Match clusters using all three views." alt="" coords="29,389,229,432"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="308,372,225,391,224,386,307,367"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aea749e91ac312094797e71c45f4d71c5" title="Match clusters using a pair of views." alt="" coords="29,323,229,365"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="301,347,229,347,229,341,301,341"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_particle_recovery_algorithm.html#a215b7783083f57ca5ff19b8e597106f0" title="Identify unambiguous cluster overlaps and resolve ambiguous overlaps, creating new track particles." alt="" coords="34,621,224,664"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="305,645,225,645,225,640,305,640"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_ambiguous_delta_ray_tool.html#ab2429629e67fa69d4d467568eaa1a211" title="Identify ambiguous matches (e.g. 3:2:1) and, if possible, create pfos out of the best 1:1:1 cluster m..." alt="" coords="7,881,251,924"/>
+<area shape="poly" id="edge15_Node000016_Node000017" title=" " alt="" coords="301,919,252,915,252,910,301,914"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_unambiguous_delta_ray_tool.html#afcc8d71f08e7a53ba1c4d305bac16fbe" title="Create delta ray pfos out of unambiguous (1:1:1) matches that are connected to a parent cosmic ray." alt="" coords="11,799,247,857"/>
+<area shape="poly" id="edge16_Node000016_Node000019" title=" " alt="" coords="319,901,300,894,252,872,221,860,223,855,254,867,302,890,321,896"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a8dec37ecee7b41db2330d4497bb5bf53" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="19,1015,239,1073"/>
+<area shape="poly" id="edge18_Node000021_Node000022" title=" " alt="" coords="296,1021,239,1030,239,1025,295,1016"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="28,948,230,991"/>
+<area shape="poly" id="edge19_Node000021_Node000026" title=" " alt="" coords="295,990,230,983,230,977,295,984"/>
+<area shape="poly" id="edge21_Node000030_Node000011" title=" " alt="" coords="315,818,300,812,252,789,203,768,205,764,254,784,302,807,317,813"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#aef1de5f0e1800cfaafebeef94886ac5c" title="Determine whether element satifies simple checks." alt="" coords="5,1097,253,1140"/>
+<area shape="poly" id="edge23_Node000031_Node000032" title=" " alt="" coords="293,1101,253,1106,253,1101,292,1096"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954c1e70112176185c26e424612c0ae0" title="Determine whether element satifies simple checks." alt="" coords="24,1231,234,1273"/>
+<area shape="poly" id="edge25_Node000034_Node000035" title=" " alt="" coords="316,1211,225,1233,224,1227,315,1206"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_delta_ray_removal_tool.html#a14867c8cc28ef3b11ac43c87e4e64874" title="Determine whether element satifies simple checks." alt="" coords="31,1164,227,1207"/>
+<area shape="poly" id="edge26_Node000034_Node000036" title=" " alt="" coords="315,1188,227,1188,227,1183,315,1183"/>
+<area shape="rect" id="Node000040" href="$classlar__content_1_1_particle_recovery_algorithm.html#ac52744a6dc9a1eab5c78ceb9441ce2f2" title="Find cluster overlaps and record these in the overlap tensor." alt="" coords="34,56,224,99"/>
+<area shape="poly" id="edge28_Node000039_Node000040" title=" " alt="" coords="306,80,225,80,225,75,306,75"/>
+<area shape="rect" id="Node000044" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab8273550fb6762b76467bb649be38ced" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="30,256,228,299"/>
+<area shape="poly" id="edge32_Node000043_Node000044" title=" " alt="" coords="286,280,228,280,228,275,286,275"/>
+<area shape="rect" id="Node000046" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8f96cea6d066581692dab3ea2fcddc0b" title="Get the event shape features." alt="" coords="301,1269,534,1328"/>
+<area shape="poly" id="edge34_Node000045_Node000046" title=" " alt="" coords="566,1307,534,1306,535,1300,566,1301"/>
+<area shape="rect" id="Node000058" href="$namespacelar__reco.html#ad8e66b4e82e59c64870b978246ea98fc" title="Create pandora instances." alt="" coords="309,1363,526,1389"/>
+<area shape="poly" id="edge45_Node000057_Node000058" title=" " alt="" coords="606,1379,526,1379,526,1373,606,1373"/>
+<area shape="rect" id="Node000061" href="$classlar__content_1_1_master_algorithm.html#ad004248f04cd97eb38b6932b093546ef" title="Read the algorithm settings." alt="" coords="323,1555,512,1597"/>
+<area shape="poly" id="edge47_Node000060_Node000061" title=" " alt="" coords="598,1579,512,1579,512,1573,598,1573"/>
+<area shape="poly" id="edge51_Node000064_Node000046" title=" " alt="" coords="593,684,584,694,572,713,564,738,555,799,553,872,555,952,559,1107,553,1171,546,1198,536,1220,513,1249,484,1271,480,1267,509,1245,532,1217,541,1196,547,1170,554,1106,550,952,548,872,549,799,559,736,568,711,580,690,589,681"/>
+</map>

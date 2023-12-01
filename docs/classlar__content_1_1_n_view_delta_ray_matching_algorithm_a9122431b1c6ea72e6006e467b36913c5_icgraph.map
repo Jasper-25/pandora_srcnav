@@ -1,0 +1,21 @@
+<map id="lar_content::NViewDeltaRayMatchingAlgorithm::ParameteriseMuon" name="lar_content::NViewDeltaRayMatchingAlgorithm::ParameteriseMuon">
+<area shape="rect" id="Node000001" title="Parameterise the projection of a cosmic ray track in order to avoid poor/sparse projections." alt="" coords="829,105,1076,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a7a57b0a01f2505987a1da38d358cddd7" title="Collect hits in the delta ray cluster that lie close to calculated projected positions forming a seed..." alt="" coords="580,5,773,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,102,780,63,747,51,749,46,782,57,885,97"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a81b82bd00938103b0d0e7d33a6dec14b" title="Collect hits in the delta ray cluster that lie close to calculated projected positions forming a seed..." alt="" coords="572,139,781,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="814,146,782,150,781,145,813,141"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a32b2f8107130831c6b15fe6bc371ec30" title="Examine remaining hits in the delta ray cluster adding them to the delta ray seed or parent muon if a..." alt="" coords="583,72,771,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="814,113,771,107,772,102,814,107"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a578dd183cc56affc0913b8b7880ac533" title="Examine remaining hits in the delta ray cluster adding them to the delta ray seed or parent muon if a..." alt="" coords="572,205,781,248"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="885,157,782,196,749,207,747,202,780,191,883,152"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78860aa1431af987dcb65d9968873c78" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="263,39,524,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="565,43,525,47,524,42,564,37"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a2d8fb65c18c0674976c885a445c34da5" title="Run the algorithm tool." alt="" coords="16,39,204,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,63,204,63,204,57,247,57"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a344e9f0fc688c39fe9969f99941c143d" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="289,172,498,215"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="557,177,499,184,498,178,557,171"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954be3b22e6a4210ca6025bed8a0e21f" title="Run the algorithm tool." alt="" coords="5,172,215,215"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="273,196,215,196,215,191,273,191"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="567,83,524,78,525,73,567,78"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="557,215,498,208,499,203,557,210"/>
+</map>

@@ -1,0 +1,63 @@
+<map id="lar_content::MasterAlgorithm::CreateWorkerInstance" name="lar_content::MasterAlgorithm::CreateWorkerInstance">
+<area shape="rect" id="Node000001" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="5,787,194,829"/>
+<area shape="rect" id="Node000002" href="$class_multi_pandora_api.html#a3d072f674cddfae9529cf2cf1a8baebd" title="Add a pandora daughter instance, associated to a primary pandora instance." alt="" coords="266,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,786,109,641,133,423,152,309,175,204,204,117,221,84,240,58,251,48,255,52,244,62,226,87,209,119,180,205,157,310,138,423,115,642,105,787"/>
+<area shape="rect" id="Node000004" href="$classobject__creation_1_1_object_creation_helper.html#aaba95330f019ee6581dfd9ce26603816" title="Create a new object from a user factory." alt="" coords="264,72,468,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,786,112,652,137,454,156,351,179,256,207,178,223,148,240,125,249,116,253,120,244,128,227,151,212,180,184,258,161,352,142,455,117,653,105,786"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="269,139,463,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="100,786,113,660,139,477,158,382,181,295,208,224,223,196,240,175,253,165,257,169,244,179,228,199,213,226,186,296,163,383,144,477,118,661,105,786"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="268,189,464,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="100,786,115,670,142,501,161,414,184,335,210,270,224,245,240,226,252,217,255,221,244,230,229,248,215,272,189,337,166,415,148,502,120,670,106,787"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="269,240,463,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="101,786,117,679,146,525,165,447,187,375,212,316,240,277,253,267,256,271,244,281,217,319,192,377,170,448,151,526,122,680,106,787"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_l_ar_t_p_c.html#ac38715e51a11f0ccee056e2bb1e9d324" title="Get the lar volume id, uniquely specifying the lar tpc." alt="" coords="242,291,490,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="97,786,99,701,105,642,116,577,133,509,159,443,194,381,215,353,240,327,244,324,247,328,243,331,219,356,198,384,164,445,138,511,121,578,110,642,105,701,103,786"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_line_gap.html#af8f1fa8491d69c8f7db41c7912607182" title="Get the line end x coordinate." alt="" coords="263,341,469,368"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="98,786,103,708,110,656,122,598,140,538,165,479,198,425,240,378,248,372,251,376,243,382,202,428,170,482,145,540,128,599,116,656,109,709,104,786"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_line_gap.html#a1de63926ffcf30d36616aa75aa3448fe" title="Get the line end z coordinate." alt="" coords="263,392,469,419"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="99,786,107,716,129,619,147,567,171,516,202,469,240,429,247,423,250,427,243,433,206,472,176,519,152,569,134,621,113,717,105,786"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_line_gap.html#acd1d54cecd0581c056b38636d0221d74" title="Get the line gap type." alt="" coords="278,443,454,485"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="102,786,114,727,139,649,158,607,180,566,207,528,240,495,262,481,265,485,243,499,212,532,185,569,162,610,144,651,119,729,107,787"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_line_gap.html#ae46cc6ddddf1a8e3ed3d62ff6e2bca49" title="Get the line start x coordinate." alt="" coords="278,509,454,552"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="105,785,121,739,149,678,188,616,212,587,240,562,262,549,265,553,243,566,216,591,192,619,153,681,126,741,110,787"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_line_gap.html#aedff78e44502aabce470756b8dcb0455" title="Get the line start z coordinate." alt="" coords="278,576,454,619"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="110,785,130,750,159,708,196,665,240,628,262,617,265,621,243,633,200,669,163,711,134,753,114,788"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="266,643,466,669"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="116,784,168,731,202,703,240,679,255,672,257,677,243,684,206,707,172,735,120,788"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#aecc58c49773257731f8d9c50b59b727e" title="Get the u, v, w resolution, units mm." alt="" coords="257,693,475,720"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="133,784,183,756,241,730,265,722,266,727,243,734,185,760,136,789"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_t_p_c.html#a8202d7611d477276af455b73b15cacbf" title="Get the width in x, units mm." alt="" coords="271,744,461,771"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="194,787,277,772,278,777,195,793"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_l_ar_t_p_c.html#a842e1999d3562cec4a3beb0606a17dc1" title="Get the width in y, units mm." alt="" coords="270,795,462,821"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="194,805,254,805,254,811,194,811"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_l_ar_t_p_c.html#a23fd856428d6d5c7d76f1bc9de8bb0fd" title="Get the width in z, units mm." alt="" coords="271,845,461,872"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="195,823,278,839,277,844,194,829"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_l_ar_t_p_c.html#a85c6de6505b9bff66e595a82cbe91586" title="Get the u wire angle to the vertical, units radians." alt="" coords="278,896,454,939"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="137,827,186,855,243,882,264,889,262,894,241,886,184,860,134,832"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_l_ar_t_p_c.html#a0a24886781cb10b416bb985af0ddf8a7" title="Get the v wire angle to the vertical, units radians." alt="" coords="278,963,454,1005"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="118,828,169,888,204,921,243,948,265,959,262,964,240,953,201,925,166,892,114,832"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_l_ar_t_p_c.html#a3aa9026b4ce60c8945566f466e2ababf" title="Get the w wire angle to the vertical, units radians." alt="" coords="278,1029,454,1072"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="112,828,130,869,158,919,196,971,219,995,243,1015,264,1027,262,1032,240,1020,215,999,192,975,154,922,125,871,107,831"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="278,1096,454,1139"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="108,829,123,881,149,950,189,1021,214,1054,243,1082,265,1096,262,1100,240,1086,210,1057,184,1024,144,952,118,883,103,830"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="278,1163,454,1205"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="106,829,117,892,140,979,158,1025,181,1070,209,1112,243,1149,265,1163,262,1167,240,1153,205,1116,176,1073,153,1027,135,981,111,894,101,830"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="278,1229,454,1272"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="104,830,111,904,132,1008,149,1064,173,1119,204,1171,243,1215,265,1230,262,1235,240,1219,200,1174,169,1122,144,1066,127,1009,106,904,99,830"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_l_ar_t_p_c.html#a63735738ed5938f56845d7867364b754" title="Whether the electron drift is in the positive x direction." alt="" coords="285,1296,447,1339"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="103,830,106,914,112,972,123,1036,141,1102,166,1168,200,1229,243,1282,272,1301,269,1305,240,1286,195,1232,161,1170,136,1104,118,1037,107,972,101,914,98,830"/>
+<area shape="rect" id="Node000026" href="$class_pandora_api.html#a04ff874add1da542c8449c64f22fe7e5" title="Read pandora settings." alt="" coords="279,1363,453,1389"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="106,829,121,939,150,1096,169,1176,191,1250,216,1309,229,1332,243,1349,266,1363,263,1368,240,1353,225,1335,211,1312,186,1252,164,1178,145,1097,116,940,101,830"/>
+<area shape="rect" id="Node000027" href="$class_l_ar_content.html#a904979d78596710c7c8cef66cb5a5992" title="Register all the lar content algorithms and tools with pandora." alt="" coords="264,1413,468,1440"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="106,829,119,948,147,1120,166,1209,188,1290,214,1356,228,1381,244,1399,252,1407,249,1411,240,1403,224,1384,209,1358,183,1292,160,1210,141,1121,114,949,100,830"/>
+<area shape="rect" id="Node000028" href="$class_l_ar_content.html#aff3a7dbc759958ffe350f306178ff57a" title="Register the basic lar content plugins with pandora." alt="" coords="278,1464,454,1507"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="105,830,118,957,145,1144,164,1240,186,1329,213,1402,228,1429,244,1450,266,1467,263,1471,240,1454,223,1432,208,1404,181,1331,158,1242,140,1145,113,957,100,830"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_master_algorithm.html#a874160cf74991f8b83ea6b2826f10041" title="Register custom content, such as algorithms or algorithm tools, with a specified pandora instance." alt="" coords="272,1531,460,1573"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="105,830,116,968,141,1176,159,1283,182,1382,211,1463,226,1494,244,1517,260,1530,257,1534,240,1521,222,1496,206,1465,177,1383,154,1284,135,1176,111,969,99,830"/>
+<area shape="rect" id="Node000030" href="$class_pandora_api.html#a45b5254503a518f350c1dd7f714fa1c6" title="Set the lar transformation plugin used by pandora." alt="" coords="255,1597,477,1640"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="104,830,114,979,137,1207,155,1325,178,1434,208,1523,225,1558,244,1584,246,1586,242,1589,240,1587,220,1560,203,1525,173,1435,150,1326,131,1207,108,980,99,830"/>
+<area shape="rect" id="Node000031" href="$class_pandora_api.html#a972528eb576214bd9477e0066f684df9" title="Set the pseudo layer plugin used by pandora." alt="" coords="270,1664,462,1707"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="104,830,111,991,133,1238,151,1368,175,1487,205,1584,224,1622,244,1650,258,1662,255,1667,240,1654,219,1625,201,1586,170,1488,145,1369,127,1239,106,992,99,830"/>
+<area shape="rect" id="Node000003" href="$class_multi_pandora_api_impl.html#a92c05eb4732158e1a6953592a9bece1c" title="Add a pandora daughter instance, associated to a primary pandora instance." alt="" coords="538,5,739,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,24,523,24,523,29,466,29"/>
+</map>

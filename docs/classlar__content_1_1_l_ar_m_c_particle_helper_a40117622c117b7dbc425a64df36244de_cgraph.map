@@ -1,0 +1,15 @@
+<map id="lar_content::LArMCParticleHelper::AreTopologicallyContinuous" name="lar_content::LArMCParticleHelper::AreTopologicallyContinuous">
+<area shape="rect" id="Node000001" title="Determine if two MC particles are topologically continuous within a given tolerance...." alt="" coords="5,105,232,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="280,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,102,279,58,293,52,295,57,281,62,173,107"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="294,72,434,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,109,278,102,279,108,233,114"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="280,139,448,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,139,264,144,264,149,232,145"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="294,205,434,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,146,281,191,295,197,293,201,279,196,171,151"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="496,139,664,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,157,480,157,480,163,448,163"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="712,139,881,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="665,157,697,157,697,163,665,163"/>
+</map>

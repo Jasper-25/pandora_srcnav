@@ -1,0 +1,21 @@
+<map id="lar_content::CosmicRayVertexBuildingAlgorithm::GetCosmicPfos" name="lar_content::CosmicRayVertexBuildingAlgorithm::GetCosmicPfos">
+<area shape="rect" id="Node000001" title="Get the list of input pfos to this algorithm." alt="" coords="5,120,227,163"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="275,29,444,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,117,285,75,287,80,177,122"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="275,120,444,163"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="227,139,259,139,259,144,227,144"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a09e2deb53cebbcf5d1db1b8c077362b0" title="Whether a pfo is a primary parent particle." alt="" coords="275,187,444,229"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="197,161,265,179,264,185,196,166"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="318,29,316,19,323,10,338,5,359,3,383,5,397,11,394,16,381,10,359,8,339,10,326,15,321,21,323,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="318,120,316,110,323,101,338,95,359,93,383,96,397,102,394,107,381,101,359,99,339,101,326,105,321,111,323,119"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="709,141,894,184"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="435,183,492,172,595,162,693,159,694,164,596,167,492,177,436,189"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#a3b6b4122d5463ac81c2a4ffaff292814" title="Whether a pfo is a neutrino or (antineutrino)" alt="" coords="717,220,886,263"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="434,227,492,239,600,246,702,245,702,250,600,251,492,244,433,233"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pfo_helper.html#a968e4ba1db6de993a8cf8a161eaa1ec5" title="Whether a pfo is a final&#45;state particle from a neutrino (or antineutrino) interaction." alt="" coords="492,187,661,229"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="444,205,476,205,476,211,444,211"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="942,220,1126,263"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="886,239,926,239,926,244,886,244"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="661,188,694,182,695,187,663,193"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="662,218,702,224,701,229,662,223"/>
+</map>

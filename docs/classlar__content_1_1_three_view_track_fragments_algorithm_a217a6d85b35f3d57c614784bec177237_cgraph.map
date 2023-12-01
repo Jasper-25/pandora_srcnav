@@ -1,0 +1,17 @@
+<map id="lar_content::ThreeViewTrackFragmentsAlgorithm::GetFragmentOverlapResult" name="lar_content::ThreeViewTrackFragmentsAlgorithm::GetFragmentOverlapResult">
+<area shape="rect" id="Node000001" title="Get the populated fragment overlap result." alt="" coords="5,131,228,189"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a5c6b1f6eb6de0c5ede0315d44119b3af" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="276,139,467,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,157,260,157,260,163,228,163"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="515,5,708,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,136,450,97,514,58,526,52,528,57,516,62,453,101,401,140"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="528,72,696,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="450,136,517,117,518,122,451,141"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="528,139,696,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,157,512,157,512,163,468,163"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="528,205,696,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="451,179,518,198,517,203,450,184"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="516,272,707,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="401,180,453,219,516,258,528,263,526,268,514,262,450,223,397,184"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="756,272,954,315"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="708,291,741,291,741,296,708,296"/>
+</map>

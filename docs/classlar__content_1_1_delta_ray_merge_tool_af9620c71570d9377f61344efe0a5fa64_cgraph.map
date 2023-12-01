@@ -1,0 +1,79 @@
+<map id="lar_content::DeltaRayMergeTool::Run" name="lar_content::DeltaRayMergeTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,621,188,664"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_merge_tool.html#ac2f1d5b92a31e3565bc2f57de93d48dd" title="Identify ambiguous matches (e.g. 3:2:1) and attempt to merge clusters together." alt="" coords="243,468,464,511"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,618,302,517,304,521,136,623"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="236,629,471,656"/>
+<area shape="poly" id="edge43_Node000001_Node000027" title=" " alt="" coords="188,640,220,640,220,645,188,645"/>
+<area shape="rect" id="Node000028" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="565,615,706,657"/>
+<area shape="poly" id="edge44_Node000001_Node000028" title=" " alt="" coords="188,621,235,615,353,609,471,615,549,622,548,627,471,620,353,614,236,620,189,626"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="263,680,444,707"/>
+<area shape="poly" id="edge46_Node000001_Node000029" title=" " alt="" coords="189,658,267,674,266,679,188,663"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="260,731,447,773"/>
+<area shape="poly" id="edge47_Node000001_Node000030" title=" " alt="" coords="134,662,182,690,237,716,254,723,252,728,235,721,179,695,131,667"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_merge_tool.html#ab90c4175854edb6117729b75ae1b06ef" title="Search for two matches with a single common cluster and attempt to merge the clusters in the other tw..." alt="" coords="519,376,751,419"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,465,552,421,554,427,422,470"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_delta_ray_merge_tool.html#a763a899ea08e21ffb8054c8b444748e3" title="Search for two matches with two common clusters and attempt to merge the clusters in the third view t..." alt="" coords="520,468,751,511"/>
+<area shape="poly" id="edge36_Node000002_Node000026" title=" " alt="" coords="465,487,504,487,504,492,465,492"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_delta_ray_merge_tool.html#a0d185c86d458a38d67123d94c8565da7" title="Determine, from a topological point of view, whether two delta ray clusters should be merged together..." alt="" coords="836,343,1018,385"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="751,381,820,374,821,379,752,387"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="1862,273,2053,316"/>
+<area shape="poly" id="edge25_Node000003_Node000012" title=" " alt="" coords="651,374,711,309,752,274,798,246,909,197,956,183,1001,173,1097,166,1219,165,1479,165,1537,168,1596,176,1711,201,1813,233,1895,264,1893,269,1811,238,1709,206,1595,181,1536,173,1478,171,1219,171,1097,171,1002,179,957,188,911,202,801,250,755,279,715,313,655,377"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="835,5,1019,48"/>
+<area shape="poly" id="edge23_Node000003_Node000017" title=" " alt="" coords="638,375,653,312,683,227,704,181,730,136,761,94,798,58,819,44,822,49,801,62,765,98,734,139,709,183,688,229,658,314,643,376"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_n_view_matching_algorithm.html#a014c2a2b07a505891ea5bdac3cad6d0a" title="Get the cluster list name corresponding to a specified hit type." alt="" coords="826,527,1028,569"/>
+<area shape="poly" id="edge24_Node000003_Node000018" title=" " alt="" coords="690,417,722,433,753,454,768,468,777,481,786,494,801,506,824,518,821,523,798,510,782,497,773,484,764,472,750,458,719,438,687,421"/>
+<area shape="rect" id="Node000019" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="844,593,1010,636"/>
+<area shape="poly" id="edge26_Node000003_Node000019" title=" " alt="" coords="701,417,729,433,753,454,765,471,772,488,776,520,781,550,788,565,801,579,831,598,828,602,798,583,784,568,776,552,771,521,767,489,761,474,749,458,726,437,698,422"/>
+<area shape="rect" id="Node000020" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="1150,664,1291,707"/>
+<area shape="poly" id="edge30_Node000003_Node000020" title=" " alt="" coords="684,417,739,440,800,461,839,470,873,473,935,472,964,473,993,478,1024,491,1056,513,1070,526,1077,540,1083,569,1088,598,1094,612,1105,626,1122,642,1142,654,1140,659,1119,646,1101,630,1089,614,1083,599,1078,570,1072,542,1065,529,1053,517,1021,495,992,483,963,478,935,477,873,478,838,475,799,467,737,445,682,422"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a8109fb417dd5d10adee1b985ff7a5f8d" title="To determine how well three clusters (one in each view) map onto one another expressing this in terms..." alt="" coords="820,72,1034,131"/>
+<area shape="poly" id="edge29_Node000003_Node000021" title=" " alt="" coords="643,374,664,328,698,267,742,203,769,174,798,147,813,136,816,141,801,151,772,177,746,207,702,270,669,330,648,377"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a642b056316d5b6cb961943142d1e3f20" title="Add a new cluster to algorithm ownership maps and, if it a delta ray cluster, to the underlying match..." alt="" coords="816,260,1038,319"/>
+<area shape="poly" id="edge31_Node000003_Node000022" title=" " alt="" coords="686,373,798,328,816,322,818,327,800,333,688,378"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a17b403effff2b8420348b0c4b1ea1c2e" title="Update to reflect cluster deletion." alt="" coords="799,409,1055,452"/>
+<area shape="poly" id="edge33_Node000003_Node000024" title=" " alt="" coords="752,408,784,412,784,417,751,413"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_merge_tool.html#adc31d0df857d21a739569ecc22e350d5" title="Create a list of the shared common muon pfos of two elements." alt="" coords="1103,272,1338,315"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1018,339,1113,316,1115,321,1019,345"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_merge_tool.html#a68b4e26a16fec32ad6d7067c7c3f98d9" title="Return the list of muon pfos that a specified delta ray cluster is directly connected to." alt="" coords="1129,456,1312,499"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1019,379,1056,395,1071,407,1081,419,1090,431,1104,442,1116,448,1114,453,1101,446,1086,434,1077,422,1068,411,1053,400,1017,384"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_delta_ray_merge_tool.html#ad8e334b55a9a6c23c382810db688b509" title="Determine whether two delta ray clusters have been split." alt="" coords="1386,272,1568,315"/>
+<area shape="poly" id="edge15_Node000004_Node000014" title=" " alt="" coords="1019,357,1168,345,1338,324,1378,316,1379,321,1338,329,1169,351,1019,362"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_delta_ray_merge_tool.html#a963bcf4a1ef0aeb944d5df3d2e695f1c" title="Determine whether two delta ray clusters are actually a single cluster that is hidden behind a cosmic..." alt="" coords="1129,389,1312,432"/>
+<area shape="poly" id="edge17_Node000004_Node000015" title=" " alt="" coords="1019,376,1114,391,1113,396,1018,381"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_delta_ray_merge_tool.html#a2dca3f6062c19c532f00c7232b236b46" title="Determine whether a given cluster is connected to a cosmic ray pfo." alt="" coords="1386,456,1568,499"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1312,475,1370,475,1370,480,1312,480"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="1616,315,1808,357"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1549,453,1567,442,1582,424,1590,406,1598,386,1615,367,1619,364,1623,368,1618,371,1602,389,1595,408,1587,427,1570,446,1552,458"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="1616,472,1808,515"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1569,481,1601,483,1601,488,1569,486"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="1627,405,1797,448"/>
+<area shape="poly" id="edge13_Node000007_Node000013" title=" " alt="" coords="1568,455,1612,446,1613,451,1569,460"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="1667,315,1666,305,1673,296,1689,290,1712,288,1737,290,1752,297,1750,302,1736,296,1712,293,1690,295,1676,300,1671,306,1673,314"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="1865,501,2050,544"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1809,502,1850,507,1850,512,1808,507"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="1856,451,2059,477"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="1808,479,1840,475,1840,481,1809,485"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="1786,469,1806,458,1844,428,1879,393,1931,327,1935,330,1883,397,1848,432,1809,462,1788,474"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="1667,405,1666,395,1673,386,1689,381,1712,379,1737,381,1752,387,1750,392,1736,386,1712,384,1690,386,1676,391,1671,397,1673,404"/>
+<area shape="poly" id="edge16_Node000014_Node000008" title=" " alt="" coords="1569,307,1601,313,1600,318,1568,313"/>
+<area shape="poly" id="edge22_Node000015_Node000008" title=" " alt="" coords="1311,389,1386,375,1600,345,1601,351,1386,380,1312,394"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_delta_ray_merge_tool.html#a79826b666f5b963f4e49b9d9ffbbef78" title="Find all connection points of a delta ray cluster and a cosmic ray pfo." alt="" coords="1386,389,1568,432"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1312,408,1370,408,1370,413,1312,413"/>
+<area shape="poly" id="edge19_Node000016_Node000008" title=" " alt="" coords="1546,386,1627,360,1629,365,1548,391"/>
+<area shape="poly" id="edge20_Node000016_Node000009" title=" " alt="" coords="1540,430,1617,457,1635,464,1634,469,1615,463,1539,435"/>
+<area shape="poly" id="edge21_Node000016_Node000013" title=" " alt="" coords="1569,414,1612,417,1612,423,1569,420"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="1011,632,1135,662,1134,667,1009,637"/>
+<area shape="poly" id="edge28_Node000020_Node000020" title=" " alt="" coords="1172,664,1170,654,1178,645,1195,639,1220,637,1248,640,1264,646,1262,651,1246,645,1220,643,1196,645,1181,649,1175,655,1177,663"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_n_view_matching_algorithm.html#a51bff4fba67f2283d378446b86229bd5" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="1115,205,1326,248"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="1038,263,1102,249,1103,254,1039,268"/>
+<area shape="poly" id="edge34_Node000024_Node000009" title=" " alt="" coords="1015,450,1056,468,1071,479,1080,490,1089,500,1104,508,1169,527,1236,539,1305,544,1373,544,1501,534,1608,516,1609,521,1502,539,1373,550,1304,549,1235,544,1167,532,1102,513,1086,504,1076,494,1067,483,1053,473,1012,455"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_n_view_matching_algorithm.html#a21ca4c7ed4f416b289d27e2d2f133cef" title="Update to reflect cluster deletion." alt="" coords="1119,573,1322,616"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="1026,450,1056,469,1074,490,1081,512,1088,532,1104,553,1120,563,1117,568,1101,557,1084,535,1076,513,1069,493,1053,473,1023,455"/>
+<area shape="poly" id="edge37_Node000026_Node000004" title=" " alt="" coords="681,465,750,428,773,411,798,395,820,386,822,391,801,400,776,415,753,433,684,470"/>
+<area shape="poly" id="edge38_Node000026_Node000018" title=" " alt="" coords="745,509,811,522,810,527,744,514"/>
+<area shape="poly" id="edge39_Node000026_Node000019" title=" " alt="" coords="670,509,730,544,800,579,830,589,828,595,798,584,727,549,668,513"/>
+<area shape="poly" id="edge40_Node000026_Node000020" title=" " alt="" coords="660,509,801,646,827,655,862,662,949,673,1134,682,1134,687,949,678,861,667,825,660,798,650,657,513"/>
+<area shape="poly" id="edge41_Node000026_Node000022" title=" " alt="" coords="696,465,724,449,749,429,766,404,772,379,779,354,797,329,801,325,805,329,801,333,783,356,777,380,771,406,753,432,727,454,698,470"/>
+<area shape="poly" id="edge42_Node000026_Node000024" title=" " alt="" coords="744,465,802,453,803,458,745,470"/>
+<area shape="poly" id="edge45_Node000028_Node000020" title=" " alt="" coords="687,655,741,675,800,689,888,699,978,701,1062,699,1134,693,1135,698,1063,704,978,707,888,704,799,695,739,680,685,660"/>
+</map>

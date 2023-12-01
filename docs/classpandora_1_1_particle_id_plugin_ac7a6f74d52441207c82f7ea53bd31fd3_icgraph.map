@@ -1,0 +1,23 @@
+<map id="pandora::ParticleIdPlugin::IsMatch" name="pandora::ParticleIdPlugin::IsMatch">
+<area shape="rect" id="Node000001" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="684,131,850,173"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_id.html#a105ea8f0b392afd1819c8a6d06a6ca46" title="Provide identification of whether a cluster or pfo is an electron." alt="" coords="507,31,636,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="709,125,614,76,616,72,711,121"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_id.html#a57bf83cb0f21fbef358a84e4aa68ad2e" title="Provide identification of whether a cluster or pfo is an electromagnetic shower." alt="" coords="507,97,636,140"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="669,138,636,132,637,127,670,133"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_id.html#a64b8edc4950a654ffe14c80609fc53d4" title="Provide identification of whether a cluster or pfo is a muon." alt="" coords="507,164,636,207"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="670,171,637,177,636,172,669,166"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_particle_id.html#a7716fe5b1aa3cf5b9a37c90fe9a3eb24" title="Provide identification of whether a cluster or pfo is a photon." alt="" coords="507,231,636,273"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="711,183,616,232,614,228,709,179"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a9d99c6cd0f4269813867bab5b38a5f3b" title="Update cluster corrected energy values." alt="" coords="274,89,440,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,118,440,116,440,111,492,113"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a2a8a548966b78a419a0fed97418c37f4" title="Get the corrected electromagnetic estimate of the cluster energy, units GeV." alt="" coords="5,5,207,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="277,87,206,63,172,51,173,46,208,57,278,82"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a9ed312eaec0dc1af8dc2ef5e1e371a75" title="Get the corrected hadronic estimate of the cluster energy, units GeV." alt="" coords="5,72,207,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="258,107,207,103,207,98,258,101"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a93ab226a244c3d0272a5bdb59c8784a6" title="Get the best energy estimate to use when comparing cluster energy to associated track momentum,..." alt="" coords="17,139,195,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="259,133,196,145,195,140,258,127"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_particle_creation_algorithm.html#a2151bb783dcba096d1d467aa8756bb85" title="Create pfos for provided clusters." alt="" coords="255,172,459,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="492,191,460,192,459,187,492,186"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_d_particle_creation_algorithm.html#a4a474f81f81634000f422512b2e313ac" title="Run the algorithm." alt="" coords="21,205,191,248"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="240,212,192,218,191,213,239,206"/>
+</map>

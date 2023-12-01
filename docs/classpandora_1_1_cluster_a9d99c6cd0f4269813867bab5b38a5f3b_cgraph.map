@@ -1,0 +1,13 @@
+<map id="pandora::Cluster::UpdateEnergyCorrectionsCache" name="pandora::Cluster::UpdateEnergyCorrectionsCache">
+<area shape="rect" id="Node000001" title="Update cluster corrected energy values." alt="" coords="5,39,171,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_id.html#a57bf83cb0f21fbef358a84e4aa68ad2e" title="Provide identification of whether a cluster or pfo is an electromagnetic shower." alt="" coords="245,5,375,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,45,229,36,230,41,171,50"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_energy_corrections.html#a7742673c946e12c8b758e9ff9fb342c0" title="Make an ordered list of energy corrections to a cluster." alt="" coords="219,72,401,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,70,204,75,203,80,171,75"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_id_plugin.html#ac7a6f74d52441207c82f7ea53bd31fd3" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="486,5,651,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,24,471,24,471,29,375,29"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7b24c3e486aea675969c09f901784807" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="449,72,688,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,91,433,91,433,96,401,96"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="471,139,667,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="396,113,469,132,468,137,395,118"/>
+</map>

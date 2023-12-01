@@ -1,0 +1,16 @@
+<map id="lar_content::NeutrinoPropertiesAlgorithm::GetNTwoDHitsInPfoChain" name="lar_content::NeutrinoPropertiesAlgorithm::GetNTwoDHitsInPfoChain">
+<area shape="rect" id="Node000001" title="Get the number of two dimensional hits (TPC_VIEW_U, V or W) contained in clusters in a pfo and all it..." alt="" coords="5,131,237,173"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="72,131,70,121,78,112,95,106,121,104,149,106,165,113,163,118,147,112,121,109,96,111,81,116,75,122,77,129"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="285,64,476,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,127,279,109,280,114,207,133"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="288,131,473,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="237,149,273,149,273,155,237,155"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="288,197,473,240"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="207,171,280,190,279,195,206,177"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="534,5,718,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,61,518,50,519,55,473,66"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="524,72,727,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="477,83,508,83,508,88,477,88"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="530,123,721,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="473,105,519,116,518,121,472,110"/>
+</map>

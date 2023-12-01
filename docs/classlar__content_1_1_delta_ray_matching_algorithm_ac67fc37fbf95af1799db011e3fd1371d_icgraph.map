@@ -1,0 +1,32 @@
+<map id="lar_content::DeltaRayMatchingAlgorithm::GetAllPfos" name="lar_content::DeltaRayMatchingAlgorithm::GetAllPfos">
+<area shape="rect" id="Node000001" title="Get a vector of all Pfos in the provided input Pfo lists." alt="" coords="1242,160,1441,203"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a4d2129a066ce2eb0067f0e39e7770e56" title="Build new particle flow objects." alt="" coords="747,131,947,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1226,177,947,160,947,155,1227,172"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a69b27f2e4a343908b03f60daa5f3db85" title="Run the algorithm." alt="" coords="5,101,205,144"/>
+<area shape="poly" id="edge19_Node000001_Node000004" title=" " alt="" coords="1290,154,1208,112,1100,65,1040,45,977,28,912,17,848,13,598,13,423,9,347,15,253,38,220,51,189,68,136,103,133,98,186,63,218,47,252,33,347,10,423,3,598,8,848,8,913,12,978,23,1041,40,1102,60,1211,107,1292,149"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#ab49d7ea8a8751b5a677872d19bdec980" title="Find best Pfo to associate a UVW triplet." alt="" coords="747,248,947,291"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="1287,212,1242,231,1195,246,1131,259,1066,267,947,273,947,268,1066,262,1130,254,1193,241,1241,226,1284,207"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#ae84625fc4c43ce5a7d3905e53dddbce8" title="Get a vector of track&#45;like Pfos in the provided input Pfo lists." alt="" coords="995,189,1194,232"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="1227,197,1195,201,1194,196,1226,192"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a19bd3ae8ec877cb9573354fc926a2ca5" title="Match clusters using single views." alt="" coords="253,72,452,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="787,126,745,110,699,97,636,88,571,84,453,87,453,81,571,79,636,83,700,92,746,104,789,121"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a6b06861a305ff02ece70422477b9a257" title="Match clusters using all three views." alt="" coords="500,131,699,173"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="732,155,700,155,700,149,732,149"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aee914cd6384e2d203257b520e8b60bd2" title="Match clusters using pairs of views." alt="" coords="253,213,452,256"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="740,180,700,188,571,209,453,225,452,220,570,204,699,183,739,174"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="393,59,377,53,352,51,329,52,315,57,309,63,311,71,306,72,304,62,312,53,328,47,352,45,379,48,395,54"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="237,109,205,113,205,108,237,104"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="491,129,445,118,446,113,493,124"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="484,148,205,131,205,126,485,142"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="640,117,625,111,600,109,576,111,562,116,556,122,558,129,553,130,551,120,559,111,575,106,600,104,626,106,642,112"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="288,209,153,147,155,142,291,204"/>
+<area shape="poly" id="edge11_Node000006_Node000006" title=" " alt="" coords="393,200,377,194,352,192,329,194,315,199,309,204,311,212,306,213,304,203,312,194,328,189,352,187,379,189,395,195"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#ad229b0137f402a02d1a4270301e91a80" title="Match clusters using a single view." alt="" coords="500,315,699,357"/>
+<area shape="poly" id="edge13_Node000007_Node000008" title=" " alt="" coords="751,298,682,316,681,311,750,293"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aae25161ec9a1fd6579144e9812ba3716" title="Match clusters using all three views." alt="" coords="500,381,699,424"/>
+<area shape="poly" id="edge14_Node000007_Node000009" title=" " alt="" coords="808,302,758,338,701,372,674,383,672,378,698,367,755,333,805,298"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aea749e91ac312094797e71c45f4d71c5" title="Match clusters using a pair of views." alt="" coords="500,248,699,291"/>
+<area shape="poly" id="edge15_Node000007_Node000010" title=" " alt="" coords="732,272,700,272,700,267,732,267"/>
+<area shape="poly" id="edge17_Node000011_Node000002" title=" " alt="" coords="986,188,939,176,941,171,987,182"/>
+<area shape="poly" id="edge18_Node000011_Node000007" title=" " alt="" coords="987,239,941,250,939,245,986,233"/>
+</map>

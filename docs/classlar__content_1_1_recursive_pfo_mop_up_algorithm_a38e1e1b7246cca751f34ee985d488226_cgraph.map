@@ -1,0 +1,20 @@
+<map id="lar_content::RecursivePfoMopUpAlgorithm::GetPfoMergeStats" name="lar_content::RecursivePfoMopUpAlgorithm::GetPfoMergeStats">
+<area shape="rect" id="Node000001" title="Get the PfoMergeStats for all of the particles in the event from m_pfoListNames." alt="" coords="5,63,238,105"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="300,29,441,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,66,284,60,284,65,238,71"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a5043d8b0dcfab5fc9b0a0eab4b4d262e" title="Get the list of 2D clusters from an input pfo." alt="" coords="286,96,455,139"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="238,97,270,101,270,107,238,102"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="528,29,669,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,48,512,48,512,53,441,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="555,29,554,19,561,10,576,5,599,3,623,5,638,11,636,16,622,10,599,8,577,10,564,15,559,21,561,28"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="503,96,694,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="455,115,487,115,487,120,455,120"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="507,163,691,205"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="446,137,509,155,508,160,445,142"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="752,37,936,80"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="690,93,736,82,738,87,691,98"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="742,104,946,131"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="695,115,727,115,727,120,695,120"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="748,155,940,197"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="691,137,738,148,736,153,690,142"/>
+</map>

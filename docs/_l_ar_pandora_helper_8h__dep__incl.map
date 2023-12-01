@@ -1,0 +1,72 @@
+<map id="larpandora/larpandora/LArPandoraInterface/LArPandoraHelper.h" name="larpandora/larpandora/LArPandoraInterface/LArPandoraHelper.h">
+<area shape="rect" id="Node000001" title="helper function for LArPandoraInterface producer module" alt="" coords="1717,5,1862,64"/>
+<area shape="rect" id="Node000002" href="$_p_f_particle_analysis__module_8cc.html" title="Analysis module for created particles." alt="" coords="5,120,214,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1701,40,1390,47,964,60,537,82,360,97,226,115,193,122,192,117,225,109,359,92,537,77,964,55,1390,41,1701,35"/>
+<area shape="rect" id="Node000003" href="$_p_f_particle_cosmic_ana__module_8cc.html" title="Analysis module for created particles." alt="" coords="237,120,446,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1701,41,1432,49,1073,64,717,86,570,99,458,115,426,122,425,117,457,109,569,94,717,80,1073,59,1432,44,1701,36"/>
+<area shape="rect" id="Node000004" href="$_p_f_particle_hit_dumper__module_8cc.html" title="Analysis module for created particles." alt="" coords="469,120,678,179"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1702,38,1517,40,1265,50,978,73,832,91,690,115,658,122,657,117,689,109,832,86,978,68,1264,45,1516,35,1701,33"/>
+<area shape="rect" id="Node000005" href="$_p_f_particle_monitoring__module_8cc.html" title="Analysis module for created particles." alt="" coords="701,120,910,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1701,40,1552,46,1358,58,1140,80,1030,96,922,115,891,122,890,117,921,109,1029,90,1139,75,1357,53,1552,40,1701,35"/>
+<area shape="rect" id="Node000006" href="$_p_f_particle_track_ana__module_8cc.html" title="Analysis module for created particles." alt="" coords="933,120,1142,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1701,44,1454,67,1303,88,1154,115,1124,122,1123,117,1153,109,1303,82,1453,62,1701,39"/>
+<area shape="rect" id="Node000007" href="$_p_f_particle_validation__module_8cc.html" title="Analysis module for created particles." alt="" coords="1165,120,1374,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1702,52,1554,78,1386,115,1359,122,1357,117,1385,109,1553,73,1701,47"/>
+<area shape="rect" id="Node000008" href="$_l_ar_pandora_event_8h.html" title="A description of all outputs from an instance of pandora with functionality to filter and merge multi..." alt="" coords="1397,120,1569,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1703,70,1562,122,1560,117,1701,65"/>
+<area shape="rect" id="Node000011" href="$_l_ar_pandora_external_event_building__module_8cc.html" title=" " alt="" coords="1445,357,1665,432"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1704,64,1665,85,1633,114,1613,142,1597,173,1574,240,1562,305,1558,357,1553,357,1557,304,1569,239,1592,171,1608,139,1629,110,1662,81,1701,59"/>
+<area shape="rect" id="Node000012" href="$_l_ar_pandora_event_dump__module_8cc.html" title=" " alt="" coords="1888,120,2115,179"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1858,69,1949,117,1946,122,1856,74"/>
+<area shape="rect" id="Node000013" href="$_l_ar_pandora_shower_creation__module_8cc.html" title=" " alt="" coords="2139,112,2390,187"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1878,52,2127,109,2139,112,2137,117,2126,115,1877,58"/>
+<area shape="rect" id="Node000014" href="$_l_ar_pandora_slice_id_helper_8h.html" title="helper class for slice id tools" alt="" coords="1990,243,2170,301"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1812,77,1846,140,1863,167,1878,185,1926,212,1997,240,1995,245,1924,217,1874,189,1859,170,1841,142,1807,79"/>
+<area shape="rect" id="Node000016" href="$_l_ar_pandora_track_creation__module_8cc.html" title="module for lar pandora track creation" alt="" coords="2414,112,2587,187"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1878,38,1985,46,2116,60,2260,81,2402,109,2414,113,2413,118,2401,115,2259,86,2116,65,1984,52,1878,43"/>
+<area shape="rect" id="Node000017" href="$_slice_8h.html" title="header for the lar pandora slice class" alt="" coords="1643,120,1814,179"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1769,79,1746,121,1742,118,1764,76"/>
+<area shape="rect" id="Node000021" href="$_l_ar_pandora_helper_8cxx.html" title="helper function for LArPandoraInterface producer module" alt="" coords="2611,120,2766,179"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="1878,33,2018,37,2199,49,2399,71,2501,88,2599,109,2624,117,2623,122,2598,115,2500,94,2399,77,2198,54,2018,43,1878,39"/>
+<area shape="rect" id="Node000022" href="$_l_ar_pandora_hit_collection_tool_8h.html" title=" " alt="" coords="3129,120,3330,179"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="1878,36,2146,44,2504,58,2858,80,3005,94,3117,109,3148,117,3147,122,3116,115,3005,99,2858,86,2504,64,2146,49,1878,41"/>
+<area shape="rect" id="Node000026" href="$_l_ar_pandora_hit_collection_tool_default_8h.html" title="Implement default hit collection tool (.h)" alt="" coords="3273,235,3463,309"/>
+<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="1878,35,2234,42,2709,56,2939,66,3135,78,3276,92,3320,101,3343,110,3364,137,3374,170,3377,204,3376,234,3371,234,3372,204,3369,171,3359,140,3340,114,3319,106,3276,98,3134,83,2938,71,2709,61,2234,47,1877,40"/>
+<area shape="rect" id="Node000028" href="$_l_ar_pandora_input_8h.html" title="Helper functions for providing inputs to pandora." alt="" coords="2790,120,2936,179"/>
+<area shape="poly" id="edge34_Node000001_Node000028" title=" " alt="" coords="1878,36,2083,45,2343,61,2595,82,2699,95,2778,109,2802,117,2801,122,2777,115,2698,100,2595,87,2342,66,2083,51,1878,42"/>
+<area shape="rect" id="Node000030" href="$_l_ar_pandora_output_8h.html" title="Helper functions for processing outputs from pandora." alt="" coords="2960,120,3105,179"/>
+<area shape="poly" id="edge37_Node000001_Node000030" title=" " alt="" coords="1878,35,2115,43,2424,57,2727,78,2853,93,2947,109,2972,117,2970,122,2946,115,2852,98,2727,84,2424,62,2115,48,1878,41"/>
+<area shape="rect" id="Node000009" href="$_collection_splitting__module_8cc.html" title="module for lar pandora collection splitting" alt="" coords="1126,243,1322,301"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1409,188,1287,244,1285,240,1407,183"/>
+<area shape="rect" id="Node000010" href="$_l_ar_pandora_event_8cxx.html" title="A description of all outputs from an instance of pandora with functionality to filter outputs." alt="" coords="1347,243,1518,301"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1468,194,1447,243,1442,241,1463,192"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1512,191,1532,234,1548,298,1555,357,1550,358,1543,299,1527,236,1507,193"/>
+<area shape="rect" id="Node000015" href="$_l_ar_pandora_slice_id_helper_8cxx.html" title="implementation of the slice id helper class" alt="" coords="2152,365,2347,424"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="2134,308,2211,363,2208,367,2131,313"/>
+<area shape="poly" id="edge18_Node000017_Node000011" title=" " alt="" coords="1705,193,1626,311,1589,358,1584,355,1622,308,1701,190"/>
+<area shape="poly" id="edge19_Node000017_Node000014" title=" " alt="" coords="1826,182,1833,184,1996,240,1994,245,1831,189,1824,187"/>
+<area shape="rect" id="Node000018" href="$_slice_id_base_tool_8h.html" title="header for the lar pandora slice ID base tool" alt="" coords="1744,243,1915,301"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="1764,189,1807,240,1803,244,1760,193"/>
+<area shape="rect" id="Node000019" href="$_simple_beam_particle_id__tool_8cc.html" title=" " alt="" coords="1689,357,1906,432"/>
+<area shape="poly" id="edge24_Node000017_Node000019" title=" " alt="" coords="1725,194,1724,250,1727,280,1735,308,1747,333,1763,355,1759,358,1742,336,1730,310,1722,281,1718,250,1719,194"/>
+<area shape="rect" id="Node000020" href="$_simple_neutrino_id__tool_8cc.html" title=" " alt="" coords="1931,357,2128,432"/>
+<area shape="poly" id="edge25_Node000017_Node000020" title=" " alt="" coords="1816,182,1887,212,1929,233,2009,355,2004,358,1925,237,1885,216,1814,187"/>
+<area shape="poly" id="edge21_Node000018_Node000011" title=" " alt="" coords="1752,310,1640,359,1637,354,1749,305"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="1821,317,1810,358,1805,356,1815,316"/>
+<area shape="poly" id="edge23_Node000018_Node000020" title=" " alt="" coords="1891,307,1970,354,1967,359,1889,312"/>
+<area shape="rect" id="Node000023" href="$_l_ar_pandora_8h.html" title="Base producer module for reconstructing recob::PFParticles from recob::Hits." alt="" coords="3104,243,3249,301"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="3213,194,3191,243,3186,241,3208,192"/>
+<area shape="poly" id="edge31_Node000022_Node000026" title=" " alt="" coords="3275,187,3328,232,3324,236,3272,191"/>
+<area shape="rect" id="Node000024" href="$_l_ar_pandora_8cxx.html" title="Base producer module for reconstructing recob::PFParticles from recob::Hits." alt="" coords="3104,365,3249,424"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="3179,317,3179,365,3174,365,3174,317"/>
+<area shape="rect" id="Node000025" href="$_standard_pandora__module_8cc.html" title="A generic LArPandora ART Producer module intended to work on ALL LAr&#45;TPC wire&#45;readout experiments." alt="" coords="2887,365,3079,424"/>
+<area shape="poly" id="edge30_Node000023_Node000025" title=" " alt="" coords="3119,312,3030,367,3028,362,3116,308"/>
+<area shape="rect" id="Node000027" href="$_l_ar_pandora_hit_collection_tool_default__tool_8cc.html" title="Implement default hit collection tool (_tool.cc)" alt="" coords="3273,357,3463,432"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="3371,325,3371,357,3366,357,3366,325"/>
+<area shape="poly" id="edge35_Node000028_Node000023" title=" " alt="" coords="2943,182,2948,184,3020,208,3092,232,3111,240,3109,245,3090,237,3018,213,2946,189,2941,187"/>
+<area shape="rect" id="Node000029" href="$_l_ar_pandora_input_8cxx.html" title="Helper functions for providing inputs to pandora." alt="" coords="2751,243,2897,301"/>
+<area shape="poly" id="edge36_Node000028_Node000029" title=" " alt="" coords="2852,194,2836,243,2831,241,2847,192"/>
+<area shape="poly" id="edge38_Node000030_Node000023" title=" " alt="" coords="3080,187,3143,240,3140,244,3076,191"/>
+<area shape="rect" id="Node000031" href="$_l_ar_pandora_output_8cxx.html" title="Helper functions for processing outputs from pandora." alt="" coords="2922,243,3079,301"/>
+<area shape="poly" id="edge39_Node000030_Node000031" title=" " alt="" coords="3023,194,3010,243,3005,241,3018,193"/>
+</map>

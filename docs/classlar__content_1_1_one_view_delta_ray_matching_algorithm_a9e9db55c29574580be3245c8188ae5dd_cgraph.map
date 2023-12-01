@@ -1,0 +1,20 @@
+<map id="lar_content::OneViewDeltaRayMatchingAlgorithm::IsMuonPfo" name="lar_content::OneViewDeltaRayMatchingAlgorithm::IsMuonPfo">
+<area shape="rect" id="Node000001" title="Determine whether an input cluster belongs to a cosmic ray pfo." alt="" coords="5,131,227,173"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="306,64,497,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,127,292,108,293,113,211,133"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_matching_containers.html#a82622bcd879ea9176e4bcf16b957cc01" title="Get the mapping of clusters to the pfos to which they belong." alt="" coords="296,131,507,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="227,149,280,149,280,155,227,155"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_one_view_delta_ray_matching_algorithm.html#ab6a96f1c897a3abd5e52bb2f3efecd38" title="Get the input cosmic ray pfo list." alt="" coords="275,197,528,240"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,171,293,191,292,196,210,177"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="586,5,770,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,62,570,47,571,52,498,68"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="576,72,779,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="498,83,560,83,560,88,498,88"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="582,123,773,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,103,567,118,566,123,497,108"/>
+<area shape="rect" id="Node000008" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="607,197,748,240"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="528,216,591,216,591,221,528,221"/>
+<area shape="rect" id="Node000009" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="827,197,969,240"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="748,216,812,216,812,221,748,221"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="856,197,854,187,861,178,876,173,898,171,922,173,936,179,934,184,920,178,898,176,877,178,865,183,860,189,861,196"/>
+</map>

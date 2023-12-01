@@ -1,0 +1,83 @@
+<map id="pandora::ParticleFlowObject::AlterMetadata" name="pandora::ParticleFlowObject::AlterMetadata">
+<area shape="rect" id="Node000001" title="Alter particle flow object metadata parameters." alt="" coords="1131,605,1315,648"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_identification_algorithm.html#a1bf7c17b59c51cd90fa6b2ba9ff23ab5" title="Build the parent/daughter links from the map of parent/daughter associations." alt="" coords="834,5,1068,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1215,590,1199,470,1171,312,1152,232,1131,160,1107,101,1081,62,1067,51,1070,47,1085,58,1112,99,1136,158,1158,231,1176,311,1204,470,1220,589"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_particle_building_algorithm.html#a5ae68f3888fb25fcf13540f6661cc240" title="Create specialised Pfo from an generic input Pfo." alt="" coords="857,72,1045,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1214,591,1195,484,1166,345,1148,276,1127,213,1105,163,1081,129,1064,116,1044,106,1046,102,1066,111,1085,125,1109,160,1132,211,1153,274,1171,344,1201,483,1219,590"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="836,139,1066,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1218,590,1212,508,1204,457,1191,402,1174,345,1150,291,1119,240,1081,195,1064,183,1067,179,1084,191,1124,237,1155,288,1179,344,1196,400,1209,456,1217,508,1224,590"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="848,205,1054,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1216,590,1205,520,1182,431,1165,385,1142,340,1115,298,1081,262,1053,245,1056,240,1084,258,1119,295,1147,337,1170,383,1187,430,1211,519,1221,590"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a001cd4205da861d562c28f2f6ae81da7" title="Run the algorithm." alt="" coords="848,272,1054,315"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1213,591,1198,533,1173,462,1155,425,1134,390,1110,357,1081,329,1053,312,1056,307,1084,325,1114,354,1139,387,1160,423,1178,460,1203,531,1218,589"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="857,672,1045,715"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1119,655,1042,674,1040,669,1118,650"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#a47e585c069bc2cf6b6999777b9a483d9" title="Select all pfos under the same hypothesis." alt="" coords="855,405,1047,448"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1200,594,1151,526,1119,491,1081,462,1046,446,1048,441,1084,458,1122,487,1155,523,1204,591"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_neutrino_id_tool.html#a189e022a9bf55eeb687a0d78553a19c0" title="Select all pfos under the same hypothesis." alt="" coords="863,472,1039,515"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1184,597,1137,562,1082,529,1038,513,1040,508,1084,524,1140,557,1187,593"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_beam_particle_id_tool.html#a79f0453d3b4d1e43ce79001580d11b1b" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="865,539,1037,581"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1118,604,1037,584,1038,578,1119,599"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_simple_neutrino_id_tool.html#a1a7a46b579fe86acd94d98cf76daf239" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="860,605,1042,648"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1115,629,1042,629,1042,624,1115,624"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#a310e2a783285cdce5737be25c0d243d4" title="Select pfos based on the AdaBDT score that the slice contains a beam particle interaction." alt="" coords="839,339,1063,381"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1208,592,1190,546,1163,493,1127,440,1105,416,1081,395,1062,384,1065,379,1084,391,1109,412,1131,437,1167,490,1194,544,1213,590"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_neutrino_id_tool.html#a413ca4ca3abd00cbcc17c31061040dc6" title="Select pfos based on the probability that their slice contains a neutrino interaction." alt="" coords="863,739,1039,781"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1187,660,1140,696,1084,729,1040,745,1038,740,1082,724,1137,692,1184,656"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#aa75f9ebc1bf7176a8dcc3f7a1bb9aaf6" title="Add the shower characterisation information to the pfo metadata." alt="" coords="860,872,1042,931"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="1212,663,1194,709,1166,762,1130,816,1084,862,1044,885,1041,880,1081,858,1126,812,1162,759,1189,706,1207,661"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_neutrino_properties_algorithm.html#a45b4bea4b433ead2d6581eb8fc548883" title="identifying the primary daughter of a neutrino pfo and set the particle id accordingly" alt="" coords="851,955,1051,997"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="1219,664,1205,725,1180,801,1162,840,1141,879,1115,914,1084,945,1053,963,1050,959,1081,941,1111,910,1136,876,1158,838,1175,799,1200,724,1213,663"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#a7886738a3e043602f739e0a0d750aba5" title="Set the vertex and direction of the Pfos." alt="" coords="820,1021,1082,1064"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="1222,664,1212,737,1190,831,1172,880,1149,928,1120,972,1084,1011,1068,1023,1065,1019,1081,1007,1116,969,1144,925,1167,878,1185,829,1207,736,1217,663"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_neutrino_daughter_vertices_algorithm.html#a6f66a46ccf2b41d7b22e08034b161f32" title="Set the vertex and direction of the Pfos." alt="" coords="819,1104,1083,1147"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="1223,664,1216,747,1195,857,1177,916,1153,974,1123,1029,1085,1078,1066,1094,1044,1106,1042,1101,1063,1089,1081,1074,1118,1026,1149,972,1172,914,1190,856,1211,746,1218,663"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a8b76a0a80938a5eb5041c6fab5922069" title="Set up the test beam pfo." alt="" coords="829,1208,1073,1251"/>
+<area shape="poly" id="edge36_Node000001_Node000034" title=" " alt="" coords="1224,664,1219,759,1211,821,1199,889,1182,960,1157,1031,1125,1098,1085,1160,1054,1189,1017,1210,1015,1205,1050,1185,1081,1157,1121,1096,1152,1029,1177,958,1194,888,1206,820,1213,758,1219,663"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#ab8e7bb47406b019344c558a198cec938" title="Shift a pfo given its pfo stitching pair." alt="" coords="857,1293,1045,1336"/>
+<area shape="poly" id="edge38_Node000001_Node000036" title=" " alt="" coords="1221,664,1205,796,1178,974,1159,1065,1138,1148,1113,1216,1085,1264,1065,1282,1043,1295,1040,1290,1062,1278,1081,1261,1108,1214,1133,1146,1154,1064,1173,973,1200,795,1215,663"/>
+<area shape="rect" id="Node000039" href="$classlar__content_1_1_master_algorithm.html#afc67eb7486e5be1376267357824ae6c7" title="Tag clear, unambiguous cosmic&#45;ray pfos." alt="" coords="857,805,1045,848"/>
+<area shape="poly" id="edge41_Node000001_Node000039" title=" " alt="" coords="1204,663,1155,731,1122,766,1084,796,1047,813,1045,808,1081,791,1119,762,1151,727,1200,660"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_delta_ray_identification_algorithm.html#a674fee5bc9093bd27143d940e5ebd241" title="Run the algorithm." alt="" coords="540,5,758,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="818,29,758,29,758,24,818,24"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="543,197,754,256"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="832,229,755,229,755,224,832,224"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="281,205,449,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="527,229,449,229,449,224,527,224"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="539,705,758,732"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="842,705,759,712,759,707,841,700"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#ad58d896477422f06c252badcb9ee5b2d" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="553,372,744,415"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="839,417,744,407,745,401,840,412"/>
+<area shape="poly" id="edge17_Node000017_Node000013" title=" " alt="" coords="824,377,745,385,744,380,823,371"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="558,781,739,840"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="844,872,739,840,741,835,846,867"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="259,789,471,832"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="543,813,471,813,471,808,543,808"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_neutrino_properties_algorithm.html#af3db301567ed4b6838e20c0ece0bd0a8" title="Run the algorithm." alt="" coords="549,864,749,907"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="839,952,818,945,770,921,737,910,738,905,772,916,820,940,840,947"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#a9fa9c37870b1ea11b9b96525b6398408" title="Reconstruct the vertex and direction of a daughter cosmic&#45;ray Pfo." alt="" coords="536,931,762,989"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="847,1020,819,1012,750,992,751,987,820,1007,848,1014"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#adbc3902c7e62a0e0ee8a1744caa56674" title="Reconstruct the vertex and direction of a parent cosmic&#45;ray Pfo." alt="" coords="536,1013,762,1072"/>
+<area shape="poly" id="edge28_Node000024_Node000028" title=" " alt="" coords="805,1045,762,1045,762,1040,805,1040"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#a371bb0bdb4d63c9d1d7f88b890cd4742" title="Reconstruct the vertex and direction of a list of cosmic&#45;ray Pfos." alt="" coords="252,992,478,1051"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="521,990,479,999,478,994,519,985"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#ada26fb0ed16ff3b5030bf530c4457ca9" title="Run the algorithm." alt="" coords="5,1000,204,1043"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="236,1024,204,1024,204,1019,236,1019"/>
+<area shape="poly" id="edge29_Node000028_Node000026" title=" " alt="" coords="520,1036,478,1033,479,1027,520,1030"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_neutrino_daughter_vertices_algorithm.html#a11026ddf5f97eaee1c2276fd7575f068" title="Reconstruct the vertex and direction of a shower&#45;like Pfos." alt="" coords="542,1096,755,1155"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="804,1128,756,1128,756,1123,804,1123"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_neutrino_daughter_vertices_algorithm.html#a388ab87fd085106c04b4ec69897580a4" title="Reconstruct the vertex and direction of a track&#45;like Pfos." alt="" coords="526,1179,771,1221"/>
+<area shape="poly" id="edge34_Node000029_Node000033" title=" " alt="" coords="847,1154,739,1181,738,1175,846,1148"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_neutrino_daughter_vertices_algorithm.html#a2911058e5548293d1279f09274e6f5fb" title="Reconstruct the vertex and direction of daughter Pfos." alt="" coords="258,1116,472,1175"/>
+<area shape="poly" id="edge32_Node000030_Node000031" title=" " alt="" coords="527,1137,472,1140,472,1135,526,1131"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_neutrino_daughter_vertices_algorithm.html#af6d57266886d2720c580ead2b85f2ee1" title="Run the algorithm." alt="" coords="8,1124,201,1167"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="243,1148,201,1148,201,1143,243,1143"/>
+<area shape="poly" id="edge35_Node000033_Node000031" title=" " alt="" coords="519,1178,471,1168,472,1163,520,1173"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a7374eca3988e39d155529ab96b623c7d" title="Run the algorithm." alt="" coords="551,1245,747,1288"/>
+<area shape="poly" id="edge37_Node000034_Node000035" title=" " alt="" coords="814,1249,748,1257,747,1252,813,1244"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a53215d62da054a9866bf09b2c1889989" title="Apply X0 corrections, and then stitch together Pfos." alt="" coords="555,1312,743,1355"/>
+<area shape="poly" id="edge39_Node000036_Node000037" title=" " alt="" coords="842,1324,743,1330,743,1325,841,1319"/>
+<area shape="rect" id="Node000038" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a1f9ac3835d752458d2b0ec4c25f71a2d" title="Run the algorithm tool." alt="" coords="271,1312,459,1355"/>
+<area shape="poly" id="edge40_Node000037_Node000038" title=" " alt="" coords="539,1336,460,1336,460,1331,539,1331"/>
+<area shape="poly" id="edge42_Node000039_Node000011" title=" " alt="" coords="841,804,818,796,770,772,684,735,686,730,772,767,820,791,843,799"/>
+</map>

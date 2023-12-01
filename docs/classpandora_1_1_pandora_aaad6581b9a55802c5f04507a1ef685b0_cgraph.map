@@ -1,0 +1,17 @@
+<map id="pandora::Pandora::ResetEvent" name="pandora::Pandora::ResetEvent">
+<area shape="rect" id="Node000001" title="Reset event, calling manager reset functions and any registered reset functions." alt="" coords="5,80,203,107"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_pandora_impl.html#a2a7f6b880ebd689c76257f177ee66f1c" title="Ï event, calling manager reset functions and any registered reset functions." alt="" coords="251,72,398,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,91,236,91,236,96,203,96"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_manager.html#a49d5fb9788d54566e34ae5381d10f56b" title="Call the reset callback in all managed algorithms and algorithm tools." alt="" coords="449,5,629,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,69,453,51,454,56,396,74"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_manager.html#ac771a333f3f2d3345d907ea6eefd1c81" title="Reset the manager." alt="" coords="446,72,632,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,91,430,91,430,96,398,96"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_plugin_manager.html#a03e77c5d2c765ae448e9384d65e02ef1" title="Call the reset callback in all managed plugins." alt="" coords="459,139,620,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="396,113,454,131,453,136,394,118"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a57a51287fa79cdd4910d65266f9a2375" title="Perform any operations when pandora is reset, typically at the end of each event." alt="" coords="689,88,854,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="620,137,700,116,702,122,621,142"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_energy_corrections.html#a39e7e5992d995bc25bbc2a7004f233aa" title="Call the reset callback in all managed plugins." alt="" coords="680,139,863,181"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="620,157,665,157,665,163,620,163"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_particle_id.html#a59ff5f9b447320b82304f09152f038b5" title="Call the reset callback in all managed plugins." alt="" coords="701,205,842,248"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="616,179,687,200,685,205,615,184"/>
+</map>

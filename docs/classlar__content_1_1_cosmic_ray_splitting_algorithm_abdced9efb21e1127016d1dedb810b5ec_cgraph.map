@@ -1,0 +1,20 @@
+<map id="lar_content::CosmicRaySplittingAlgorithm::GetCaloHitListToMove" name="lar_content::CosmicRaySplittingAlgorithm::GetCaloHitListToMove">
+<area shape="rect" id="Node000001" title="Get list of calo hits to move in order to split a branch cluster into two segments for case of one re..." alt="" coords="5,229,218,272"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="270,5,455,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,228,145,191,177,146,217,99,264,58,271,53,274,58,267,62,221,103,181,149,149,194,127,230"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#a19b090016098f12323e1b0868a2276cf" title="Get closest position in a list of clusters to a specified input position vector." alt="" coords="267,96,458,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,227,196,188,264,148,277,142,279,147,267,153,199,192,143,231"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="278,163,447,205"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,226,264,207,266,212,195,231"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="278,229,447,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="218,248,263,248,263,253,218,253"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="278,296,447,339"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="195,270,266,289,264,294,194,275"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="267,363,458,405"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="143,270,199,309,267,348,279,354,277,359,264,353,196,314,140,275"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="266,429,459,472"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="129,271,185,341,224,381,267,415,275,420,272,424,264,420,220,385,181,345,125,274"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="319,96,317,86,324,77,340,71,362,69,387,72,402,78,399,83,386,77,362,75,341,77,328,81,322,87,324,95"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="507,296,675,339"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="447,315,491,315,491,320,447,320"/>
+</map>

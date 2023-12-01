@@ -1,0 +1,16 @@
+<map id="lar_content::NViewDeltaRayMatchingAlgorithm::SplitMuonCluster" name="lar_content::NViewDeltaRayMatchingAlgorithm::SplitMuonCluster">
+<area shape="rect" id="Node000001" title="Move a list of hits from a cosmic ray cluster into the given child delta ray cluster." alt="" coords="5,123,242,165"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="315,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,120,289,64,317,52,319,57,291,69,172,124"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="529,64,670,107"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="223,119,289,108,406,95,513,87,514,92,407,100,290,113,224,125"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="293,123,478,165"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="242,141,277,141,277,147,242,147"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="290,189,481,232"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="211,163,285,182,283,188,209,169"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#abc59b55c66f74e7785be5683759138d6" title="Remove a calo hit from a cluster. Note this function will not remove the final calo hit from a cluste..." alt="" coords="315,256,456,299"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="158,164,218,202,291,242,304,247,302,252,288,246,216,207,155,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,43,515,59,513,65,456,49"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="559,64,557,54,564,45,578,39,600,37,623,40,636,46,634,51,621,45,600,43,580,45,567,49,562,55,564,63"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="455,256,479,242,511,214,538,181,578,119,583,122,542,185,515,218,483,246,458,260"/>
+</map>

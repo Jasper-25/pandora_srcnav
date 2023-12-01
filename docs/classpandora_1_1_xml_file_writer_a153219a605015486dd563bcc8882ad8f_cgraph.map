@@ -1,0 +1,56 @@
+<map id="pandora::XmlFileWriter::WriteLArTPC" name="pandora::XmlFileWriter::WriteLArTPC">
+<area shape="rect" id="Node000001" title="Write a lar tpc to the file." alt="" coords="5,444,158,487"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="233,5,427,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,443,81,367,86,315,96,258,111,200,133,142,164,88,204,42,217,32,220,37,207,46,168,92,138,144,116,201,101,259,92,316,87,367,85,444"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="232,56,428,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,443,85,375,102,280,118,229,139,179,168,133,204,93,216,84,219,88,207,97,172,136,144,181,123,231,108,281,91,375,86,444"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="233,107,427,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="82,443,90,383,109,302,125,258,145,216,172,177,204,143,217,134,220,138,207,147,176,180,150,219,130,260,114,303,95,384,87,444"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_l_ar_t_p_c.html#ac38715e51a11f0ccee056e2bb1e9d324" title="Get the lar volume id, uniquely specifying the lar tpc." alt="" coords="206,157,454,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="83,443,94,391,116,324,132,288,152,253,176,221,204,194,210,190,213,194,207,198,180,225,156,256,137,290,121,326,100,393,89,444"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_l_ar_t_p_c.html#aecc58c49773257731f8d9c50b59b727e" title="Get the u, v, w resolution, units mm." alt="" coords="221,208,439,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="86,443,100,400,124,346,158,291,179,266,204,245,211,240,214,245,207,249,183,270,162,294,128,349,105,402,91,444"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_l_ar_t_p_c.html#a8202d7611d477276af455b73b15cacbf" title="Get the width in x, units mm." alt="" coords="235,259,425,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="90,443,107,409,132,369,164,329,204,295,219,287,222,292,207,300,168,332,136,372,111,412,95,445"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_l_ar_t_p_c.html#a842e1999d3562cec4a3beb0606a17dc1" title="Get the width in y, units mm." alt="" coords="234,309,426,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="97,442,142,393,172,367,204,346,218,339,220,344,207,350,175,371,146,396,101,445"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_t_p_c.html#a23fd856428d6d5c7d76f1bc9de8bb0fd" title="Get the width in z, units mm." alt="" coords="235,360,425,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="115,441,157,418,205,396,229,389,230,394,207,401,159,422,118,446"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_l_ar_t_p_c.html#a85c6de6505b9bff66e595a82cbe91586" title="Get the u wire angle to the vertical, units radians." alt="" coords="242,411,418,453"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="158,452,226,443,227,448,159,458"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#a0a24886781cb10b416bb985af0ddf8a7" title="Get the v wire angle to the vertical, units radians." alt="" coords="242,477,418,520"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="159,473,227,482,226,487,158,478"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_l_ar_t_p_c.html#a3aa9026b4ce60c8945566f466e2ababf" title="Get the w wire angle to the vertical, units radians." alt="" coords="242,544,418,587"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="119,485,160,508,207,530,228,537,226,542,205,534,158,513,116,489"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="242,611,418,653"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="99,486,143,542,173,571,207,596,229,607,226,612,204,601,170,575,139,545,95,489"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="242,677,418,720"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="93,486,108,525,132,573,165,622,207,663,229,676,226,680,204,667,161,625,128,575,103,527,88,488"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="242,744,418,787"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="89,486,101,537,123,603,157,671,180,703,207,730,229,744,226,748,204,734,176,706,153,674,118,605,95,538,84,488"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_t_p_c.html#a63735738ed5938f56845d7867364b754" title="Whether the electron drift is in the positive x direction." alt="" coords="249,811,411,853"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="87,487,95,548,114,632,129,677,150,720,176,761,207,797,236,815,233,819,204,801,171,764,145,723,124,679,109,633,89,549,82,487"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="537,903,673,945"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="85,487,87,560,92,609,102,663,117,718,139,772,169,821,207,863,222,870,250,878,331,892,521,914,520,919,331,897,249,883,221,875,204,867,164,824,134,774,112,720,97,664,87,610,82,561,79,487"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_object_factory.html#af72543cbef634e4741728b8d5e3b67ad" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="251,928,409,971"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="85,487,87,566,92,619,102,678,117,739,139,800,169,857,208,907,239,929,236,933,204,911,164,860,134,802,112,741,97,679,87,620,82,566,79,487"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="254,995,406,1037"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="88,487,101,591,125,740,141,816,161,886,183,943,208,981,223,993,240,1002,238,1007,220,997,204,984,178,945,156,888,136,818,120,741,95,592,82,487"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="770,820,906,863"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="666,900,761,866,762,871,668,905"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_ti_xml_document.html#adae6a3f19b9317f9eabb208117c2c23a" title=" " alt="" coords="755,903,921,945"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="673,921,740,921,740,927,673,927"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_ti_xml_node.html#a562e3b0008d5492ad24e5f8efff772db" title=" " alt="" coords="770,969,906,1012"/>
+<area shape="poly" id="edge23_Node000017_Node000024" title=" " alt="" coords="674,941,755,964,754,970,673,946"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_ti_xml_node.html#a3e733899bd721c108cc52baee363b305" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="989,803,1126,845"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="906,833,973,828,974,833,907,839"/>
+<area shape="rect" id="Node000021" href="$structpandora_1_1_ti_xml_cursor.html#ae085f786cc1a4b0e9bfbdbb94f508257" title=" " alt="" coords="985,869,1130,912"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="921,909,969,901,970,907,922,914"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_ti_xml_parsing_data.html#aabc0cea97a507668987148a678452457" title=" " alt="" coords="969,936,1146,979"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="922,934,954,939,953,944,921,939"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_ti_xml_parsing_data.html#ad7f0937f19f1dc1abc9a562be2891213" title=" " alt="" coords="969,1003,1146,1045"/>
+<area shape="poly" id="edge22_Node000020_Node000023" title=" " alt="" coords="899,944,922,955,946,972,970,988,980,994,978,998,967,993,943,976,919,960,896,948"/>
+<area shape="poly" id="edge26_Node000026_Node000017" title=" " alt="" coords="405,994,453,980,537,949,539,954,455,985,407,1000"/>
+<area shape="rect" id="Node000027" href="$namespacepandora.html#a8f6ce14b100b1ef4d94aab7285a717ba" title=" " alt="" coords="502,1003,707,1029"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="407,1013,486,1013,486,1019,407,1019"/>
+</map>

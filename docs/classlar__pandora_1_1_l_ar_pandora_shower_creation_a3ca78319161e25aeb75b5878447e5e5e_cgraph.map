@@ -1,0 +1,64 @@
+<map id="lar_pandora::LArPandoraShowerCreation::produce" name="lar_pandora::LArPandoraShowerCreation::produce">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,544,213,587"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_shower_creation.html#ae64894d8588e78996b4b96cfd4411e07" title="Build a recob::PCAxis object." alt="" coords="261,389,468,432"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,542,192,500,259,456,297,437,299,441,262,461,195,505,139,546"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#ad003ae5274e17a1ea0a41b1b3644e949" title="Return centroid." alt="" coords="516,147,699,189"/>
+<area shape="poly" id="edge23_Node000001_Node000003" title=" " alt="" coords="112,543,128,487,156,413,176,373,199,334,227,298,259,266,315,229,377,203,441,185,500,174,501,179,442,190,379,208,318,234,262,270,231,301,203,337,180,375,161,415,133,489,118,544"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a5a48c43cbcbc9abd8920acaea9b78d1c" title="Return vector of eigenvalues." alt="" coords="516,213,699,256"/>
+<area shape="poly" id="edge25_Node000001_Node000004" title=" " alt="" coords="115,543,134,497,164,437,205,376,231,347,259,323,316,290,379,265,441,249,500,239,501,245,443,254,380,271,319,294,262,328,234,351,210,379,168,440,139,499,120,545"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a0d5ec068af1bfc84508afc50440de117" title="Return primary axis." alt="" coords="516,515,699,557"/>
+<area shape="poly" id="edge26_Node000001_Node000005" title=" " alt="" coords="213,557,500,540,501,545,213,562"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#ad46e38ef05b2b4cef2d11a21aabb2d66" title="Return secondary axis." alt="" coords="516,280,699,323"/>
+<area shape="poly" id="edge32_Node000001_Node000006" title=" " alt="" coords="119,543,140,506,171,460,211,414,259,375,317,346,380,325,442,312,500,304,501,309,443,317,381,330,320,351,262,380,215,418,175,463,144,509,123,545"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a3c942afb232d9b189afc30e731f9eda9" title="Return tertiary axis." alt="" coords="516,448,699,491"/>
+<area shape="poly" id="edge33_Node000001_Node000007" title=" " alt="" coords="206,541,260,529,500,485,501,490,261,535,207,546"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_shower_creation.html#ae3548c3e9f3f370b5d5dcea19b1d8989" title="Build a recob::Shower object." alt="" coords="261,573,468,616"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="213,575,246,578,245,584,213,580"/>
+<area shape="rect" id="Node000015" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ab49674a5faa4d73c5f0e5daa283ff36f" title="Collect the reconstructed PFParticles from the ART event record." alt="" coords="264,640,465,683"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="161,585,262,626,280,632,278,637,260,630,159,590"/>
+<area shape="rect" id="Node000016" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a36a29c620ef728f58c8dd9ec40a51563" title="Collect the reconstructed PFParticles and associated Vertices from the ART event record." alt="" coords="264,707,465,749"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="132,585,188,638,223,667,262,692,272,698,270,702,259,697,220,672,184,642,128,589"/>
+<area shape="rect" id="Node000017" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a9bc28edd076e556c05896f47ddc9cbcb" title="Get all hits associated with input clusters." alt="" coords="264,773,465,816"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="124,586,145,623,176,670,215,718,262,759,269,763,266,768,259,763,212,722,172,673,140,626,119,588"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="280,840,449,883"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="119,586,137,636,166,700,208,768,234,799,262,826,268,830,265,835,259,830,230,802,204,771,162,703,132,638,114,588"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_pfo_helper.html#a5c6ed6d6c47e3953cd3be85ed928afbc" title="Perform PCA analysis on a set of 3D points and return results." alt="" coords="278,88,451,131"/>
+<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="111,543,123,474,150,375,169,320,194,265,223,213,259,165,293,137,297,141,263,169,228,216,198,268,174,322,155,376,129,475,116,544"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="280,907,449,949"/>
+<area shape="poly" id="edge34_Node000001_Node000022" title=" " alt="" coords="117,586,130,647,157,729,177,773,201,817,229,857,262,893,269,898,265,902,259,897,225,861,196,820,172,776,152,731,125,648,111,588"/>
+<area shape="rect" id="Node000025" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#afbe8fb81997149c6e0662b432a800e00" title="Determine whether a particle has been reconstructed as shower&#45;like." alt="" coords="264,973,465,1016"/>
+<area shape="poly" id="edge37_Node000001_Node000025" title=" " alt="" coords="115,586,125,658,149,758,168,812,193,865,224,915,263,959,266,962,262,966,259,963,220,919,188,868,163,814,144,759,120,659,109,587"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,388,394,348,425,298,466,245,514,199,520,195,523,200,518,203,470,249,430,301,399,351,378,390"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,387,437,328,474,295,515,266,523,261,526,266,517,270,478,299,441,332,385,391"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="398,430,453,465,517,500,529,506,527,511,515,505,450,469,395,435"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="412,386,515,339,542,327,544,332,517,344,414,391"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="456,430,502,441,501,446,455,435"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="757,493,926,536"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="444,386,502,376,567,370,635,374,700,389,735,407,767,430,816,480,813,483,763,434,732,412,698,395,634,379,567,376,503,381,445,391"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="757,824,926,867"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="468,404,535,404,603,408,661,417,684,424,701,434,724,485,761,590,831,808,826,810,756,591,719,487,697,438,682,429,660,422,602,413,535,409,468,409"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="524,581,692,624"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="383,430,438,497,476,534,518,567,525,572,522,576,514,572,472,538,434,501,379,434"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="455,570,501,559,502,564,456,575"/>
+<area shape="poly" id="edge17_Node000011_Node000008" title=" " alt="" coords="451,614,470,626,486,646,493,666,500,685,517,700,565,722,607,728,649,721,698,700,721,687,741,670,777,630,804,587,823,549,828,551,809,590,781,633,745,674,724,691,701,705,651,726,607,734,564,727,515,705,496,688,488,668,481,648,466,630,448,619"/>
+<area shape="poly" id="edge18_Node000011_Node000009" title=" " alt="" coords="456,614,470,626,487,651,494,677,495,702,492,727,490,751,491,775,499,797,518,818,542,835,568,848,626,863,685,867,742,863,742,868,685,872,625,868,566,853,539,840,514,822,495,799,486,776,484,751,487,727,489,702,489,678,482,654,466,630,453,619"/>
+<area shape="poly" id="edge19_Node000011_Node000010" title=" " alt="" coords="469,595,508,597,508,602,468,601"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a6b6cb26566c3fb601e7aa3076e7bb5f0" title="Return vector of lengths." alt="" coords="516,765,699,808"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="454,614,470,626,483,641,490,656,495,686,500,716,507,730,518,745,529,755,526,759,514,748,502,733,495,717,490,687,485,658,478,644,466,630,451,619"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#a70f8bace623ce370fc7662a05facb4d6" title="Return primary length." alt="" coords="516,648,699,691"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="437,614,522,640,520,645,436,619"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_shower_p_c_a.html#aa10560a37a2bf1b2fc3cfac8fe9f4159" title="Return secondary length." alt="" coords="516,883,699,925"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="457,615,470,626,490,657,499,686,499,716,496,745,493,774,493,803,500,832,518,862,527,871,523,875,514,866,495,834,488,803,487,774,491,744,494,716,493,687,485,659,466,630,453,619"/>
+<area shape="poly" id="edge14_Node000013_Node000008" title=" " alt="" coords="676,645,698,634,758,590,807,545,811,549,761,595,701,638,678,650"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="694,880,741,868,743,873,696,885"/>
+<area shape="poly" id="edge28_Node000019_Node000008" title=" " alt="" coords="451,89,511,85,577,87,642,102,673,115,701,133,739,169,770,211,794,258,812,308,833,403,842,478,836,478,828,404,806,309,789,261,765,214,735,172,698,137,670,120,640,107,576,93,511,90,452,95"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="521,29,694,72"/>
+<area shape="poly" id="edge29_Node000019_Node000020" title=" " alt="" coords="451,86,505,73,507,78,452,91"/>
+<area shape="poly" id="edge31_Node000020_Node000020" title=" " alt="" coords="563,29,562,19,569,10,584,5,608,3,633,5,648,11,646,16,631,10,608,8,586,10,572,15,567,21,569,28"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="747,29,936,72"/>
+<area shape="poly" id="edge30_Node000020_Node000021" title=" " alt="" coords="694,48,732,48,732,53,694,53"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="524,949,692,992"/>
+<area shape="poly" id="edge35_Node000022_Node000023" title=" " alt="" coords="450,940,509,951,508,956,449,945"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="757,949,926,992"/>
+<area shape="poly" id="edge36_Node000023_Node000024" title=" " alt="" coords="692,968,742,968,742,973,692,973"/>
+</map>

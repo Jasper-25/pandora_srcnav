@@ -1,0 +1,40 @@
+<map id="pandora::CaloHit::GetParentAddress" name="pandora::CaloHit::GetParentAddress">
+<area shape="rect" id="Node000001" title="Get the address of the parent calo hit in the user framework." alt="" coords="1435,205,1620,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_manager.html#a53ef316ddd32f30c93d6b0b329b121de" title="Whether two candidate calo hit fragments can be merged." alt="" coords="1190,5,1382,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1504,194,1455,127,1422,92,1386,62,1365,51,1368,46,1389,58,1426,88,1459,123,1508,191"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a4c0e977d2bed591be6447e0da9477900" title=" " alt="" coords="1192,72,1380,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1488,197,1441,162,1386,129,1360,118,1363,113,1389,124,1444,158,1491,193"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a3c98b2c24e7227df2e0f175c62c02ca6" title="Look up ART hit from an input Pandora hit." alt="" coords="1184,139,1387,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1433,203,1365,185,1367,179,1434,198"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="1192,205,1380,248"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1420,229,1380,229,1380,224,1420,224"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_binary_file_writer.html#a79550babfc8713146f6aa82c25812b39" title="Write a calo hit to the current position in the file." alt="" coords="1202,272,1370,315"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1434,255,1367,274,1365,269,1433,250"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_xml_file_writer.html#a74c74e56a0a76102d2a5b6d2b06c70cc" title="Write a calo hit to the current position in the file." alt="" coords="1210,339,1362,381"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1491,260,1444,296,1389,329,1363,341,1360,336,1386,324,1441,291,1488,256"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_file_writer.html#a8b524f46333d6ba975f4ced255a1f089" title="Write a calo hit to mc particle relationship to the current position in the file." alt="" coords="1196,405,1376,464"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1507,263,1458,329,1425,364,1389,395,1371,407,1368,402,1386,391,1422,360,1454,326,1503,259"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit_manager.html#ab269e64ca9c5ef422a3dc050c3507acf" title="Merge two calo hit fragments, originally from the same parent hit, to form a new calo hit." alt="" coords="950,5,1119,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1174,29,1119,29,1119,24,1174,24"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_output.html#aafd6d5d251c97063d5627240bec44aab" title="Build a new slice object from a PFO, this can be a top&#45;level parent in a hierarchy or a &quot;slice PFO&quot; f..." alt="" coords="933,76,1136,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1182,137,1122,122,1123,117,1184,132"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a8d0344ff3dec94543a4733582a8def3c" title="Collect all 2D and 3D hits that were used / produced in the reconstruction and map them to their corr..." alt="" coords="681,143,885,185"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="1169,164,885,166,885,161,1169,158"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a729c06efd94a1d1efb847981399fc2cc" title="Build slices &#45; collections of hits which each describe a single particle hierarchy." alt="" coords="681,76,885,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="917,100,885,100,885,95,917,95"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="430,109,633,152"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="666,115,634,120,634,114,666,110"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="218,109,382,152"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="414,133,382,133,382,128,414,128"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,109,170,152"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="202,133,170,133,170,128,202,128"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="666,151,634,147,634,142,666,146"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_file_writer.html#a6fe5646593f9ebcb7a424120dc86092f" title="Write calo hit to mc particle relationships for a specified calo hit list." alt="" coords="944,405,1125,464"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="1180,437,1125,437,1125,432,1180,432"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_file_writer.html#a59bca085b58b5ef994a3d46c9b96158a" title="Write the specified event components to the file." alt="" coords="717,413,849,456"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="928,437,849,437,849,432,928,432"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="449,384,615,427"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="702,428,615,418,616,412,702,423"/>
+<area shape="rect" id="Node000019" href="$class_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="442,451,622,477"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="702,447,622,456,622,451,702,441"/>
+</map>

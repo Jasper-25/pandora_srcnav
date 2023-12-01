@@ -1,0 +1,20 @@
+<map id="pandora::CaloHitMetadata::GetCaloHitReplacementList" name="pandora::CaloHitMetadata::GetCaloHitReplacementList">
+<area shape="rect" id="Node000001" title="Get the calo hit replacement list." alt="" coords="442,93,631,136"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_manager.html#aa7e88daddf21bf63e288e9a869f94534" title="Update all calo hit lists to account for changes by daughter recluster processes." alt="" coords="225,139,392,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,139,393,146,392,141,426,134"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit_metadata.html#a48c45479b9123f7f361a0609ff00eda1" title="Update metadata to account for changes by daughter recluster processes." alt="" coords="223,48,394,91"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="426,95,394,89,395,84,427,90"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="344,125,330,120,308,117,288,119,275,124,270,130,272,138,267,139,265,129,272,120,287,114,308,112,332,114,346,121"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit_manager.html#a77da7f5b7d31d3667a8b75fe340a0883" title="End reclustering operations and update calo hit lists accordingly." alt="" coords="6,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,132,221,105,198,82,173,62,152,51,154,46,176,58,201,78,224,101,262,128"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit_manager.html#a5a3664d86547ceaeec501525a9e45e12" title="Fragment a calo hit into two daughter calo hits, with a specified energy division." alt="" coords="6,72,174,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,136,162,118,163,113,223,131"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit_manager.html#ab269e64ca9c5ef422a3dc050c3507acf" title="Merge two calo hit fragments, originally from the same parent hit, to form a new calo hit." alt="" coords="5,139,175,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="209,163,175,163,175,157,209,157"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit_manager.html#ab6d9aa17ae11d729698646bd58c956b0" title="Update all calo hit lists to account for a specific calo hit replacement." alt="" coords="6,205,174,248"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="223,189,163,207,162,202,221,184"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="207,52,174,46,175,40,208,47"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="208,83,175,87,174,81,207,78"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="237,100,224,105,176,129,149,140,147,136,174,124,222,100,234,95"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="344,35,330,29,308,27,288,29,275,33,270,39,272,47,267,48,265,38,272,29,287,23,308,21,332,24,346,30"/>
+</map>

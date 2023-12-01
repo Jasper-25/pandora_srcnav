@@ -1,0 +1,45 @@
+<map id="lar_content::XOverlap::GetXOverlapSpan" name="lar_content::XOverlap::GetXOverlapSpan">
+<area shape="rect" id="Node000001" title="Get the x overlap span." alt="" coords="769,272,913,315"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_clear_tracks_tool.html#ad5b0b5d1a529324e8c2ccdd6edab522f" title="Create three dimensional particles for a given tensor element list." alt="" coords="520,5,703,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="828,257,814,212,792,160,760,107,741,83,720,62,702,50,705,46,723,58,745,80,765,104,796,157,819,211,833,256"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_missing_track_tool.html#ac8657a5ccfde1a6c61cdbd23244424d8" title="Find missing tracks, due to merging of multiple particle deposits into single hits during hit creatio..." alt="" coords="526,72,696,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="821,259,781,193,753,158,720,129,695,115,698,111,723,124,757,154,785,189,826,257"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_shower_overlap_result.html#a2e4afa3edfb449670e7c0d30e395d1e2" title="Track overlap result less than operator." alt="" coords="522,139,701,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="807,263,767,228,720,196,695,184,698,180,723,191,770,224,810,259"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_simple_showers_tool.html#aef528d640360d7e221d225ab7b39c6f6" title="Whether a provided (iterator to a) tensor element passes the selection cuts for particle creation." alt="" coords="520,205,703,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="754,271,687,251,688,246,756,266"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_missing_track_segment_tool.html#ad62f0311094d8328cb843eafb69e1eda" title="Select a list of the relevant elements from a set of connected tensor elements." alt="" coords="513,272,710,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="754,296,710,296,710,291,754,291"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_track_splitting_tool.html#abf069b459e1288faf92423aa2d265d12" title="Select a list of the relevant elements from a set of connected tensor elements." alt="" coords="525,339,697,381"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="756,321,688,341,687,335,754,316"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a68bb8fa13794a5fe2d6caacb8ad421e9" title="Select a list of track&#45;like elements crossing a gap in one or more views from a set of connected tens..." alt="" coords="520,405,703,448"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="810,328,770,363,723,396,698,407,695,402,720,391,767,359,807,324"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_clear_showers_tool.html#aaff67a460847424daea9143845738561" title="Select a list of large shower&#45;like elements from a set of connected tensor elements." alt="" coords="501,472,721,515"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="826,330,785,397,757,432,723,462,703,474,700,469,720,458,753,428,781,394,821,327"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_long_tracks_tool.html#aa841213b826545b9e1c2dcc2eaeb209b" title="Select a list of long track&#45;like elements from a set of connected tensor elements." alt="" coords="519,539,703,581"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="833,331,819,376,796,429,765,483,745,507,723,529,705,541,702,536,720,525,741,504,760,480,792,427,814,374,828,329"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_clear_tracks_tool.html#a1913d860f4d1719dbb71beb2ff32bc7a" title="Run the algorithm tool." alt="" coords="280,5,442,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,29,442,29,442,24,504,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_missing_track_tool.html#ad493d050f90581e84a34b15b15238ce4" title="Run the algorithm tool." alt="" coords="276,72,446,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="510,96,447,96,447,91,510,91"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_missing_track_segment_tool.html#ab9bf04482d464dc49b3d07b1a6bbefb2" title="Find remaining tracks, hidden by missing track segments (and maybe other ambiguities) in the tensor." alt="" coords="276,272,446,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="497,296,447,296,447,291,497,291"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_missing_track_segment_tool.html#ae3f72d66f0347edf82ae3cf3a71d8aac" title="Run the algorithm tool." alt="" coords="28,272,198,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="260,296,198,296,198,291,260,291"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_track_splitting_tool.html#a40ae97a89e441ef91e7cd92e181dbd89" title="Find remaining tracks, hidden by spurious track segments (and maybe other ambiguities) in the tensor." alt="" coords="275,339,447,381"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="510,363,448,363,448,357,510,357"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_track_splitting_tool.html#abef8d992f9147b3ea42d248322071fdc" title="Run the algorithm tool." alt="" coords="27,339,199,381"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="259,363,199,363,199,357,259,357"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#ac318e97bccac655cd6740fa05f999520" title="Find tracks crossing gaps, with unambiguous connection but poor overlap due to gaps." alt="" coords="269,405,453,448"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="504,429,453,429,453,424,504,424"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a4814a2748eb9f38d0faec6c3e56eb7a3" title="Run the algorithm tool." alt="" coords="21,405,205,448"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="253,429,205,429,205,424,253,424"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_clear_showers_tool.html#a07f166cac27b8e7246fb14fc3a423220" title="Find clear shower matches, hidden by simple ambiguities in the tensor." alt="" coords="274,472,448,515"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="485,496,448,496,448,491,485,491"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_clear_showers_tool.html#a20fea69f6be612f9fce0589a6e62fa23" title="Run the algorithm tool." alt="" coords="26,472,200,515"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="259,496,200,496,200,491,259,491"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_long_tracks_tool.html#a1b3c2ea8e404e741e672f855fd32f44a" title="Find long tracks, hidden by simple ambiguities in the tensor." alt="" coords="269,539,453,581"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="504,563,454,563,454,557,504,557"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_long_tracks_tool.html#a0142fe0228893b63f310a22feb1c44ff" title="Run the algorithm tool." alt="" coords="5,547,221,573"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="253,563,221,563,221,557,253,557"/>
+</map>

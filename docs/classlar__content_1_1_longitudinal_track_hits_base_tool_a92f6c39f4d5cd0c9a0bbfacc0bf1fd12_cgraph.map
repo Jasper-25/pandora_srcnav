@@ -1,0 +1,30 @@
+<map id="lar_content::LongitudinalTrackHitsBaseTool::GetVertexAndEndPositions" name="lar_content::LongitudinalTrackHitsBaseTool::GetVertexAndEndPositions">
+<area shape="rect" id="Node000001" title="Get reconstructed vertex and end positions for this 3D track." alt="" coords="5,163,226,221"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="302,5,499,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,160,205,116,272,74,287,67,289,72,275,78,208,121,152,164"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="304,88,497,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,160,288,144,290,149,227,166"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="575,281,775,308"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="227,213,274,223,574,276,573,281,273,228,225,218"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="315,171,486,213"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="226,189,299,189,299,195,226,195"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#a08744900f048d94f6449a9cc108e41a4" title="Combine two 2D coordinates to give a 3D coordinate." alt="" coords="274,288,527,331"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="174,220,275,267,311,280,309,285,273,272,171,224"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="582,19,768,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,34,566,35,566,41,499,39"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="496,88,581,63,583,69,498,93"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="829,233,997,276"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="486,203,575,216,813,243,813,248,575,221,485,208"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="591,97,759,140"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="484,167,526,156,578,142,580,147,528,161,485,173"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="591,164,759,207"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="486,187,575,185,575,190,486,193"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="527,300,560,298,560,303,528,305"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab421842850d620960bfd7e33dbedc703" title="Merge 2D positions from two views to give unified 3D position." alt="" coords="578,332,773,375"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="528,327,563,333,562,338,527,332"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="744,329,774,318,854,281,857,286,776,322,746,334"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="823,388,1003,431"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="769,373,809,382,807,387,768,378"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="829,321,997,364"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="773,346,813,344,814,350,773,352"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="lar_content::GlobalAsymmetryFeatureTool::GetAsymmetryForView" name="lar_content::GlobalAsymmetryFeatureTool::GetAsymmetryForView">
+<area shape="rect" id="Node000001" title="Get the global asymmetry feature for a given view." alt="" coords="5,567,238,609"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_asymmetry_feature_base_tool.html#aff4189506686c470f8cf527e13bac13c" title="Calculate the asymmetry feature." alt="" coords="321,351,525,393"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,564,200,499,240,462,284,428,343,398,345,402,287,433,244,466,203,503,143,568"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1103,489,1272,532"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="145,608,205,659,244,684,287,703,361,721,421,724,482,716,560,703,639,688,720,670,876,624,1014,577,1120,536,1121,541,1016,582,878,629,721,675,641,693,560,708,483,721,421,729,360,726,285,708,242,689,202,663,142,612"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="327,533,519,576"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="238,572,311,564,312,570,239,578"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#a7b24c3e486aea675969c09f901784807" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="303,600,543,643"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="239,598,288,604,288,609,238,604"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="321,667,525,693"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="170,608,225,631,286,652,318,660,317,665,285,657,223,636,168,612"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_asymmetry_feature_base_tool.html#a2a04a181f35d9b206e7ad72970e472d2" title="Increment the asymmetry parameters." alt="" coords="286,443,560,485"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="154,564,214,529,285,495,304,488,306,493,287,500,216,533,157,568"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="860,405,1028,448"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,381,608,391,845,415,844,420,608,396,525,387"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="620,339,788,381"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="525,365,604,362,604,367,525,370"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_cluster_helper.html#a5c6b1f6eb6de0c5ede0315d44119b3af" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="608,172,799,215"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="457,348,654,221,657,226,460,352"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="860,339,1028,381"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="788,357,844,357,844,363,788,363"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1018,380,1042,391,1104,433,1155,476,1151,481,1101,437,1039,396,1016,384"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="847,72,1041,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="748,169,846,124,862,118,864,123,848,129,750,174"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="860,139,1028,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="800,177,844,171,845,176,800,183"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="860,205,1028,248"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="800,204,845,210,844,216,800,209"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="860,272,1028,315"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="750,213,848,258,864,264,862,269,846,262,748,218"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="848,5,1040,48"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="721,170,774,114,808,84,846,58,855,53,858,57,849,62,812,88,777,118,725,173"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="1089,5,1286,48"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1040,24,1073,24,1073,29,1040,29"/>
+<area shape="poly" id="edge14_Node000014_Node000014" title=" " alt="" coords="370,533,368,523,377,514,395,509,423,507,453,509,471,515,469,520,452,514,423,512,396,514,380,519,373,525,375,532"/>
+<area shape="poly" id="edge22_Node000017_Node000006" title=" " alt="" coords="516,483,561,495,585,502,608,508,737,520,867,523,987,521,1088,516,1088,521,988,527,867,529,737,525,608,513,583,508,559,500,515,489"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="620,456,788,499"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="561,468,604,470,604,475,560,473"/>
+<area shape="poly" id="edge20_Node000018_Node000003" title=" " alt="" coords="788,457,844,445,845,450,789,462"/>
+<area shape="poly" id="edge21_Node000018_Node000006" title=" " alt="" coords="788,480,1088,501,1088,507,788,486"/>
+</map>

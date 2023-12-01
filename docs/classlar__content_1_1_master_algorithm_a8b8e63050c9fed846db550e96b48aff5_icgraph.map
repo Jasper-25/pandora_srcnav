@@ -1,0 +1,16 @@
+<map id="lar_content::MasterAlgorithm::Copy" name="lar_content::MasterAlgorithm::Copy">
+<area shape="rect" id="Node000001" title="Copy a specified calo hit to the provided pandora instance." alt="" coords="527,105,715,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#aa0a6e153f0974db834891ae4f0fc4f25" title="Copy mc particles in the named input list to all pandora worker instances." alt="" coords="282,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,101,478,62,447,51,449,46,480,58,565,96"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#aca8703c760cb88061669c1e03f446a59" title="Run the cosmic&#45;ray reconstruction worker instances." alt="" coords="273,72,479,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,114,479,110,480,105,512,109"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="282,139,470,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="512,144,471,150,470,145,511,139"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#aaf15232ca65ed6ab5b9f22a565badcf0" title="Run the event slicing procedures, dividing available hits up into distinct 3D regions." alt="" coords="282,205,470,248"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="565,158,480,196,449,207,447,202,478,191,563,153"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,113,225,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,56,274,62,148,115,146,110,272,58,290,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="257,111,225,115,224,110,257,106"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="266,149,224,143,225,138,267,143"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="290,202,272,196,146,143,148,138,274,191,291,197"/>
+</map>

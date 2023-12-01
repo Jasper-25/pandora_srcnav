@@ -1,0 +1,36 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::ProcessRemnantClusters" name="lar_content::TrackRefinementBaseAlgorithm::ProcessRemnantClusters">
+<area shape="rect" id="Node000001" title="Process the remnant clusters separating those that stradle the main track." alt="" coords="5,229,268,272"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a84fb6d4f80db3ea013c0d46f29f74de7" title="Add a cluster to the nearest cluster satisfying separation distance thresholds." alt="" coords="328,96,566,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,226,380,143,382,148,189,231"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a878ee090afca012c50be5bbb691ea9f0" title="Fragment a cluster using simple hit separation logic." alt="" coords="316,229,578,272"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="268,248,300,248,300,253,268,253"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a2a7562f276170ff59818af2686dcb84a" title="Whether a remnant cluster is considered to be disconnected and therefore should undergo further fragm..." alt="" coords="338,421,556,480"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="173,270,388,410,385,415,170,275"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="632,96,823,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,115,616,115,616,120,566,120"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a76d18466b4ff701fda094b74371dd24a" title="Merge two clusters in the current list, enlarging one cluster and deleting the second." alt="" coords="645,5,810,48"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="515,93,644,51,646,56,516,98"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="686,96,684,86,691,77,706,71,728,69,751,72,765,78,763,83,750,77,728,75,707,77,694,81,689,87,691,95"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="877,196,1019,239"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="811,46,831,58,863,86,891,119,931,181,927,184,887,122,859,90,828,62,809,51"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="906,196,904,186,911,177,926,171,948,169,972,172,986,178,984,183,970,177,948,175,927,177,915,181,910,187,911,195"/>
+<area shape="poly" id="edge12_Node000006_Node000003" title=" " alt="" coords="481,226,547,188,625,148,640,142,642,147,627,153,549,192,484,231"/>
+<area shape="rect" id="Node000007" href="$class_pandora_content_api.html#a7e15ff395d4bb619f16744c27207785c" title="Add a calo hit, or a list of calo hits, to a cluster." alt="" coords="657,163,798,205"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="539,226,641,202,642,207,540,231"/>
+<area shape="rect" id="Node000008" href="$class_pandora_content_api.html#a63c1c9204e33348ac99c4164e4d06b27" title="End cluster fragmentation operations on clusters in the algorithm input list." alt="" coords="657,229,798,272"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="578,248,642,248,642,253,578,253"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="632,363,823,405"/>
+<area shape="poly" id="edge13_Node000006_Node000009" title=" " alt="" coords="484,270,549,309,627,348,642,354,640,359,625,353,547,314,481,275"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#a63799d7ff4c48979c0ff4e62f708feee" title="Initialize cluster fragmentation operations on clusters in the algorithm input list...." alt="" coords="652,296,803,339"/>
+<area shape="poly" id="edge14_Node000006_Node000010" title=" " alt="" coords="540,270,637,293,636,298,539,275"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="799,192,862,202,861,207,798,197"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="798,237,861,228,862,233,799,243"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="800,293,828,282,898,245,900,250,830,286,802,298"/>
+<area shape="poly" id="edge19_Node000011_Node000009" title=" " alt="" coords="555,422,620,407,621,412,557,427"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="636,429,820,472"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="556,448,620,448,620,453,556,453"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="626,496,829,523"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="557,471,646,490,645,495,556,476"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="631,547,824,589"/>
+<area shape="poly" id="edge20_Node000011_Node000014" title=" " alt="" coords="508,478,627,532,644,539,642,544,625,537,506,483"/>
+</map>

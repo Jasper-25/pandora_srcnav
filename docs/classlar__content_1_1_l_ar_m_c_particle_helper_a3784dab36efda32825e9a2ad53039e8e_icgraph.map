@@ -1,0 +1,59 @@
+<map id="lar_content::LArMCParticleHelper::GetLeadingMCParticle" name="lar_content::LArMCParticleHelper::GetLeadingMCParticle">
+<area shape="rect" id="Node000001" title="Get the leading particle in the hierarchy, for use at ProtoDUNE." alt="" coords="1673,565,1870,608"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa8c8f2e918c4db379fe3c9023c83c446" title="Returns true if passed particle whose leading meets the passed criteria." alt="" coords="1414,499,1625,541"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1673,563,1602,545,1604,539,1675,558"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1d6a44cc759e8841e9c414dfdd52a3e4" title="Get mapping from individual mc particles (in a provided list) and their leading parent mc particles." alt="" coords="1431,565,1608,608"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="1658,589,1609,589,1609,584,1658,584"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a0385704b2322408b83152b9de3a6c21c" title="Whether a provided mc particle matches the implemented definition of being leading." alt="" coords="1431,632,1608,675"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="1675,615,1604,634,1602,629,1673,610"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa214fa4f521912b13ef2f5d66793f0b0" title="Select mc particles matching given criteria from an input list." alt="" coords="1154,491,1361,549"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1398,523,1361,523,1361,517,1398,517"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a32aa66741fdc5835f46ec0353ec7b1ca" title="Select target, reconstructable mc particles that match given criteria." alt="" coords="832,405,1101,448"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1148,488,1035,451,1036,446,1150,483"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a07190262e8db399b4426095d803b1b8a" title="Select target, reconstructable mc particles in the relevant hierarchy that match given criteria." alt="" coords="855,579,1078,637"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="1144,557,1067,581,1065,575,1143,552"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_neutrino_event_validation_algorithm.html#afb785cdcdc7b1133185cc228de1c3abe" title="Fill the validation info containers." alt="" coords="543,72,778,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="951,392,928,334,893,262,844,190,815,157,783,129,764,117,767,113,786,125,819,154,849,187,897,260,933,332,956,390"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_test_beam_event_validation_algorithm.html#acfdba8c46f0a1904b36caca5f748eb5b" title="Fill the validation info containers." alt="" coords="543,139,778,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="945,393,919,348,882,294,837,241,783,196,762,184,764,179,786,191,840,237,887,291,923,345,950,390"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#a7bb98eb69dab7e4d7af6d2301c6a7203" title="Fill the validation info containers." alt="" coords="557,739,764,797"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="928,461,879,508,855,537,835,568,824,591,819,612,816,651,811,689,802,708,786,729,766,744,763,740,782,725,797,706,806,687,811,650,814,611,819,589,830,565,851,534,875,505,924,457"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="546,205,775,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="936,395,871,327,829,292,783,262,758,251,760,246,786,258,832,288,874,324,940,391"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8830901c9a95cd0f1e2f223337abe492" title="Get the interaction type string." alt="" coords="537,272,784,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="918,399,855,363,783,329,751,318,753,313,785,324,857,359,920,395"/>
+<area shape="rect" id="Node000011" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#aad18c160403447b8da0445226d9b2eec" title=" " alt="" coords="567,339,754,381"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="850,404,754,383,755,378,851,399"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="546,405,775,448"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="817,429,776,429,776,424,817,424"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_event_writing_algorithm.html#ae92e84824f742ce4bbdf67f8077fb380" title="Whether current event passes mc particle constituent filter." alt="" coords="557,472,764,515"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="851,454,762,474,761,469,850,449"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_m_c_particle_monitoring_algorithm.html#ad2d706b3c4218b98f980202fe9705ce7" title="Run the algorithm." alt="" coords="552,539,769,581"/>
+<area shape="poly" id="edge16_Node000004_Node000017" title=" " alt="" coords="920,459,857,495,785,529,753,541,751,536,783,524,855,490,918,454"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_pfo_validation_algorithm.html#ad02633a20d555ba7819626769d44238e" title="Run the algorithm." alt="" coords="576,605,745,648"/>
+<area shape="poly" id="edge17_Node000004_Node000018" title=" " alt="" coords="940,462,874,530,832,565,786,596,747,612,745,607,783,591,829,561,871,526,936,458"/>
+<area shape="rect" id="Node000019" href="$classlar__dl__content_1_1_dl_hit_validation_algorithm.html#abe59d61752f0c3b972c272ead2d18e9f" title="Run the algorithm." alt="" coords="563,672,758,715"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="931,461,883,510,835,568,821,594,814,617,806,640,786,662,760,678,757,673,783,658,801,637,809,616,816,592,830,565,879,506,927,457"/>
+<area shape="rect" id="Node000020" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#a9b485bb733b2058205ec963dd35f3c85" title="Produce files that act as inputs to network training." alt="" coords="576,5,746,48"/>
+<area shape="poly" id="edge19_Node000004_Node000020" title=" " alt="" coords="955,391,936,321,902,232,880,185,852,140,820,98,783,62,765,50,745,42,747,37,768,46,786,58,824,95,857,137,884,183,907,230,941,319,960,390"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="231,272,489,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="521,296,489,296,489,291,521,291"/>
+<area shape="rect" id="Node000012" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a1608b4dbe3a9c6e4f258b90349a99c40" title=" " alt="" coords="251,339,469,381"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="552,363,469,363,469,357,552,357"/>
+<area shape="rect" id="Node000013" href="$classlar__dl__content_1_1_dl_vertexing_algorithm.html#a04e5aa6e1a6eb243574fcfda22ac6a57" title="Run the algorithm." alt="" coords="5,339,183,381"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="235,363,183,363,183,357,235,357"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="277,472,443,515"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="542,496,443,496,443,491,542,491"/>
+<area shape="rect" id="Node000021" href="$classlar__dl__content_1_1_dl_hit_track_shower_id_algorithm.html#a3cc588664937a012b74d5c02070512ce" title="Run the algorithm." alt="" coords="275,5,445,48"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="560,29,445,29,445,24,560,24"/>
+<area shape="poly" id="edge22_Node000022_Node000007" title=" " alt="" coords="857,647,834,662,819,678,811,695,802,712,786,729,766,741,763,737,783,725,798,709,806,692,815,675,831,658,854,642"/>
+<area shape="poly" id="edge24_Node000023_Node000022" title=" " alt="" coords="1416,593,1078,606,1078,601,1415,588"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a4163d53e6c1fdd3dbd41191ec9ce77ff" title="Get vector of leading MC particles from an input list of MC particles." alt="" coords="1149,624,1366,667"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="1415,653,1366,651,1366,646,1415,647"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ad73ea17a667420bfd06e0db5059049bc" title="Returns true if passed a leading beam MCParticle." alt="" coords="1158,691,1357,733"/>
+<area shape="poly" id="edge28_Node000024_Node000026" title=" " alt="" coords="1416,679,1356,693,1355,687,1415,674"/>
+<area shape="poly" id="edge27_Node000025_Node000022" title=" " alt="" coords="1133,632,1078,625,1079,620,1133,627"/>
+<area shape="poly" id="edge29_Node000026_Node000007" title=" " alt="" coords="1143,739,1101,745,923,761,765,769,765,763,923,756,1100,740,1142,734"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#aab5b2c7f5e90c3757ac4c88f7f1fb7f4" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="863,672,1070,731"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="1142,710,1070,708,1070,702,1142,705"/>
+</map>

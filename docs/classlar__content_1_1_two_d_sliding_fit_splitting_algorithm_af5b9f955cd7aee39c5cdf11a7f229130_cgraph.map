@@ -1,0 +1,36 @@
+<map id="lar_content::TwoDSlidingFitSplittingAlgorithm::DivideCaloHits" name="lar_content::TwoDSlidingFitSplittingAlgorithm::DivideCaloHits">
+<area shape="rect" id="Node000001" title="Divide calo hits in a cluster into two lists, each associated with a separate fragment cluster." alt="" coords="5,273,170,332"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="42,273,43,263,51,254,66,249,88,247,112,249,127,257,125,261,111,255,87,252,67,254,54,259,48,265,47,273"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_splitting_algorithm.html#a8dfcb77cfdc36eec61ff1e8121f16c24" title="Use sliding linear fit to identify the best split position." alt="" coords="236,140,401,199"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="124,271,167,239,216,208,225,204,228,208,219,213,170,244,127,275"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#ad25a3f6ab4539b67890161352e50bf1c" title="Get length squared of cluster." alt="" coords="223,223,414,265"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="169,279,216,267,217,272,171,284"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="218,289,419,316"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="170,300,203,300,203,305,170,305"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="218,340,419,383"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="171,321,217,333,216,338,169,326"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="233,415,404,457"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="127,330,170,362,219,392,246,406,243,411,216,397,167,366,124,335"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="482,5,666,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="403,220,417,209,431,191,438,172,440,135,443,97,450,77,465,58,468,56,471,60,469,62,455,80,448,98,445,135,443,174,436,193,421,213,406,224"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="482,72,666,115"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="400,220,417,209,433,189,440,168,448,146,465,125,470,121,473,125,469,129,452,149,445,169,438,191,421,213,403,224"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="467,139,680,165"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="392,220,418,208,441,191,466,175,484,168,486,173,468,180,444,196,420,213,394,225"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="478,189,669,232"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="414,229,462,223,463,228,415,234"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="490,256,658,299"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="415,254,475,262,474,267,414,259"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="490,323,658,365"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="394,263,420,275,444,292,468,308,481,314,479,319,466,313,441,296,418,280,392,268"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="490,389,658,432"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="404,264,421,275,432,288,439,301,445,327,451,352,458,364,469,375,477,382,474,386,465,379,454,367,447,354,440,328,434,303,428,291,417,279,401,268"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="489,456,659,499"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="405,447,474,458,473,464,404,452"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="728,389,905,432"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="653,453,721,434,722,439,655,458"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="728,456,905,499"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="659,475,713,475,713,480,659,480"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="728,523,905,565"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="655,497,722,515,721,521,653,502"/>
+</map>

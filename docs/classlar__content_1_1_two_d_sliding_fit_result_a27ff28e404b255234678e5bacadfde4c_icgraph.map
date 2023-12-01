@@ -1,0 +1,108 @@
+<map id="lar_content::TwoDSlidingFitResult::GetLayerFitResultMap" name="lar_content::TwoDSlidingFitResult::GetLayerFitResultMap">
+<area shape="rect" id="Node000001" title="Get the layer fit result map." alt="" coords="1624,699,1836,741"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_shower_start_finder_tool.html#abf3228f9b7ef9f949007ea469cc78e28" title="Build the downstream &#39;shower region&#39; at a given longitudinal distance along the spine." alt="" coords="1345,5,1546,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1722,683,1706,546,1677,359,1656,265,1633,179,1605,109,1590,82,1575,62,1545,42,1548,38,1578,58,1595,79,1610,107,1638,177,1662,263,1682,358,1712,545,1728,683"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_shower_region_feature_tool.html#a1d24aab8678e0d327f9e47c74417851b" title="Collect the shower region hits in a given view." alt="" coords="1347,237,1544,280"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="1724,684,1714,603,1690,498,1671,442,1646,388,1614,338,1575,294,1543,275,1546,270,1578,290,1618,334,1651,385,1676,440,1696,496,1720,602,1729,683"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_d_linear_fit_feature_tool.html#a965dd6d89471bd6cf090f7ed735ac95c" title="Calculation of several variables related to sliding linear fit." alt="" coords="1343,304,1548,363"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="1720,684,1705,618,1677,535,1658,492,1635,450,1607,411,1575,377,1547,358,1550,354,1578,373,1611,408,1639,447,1663,490,1682,534,1710,617,1725,683"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_three_d_linear_fit_feature_tool.html#acceba3abef99e1df819bf2cb080b8d10" title="Calculation of several variables related to sliding linear fit." alt="" coords="1336,453,1556,512"/>
+<area shape="poly" id="edge13_Node000001_Node000017" title=" " alt="" coords="1708,687,1685,649,1655,606,1618,563,1575,526,1555,514,1557,510,1578,522,1622,559,1659,603,1690,646,1713,684"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_shower_start_finder_tool.html#a294793724af6241cd445af152e685117" title="Parameterise the topological structure of the shower region." alt="" coords="1343,72,1548,131"/>
+<area shape="poly" id="edge16_Node000001_Node000020" title=" " alt="" coords="1721,684,1702,563,1670,401,1649,320,1627,246,1601,185,1574,145,1547,125,1551,120,1578,141,1606,183,1632,244,1655,318,1675,400,1707,562,1726,683"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_cone_cluster_mop_up_algorithm.html#a42e04031d3b543154f1b05c70ca028b8" title="Cluster mop up for a single view. This function is responsible for instructing pandora to make cluste..." alt="" coords="1342,387,1549,429"/>
+<area shape="poly" id="edge18_Node000001_Node000021" title=" " alt="" coords="1717,685,1698,631,1669,565,1628,499,1603,469,1575,443,1548,428,1551,424,1578,439,1607,466,1633,496,1674,563,1703,629,1722,683"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_shower_start_finder_tool.html#a2bef5823f7437dd4b49c4ad300f602bf" title="Determine the (X,Y,Z) position and direction at a given longitudinal distance along the spine." alt="" coords="1345,155,1546,213"/>
+<area shape="poly" id="edge19_Node000001_Node000022" title=" " alt="" coords="1726,683,1719,592,1710,533,1697,469,1678,404,1652,340,1618,280,1575,227,1545,207,1548,202,1578,223,1622,277,1656,338,1683,402,1702,468,1716,532,1724,591,1731,683"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_kink_splitting_algorithm.html#ab09e77f35401501421e3b2dc62d40c6e" title="Use sliding linear fit to identify the best split position." alt="" coords="1341,536,1550,579"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1697,689,1643,639,1610,614,1575,593,1549,582,1551,577,1578,588,1613,610,1646,635,1701,685"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_two_d_sliding_fit_result.html#af93218a297ca04d4b95f5c4d5ad3eb4e" title="Find sliding fit segments; sections with tramsverse direction." alt="" coords="1336,603,1555,645"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="1666,695,1575,660,1538,648,1539,643,1577,655,1667,690"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a09495b7c6be5f59c0d5dc0898afdef7e" title="Get the merging coordinate and direction for an input cluster with respect to an associated cluster." alt="" coords="1335,987,1557,1045"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="1718,757,1697,805,1667,862,1627,920,1578,970,1550,988,1547,984,1575,966,1623,916,1662,859,1692,802,1713,755"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_connection_region_feature_tool.html#a3dd29871515010d72f5ca786f8c51310" title="Obtain a cautious estimate of the largest 2D deflection of a connection pathway in a given view." alt="" coords="1315,669,1576,712"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="1608,710,1576,707,1577,702,1609,705"/>
+<area shape="rect" id="Node000037" href="$classlar__content_1_1_l_ar_particle_id_plugins_1_1_l_ar_muon_id.html#a6fd13658731ce811e9852ad06b130778" title="Get the muon track width estimator for a provided sliding fit result." alt="" coords="1367,787,1524,845"/>
+<area shape="poly" id="edge35_Node000001_Node000037" title=" " alt="" coords="1651,749,1525,792,1524,787,1649,744"/>
+<area shape="rect" id="Node000038" href="$classlar__content_1_1_cut_cluster_characterisation_algorithm.html#a01e80c75d6ef9ac277988e3e793f4993" title="Get a measure of the width of a cluster, using a sliding shower fit result." alt="" coords="1322,869,1570,912"/>
+<area shape="poly" id="edge36_Node000001_Node000038" title=" " alt="" coords="1703,755,1649,809,1614,836,1578,860,1552,871,1550,866,1575,855,1611,832,1645,805,1699,751"/>
+<area shape="rect" id="Node000039" href="$classlar__content_1_1_cut_cluster_characterisation_algorithm.html#a3e9db2bc658f756a9e12047cbdddda99" title="Whether cluster is identified as a clear track." alt="" coords="1012,819,1261,861"/>
+<area shape="poly" id="edge41_Node000001_Node000039" title=" " alt="" coords="1609,732,1444,751,1369,763,1316,777,1292,792,1268,809,1238,821,1236,816,1266,804,1289,788,1314,772,1368,758,1443,746,1609,727"/>
+<area shape="rect" id="Node000040" href="$classlar__content_1_1_cut_pfo_characterisation_algorithm.html#af442ba49becf2d6607b4b287b205e63e" title="Whether cluster is identified as a clear track." alt="" coords="1023,952,1250,995"/>
+<area shape="poly" id="edge42_Node000001_Node000040" title=" " alt="" coords="1716,757,1694,798,1664,844,1625,890,1578,926,1552,937,1519,946,1435,960,1340,969,1250,973,1250,968,1340,963,1434,955,1518,941,1551,932,1575,922,1621,886,1660,841,1690,795,1711,754"/>
+<area shape="rect" id="Node000043" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a0656d0da2271fdec036ebd2430a46312" title="Determine whether the cluster under investigation has muon contamination." alt="" coords="1338,1152,1553,1195"/>
+<area shape="poly" id="edge43_Node000001_Node000043" title=" " alt="" coords="1729,757,1719,837,1694,941,1675,996,1650,1049,1618,1099,1578,1142,1555,1157,1552,1153,1575,1138,1613,1095,1645,1046,1670,994,1689,939,1714,836,1724,757"/>
+<area shape="rect" id="Node000046" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a5bb4c14c1d33ecf8998ee10415dba7c1" title="Determine whether the cluster under investigation has muon contamination." alt="" coords="1341,1219,1550,1261"/>
+<area shape="poly" id="edge46_Node000001_Node000046" title=" " alt="" coords="1731,757,1725,848,1716,907,1703,970,1684,1035,1657,1098,1623,1157,1578,1209,1552,1226,1549,1222,1575,1205,1618,1154,1653,1096,1679,1033,1698,969,1711,906,1720,848,1726,757"/>
+<area shape="rect" id="Node000049" href="$classlar__content_1_1_delta_ray_removal_tool.html#aeb10f35f055d11efd3f3321ccbc661dd" title="Determine whether the cosmic ray cluster under investigation has delta ray contamination." alt="" coords="1348,1285,1543,1328"/>
+<area shape="poly" id="edge49_Node000001_Node000049" title=" " alt="" coords="1726,758,1707,875,1674,1030,1654,1108,1631,1178,1606,1236,1578,1275,1562,1288,1545,1296,1542,1292,1560,1283,1574,1271,1601,1233,1626,1176,1649,1106,1669,1029,1701,874,1721,757"/>
+<area shape="rect" id="Node000052" href="$classlar__content_1_1_shower_start_finder_tool.html#a36679b9b8d146e0cd97acaa701760d51" title="Create the [shower spine hit &#45;&gt; shower spine fit longitudinal projection] map." alt="" coords="453,777,649,836"/>
+<area shape="poly" id="edge52_Node000001_Node000052" title=" " alt="" coords="1728,757,1713,889,1684,1067,1664,1156,1640,1236,1612,1300,1595,1324,1578,1342,1544,1363,1502,1382,1453,1397,1398,1410,1274,1426,1141,1431,1007,1426,883,1409,828,1396,778,1381,736,1363,702,1342,686,1327,671,1306,645,1250,621,1181,601,1104,571,950,554,837,559,836,576,949,606,1103,626,1179,650,1248,676,1303,690,1323,705,1338,738,1358,780,1376,829,1391,884,1404,1008,1420,1141,1426,1274,1421,1397,1404,1452,1392,1500,1377,1542,1359,1575,1338,1591,1321,1607,1298,1635,1234,1659,1155,1679,1066,1708,889,1723,756"/>
+<area shape="rect" id="Node000053" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3e01cdbae15087db91845b45315bceee" title="Remove any hits in the upstream/downstream cluster that lie off of the main track axis (i...." alt="" coords="1333,1069,1558,1128"/>
+<area shape="poly" id="edge54_Node000001_Node000053" title=" " alt="" coords="1725,757,1709,822,1681,903,1662,945,1638,987,1611,1025,1578,1059,1560,1072,1557,1068,1575,1055,1607,1022,1634,984,1657,943,1676,901,1704,820,1720,756"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_shower_start_finder_tool.html#a88460b70b9900598b0701b8b183e9b81" title="Whether a sensible shower cascade looks to originate at a given position." alt="" coords="1039,79,1234,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1338,55,1230,81,1229,75,1337,50"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_shower_start_finder_tool.html#a3d0626643a1b110e2b0b62016a0d73fe" title="Find the longitudinal bin which corresponds to the start position of the shower cascade." alt="" coords="703,69,958,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1023,102,958,102,958,97,1023,97"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_shower_start_finder_tool.html#a57794d4af222169ca89e4e0ad2090050" title="Find the position at which the shower cascade looks to originate, and its initial direction." alt="" coords="447,136,655,195"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="691,135,657,143,655,138,690,130"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_shower_start_finder_tool.html#a62ce4e7d8ac91a7b1f811e7d76fe86ff" title=" " alt="" coords="235,744,399,787"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="535,210,329,744,324,742,530,208"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#ab46655214320f8dd9c3cbc09bd0c1b96" title="Build the 2D ProtoShower objects for a given view." alt="" coords="5,736,187,795"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="219,768,187,768,187,763,219,763"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_shower_region_feature_tool.html#a0dcfeeebb205b73776d4a33ef052791a" title="Calculate the shower region variables for the input view." alt="" coords="1022,203,1251,261"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="1331,251,1251,245,1251,239,1332,246"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_shower_region_feature_tool.html#ad9229fef8fdda04fe3ca655ad4f0c4ed" title=" " alt="" coords="742,211,919,253"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="1006,235,919,235,919,229,1006,229"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_d_linear_fit_feature_tool.html#a8e08ef9b84ff39cd2789ed3b21aa1755" title=" " alt="" coords="1049,285,1224,328"/>
+<area shape="poly" id="edge11_Node000014_Node000015" title=" " alt="" coords="1327,326,1224,317,1224,312,1328,321"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_linear_fit_feature_tool.html#a151bd382c494805e5a153ec9ecf0aaf9" title=" " alt="" coords="743,285,918,328"/>
+<area shape="poly" id="edge12_Node000015_Node000016" title=" " alt="" coords="1033,309,919,309,919,304,1033,304"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_three_d_linear_fit_feature_tool.html#aefd66c37a2aa301a934d7526f0483d25" title=" " alt="" coords="1052,352,1221,395"/>
+<area shape="poly" id="edge14_Node000017_Node000018" title=" " alt="" coords="1326,449,1314,444,1290,426,1266,409,1220,393,1222,388,1268,404,1293,422,1316,439,1328,444"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_three_d_linear_fit_feature_tool.html#ad3bb0d3892be7e86da3ee16cee30111e" title=" " alt="" coords="746,352,915,395"/>
+<area shape="poly" id="edge15_Node000018_Node000019" title=" " alt="" coords="1036,376,916,376,916,371,1036,371"/>
+<area shape="poly" id="edge17_Node000020_Node000003" title=" " alt="" coords="1328,103,1234,103,1234,98,1328,98"/>
+<area shape="poly" id="edge21_Node000022_Node000003" title=" " alt="" coords="1329,155,1217,124,1218,119,1330,150"/>
+<area shape="poly" id="edge20_Node000022_Node000005" title=" " alt="" coords="1330,184,656,170,656,165,1330,179"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a09a794873dc5fe0434d17f999307e83a" title=" " alt="" coords="1034,419,1239,461"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="1321,599,1313,593,1300,578,1293,563,1288,532,1284,503,1277,489,1265,475,1238,458,1241,454,1269,471,1282,486,1289,501,1294,532,1298,561,1305,575,1317,589,1325,595"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a9e74ead94178039f69736c73cc4cbfb2" title=" " alt="" coords="1034,485,1239,528"/>
+<area shape="poly" id="edge25_Node000024_Node000026" title=" " alt="" coords="1323,598,1314,593,1298,580,1289,567,1280,554,1266,542,1238,529,1240,524,1268,538,1284,551,1293,564,1302,577,1316,588,1326,594"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="1034,552,1239,595"/>
+<area shape="poly" id="edge26_Node000024_Node000027" title=" " alt="" coords="1320,606,1239,593,1240,587,1321,601"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="1034,619,1239,661"/>
+<area shape="poly" id="edge27_Node000024_Node000028" title=" " alt="" coords="1320,633,1239,637,1239,632,1320,628"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a0f4e2026dcacd6cbad481858014c8b91" title="Constructor using specified primary axis and layer fit contribution map. User is responsible for ensu..." alt="" coords="1034,685,1239,728"/>
+<area shape="poly" id="edge28_Node000024_Node000029" title=" " alt="" coords="1342,653,1316,660,1268,676,1227,687,1226,682,1266,671,1314,655,1340,647"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#a8fa31c5ab3cf4ee354ccca6738818bc9" title="Find the best cluster association." alt="" coords="1014,1019,1259,1061"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="1319,1028,1260,1033,1259,1028,1319,1023"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#aa4fc20068d9fdd50c3c43a9e2396a664" title="Run the algorithm." alt="" coords="717,1052,944,1095"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="998,1058,945,1064,944,1058,998,1052"/>
+<area shape="rect" id="Node000034" href="$classlar__content_1_1_connection_region_feature_tool.html#ab36fb1008b9a484e0474fbff545ecc64" title="Obtain a cautious estimate of the largest 2D deflection of the connection pathway." alt="" coords="1037,752,1236,795"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="1353,719,1268,743,1224,754,1223,749,1266,737,1352,714"/>
+<area shape="rect" id="Node000035" href="$classlar__content_1_1_connection_region_feature_tool.html#a776e75ae74a76bd004047b5080fb98ce" title=" " alt="" coords="731,752,930,795"/>
+<area shape="poly" id="edge34_Node000034_Node000035" title=" " alt="" coords="1022,776,930,776,930,771,1022,771"/>
+<area shape="poly" id="edge37_Node000038_Node000039" title=" " alt="" coords="1306,870,1260,863,1261,858,1306,865"/>
+<area shape="poly" id="edge38_Node000038_Node000040" title=" " alt="" coords="1353,919,1268,943,1224,954,1223,949,1266,937,1352,914"/>
+<area shape="rect" id="Node000041" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a64b8bc495896a1c761b20f37f58a6bc8" title=" " alt="" coords="1045,885,1228,928"/>
+<area shape="poly" id="edge39_Node000038_Node000041" title=" " alt="" coords="1306,901,1228,905,1228,899,1306,895"/>
+<area shape="rect" id="Node000042" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a7425d815b3d3a5f0b5feb934cfef09ac" title=" " alt="" coords="739,885,922,928"/>
+<area shape="poly" id="edge40_Node000041_Node000042" title=" " alt="" coords="1029,909,923,909,923,904,1029,904"/>
+<area shape="rect" id="Node000044" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78860aa1431af987dcb65d9968873c78" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="1006,1152,1267,1195"/>
+<area shape="poly" id="edge44_Node000043_Node000044" title=" " alt="" coords="1322,1176,1267,1176,1267,1171,1322,1171"/>
+<area shape="rect" id="Node000045" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a2d8fb65c18c0674976c885a445c34da5" title="Run the algorithm tool." alt="" coords="736,1152,925,1195"/>
+<area shape="poly" id="edge45_Node000044_Node000045" title=" " alt="" coords="990,1176,925,1176,925,1171,990,1171"/>
+<area shape="rect" id="Node000047" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a344e9f0fc688c39fe9969f99941c143d" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="1032,1219,1241,1261"/>
+<area shape="poly" id="edge47_Node000046_Node000047" title=" " alt="" coords="1325,1243,1241,1243,1241,1237,1325,1237"/>
+<area shape="rect" id="Node000048" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954be3b22e6a4210ca6025bed8a0e21f" title="Run the algorithm tool." alt="" coords="726,1219,935,1261"/>
+<area shape="poly" id="edge48_Node000047_Node000048" title=" " alt="" coords="1016,1243,936,1243,936,1237,1016,1237"/>
+<area shape="rect" id="Node000050" href="$classlar__content_1_1_delta_ray_removal_tool.html#a4c3d711afe71c3990acfb08d94de4162" title="Remove hits from cosmic ray clusters that belong to a child delta ray." alt="" coords="1039,1285,1234,1328"/>
+<area shape="poly" id="edge50_Node000049_Node000050" title=" " alt="" coords="1333,1309,1234,1309,1234,1304,1333,1304"/>
+<area shape="rect" id="Node000051" href="$classlar__content_1_1_delta_ray_removal_tool.html#ada7630ec473da9aa37ed7bcabac6ddce" title="Run the algorithm tool." alt="" coords="733,1285,928,1328"/>
+<area shape="poly" id="edge51_Node000050_Node000051" title=" " alt="" coords="1023,1309,929,1309,929,1304,1023,1304"/>
+<area shape="poly" id="edge53_Node000052_Node000006" title=" " alt="" coords="437,789,399,782,400,777,438,784"/>
+<area shape="rect" id="Node000054" href="$classlar__content_1_1_track_merge_refinement_algorithm.html#a06f71265d7c6804f5fb3dcb898b376c3" title="Refine the cluster endpoints and merge together the associated clusters alongside any extrapolated hi..." alt="" coords="1023,1085,1250,1128"/>
+<area shape="poly" id="edge55_Node000053_Node000054" title=" " alt="" coords="1318,1105,1250,1106,1250,1101,1318,1099"/>
+<area shape="poly" id="edge56_Node000054_Node000032" title=" " alt="" coords="1007,1095,944,1088,944,1083,1008,1090"/>
+</map>

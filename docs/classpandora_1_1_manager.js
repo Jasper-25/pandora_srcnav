@@ -1,0 +1,35 @@
+var classpandora_1_1_manager =
+[
+    [ "AlgorithmInfo", "classpandora_1_1_manager.html#classpandora_1_1_manager_1_1_algorithm_info", [
+      [ "m_numberOfListsCreated", "classpandora_1_1_manager.html#a05e5406381ffdb27ba0e0d25b333b38f", null ],
+      [ "m_parentListName", "classpandora_1_1_manager.html#a6f8175ab05ee500d0aa4b1f141f8696d", null ],
+      [ "m_temporaryListNames", "classpandora_1_1_manager.html#aea706d4c5e9034a29dbb12214c48e817", null ]
+    ] ],
+    [ "AlgorithmInfoMap", "classpandora_1_1_manager.html#ac6ae7f9b8033298104fb2b86f04a3d25", null ],
+    [ "NameToListMap", "classpandora_1_1_manager.html#a795ba79d2c73824cd1d7f15c0df6f9fc", null ],
+    [ "ObjectList", "classpandora_1_1_manager.html#a186abf70613c6a7ae65a7babbe1d5df1", null ],
+    [ "Manager", "classpandora_1_1_manager.html#ad6ed0a2e919ae269ca91abec46e9d810", null ],
+    [ "~Manager", "classpandora_1_1_manager.html#a4aae983d3908320d4eefeda97ea105bc", null ],
+    [ "CreateInitialLists", "classpandora_1_1_manager.html#af73c0637c4380340f2aab402da64924a", null ],
+    [ "CreateTemporaryListAndSetCurrent", "classpandora_1_1_manager.html#abc02ed77855b91e7548eef94de6f67db", null ],
+    [ "DropCurrentList", "classpandora_1_1_manager.html#a6fb7911780ec1b56203dd12ece6d02c7", null ],
+    [ "EraseAllContent", "classpandora_1_1_manager.html#a2c81b1fd38b979057eefd8efc19f580b", null ],
+    [ "GetAlgorithmInputList", "classpandora_1_1_manager.html#ae2d86317b271fcf38de364986a3ab3eb", null ],
+    [ "GetAlgorithmInputListName", "classpandora_1_1_manager.html#aa0e281c1b532d6c06a8f5bd1f33f29d2", null ],
+    [ "GetCurrentList", "classpandora_1_1_manager.html#a7bdf517bc9f7f233222bab80920dade8", null ],
+    [ "GetCurrentListName", "classpandora_1_1_manager.html#a83785a7b57a87499fa9b4b3d409eb02d", null ],
+    [ "GetList", "classpandora_1_1_manager.html#ad870dd56f26a613f828278b6361b71b5", null ],
+    [ "Modifiable", "classpandora_1_1_manager.html#a1470ba071a9c51c2d671869609037296", null ],
+    [ "RegisterAlgorithm", "classpandora_1_1_manager.html#ab200681473e472b065b57b3055a9a145", null ],
+    [ "RenameList", "classpandora_1_1_manager.html#a1558f16e8c10cec605bcb32b07e9da65", null ],
+    [ "ReplaceCurrentAndAlgorithmInputLists", "classpandora_1_1_manager.html#aa3eea48c09d8701316a3bc8281e9a2a2", null ],
+    [ "ResetAlgorithmInfo", "classpandora_1_1_manager.html#a300d5d3f7440ca43f393ea5697e9cb27", null ],
+    [ "ResetCurrentListToAlgorithmInputList", "classpandora_1_1_manager.html#a0b59bc72d6a393005af007bf1bbe2db6", null ],
+    [ "ResetForNextEvent", "classpandora_1_1_manager.html#ac771a333f3f2d3345d907ea6eefd1c81", null ],
+    [ "m_algorithmInfoMap", "classpandora_1_1_manager.html#ae4f2960e46884517a21c071123af8fb5", null ],
+    [ "m_currentListName", "classpandora_1_1_manager.html#a0ecba1bdc16ad325c252b0d758706989", null ],
+    [ "m_nameToListMap", "classpandora_1_1_manager.html#a459eef0be209624f6b14e8826ea81968", null ],
+    [ "m_nullListName", "classpandora_1_1_manager.html#a4cbc563fcb1dda1e97859db4c7eedf44", null ],
+    [ "m_pPandora", "classpandora_1_1_manager.html#a293d8bb4b22c7de298cc89d2f8662e09", null ],
+    [ "m_savedLists", "classpandora_1_1_manager.html#a3e44e37d4376c0f4e98128b5fa8b2f35", null ]
+];

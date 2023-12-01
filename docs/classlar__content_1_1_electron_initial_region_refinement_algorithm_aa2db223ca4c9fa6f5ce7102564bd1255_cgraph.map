@@ -1,0 +1,23 @@
+<map id="lar_content::ElectronInitialRegionRefinementAlgorithm::FillElectronHitMap" name="lar_content::ElectronInitialRegionRefinementAlgorithm::FillElectronHitMap">
+<area shape="rect" id="Node000001" title="Determine the one&#45;to&#45;one mapping of leading MCParticle electrons and the hits which contain their ene..." alt="" coords="5,160,187,219"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a94a19c3aa2740524b7e719d7918f85ed" title="Obtain the event hit list of a given view." alt="" coords="242,93,424,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,161,227,150,228,155,188,166"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="235,205,431,248"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="188,201,219,206,219,211,187,206"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="502,5,643,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,90,478,58,494,51,496,56,480,62,402,95"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="502,72,643,115"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="424,109,486,101,487,106,424,114"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="479,139,666,181"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="424,134,464,140,463,146,423,139"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="714,39,856,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,35,699,44,698,49,643,40"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="744,39,743,29,750,20,764,14,785,12,808,14,821,21,819,25,806,20,785,17,765,19,753,24,748,30,750,38"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="643,80,698,71,699,76,644,85"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="503,205,642,248"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="432,224,488,224,488,229,432,229"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="484,272,661,315"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="413,246,479,265,478,270,411,251"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="715,272,855,315"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="662,291,700,291,700,296,662,296"/>
+</map>

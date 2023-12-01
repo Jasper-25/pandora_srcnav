@@ -1,0 +1,34 @@
+<map id="PandoraContentApi::SaveList" name="PandoraContentApi::SaveList">
+<area shape="rect" id="Node000001" title="Save a provided input object list under a new name." alt="" coords="773,347,915,389"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="500,13,706,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="836,332,826,274,806,203,791,167,773,131,750,99,724,70,705,57,708,53,727,66,754,95,777,129,796,165,811,202,831,273,841,331"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_pre_processing_algorithm.html#a29ef03e8bff0a6eae5758f8584788b10" title="Build empty calo hit lists." alt="" coords="488,80,719,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="832,332,818,287,796,234,765,181,746,158,724,137,706,125,709,121,727,133,749,154,769,178,801,232,823,285,837,331"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_pre_processing_algorithm.html#a097fafbe479f32a01f9ef1b2bf3499df" title="Build separate CaloHitLists for each view." alt="" coords="513,147,694,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="825,334,785,267,757,233,724,204,693,187,695,183,727,199,761,229,789,264,829,332"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cheating_cosmic_ray_identification_alg.html#a12fc22b98851745a2ff9ed53cae881e3" title="Run the algorithm." alt="" coords="509,213,697,256"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="810,337,771,302,724,270,697,258,699,253,727,266,774,298,814,333"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cheating_cosmic_ray_removal_algorithm.html#acae3d2bccb68955f55331328a4e0384a" title="Run the algorithm." alt="" coords="509,280,697,323"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="758,347,725,337,684,326,685,321,726,332,759,341"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_delta_ray_identification_algorithm.html#a674fee5bc9093bd27143d940e5ebd241" title="Run the algorithm." alt="" coords="494,347,712,389"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="758,371,713,371,713,365,758,365"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="504,413,702,456"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="759,395,726,404,685,415,684,410,725,399,758,389"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a001cd4205da861d562c28f2f6ae81da7" title="Run the algorithm." alt="" coords="500,480,706,523"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="814,403,774,438,727,470,701,482,699,477,724,466,771,434,810,399"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_interaction_selection_algorithm.html#ae6170e43665ea5e7d1dfd4aa2918ab09" title="Run the algorithm." alt="" coords="523,547,684,589"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="829,404,789,472,761,507,727,537,685,557,683,552,724,532,757,503,785,469,825,402"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#ac095556bb9c4340f6a0a2440b53b35c2" title="Run the algorithm." alt="" coords="511,613,696,656"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="837,405,823,451,801,504,769,558,749,582,727,603,698,621,695,616,724,599,746,578,765,555,796,502,818,449,832,404"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a8b76a0a80938a5eb5041c6fab5922069" title="Set up the test beam pfo." alt="" coords="481,680,725,723"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="841,405,831,463,811,534,796,571,777,607,754,641,727,670,711,682,708,677,724,666,750,637,773,605,791,569,806,533,826,462,836,404"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="222,5,433,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,37,434,37,434,32,484,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,13,174,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,37,174,37,174,32,206,32"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_pre_processing_algorithm.html#aa8a2e5d19bd3dd93b0171545dc2ac601" title="Run the algorithm." alt="" coords="238,117,417,160"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="473,122,417,129,417,124,472,116"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="496,159,417,151,417,146,497,154"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_test_beam_particle_creation_algorithm.html#a7374eca3988e39d155529ab96b623c7d" title="Run the algorithm." alt="" coords="229,680,426,723"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="465,704,426,704,426,699,465,699"/>
+</map>

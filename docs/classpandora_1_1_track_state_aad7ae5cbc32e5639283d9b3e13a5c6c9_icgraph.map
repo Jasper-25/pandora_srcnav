@@ -1,0 +1,32 @@
+<map id="pandora::TrackState::GetPosition" name="pandora::TrackState::GetPosition">
+<area shape="rect" id="Node000001" title="Get the track position vector." alt="" coords="1211,247,1349,289"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a2e18871a23f9af454b7212b22698d7d9" title="Get the list of simple cones fitted to the three dimensional cluster." alt="" coords="940,96,1163,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1252,236,1212,193,1188,171,1162,153,1139,142,1141,137,1164,148,1191,167,1216,189,1256,233"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pandora_input_type.html#a304fe09b286c82309ae19c6a2f0cebb5" title=" " alt="" coords="962,163,1141,205"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1217,242,1162,220,1129,208,1130,203,1164,215,1219,237"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_track.html#a4ed025931181f4fe4c3c88d90c307c27" title="operator&lt; sorting by position at calorimeter, then energy at the 2D distance of closest approach" alt="" coords="966,229,1137,256"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1195,261,1137,255,1137,249,1196,256"/>
+<area shape="rect" id="Node000013" href="$namespacepandora.html#a09f9f9823dda3a268fdca8462be6fdf2" title="Operator to dump track state properties to an ostream." alt="" coords="982,280,1121,307"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1196,280,1121,288,1121,283,1195,275"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_xml_file_writer.html#a05fcd3769a7ecc7c7457fe2e45f576d4" title=" " alt="" coords="975,331,1128,373"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1219,299,1164,321,1129,333,1127,328,1162,316,1217,294"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_binary_file_writer.html#ae77333d06581da6225bbf34c896230f5" title=" " alt="" coords="967,397,1136,440"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1256,303,1216,347,1191,369,1164,388,1137,401,1135,396,1162,383,1188,365,1212,343,1252,300"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#a745160047eb432ee379457e6f8e93aa2" title="Get the cluster merge map describing all potential 3d cluster merges." alt="" coords="685,5,892,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="966,93,883,67,885,62,968,88"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#aa7b89f408108ccc40a91845ae60a6920" title="Get the cluster merge map describing all potential 3d cluster merges." alt="" coords="707,88,870,147"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="924,120,870,120,870,115,924,115"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_event_slicing_tool.html#a274ef643f3479deb2746037fab236891" title="Compare the provided clusters to assess whether they are associated via cone fits to the shower clust..." alt="" coords="706,175,871,217"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="964,146,940,153,863,177,861,172,939,148,962,141"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#ad7f3d95ab917b1265d41918d27d7a4c4" title="Run the algorithm." alt="" coords="451,13,618,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="670,37,618,37,618,32,670,32"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_sliding_cone_cluster_mop_up_algorithm.html#a58b6ad7f6839d3c14badf0009dcc40d6" title="Run the algorithm." alt="" coords="440,92,629,135"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="692,118,629,117,629,112,692,113"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_event_slicing_tool.html#a747eadeeedc53c6d37abdfa940a5965a" title="Collect all clusters associated with a provided cluster." alt="" coords="431,183,637,225"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="691,202,638,203,638,198,691,196"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="572,170,558,164,534,161,512,163,499,168,493,174,495,182,490,183,488,173,495,164,511,158,534,156,559,158,574,165"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_event_slicing_tool.html#aed3443e214dbe7b0724c7ed25576cd0e" title="Divide the provided lists of 3D track and shower clusters into slices." alt="" coords="218,183,383,225"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="415,207,384,207,384,201,415,201"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_slicing_tool.html#a20a0ecab5d436fcf0f64fbe9e4a21cc6" title="Run the slicing tool." alt="" coords="5,183,170,225"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="202,207,170,207,170,201,202,201"/>
+</map>

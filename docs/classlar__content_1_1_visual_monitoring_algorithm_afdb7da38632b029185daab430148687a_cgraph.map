@@ -1,0 +1,18 @@
+<map id="lar_content::VisualMonitoringAlgorithm::VisualizeMCParticleList" name="lar_content::VisualMonitoringAlgorithm::VisualizeMCParticleList">
+<area shape="rect" id="Node000001" title="Visualize mc particle list." alt="" coords="5,131,228,173"/>
+<area shape="rect" id="Node000002" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="305,5,447,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,128,207,93,275,58,289,51,291,56,277,62,209,98,152,132"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#adec98499e8dba938393877a3badaa1ea" title="Get a named list." alt="" coords="305,72,447,115"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="213,127,289,110,290,115,214,133"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="276,139,476,165"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="228,149,260,149,260,155,228,155"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="305,189,447,232"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="214,171,290,189,289,194,213,177"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="282,256,470,299"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="152,172,209,206,277,242,290,247,288,252,275,246,207,211,149,176"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="524,72,665,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,46,510,65,509,70,446,51"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="553,72,551,62,558,53,573,47,595,45,618,48,632,54,630,59,617,53,595,51,574,53,561,57,557,63,558,71"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="447,91,508,91,508,96,447,96"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="446,188,475,175,517,150,555,122,558,126,520,154,477,180,448,193"/>
+</map>

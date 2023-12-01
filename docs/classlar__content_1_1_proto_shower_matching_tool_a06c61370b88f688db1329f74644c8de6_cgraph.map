@@ -1,0 +1,48 @@
+<map id="lar_content::ProtoShowerMatchingTool::ArePathwaysConsistent" name="lar_content::ProtoShowerMatchingTool::ArePathwaysConsistent">
+<area shape="rect" id="Node000001" title="Determine whether three 2D connection pathways form a consistent 3D connection pathway." alt="" coords="5,339,251,381"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_proto_shower_matching_tool.html#a83b927231e00659ae747f12fc5b3239d" title="Determine whether three 2D initial spine directions correspond to the same 3D initial spine direction..." alt="" coords="299,451,545,493"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,380,350,442,348,447,186,384"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_proto_shower_matching_tool.html#aa66c27a2ae32a6a71afd9e4823891222" title="Determine whether three 2D shower start positions correspond to the same 3D shower start position." alt="" coords="320,152,524,211"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="164,336,358,217,360,221,166,340"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="370,451,368,441,377,432,395,426,422,424,451,426,469,433,467,438,450,432,422,429,396,431,379,436,373,442,375,449"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="614,821,781,864"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="430,493,448,555,479,640,501,685,528,729,559,771,595,807,602,813,598,817,591,811,555,774,523,732,497,687,474,642,443,557,425,494"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ada13bd164a4ee3845a26441222c490cc" title="Get global direction corresponding to the fit result in maximum fit layer." alt="" coords="599,405,795,464"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="545,453,583,447,584,453,546,458"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a5520f798d6c18098493f8e816c6626fd" title="Get global direction corresponding to the fit result in minimum fit layer." alt="" coords="601,323,793,381"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="468,448,592,391,605,385,608,390,594,396,470,453"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="597,139,797,165"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="427,449,446,394,479,319,501,280,527,241,557,206,591,175,599,170,602,175,595,179,561,210,531,245,505,283,483,322,451,396,432,451"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_proto_shower.html#a0ba81d8bb82dd7d01b16092e3f465ae0" title="Get the shower core." alt="" coords="614,189,781,232"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="431,449,454,406,490,350,536,292,563,265,591,242,599,237,602,241,595,246,566,269,540,296,494,353,459,408,436,452"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="614,488,781,531"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="546,486,599,493,598,499,545,491"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="593,555,801,597"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="474,491,594,540,613,547,611,552,592,545,472,496"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_shower_core.html#afde9b583e9af5c319d0fdf4fd148bbab" title="Get the start position of the shower core." alt="" coords="616,256,779,299"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="438,449,501,380,544,342,592,308,601,303,604,308,594,313,547,346,505,384,442,452"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_connection_pathway.html#ae4c2ceebbf5c426f23b46a54603c8785" title="Get the start position of the connection pathway." alt="" coords="593,621,801,664"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="446,492,510,548,551,580,594,607,605,612,603,617,592,612,547,584,506,553,443,496"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="612,688,782,731"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="438,493,462,531,498,580,543,630,595,674,602,678,599,683,591,678,539,634,494,584,458,534,433,495"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="613,755,781,797"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="433,493,454,544,488,610,535,680,563,712,595,741,601,745,598,749,591,745,560,716,531,684,484,613,449,546,428,495"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#acf6cfcdd1e0f3b6a07dd3dcb882ed3cc" title="Get global direction coordinates for given sliding linear fit gradient." alt="" coords="849,372,1040,415"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="795,416,834,409,835,414,796,421"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="1088,372,1274,415"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1040,391,1072,391,1072,396,1040,396"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="794,365,834,372,834,378,793,371"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="856,755,1033,797"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="780,729,849,747,847,753,778,734"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="856,621,1033,664"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="778,685,847,666,849,671,780,690"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="856,688,1033,731"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="783,707,841,707,841,712,783,712"/>
+<area shape="poly" id="edge21_Node000019_Node000008" title=" " alt="" coords="524,168,581,162,582,167,525,173"/>
+<area shape="poly" id="edge22_Node000019_Node000009" title=" " alt="" coords="525,190,598,197,598,203,524,195"/>
+<area shape="poly" id="edge23_Node000019_Node000012" title=" " alt="" coords="503,209,594,241,613,248,612,253,592,247,502,214"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="613,72,781,115"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="515,149,613,117,614,122,517,154"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="608,5,787,48"/>
+<area shape="poly" id="edge25_Node000019_Node000021" title=" " alt="" coords="457,149,518,103,592,58,604,52,607,57,594,62,521,107,460,154"/>
+</map>

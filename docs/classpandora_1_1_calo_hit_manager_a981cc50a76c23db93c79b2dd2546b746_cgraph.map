@@ -1,0 +1,23 @@
+<map id="pandora::CaloHitManager::Create" name="pandora::CaloHitManager::Create">
+<area shape="rect" id="Node000001" title="Create calo hit." alt="" coords="5,256,173,299"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_object_factory.html#af5ce50f9922fbf84e19c64555bcecc71" title="Create an object with the given parameters." alt="" coords="243,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,254,112,213,138,160,173,105,195,80,219,58,227,52,231,56,222,62,199,84,178,109,142,163,116,215,100,256"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="224,72,419,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,254,117,222,144,182,179,142,219,108,228,103,231,108,222,113,182,146,149,185,122,225,103,257"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="225,123,418,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,254,160,214,219,175,231,169,233,174,222,180,163,218,115,258"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pseudo_layer_plugin.html#abd28ea84c19c35e9369a0beaf5e67c56" title="Get the appropriate pseudolayer for a specified position vector." alt="" coords="228,189,415,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,253,229,234,230,239,166,258"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_plugin_manager.html#a0f6b8339deee851093763988596c5fde" title="Get the address of the pseudo layer plugin." alt="" coords="240,256,403,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,275,224,275,224,280,173,280"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="221,323,422,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="166,297,230,315,229,320,165,302"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_plugin_manager.html#a91147c44fa3b126babdc2353b97e6405" title="Whether the pseudo layer plugin is available." alt="" coords="239,389,404,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="115,297,163,336,222,375,233,380,231,385,219,380,160,341,112,301"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_manager.html#a1470ba071a9c51c2d671869609037296" title="Access a modifiable object, when provided with address to const object." alt="" coords="226,456,417,483"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="103,298,122,330,149,369,182,409,222,442,231,447,228,451,219,446,179,412,144,372,117,333,99,300"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_status_code_exception.html#a6c71d89fa98509d941af59650db02244" title="Get status code as a string." alt="" coords="221,507,422,549"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="100,298,116,340,142,392,178,446,199,471,222,493,227,496,224,500,219,497,195,474,173,449,138,395,112,342,95,300"/>
+<area shape="rect" id="Node000011" href="$namespacepandora.html#a3315325079ef7c1c6dfa614b98eed31a" title="Get status code as a string." alt="" coords="470,515,661,541"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="422,525,455,525,455,531,422,531"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="lar_content::LArHierarchyHelper::GetMCPrimaries" name="lar_content::LArHierarchyHelper::GetMCPrimaries">
+<area shape="rect" id="Node000001" title="Retrieves the primary MC particles from a list and returns the root (neutrino) for hierarchy,..." alt="" coords="5,101,174,144"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a0f4ce71a444fed01a0f27a9ec53880f6" title="Get the first visible MC particles given a root particle. For example, given a neutrino this would re..." alt="" coords="222,72,445,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,110,206,106,206,111,174,115"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="718,101,858,144"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="174,123,222,124,446,126,670,124,703,123,703,129,670,129,446,132,222,129,174,128"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="287,72,285,62,293,53,309,47,333,45,359,48,375,54,373,59,358,53,333,51,310,53,296,57,291,63,292,71"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="512,5,651,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,69,496,47,497,52,416,74"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="493,72,670,115"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="446,91,477,91,477,96,446,96"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="671,103,704,108,703,113,670,109"/>
+</map>

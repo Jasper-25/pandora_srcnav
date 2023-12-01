@@ -1,0 +1,9 @@
+<map id="pandora::CaloHitManager::CanMergeCaloHitFragments" name="pandora::CaloHitManager::CanMergeCaloHitFragments">
+<area shape="rect" id="Node000001" title="Whether two candidate calo hit fragments can be merged." alt="" coords="5,64,198,107"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#acb3ad8b0e1d30fcba8a9a6b8fb15a8ee" title="Get the address of the parent calo hit in the user framework." alt="" coords="247,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,61,235,50,236,55,191,66"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a46416ee0f3441c936fe38b1268cf77d5" title="Get the calo hit weight, which may not be unity if the hit has been fragmented." alt="" coords="246,72,433,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,83,230,83,230,88,198,88"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit_manager.html#a6c62548d7330190452bab4cd6e601c05" title="Is a calo hit, or a list of calo hits, available to add to a cluster." alt="" coords="256,123,423,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,105,241,117,240,122,190,110"/>
+</map>

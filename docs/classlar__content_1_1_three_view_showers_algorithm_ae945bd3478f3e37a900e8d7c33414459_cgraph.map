@@ -1,0 +1,25 @@
+<map id="lar_content::ThreeViewShowersAlgorithm::SelectInputClusters" name="lar_content::ThreeViewShowersAlgorithm::SelectInputClusters">
+<area shape="rect" id="Node000001" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="5,273,209,316"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#ad25a3f6ab4539b67890161352e50bf1c" title="Get length squared of cluster." alt="" coords="263,189,454,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,270,256,241,275,235,277,240,258,247,173,275"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="257,256,460,283"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="209,282,241,278,241,284,209,287"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="258,307,459,333"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="209,302,243,306,242,311,209,308"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a0eb35c01d1dd5e6467efee1d4e35e877" title="Whether the cluster is available to be added to a particle flow object." alt="" coords="266,357,451,384"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="170,314,257,343,285,350,283,356,256,348,168,319"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="523,5,707,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,187,428,123,465,88,507,58,516,53,518,57,509,62,468,92,432,127,377,191"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="523,72,707,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="392,187,445,155,507,124,522,118,524,123,509,129,448,160,395,191"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="508,139,721,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="454,186,538,167,539,172,455,191"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="519,189,710,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="454,208,504,208,504,213,454,213"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="531,256,699,299"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="444,230,516,249,515,254,442,235"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="531,323,699,365"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="442,230,462,242,478,259,486,276,494,293,510,309,518,314,516,319,506,313,490,296,482,279,474,262,458,246,439,235"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="531,389,699,432"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="447,230,462,242,475,259,483,277,487,310,490,344,497,360,510,375,519,383,516,387,506,379,492,362,485,345,481,311,478,278,471,262,458,246,443,235"/>
+</map>

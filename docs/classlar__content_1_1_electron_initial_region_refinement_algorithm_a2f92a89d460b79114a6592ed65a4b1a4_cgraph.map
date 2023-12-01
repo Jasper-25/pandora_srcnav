@@ -1,0 +1,34 @@
+<map id="lar_content::ElectronInitialRegionRefinementAlgorithm::GetShowerVertex" name="lar_content::ElectronInitialRegionRefinementAlgorithm::GetShowerVertex">
+<area shape="rect" id="Node000001" title="Fit the shower to obtain a 2D shower vertex." alt="" coords="5,279,187,337"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="252,29,421,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,277,124,234,151,182,187,128,233,82,238,78,241,83,236,86,192,132,156,184,128,236,110,279"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="238,96,435,155"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="118,277,167,221,199,191,233,164,240,160,243,165,236,169,202,195,171,225,122,280"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="240,179,433,237"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="166,276,234,247,247,241,249,246,236,252,168,281"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="236,261,437,288"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="187,293,221,288,221,293,188,298"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#ab8417ac239b06a403b92ac0f53bffaa2" title="Get the sliding fit result for the full shower cluster." alt="" coords="235,312,438,371"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="188,318,220,322,219,328,187,323"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="251,395,422,437"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="148,335,236,380,250,386,248,391,234,385,146,340"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="495,461,663,504"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="119,336,167,395,199,424,236,447,296,469,359,482,422,487,479,488,479,493,422,493,358,487,294,474,233,452,196,428,163,399,114,339"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="251,524,422,567"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="115,336,163,414,197,457,236,495,265,514,262,519,233,499,193,460,159,417,110,339"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,29,289,19,297,10,313,5,336,3,362,5,377,11,375,16,361,10,336,8,314,10,300,15,294,21,296,28"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="486,145,672,188"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="435,139,471,146,470,151,435,145"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="432,189,470,183,471,188,433,194"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="491,261,667,304"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="417,392,436,381,452,365,460,348,468,331,484,314,490,310,493,314,488,318,473,334,465,351,456,368,440,385,420,396"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="491,328,667,371"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="416,392,484,373,485,378,417,397"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="491,395,667,437"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="422,413,476,413,476,419,422,419"/>
+<area shape="poly" id="edge17_Node000013_Node000012" title=" " alt="" coords="421,521,479,506,481,511,422,526"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="495,528,663,571"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="422,544,479,545,479,550,422,549"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="495,595,663,637"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="413,565,489,587,488,592,412,570"/>
+</map>

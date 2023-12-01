@@ -1,0 +1,97 @@
+<map id="lar_content::CheatingPfoCreationAlgorithm" name="lar_content::CheatingPfoCreationAlgorithm">
+<area shape="rect" id="Node000001" title="CheatingPfoCreationAlgorithm class." alt="" coords="586,5,750,48"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="208,17,338,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,27,586,25,586,30,354,33"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="5,189,129,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,174,104,118,125,89,151,65,178,49,207,38,209,43,180,54,154,69,129,93,109,121,81,176"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_b_field_plugin.html" title="BFieldPlugin class." alt="" coords="199,291,347,317"/>
+<area shape="poly" id="edge28_Node000022_Node000003" title=" " alt="" coords="98,224,135,251,179,276,210,288,208,293,177,281,132,256,95,228"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_l_ar_transformation_plugin.html" title="LArTransformationPlugin class." alt="" coords="183,123,363,165"/>
+<area shape="poly" id="edge30_Node000023_Node000003" title=" " alt="" coords="130,182,195,163,196,169,132,187"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_pseudo_layer_plugin.html" title="PseudoLayerPlugin class." alt="" coords="180,189,367,216"/>
+<area shape="poly" id="edge32_Node000024_Node000003" title=" " alt="" coords="144,200,179,200,179,205,144,205"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_shower_profile_plugin.html" title="ShowerProfilePlugin class." alt="" coords="178,240,368,267"/>
+<area shape="poly" id="edge34_Node000025_Node000003" title=" " alt="" coords="140,218,217,237,215,242,139,223"/>
+<area shape="rect" id="Node000028" href="$classpandora_1_1_particle_id_plugin.html" title="ParticleIdPlugin class." alt="" coords="395,72,560,99"/>
+<area shape="poly" id="edge40_Node000028_Node000003" title=" " alt="" coords="88,176,126,139,151,122,177,108,232,91,289,81,344,77,394,77,394,82,344,82,289,86,233,96,179,113,153,126,130,143,92,180"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="928,683,1051,709"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="925,680,782,634,590,559,485,512,378,458,274,398,176,331,144,303,115,272,75,218,79,215,119,268,148,299,180,327,277,393,381,453,487,507,592,554,784,629,926,675"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_algorithm_manager.html" title="AlgorithmManager class." alt="" coords="1286,535,1467,561"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="995,667,1006,635,1024,598,1048,563,1080,536,1112,522,1146,513,1181,510,1216,510,1281,518,1335,531,1334,537,1280,523,1215,515,1181,515,1147,519,1114,527,1083,541,1052,567,1028,601,1011,637,1000,668"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,1009,1455,1036"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="993,725,995,783,1007,857,1018,895,1034,932,1056,966,1083,994,1098,1002,1119,1009,1174,1018,1298,1022,1298,1028,1173,1023,1118,1014,1096,1007,1080,998,1052,969,1030,935,1013,897,1002,858,990,784,987,725"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,587,1455,613"/>
+<area shape="poly" id="edge15_Node000013_Node000004" title=" " alt="" coords="1020,671,1048,653,1081,638,1136,621,1193,610,1297,599,1298,604,1194,615,1137,626,1083,642,1051,657,1022,675"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_geometry_manager.html" title="GeometryManager class." alt="" coords="1285,699,1468,725"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="1039,713,1082,724,1135,730,1188,731,1288,723,1288,729,1189,736,1134,735,1081,729,1037,718"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,641,1455,668"/>
+<area shape="poly" id="edge21_Node000017_Node000004" title=" " alt="" coords="1066,678,1081,676,1194,664,1297,656,1298,661,1195,669,1082,681,1067,684"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,276,1455,303"/>
+<area shape="poly" id="edge25_Node000020_Node000004" title=" " alt="" coords="992,667,1003,591,1021,494,1047,403,1062,367,1080,343,1100,328,1119,318,1157,314,1198,316,1246,312,1305,301,1306,306,1247,317,1198,321,1157,319,1121,324,1103,332,1084,347,1067,370,1052,405,1026,495,1008,592,997,667"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_plugin_manager.html" title="PluginManager class." alt="" coords="587,211,749,237"/>
+<area shape="poly" id="edge41_Node000021_Node000004" title=" " alt="" coords="975,669,942,595,895,508,837,425,776,347,680,240,684,236,780,344,842,422,900,505,947,592,980,667"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_energy_corrections.html" title="EnergyCorrections class." alt="" coords="1285,192,1468,219"/>
+<area shape="poly" id="edge36_Node000026_Node000004" title=" " alt="" coords="991,667,1000,582,1018,471,1044,366,1060,325,1080,297,1100,281,1120,273,1158,270,1199,273,1221,271,1246,265,1303,242,1350,217,1353,221,1305,247,1247,271,1222,277,1199,278,1158,275,1121,278,1103,286,1084,301,1065,327,1049,367,1023,472,1006,582,996,667"/>
+<area shape="rect" id="Node000027" href="$classpandora_1_1_particle_id.html" title="ParticleId class." alt="" coords="1312,125,1441,152"/>
+<area shape="poly" id="edge38_Node000027_Node000004" title=" " alt="" coords="991,667,1000,574,1017,450,1044,331,1060,283,1080,250,1096,236,1121,221,1184,194,1321,150,1323,155,1186,199,1123,226,1100,240,1084,254,1065,286,1049,332,1023,451,1005,575,996,668"/>
+<area shape="rect" id="Node000031" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,857,1455,884"/>
+<area shape="poly" id="edge45_Node000031_Node000004" title=" " alt="" coords="1001,723,1012,755,1029,791,1052,825,1083,852,1120,865,1175,871,1298,872,1298,877,1175,876,1119,870,1080,857,1048,829,1024,794,1007,757,996,725"/>
+<area shape="rect" id="Node000034" href="$classpandora_1_1_manager.html" title="Manager class." alt="" coords="1298,432,1455,459"/>
+<area shape="poly" id="edge49_Node000034_Node000004" title=" " alt="" coords="990,667,996,619,1011,561,1022,531,1037,503,1056,478,1080,456,1096,448,1118,442,1174,436,1298,437,1298,442,1174,441,1119,448,1098,453,1083,461,1060,481,1042,506,1027,534,1016,563,1001,620,995,667"/>
+<area shape="rect" id="Node000035" href="$classpandora_1_1_pandora_settings.html" title="PandoraSettings class." alt="" coords="1291,959,1462,985"/>
+<area shape="poly" id="edge51_Node000035_Node000004" title=" " alt="" coords="998,724,1008,763,1024,809,1049,855,1065,876,1083,894,1104,908,1123,915,1160,919,1200,919,1223,922,1248,930,1272,944,1305,956,1304,961,1270,949,1246,934,1221,927,1200,924,1160,924,1122,920,1101,912,1080,898,1061,880,1044,858,1019,811,1002,764,993,725"/>
+<area shape="rect" id="Node000036" href="$classpandora_1_1_pandora_api_impl.html" title="PandoraApiImpl class." alt="" coords="1293,1064,1460,1091"/>
+<area shape="poly" id="edge53_Node000036_Node000004" title=" " alt="" coords="997,724,1008,800,1026,897,1051,987,1066,1021,1083,1043,1111,1052,1163,1060,1293,1070,1293,1076,1162,1065,1109,1057,1080,1048,1062,1024,1046,989,1020,898,1002,801,992,725"/>
+<area shape="rect" id="Node000037" href="$classpandora_1_1_pandora_content_api_impl.html" title="PandoraContentApiImpl class." alt="" coords="1271,1187,1482,1213"/>
+<area shape="poly" id="edge55_Node000037_Node000004" title=" " alt="" coords="995,725,1002,825,1017,958,1028,1025,1043,1085,1062,1134,1083,1166,1107,1174,1152,1182,1270,1192,1270,1197,1151,1187,1105,1179,1080,1170,1057,1137,1038,1087,1023,1026,1011,959,996,825,990,725"/>
+<area shape="rect" id="Node000038" href="$classpandora_1_1_pandora_impl.html" title="PandoraImpl class." alt="" coords="1303,1272,1450,1299"/>
+<area shape="poly" id="edge57_Node000038_Node000004" title=" " alt="" coords="994,724,998,839,1011,998,1022,1078,1038,1151,1058,1210,1070,1232,1083,1249,1098,1258,1119,1266,1175,1277,1240,1282,1302,1284,1302,1289,1240,1287,1174,1282,1118,1271,1096,1263,1080,1253,1066,1235,1053,1212,1033,1153,1017,1079,1006,999,993,840,989,724"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1271,556,1162,567,1115,576,1083,588,1055,609,1031,635,1000,684,995,681,1027,632,1051,605,1080,583,1114,571,1161,562,1270,551"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit_manager.html" title="CaloHitManager class." alt="" coords="2138,1009,2305,1036"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="2122,1040,1861,1077,1534,1114,1377,1127,1241,1132,1138,1128,1103,1121,1080,1110,1057,1080,1039,1034,1023,977,1012,915,996,793,989,710,994,710,1001,792,1017,914,1029,976,1044,1032,1062,1077,1083,1106,1105,1116,1139,1122,1241,1127,1377,1122,1534,1109,1860,1071,2122,1035"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_input_object_manager.html" title=" " alt="" coords="1704,1001,1895,1044"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1911,1020,2138,1020,2138,1025,1911,1025"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1470,1020,1703,1020,1703,1025,1470,1025"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_recluster_metadata.html" title="ReclusterMetadata class." alt="" coords="1707,937,1891,964"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="1897,965,2139,1006,2138,1011,1896,970"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_calo_hit_metadata.html" title="CaloHitMetadata class." alt="" coords="1291,908,1462,935"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1477,926,1707,942,1706,947,1477,931"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster_manager.html" title="ClusterManager class." alt="" coords="2138,508,2305,535"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="2123,519,1518,491,1225,484,1128,487,1083,494,1060,513,1042,536,1027,563,1016,590,1001,643,995,683,990,682,996,642,1010,589,1022,560,1037,534,1057,509,1081,490,1128,482,1225,479,1518,485,2123,513"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_algorithm_object_manager.html" title=" " alt="" coords="1715,556,1883,599"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1899,562,2138,530,2138,535,1899,567"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1470,592,1714,579,1715,584,1470,598"/>
+<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="1270,710,1052,701,1052,696,1270,705"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_m_c_manager.html" title="MCManager class." alt="" coords="2149,711,2294,737"/>
+<area shape="poly" id="edge18_Node000004_Node000015" title=" " alt="" coords="2133,729,1482,740,1247,741,1164,747,1127,748,1081,741,1044,728,1012,712,1014,707,1046,724,1082,736,1127,743,1163,742,1247,736,1482,735,2133,723"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_input_object_manager.html" title=" " alt="" coords="1704,661,1895,704"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1911,691,2149,714,2148,720,1910,696"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="1470,658,1703,674,1703,679,1470,663"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_particle_flow_object_manager.html" title="ParticleFlowObjectManager class." alt="" coords="2129,305,2314,348"/>
+<area shape="poly" id="edge22_Node000004_Node000018" title=" " alt="" coords="2114,328,1851,329,1527,336,1373,344,1239,355,1138,371,1104,381,1083,391,1067,412,1051,444,1025,530,1006,619,996,683,990,682,1001,618,1020,529,1046,442,1062,409,1080,387,1102,376,1137,366,1239,350,1372,338,1527,331,1851,323,2114,323"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_algorithm_object_manager.html" title=" " alt="" coords="1697,263,1901,305"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="1917,293,2129,315,2129,320,1916,298"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1470,285,1697,283,1697,288,1470,291"/>
+<area shape="poly" id="edge26_Node000004_Node000021" title=" " alt="" coords="765,236,845,254,878,266,900,281,920,313,938,360,952,418,965,480,982,601,990,682,985,683,976,601,959,481,947,419,933,362,915,315,896,285,875,271,843,259,764,241"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="363,298,459,288,562,268,604,253,640,236,642,240,606,258,563,273,460,294,363,303"/>
+<area shape="poly" id="edge29_Node000021_Node000023" title=" " alt="" coords="379,154,469,167,563,187,631,208,629,213,562,192,468,173,378,159"/>
+<area shape="poly" id="edge31_Node000021_Node000024" title=" " alt="" coords="383,206,587,217,587,222,383,211"/>
+<area shape="poly" id="edge33_Node000021_Node000025" title=" " alt="" coords="384,248,562,237,587,234,587,240,563,243,384,254"/>
+<area shape="poly" id="edge35_Node000021_Node000026" title=" " alt="" coords="1270,207,1082,208,749,222,749,217,1082,203,1270,202"/>
+<area shape="poly" id="edge37_Node000021_Node000027" title=" " alt="" coords="1296,145,1062,163,918,179,774,200,718,213,717,207,773,195,917,173,1061,157,1296,140"/>
+<area shape="poly" id="edge39_Node000027_Node000028" title=" " alt="" coords="576,88,1312,132,1311,138,575,94"/>
+<area shape="rect" id="Node000029" href="$classpandora_1_1_track_manager.html" title="TrackManager class." alt="" coords="2143,829,2300,856"/>
+<area shape="poly" id="edge42_Node000004_Node000029" title=" " alt="" coords="2127,843,1891,835,1588,819,1435,808,1293,793,1172,775,1081,753,1040,734,1007,712,1010,708,1043,730,1083,748,1173,770,1294,788,1436,802,1589,814,1892,830,2127,838"/>
+<area shape="rect" id="Node000030" href="$classpandora_1_1_input_object_manager.html" title=" " alt="" coords="1704,857,1895,900"/>
+<area shape="poly" id="edge43_Node000029_Node000030" title=" " alt="" coords="1910,867,2142,847,2143,852,1911,872"/>
+<area shape="poly" id="edge44_Node000030_Node000031" title=" " alt="" coords="1470,870,1703,874,1703,880,1470,875"/>
+<area shape="rect" id="Node000032" href="$classpandora_1_1_vertex_manager.html" title="VertexManager class." alt="" coords="2140,397,2303,424"/>
+<area shape="poly" id="edge46_Node000004_Node000032" title=" " alt="" coords="2124,411,1855,405,1519,401,1225,404,1128,409,1098,413,1083,418,1054,446,1032,480,1016,517,1005,556,994,630,993,682,988,682,989,630,1000,555,1011,515,1027,477,1050,442,1080,414,1097,408,1127,404,1225,398,1519,395,1855,400,2125,405"/>
+<area shape="rect" id="Node000033" href="$classpandora_1_1_algorithm_object_manager.html" title=" " alt="" coords="1715,431,1883,473"/>
+<area shape="poly" id="edge47_Node000032_Node000033" title=" " alt="" coords="1899,440,2139,416,2140,421,1899,445"/>
+<area shape="poly" id="edge48_Node000033_Node000034" title=" " alt="" coords="1470,444,1714,448,1714,453,1470,449"/>
+<area shape="poly" id="edge50_Node000004_Node000035" title=" " alt="" coords="1275,978,1162,973,1113,964,1080,950,1053,924,1032,893,1016,859,1005,823,992,757,989,710,994,710,997,757,1010,822,1021,857,1037,890,1057,921,1083,946,1115,959,1162,967,1275,972"/>
+<area shape="poly" id="edge52_Node000004_Node000036" title=" " alt="" coords="1282,1096,1223,1103,1165,1106,1115,1103,1095,1098,1080,1090,1058,1062,1040,1018,1025,964,1013,905,997,789,989,710,995,709,1002,788,1018,904,1030,963,1045,1016,1063,1059,1083,1086,1097,1093,1116,1098,1165,1101,1223,1098,1281,1091"/>
+<area shape="poly" id="edge54_Node000004_Node000037" title=" " alt="" coords="1291,1219,1231,1228,1169,1233,1116,1230,1095,1225,1080,1217,1065,1200,1052,1178,1031,1119,1015,1046,1004,966,992,811,988,710,994,710,997,811,1009,965,1021,1045,1036,1117,1057,1176,1070,1197,1083,1213,1097,1220,1117,1225,1169,1227,1230,1222,1290,1214"/>
+<area shape="poly" id="edge56_Node000004_Node000038" title=" " alt="" coords="1334,1308,1278,1328,1210,1342,1175,1343,1141,1339,1109,1329,1080,1310,1063,1290,1048,1263,1025,1192,1009,1105,998,1009,989,826,988,710,993,710,994,826,1003,1009,1014,1104,1030,1191,1053,1261,1067,1287,1083,1306,1111,1324,1142,1334,1175,1338,1210,1337,1276,1323,1332,1303"/>
+</map>

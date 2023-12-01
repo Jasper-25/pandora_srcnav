@@ -1,0 +1,13 @@
+<map id="lar_pandora::LArPandoraOutput::BuildSpacePoint" name="lar_pandora::LArPandoraOutput::BuildSpacePoint">
+<area shape="rect" id="Node000001" title="Convert from a pandora 3D hit to an ART spacepoint." alt="" coords="5,123,209,165"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="258,5,449,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,120,188,80,256,42,272,35,274,40,258,46,190,85,136,124"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="257,56,450,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,120,256,101,258,106,189,125"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="269,123,438,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,141,254,141,254,147,209,147"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="269,189,438,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,163,258,182,256,187,188,168"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="269,256,438,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="138,164,192,203,258,242,270,247,267,252,255,246,189,207,134,168"/>
+</map>

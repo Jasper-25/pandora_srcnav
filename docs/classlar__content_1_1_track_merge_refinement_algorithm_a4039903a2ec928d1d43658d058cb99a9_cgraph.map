@@ -1,0 +1,19 @@
+<map id="lar_content::TrackMergeRefinementAlgorithm::AreExtrapolatedHitsNearBoundaries" name="lar_content::TrackMergeRefinementAlgorithm::AreExtrapolatedHitsNearBoundaries">
+<area shape="rect" id="Node000001" title="Check the separation of the extremal extrapolated hits with the cluster merge points or,..." alt="" coords="5,72,298,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_association.html#adb0c4dd33c2ca922c17315386058798a" title="Returns the downstream cluster merge point." alt="" coords="348,5,550,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,69,335,49,336,55,250,74"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cluster_association.html#ad5d370e87687f15ac5568c0af9f50156" title="Returns the upstream cluster merge point." alt="" coords="348,72,550,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,91,332,91,332,96,298,96"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a520085350cf50fc0e9122a5c7114acd9" title="Check whether a hit is close to a boundary point." alt="" coords="346,139,552,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,113,336,132,335,137,249,118"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hit_width_helper.html#ae28649969057467eed3e7635a4db7223" title="Consider the hit width to find the smallest distance between a calo hit and a given point." alt="" coords="600,131,796,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="553,157,584,157,584,163,553,163"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="857,39,1025,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="760,128,843,91,859,85,861,90,845,96,762,133"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="844,105,1038,148"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="796,144,828,139,829,145,797,149"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="857,172,1025,215"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="797,171,842,177,841,182,796,176"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="857,239,1025,281"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="762,187,845,224,861,230,859,235,843,229,760,192"/>
+</map>

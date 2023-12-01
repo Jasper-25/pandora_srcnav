@@ -1,0 +1,41 @@
+<map id="lar_content::ThreeViewRemnantsAlgorithm::CalculateOverlapResult" name="lar_content::ThreeViewRemnantsAlgorithm::CalculateOverlapResult">
+<area shape="rect" id="Node000001" title="Calculate cluster overlap result and store in container." alt="" coords="5,477,224,520"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58b92ed1becb97b5462aa29f6fb39453" title="Get average Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="297,299,489,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,475,189,414,227,380,270,351,282,345,284,350,273,356,231,384,192,417,135,479"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="300,203,486,245"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="125,475,181,386,222,333,270,285,322,250,325,255,273,289,226,337,185,389,130,478"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a7b24c3e486aea675969c09f901784807" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="273,365,513,408"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="153,474,208,446,271,418,290,411,292,416,273,422,210,450,155,479"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_n_view_matching_algorithm.html#a880d9d77bef7c6f84a9ea66d8761e580" title="Get the matching control." alt="" coords="272,432,514,491"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="224,481,256,477,256,482,224,487"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_three_view_matching_control.html#ad5f507510788af73b7ff8499d12043d4" title="Get the overlap tensor." alt="" coords="290,515,496,557"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="224,511,274,517,274,523,224,516"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="293,581,493,608"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="158,518,212,543,273,567,300,575,298,580,271,572,210,548,156,523"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_geometry_helper.html#a4b30d1b4c2266a7274d6746f96d68eec" title="Merge two views (U,V) to give a third view (Z)." alt="" coords="303,632,483,675"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="139,518,197,568,234,595,273,618,290,625,288,630,270,622,231,599,194,572,136,522"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_overlap_tensor.html#a4585222e5f5d6018407a20043d9b6667" title="Set overlap result." alt="" coords="305,699,481,741"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="130,519,152,555,185,600,226,646,273,684,292,695,290,699,270,689,222,650,181,603,148,558,125,522"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="577,240,761,283"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,297,560,282,562,287,490,302"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="562,307,775,333"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="489,317,546,317,546,323,489,323"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="573,491,764,533"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="490,335,516,351,529,367,537,383,541,415,545,447,552,462,564,477,567,479,563,483,560,481,547,465,540,448,536,416,531,385,525,370,512,355,487,339"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="572,357,765,400"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="490,338,557,352,556,358,488,343"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="585,173,753,216"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="437,296,513,255,536,240,561,226,575,219,578,224,563,230,539,244,515,260,439,300"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="585,424,753,467"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="490,338,516,351,532,366,540,381,549,396,564,410,572,415,569,420,560,414,545,399,536,384,527,369,512,356,488,343"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="487,234,561,244,560,249,486,239"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="441,243,499,268,563,292,588,300,587,305,561,297,497,273,439,248"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="448,244,483,262,516,285,531,301,540,315,548,329,564,343,571,348,568,352,560,347,544,333,535,318,526,304,512,289,480,266,446,248"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="486,211,569,203,569,208,487,217"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="565,5,773,32"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="406,201,431,166,466,122,510,79,561,42,572,36,574,41,563,46,514,83,470,126,435,169,410,204"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pandora_input_type.html#a64650d8342a8802c1a1a7b4eed43090a" title="Whether the pandora type is initialized." alt="" coords="579,56,758,99"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="420,200,482,154,561,108,574,102,576,107,563,113,485,159,423,204"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_input_type.html#a39fe8ca55aba26b1dac81aac00333af6" title="Set the value held by the pandora type." alt="" coords="565,123,772,149"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="447,200,561,159,589,151,590,156,563,164,449,205"/>
+</map>

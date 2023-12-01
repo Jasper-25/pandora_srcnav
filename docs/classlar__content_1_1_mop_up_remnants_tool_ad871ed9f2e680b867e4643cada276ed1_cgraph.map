@@ -1,0 +1,36 @@
+<map id="lar_content::MopUpRemnantsTool::Run" name="lar_content::MopUpRemnantsTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,240,199,283"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="257,52,472,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,238,177,188,245,134,302,100,305,104,248,138,180,192,127,242"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_mop_up_remnants_tool.html#a9eb8f8ed8afbf650dc7cabf4bc0db85d" title="Identify candidate particles." alt="" coords="268,211,461,253"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="199,248,252,242,252,247,200,253"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="247,277,482,304"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="200,270,231,273,231,278,199,275"/>
+<area shape="rect" id="Node000014" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="573,96,714,139"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="146,237,193,216,246,196,327,173,410,154,557,127,558,132,411,159,329,178,247,201,195,221,148,242"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="274,328,455,355"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="156,281,247,313,277,321,276,327,246,319,154,286"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="271,379,458,421"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="129,281,182,323,248,364,261,370,259,375,245,369,179,328,126,285"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="530,29,756,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,62,514,58,515,64,472,67"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="832,29,973,72"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="415,49,469,29,530,15,593,6,643,4,757,15,817,25,816,30,756,20,643,10,593,11,530,20,471,35,417,54"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="548,163,738,205"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="409,93,466,121,531,148,550,155,548,160,529,153,464,126,407,98"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="757,48,816,48,816,53,757,53"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="854,29,852,19,860,10,877,5,903,3,930,5,947,11,945,16,929,10,902,8,878,10,863,15,857,21,859,28"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="834,96,971,139"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="728,159,818,136,819,141,730,165"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="834,163,971,205"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="739,181,818,181,818,187,739,187"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_matching_base_algorithm.html#ae4cee1e36098542a8d23986ab7b1e852" title="Set pfo particle id." alt="" coords="814,229,991,272"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="730,203,803,222,801,227,728,209"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_mop_up_remnants_tool.html#aec3d9188c91dd86a1de0f8b4448bbe60" title="Copy used clusters into cluster list." alt="" coords="547,229,740,272"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="462,236,531,241,531,246,461,241"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_mop_up_remnants_tool.html#a2664678ea2d073766945daf7a3f99eaa" title="Select the best triplet of clusters." alt="" coords="547,296,740,339"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="447,251,483,263,531,281,552,288,550,293,529,287,481,268,445,257"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="804,296,1001,339"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="740,315,789,315,789,320,740,320"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="714,97,816,70,818,75,715,102"/>
+</map>

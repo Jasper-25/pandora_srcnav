@@ -1,0 +1,22 @@
+<map id="lar_content::EventValidationBaseAlgorithm::InterpretMatching" name="lar_content::EventValidationBaseAlgorithm::InterpretMatching">
+<area shape="rect" id="Node000001" title="Apply an interpretative matching procedure to the comprehensive matches in the provided validation in..." alt="" coords="5,137,220,180"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_validation_base_algorithm_1_1_validation_info.html#a5a4704e40de6330e620d930e22031850" title="Get the all mc particle to hits map." alt="" coords="592,5,783,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,134,207,110,267,89,346,70,428,56,576,39,576,44,429,61,348,76,268,95,209,115,157,139"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a486c4902600fd5fe8bc1ec815fe92e06" title="Order input MCParticles by their number of hits." alt="" coords="283,237,518,280"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,178,269,223,291,230,289,235,267,228,158,183"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_event_validation_base_algorithm.html#a8e4c79fa7d980ddbb148059073f01ca0" title="Get the best matches for any pfos left&#45;over after the strong matching procedure." alt="" coords="268,104,533,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,144,252,140,252,145,220,149"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_event_validation_base_algorithm.html#a533385c8bb504ea516c2fe700079893e" title="Get the strongest pfo match (most matched hits) between an available mc primary and an available pfo." alt="" coords="277,171,524,213"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="220,168,262,173,261,179,220,174"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_event_validation_base_algorithm_1_1_validation_info.html#a21677dd4d7f0db796bc3559736708572" title="Get the mc to pfo hit sharing map." alt="" coords="592,171,783,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,145,534,156,577,168,576,173,532,161,488,150"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_event_validation_base_algorithm_1_1_validation_info.html#a3bd19693fe4b743161b4e2ca61ff7284" title="Get the target mc particle to hits map." alt="" coords="581,88,793,147"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="533,119,565,118,565,123,533,124"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="513,168,531,157,548,138,555,117,562,96,579,74,583,71,586,75,583,78,567,98,560,119,553,140,535,161,516,172"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="524,193,576,194,576,200,524,198"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="488,167,532,156,565,147,567,153,534,161,490,173"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_event_validation_base_algorithm_1_1_validation_info.html#ad7e64d3d1f35c27770500f6b28c2e7e0" title="Get the pfo to hits map." alt="" coords="592,320,783,379"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="516,212,535,223,553,244,560,265,567,286,583,306,586,309,583,313,579,310,562,288,555,267,548,246,531,227,513,216"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_event_validation_base_algorithm.html#ada727cf9cb88e580a88aa35205bd5eab" title="Whether a provided mc primary and pfo are deemed to be a good match." alt="" coords="592,253,783,296"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="493,211,534,223,582,239,603,246,601,251,580,244,532,228,491,217"/>
+</map>

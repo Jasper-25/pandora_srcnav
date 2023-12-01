@@ -1,0 +1,56 @@
+<map id="pandora::PandoraImpl::InitializePlugins" name="pandora::PandoraImpl::InitializePlugins">
+<area shape="rect" id="Node000001" title="Initialize pandora plugins." alt="" coords="5,431,153,473"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_plugin_manager.html#af5210e87e46aa4546cc70deb6bf69e0a" title="Initialize plugins." alt="" coords="201,431,362,473"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,449,185,449,185,455,153,455"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_handle.html#a0646cc781c7288abc2e3835264174aa3" title=" " alt="" coords="1161,329,1307,372"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,450,503,447,690,439,899,420,1005,406,1108,388,1160,375,1161,380,1110,393,1006,411,899,425,690,444,503,453,362,455"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_handle.html#a4e5eaba7177abb6d44bdc86a2362070e" title="Return a handle to the first child node." alt="" coords="1161,79,1307,121"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="284,430,297,377,321,306,357,230,381,193,408,161,469,107,525,76,587,57,667,39,790,13,888,3,936,4,987,10,1110,35,1151,49,1189,68,1186,73,1149,54,1108,40,986,15,936,10,888,8,791,18,668,44,588,62,527,81,472,112,412,165,385,197,362,232,326,308,302,378,289,431"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_process.html#a19b7252bfe1ed61e885ed2c60abb01f4" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="426,489,604,516"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="363,467,436,483,435,488,361,472"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_energy_corrections.html#a68930dbbdd716e687b5c208b820fd804" title="Initialize plugins." alt="" coords="424,347,606,389"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="342,428,438,393,440,398,344,433"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_particle_id.html#ae2f6066a34753c438528df2f1790883d" title="Initialize plugins." alt="" coords="450,175,579,217"/>
+<area shape="poly" id="edge22_Node000002_Node000018" title=" " alt="" coords="300,428,482,227,486,231,304,432"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_process.html#a80710d4ef0f1cff61f3fedeedcf869a7" title="Read the algorithm settings." alt="" coords="410,540,619,567"/>
+<area shape="poly" id="edge31_Node000002_Node000021" title=" " alt="" coords="315,472,359,500,411,526,430,533,429,538,409,531,357,504,312,476"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_process.html#af9071b9c61e1fab003e3203fd103899a" title="Register i) the pandora instance that will run the process and ii) the process type." alt="" coords="425,591,604,633"/>
+<area shape="poly" id="edge32_Node000002_Node000022" title=" " alt="" coords="301,472,347,524,378,552,411,576,420,581,418,586,409,581,375,556,344,528,297,476"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_handle.html#a86da3ac32d75446bafeec167e48338b7" title=" " alt="" coords="1359,329,1506,372"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1308,348,1344,348,1344,353,1308,353"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_node.html#a351d0fe57709c10ba9355f90703882f3" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="1554,329,1690,372"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1506,348,1538,348,1538,353,1506,353"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="1364,92,1501,135"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1308,102,1349,105,1348,110,1308,108"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="607,371,667,373,889,383,985,382,1109,373,1145,368,1146,373,1109,379,985,388,888,388,667,379,606,376"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="539,344,598,296,683,234,785,172,841,145,897,123,960,107,1026,97,1089,93,1146,93,1146,98,1089,98,1027,102,961,112,898,128,843,150,788,176,686,238,601,300,542,348"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_energy_corrections.html#a127fdd80363032e4399821ff8d0ff3d7" title="Read requested plugin names/labels from a specified xml tag and attempt to assign the plugin pointers..." alt="" coords="667,321,850,364"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="606,356,652,351,652,356,607,361"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_energy_corrections.html#addb333f24b4568ca5db455510cffae0c" title="Get the energy correction plugin map corresponding to the specified energy correction type." alt="" coords="898,321,1109,364"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="850,340,882,340,882,345,850,345"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_xml_helper.html#a36263b047534b2003862cf5e6d12fa71" title="Read a vector of values from a (space separated) list in an xml element." alt="" coords="928,204,1079,247"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="804,319,942,251,945,256,806,323"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="1077,245,1111,263,1126,277,1135,290,1144,302,1159,315,1164,319,1161,323,1155,320,1140,306,1131,293,1122,280,1107,268,1074,250"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="1078,205,1107,190,1122,176,1131,162,1140,147,1155,131,1160,128,1163,132,1159,135,1144,150,1136,165,1127,179,1111,194,1080,210"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_ti_xml_element.html#ac30030547fca44cfb876380d7002aeb4" title=" " alt="" coords="1157,196,1311,239"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="1079,220,1141,218,1142,223,1079,225"/>
+<area shape="rect" id="Node000016" href="$namespacepandora.html#a2b8dfb6844696f374179f8bd1ee7e7b9" title=" " alt="" coords="1159,145,1310,172"/>
+<area shape="poly" id="edge20_Node000012_Node000016" title=" " alt="" coords="1078,201,1170,174,1171,180,1079,206"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_xml_helper.html#a26264a1f858a69e90a6aa1f8e5360a5c" title="Tokenize a string." alt="" coords="1168,263,1301,305"/>
+<area shape="poly" id="edge21_Node000012_Node000017" title=" " alt="" coords="1079,242,1153,261,1152,266,1078,247"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="1287,193,1310,182,1382,141,1385,145,1313,186,1289,198"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ti_xml_node.html#a8caab284c224f0d4726ebf175bf66c5e" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="1364,237,1501,280"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="1312,231,1349,239,1348,244,1311,236"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_ti_xml_node.html#ac3eec12e25197da0dec780fbeb3a4d29" title=" " alt="" coords="1364,171,1501,213"/>
+<area shape="poly" id="edge19_Node000013_Node000015" title=" " alt="" coords="1311,205,1349,200,1349,205,1312,210"/>
+<area shape="poly" id="edge23_Node000018_Node000003" title=" " alt="" coords="580,203,815,242,962,272,1110,307,1159,322,1158,327,1108,312,961,277,814,248,579,208"/>
+<area shape="poly" id="edge24_Node000018_Node000006" title=" " alt="" coords="532,172,588,119,625,92,666,72,729,55,794,45,860,41,925,42,1046,55,1146,74,1145,79,1046,60,924,47,860,46,795,50,730,60,668,77,628,97,591,123,536,176"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_particle_id.html#acda5b8920185bb6ceb11b4727e1f4eb6" title="Read requested plugin name/label from a specified xml tag and attempt to assign the plugin pointer as..." alt="" coords="694,87,823,129"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="575,172,682,133,684,138,577,177"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_xml_helper.html#a4c31774825e5cb5d7f3f38eabb889b12" title="Read a value from an xml element." alt="" coords="937,137,1070,180"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="824,119,922,139,921,145,823,124"/>
+<area shape="poly" id="edge27_Node000020_Node000003" title=" " alt="" coords="1071,167,1092,177,1111,190,1124,206,1132,222,1136,254,1141,285,1147,300,1159,316,1161,318,1158,322,1155,319,1143,303,1136,286,1131,254,1126,224,1120,209,1107,194,1090,181,1069,172"/>
+<area shape="poly" id="edge28_Node000020_Node000006" title=" " alt="" coords="1070,139,1145,120,1146,125,1071,144"/>
+<area shape="poly" id="edge29_Node000020_Node000013" title=" " alt="" coords="1071,173,1143,191,1141,197,1070,178"/>
+<area shape="poly" id="edge30_Node000020_Node000016" title=" " alt="" coords="1071,156,1143,156,1143,161,1071,161"/>
+</map>

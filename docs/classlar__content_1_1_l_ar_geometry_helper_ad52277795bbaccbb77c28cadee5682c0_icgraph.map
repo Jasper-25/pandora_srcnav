@@ -1,0 +1,32 @@
+<map id="lar_content::LArGeometryHelper::MergeThreePositions3D" name="lar_content::LArGeometryHelper::MergeThreePositions3D">
+<area shape="rect" id="Node000001" title="Merge 2D positions from three views to give unified 3D position." alt="" coords="1039,299,1243,341"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#af92f442f19e473eb517332723fb13055" title="Create a 3D shower start position from an input 2D position, assuming consistency of initial directio..." alt="" coords="778,5,991,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1124,285,1103,239,1074,183,1036,127,989,78,973,67,976,62,992,74,1040,124,1079,181,1108,236,1129,283"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#aba07e6abdeeab462832019b578dce268" title="Create 3D shower start position from three input 2D positions, assuming consistency of position." alt="" coords="778,88,991,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1114,288,1060,224,1026,190,989,161,970,149,972,145,992,156,1030,186,1064,220,1118,284"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#a1b7874667390a5b6c6c2c69ecf1de4c5" title="Create a 3D shower start position from an input 2D position, assuming consistency of the drift coordi..." alt="" coords="778,171,991,229"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1086,293,990,244,964,232,966,228,992,239,1089,288"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_vertex_based_pfo_recovery_algorithm.html#af1198d74289319b09bfcbe292d3b2f8f" title="Merge three clusters between views and return chi&#45;squared metric giving consistency of matching." alt="" coords="800,253,969,312"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1023,305,969,298,970,292,1023,300"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_overshoot_tracks_tool.html#a370b4220dc01b6a8506fd23f9b10e6ae" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="789,336,980,379"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1024,340,980,346,980,341,1023,334"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_undershoot_tracks_tool.html#aaf545c52b300206cec75b5a505a37496" title="Whether the provided particle is consistent with being a kink, when examined in three dimensions at t..." alt="" coords="785,403,984,445"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1085,351,992,393,960,405,958,400,990,388,1083,346"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a2009db8714535ce909d5c02d326f0349" title="Perform the refinement proceduce on a list of vertices." alt="" coords="786,469,983,512"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1113,355,1060,408,1027,436,992,460,968,471,966,466,989,455,1024,432,1057,404,1110,351"/>
+<area shape="rect" id="Node000015" href="$classlar__dl__content_1_1_dl_vertexing_algorithm_1_1_vertex_tuple.html#ac40cc436ac1533c327283abc3e1b73d8" title=" " alt="" coords="796,536,973,595"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1124,356,1102,395,1072,440,1035,486,992,526,975,538,972,533,989,522,1031,482,1068,437,1098,392,1120,354"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae589839cfb47ee86d85d738273cfe061" title="Create 3D shower start position(s) from three input 2D positions." alt="" coords="495,137,730,180"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="763,138,731,143,730,138,763,133"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="266,129,447,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="479,161,447,161,447,156,479,156"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="5,137,218,180"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="250,161,218,161,218,156,250,156"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="763,184,730,179,731,174,763,179"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_overshoot_tracks_tool.html#a0582eff2429ada7793c5e289b982ba32" title="Get modification objects for a specific elements of the tensor, identifying required splits and merge..." alt="" coords="507,336,718,379"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="774,360,719,360,719,355,774,355"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_undershoot_tracks_tool.html#a40485a7c0cfc39093328df7e70338567" title="Get modification objects for a specific elements of the tensor, identifying required splits and merge..." alt="" coords="507,403,718,445"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="770,427,719,427,719,421,770,421"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_refinement_algorithm.html#a5e34b714d4d280b8d3b1646055151b82" title="Run the algorithm." alt="" coords="515,469,711,512"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="771,493,711,493,711,488,771,488"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="lar_content::KDTreeLinkerAlgo::build" name="lar_content::KDTreeLinkerAlgo::build">
+<area shape="rect" id="Node000001" title="Build the KD tree from the &quot;eltList&quot; in the space define by &quot;region&quot;." alt="" coords="886,239,1058,281"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_slicing_tool.html#a26527827c72a3840c71746748771f14d" title="Use the list of remaining 2D clusters to assign all remaining 2D hits to existing slices in the slice..." alt="" coords="591,5,818,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,225,936,186,910,142,877,99,837,62,817,51,820,46,840,58,881,95,914,139,941,184,959,223"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_isolated_cluster_mop_up_algorithm.html#a05341e17012306cc5bff3d854a1b90b5" title="Look for isolated hit additions, considering a list of candidate hits and a list of host clusters." alt="" coords="570,72,838,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="944,228,898,177,869,151,837,129,813,118,815,113,840,124,872,147,902,173,948,225"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_pre_processing_algorithm.html#a2ab26c52ed853ec801b310c416e1133b" title="Clean up the input CaloHitList." alt="" coords="599,139,810,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="918,233,837,196,803,184,804,179,839,191,921,228"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_transverse_association_algorithm.html#aa92e2ac680c385c58ccd66194806a829" title="Use a kd&#45;tree to obtain details of all nearby cluster combinations." alt="" coords="593,205,816,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="871,250,816,243,817,238,871,245"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a2e6af095d3effeb0af688828bd526701" title="Initialize kd trees with details of hits in algorithm&#45;configured cluster lists." alt="" coords="599,272,810,315"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="871,275,811,283,810,277,870,270"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#aa32acab6cda8c013536dc61ecfa38404" title="Initialize a nearby cluster map with details relating to a specific cluster list." alt="" coords="585,339,823,381"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="921,292,839,329,804,341,803,336,837,324,918,287"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ad285b0f7255ac0ec7850c5806a5c6085" title="Populate kd tree with information about hits in a provided list of clusters." alt="" coords="589,405,819,448"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="948,295,902,347,872,373,840,396,815,407,813,402,837,391,869,369,898,343,944,292"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_crossed_track_splitting_algorithm.html#a9829019d04bbd28433be1cf94b0b4444" title="Perform any preparatory actions, such as caching information for subsequent expensive calculations." alt="" coords="592,472,816,515"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="959,297,941,336,914,381,881,425,840,462,818,475,815,470,837,458,877,421,910,378,936,334,954,295"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_event_slicing_tool.html#a20a0ecab5d436fcf0f64fbe9e4a21cc6" title="Run the slicing tool." alt="" coords="305,5,470,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="575,29,470,29,470,24,575,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_isolated_cluster_mop_up_algorithm.html#ac6630e991bcb6aa7a3722115919634b2" title="Cluster mop up for a single view. This function is responsible for instructing pandora to make cluste..." alt="" coords="284,72,491,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="555,96,492,96,492,91,555,91"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_pre_processing_algorithm.html#a097fafbe479f32a01f9ef1b2bf3499df" title="Build separate CaloHitLists for each view." alt="" coords="297,139,478,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="583,163,479,163,479,157,583,157"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_pre_processing_algorithm.html#aa8a2e5d19bd3dd93b0171545dc2ac601" title="Run the algorithm." alt="" coords="16,139,194,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="281,163,195,163,195,157,281,157"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_transverse_association_algorithm.html#a6c829b67f046e75850d1f13600646d9d" title="Populate the cluster association map." alt="" coords="253,205,522,248"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="577,229,522,229,522,224,577,224"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#ac095556bb9c4340f6a0a2440b53b35c2" title="Run the algorithm." alt="" coords="295,272,480,315"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="583,296,480,296,480,291,583,291"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a5c869b784a2d394ffcb1f0e03c84e569" title="Initialize nearby cluster maps." alt="" coords="265,339,510,381"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="570,363,511,363,511,357,570,357"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_delta_ray_matching_algorithm.html#a69b27f2e4a343908b03f60daa5f3db85" title="Run the algorithm." alt="" coords="5,339,205,381"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="249,363,205,363,205,357,249,357"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#aac3a43972b40bcba236703235f068117" title="Calculate the shower cluster map for a cluster list." alt="" coords="270,405,505,464"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="574,433,506,434,505,429,574,427"/>
+</map>

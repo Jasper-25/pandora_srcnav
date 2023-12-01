@@ -1,0 +1,32 @@
+<map id="pandora::Cluster::GetElectromagneticEnergy" name="pandora::Cluster::GetElectromagneticEnergy">
+<area shape="rect" id="Node000001" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="802,239,1042,281"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a0e8a51a56b64088ce690e3e7d57e4a45" title="Add the calo hits from a second cluster to this." alt="" coords="547,5,717,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="899,227,874,188,840,144,800,100,753,62,716,45,719,40,756,58,803,96,845,140,878,185,903,224"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_remnants_algorithm.html#abae8cd2b60a1bb89ffe3d4c573ad671d" title="Calculate cluster overlap result and store in container." alt="" coords="523,72,741,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="887,230,828,178,791,152,753,129,727,118,729,113,756,124,794,147,831,174,891,226"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_particle_creation_algorithm.html#a2151bb783dcba096d1d467aa8756bb85" title="Create pfos for provided clusters." alt="" coords="530,139,734,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="855,235,753,196,717,184,719,179,755,191,857,230"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_global_asymmetry_feature_tool.html#af30a49179225098eda4b50c0b08f4950" title="Get the global asymmetry feature for a given view." alt="" coords="516,205,748,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="787,247,748,243,749,237,787,242"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_local_asymmetry_feature_tool.html#a61543a937aa4d35f23b27eac2c8f3152" title="Get the local asymmetry feature in a given view." alt="" coords="516,272,748,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="787,278,749,283,748,277,787,273"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_energy_kick_feature_tool.html#a1fdc64d9a5734e578cb199f3a82f6486" title="Get the energy kick feature for a given view." alt="" coords="258,331,462,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="864,291,812,312,755,329,679,343,602,351,463,357,463,352,602,346,679,338,754,324,810,307,862,286"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_energy_kick_feature_tool.html#a348cfaadc1e2668a1eb4d1193d82d562" title="Increment the energy kick parameters for a given cluster." alt="" coords="510,389,754,432"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="883,293,824,334,756,373,711,391,709,386,753,368,821,329,880,289"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_energy_corrections.html#a7742673c946e12c8b758e9ff9fb342c0" title="Make an ordered list of energy corrections to a cluster." alt="" coords="541,457,723,500"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="901,296,841,372,801,412,756,446,725,461,723,457,753,442,798,408,837,368,897,293"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_particle_creation_algorithm.html#a4a474f81f81634000f422512b2e313ac" title="Run the algorithm." alt="" coords="275,139,445,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="514,163,445,163,445,157,514,157"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_energy_kick_feature_tool.html#a22a1364f8385aba69d1425dbde75c80f" title="Run the tool." alt="" coords="5,329,210,372"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="242,354,210,354,210,349,242,349"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="515,388,462,377,463,371,516,383"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a9d99c6cd0f4269813867bab5b38a5f3b" title="Update cluster corrected energy values." alt="" coords="277,461,443,504"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="526,483,443,484,443,479,526,478"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a2a8a548966b78a419a0fed97418c37f4" title="Get the corrected electromagnetic estimate of the cluster energy, units GeV." alt="" coords="7,396,208,439"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="261,460,192,442,193,437,263,455"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a9ed312eaec0dc1af8dc2ef5e1e371a75" title="Get the corrected hadronic estimate of the cluster energy, units GeV." alt="" coords="7,463,208,505"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="262,486,209,486,209,481,262,481"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#a93ab226a244c3d0272a5bdb59c8784a6" title="Get the best energy estimate to use when comparing cluster energy to associated track momentum,..." alt="" coords="19,529,196,572"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="264,511,190,531,189,526,263,506"/>
+</map>

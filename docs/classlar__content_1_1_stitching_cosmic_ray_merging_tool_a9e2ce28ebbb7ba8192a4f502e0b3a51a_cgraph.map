@@ -1,0 +1,24 @@
+<map id="lar_content::StitchingCosmicRayMergingTool::SelectPfoMatches" name="lar_content::StitchingCosmicRayMergingTool::SelectPfoMatches">
+<area shape="rect" id="Node000001" title="Select the best associations between Pfos; create a mapping between associated Pfos,..." alt="" coords="5,137,234,180"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#adb8b8dedf0db43b6df253d29ddeffd9a" title="Get daughter." alt="" coords="282,5,491,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,134,281,74,293,68,295,73,283,78,162,139"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#ab5a18ad279ca015d078eb33afad3ca0f" title="Get figure of merit." alt="" coords="282,88,491,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,138,266,133,267,139,234,144"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool_1_1_pfo_association.html#a01bc44f404f643800f2476f16b8696da" title="Get parent." alt="" coords="282,171,491,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,174,267,179,266,184,234,179"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a99faf37b2fbe797865e4c26f2221d911" title="Sort pfos by number of constituent hits." alt="" coords="302,253,471,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,178,217,208,283,239,299,245,297,250,281,244,215,213,158,183"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="542,165,733,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="456,250,490,239,564,212,566,217,492,244,458,255"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="783,232,987,259"/>
+<area shape="poly" id="edge11_Node000005_Node000008" title=" " alt="" coords="471,267,768,250,768,255,471,272"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="545,283,729,325"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="472,282,530,289,529,294,471,287"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="539,349,735,392"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="439,294,540,335,557,341,555,346,538,340,437,299"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="793,99,977,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="718,162,788,143,789,149,720,167"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="731,206,811,225,810,230,730,211"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="789,165,981,208"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="733,184,774,184,774,189,733,189"/>
+</map>

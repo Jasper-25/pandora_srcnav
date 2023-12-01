@@ -1,0 +1,55 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::IsTrackContinuous" name="lar_content::TrackRefinementBaseAlgorithm::IsTrackContinuous">
+<area shape="rect" id="Node000001" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="5,224,227,267"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a8a9bef12ad5931fc5d2834805dfae895" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="607,91,822,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,221,274,191,439,154,591,127,592,133,440,159,275,196,178,226"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cluster_association.html#a379153080c01867e0be9318e2fd72f05" title="Returns the unit vector of the line connecting the upstream and downstream merge points (upstream &#45;&gt; ..." alt="" coords="614,224,816,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="227,243,598,243,598,248,227,248"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="275,324,559,367"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="184,265,337,316,335,321,182,270"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_cluster_association.html#ad5d370e87687f15ac5568c0af9f50156" title="Returns the upstream cluster merge point." alt="" coords="614,491,816,533"/>
+<area shape="poly" id="edge30_Node000001_Node000018" title=" " alt="" coords="139,265,197,320,235,350,276,376,357,414,441,445,524,470,599,488,597,493,523,475,440,450,355,419,273,381,232,355,194,324,135,269"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a7c1c25e20fdafb017456a14a8bed6e84" title="Whether a position falls within a specified segment of the cluster connecting line." alt="" coords="610,157,820,200"/>
+<area shape="poly" id="edge31_Node000001_Node000020" title=" " alt="" coords="227,230,274,224,594,189,594,194,275,229,227,235"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="889,72,1058,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="823,102,874,98,874,103,823,107"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="877,5,1070,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="780,88,869,57,890,51,892,56,871,63,781,93"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="889,205,1058,248"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="801,131,824,143,839,155,848,168,858,180,872,191,880,196,878,201,869,196,854,183,844,171,835,159,821,148,798,136"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="889,139,1058,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="823,129,875,139,874,144,822,135"/>
+<area shape="poly" id="edge18_Node000008_Node000007" title=" " alt="" coords="477,321,606,276,627,269,629,274,608,281,479,326"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ad3fa6ae226f1d97c6ea6548f84027f31" title="Calculate the track length between two points that lies in gaps." alt="" coords="615,424,814,467"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="479,365,608,409,629,416,627,421,606,415,477,370"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_cluster_association.html#adb0c4dd33c2ca922c17315386058798a" title="Returns the downstream cluster merge point." alt="" coords="614,357,816,400"/>
+<area shape="poly" id="edge19_Node000008_Node000017" title=" " alt="" coords="560,359,599,363,598,368,559,364"/>
+<area shape="poly" id="edge20_Node000008_Node000018" title=" " alt="" coords="469,365,515,389,561,421,575,436,585,450,594,463,609,477,616,481,613,486,605,481,590,467,580,453,571,439,557,425,512,394,467,369"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a72a9bd7805b14a8df190e58c8f9870c5" title="Move an input position to the higher line gap edge if it lies within a gap." alt="" coords="607,291,822,333"/>
+<area shape="poly" id="edge21_Node000008_Node000019" title=" " alt="" coords="559,327,591,323,592,328,560,332"/>
+<area shape="poly" id="edge16_Node000009_Node000005" title=" " alt="" coords="806,421,820,410,834,392,841,374,844,336,846,297,854,278,868,258,874,253,878,257,872,262,858,280,851,299,849,336,847,375,839,394,824,414,809,426"/>
+<area shape="poly" id="edge17_Node000009_Node000006" title=" " alt="" coords="807,422,820,410,839,383,846,357,847,330,844,303,841,276,841,248,849,220,868,192,875,185,879,189,872,195,854,222,847,249,846,275,849,303,852,330,851,358,843,386,824,414,810,426"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="889,624,1058,667"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="809,465,824,477,838,494,845,511,849,545,853,578,859,594,872,610,878,615,875,619,868,614,855,597,848,579,844,546,840,512,833,496,820,481,805,469"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_line_gap.html#af8f1fa8491d69c8f7db41c7912607182" title="Get the line end x coordinate." alt="" coords="870,323,1077,349"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="799,421,821,410,835,398,844,385,853,372,869,359,881,353,883,358,872,364,857,375,848,388,839,401,824,414,801,426"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_line_gap.html#a1de63926ffcf30d36616aa75aa3448fe" title="Get the line end z coordinate." alt="" coords="870,373,1077,400"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="811,421,896,401,897,407,812,426"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_line_gap.html#acd1d54cecd0581c056b38636d0221d74" title="Get the line gap type." alt="" coords="885,424,1062,467"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="815,443,870,443,870,448,815,448"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_line_gap.html#ae46cc6ddddf1a8e3ed3d62ff6e2bca49" title="Get the line start x coordinate." alt="" coords="885,491,1062,533"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="801,465,874,484,872,489,800,470"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_line_gap.html#aedff78e44502aabce470756b8dcb0455" title="Get the line start z coordinate." alt="" coords="885,557,1062,600"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="804,465,824,477,840,494,849,511,857,527,872,543,878,547,875,552,869,547,852,530,844,513,836,497,821,481,802,470"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="873,272,1074,299"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="804,421,821,410,831,398,838,386,843,360,849,334,857,321,869,309,874,304,877,309,872,313,861,324,854,336,849,361,843,388,836,401,824,414,808,426"/>
+<area shape="poly" id="edge28_Node000019_Node000005" title=" " alt="" coords="787,288,821,276,869,257,888,251,890,256,871,263,823,281,789,293"/>
+<area shape="poly" id="edge29_Node000019_Node000006" title=" " alt="" coords="803,288,821,277,837,256,844,235,851,213,868,191,874,187,877,191,872,195,856,216,849,237,842,259,824,281,806,292"/>
+<area shape="poly" id="edge22_Node000019_Node000011" title=" " alt="" coords="823,319,855,322,855,328,823,325"/>
+<area shape="poly" id="edge23_Node000019_Node000012" title=" " alt="" coords="787,331,823,343,871,359,899,366,897,372,870,364,822,348,786,336"/>
+<area shape="poly" id="edge24_Node000019_Node000013" title=" " alt="" coords="804,332,824,343,840,360,849,377,857,394,872,410,878,414,875,419,869,414,852,397,844,380,836,363,821,347,802,336"/>
+<area shape="poly" id="edge25_Node000019_Node000014" title=" " alt="" coords="809,332,824,343,838,360,845,378,849,412,853,445,859,461,872,477,875,480,872,483,868,480,855,463,848,446,844,412,840,379,833,363,820,347,805,336"/>
+<area shape="poly" id="edge26_Node000019_Node000015" title=" " alt="" coords="810,332,824,344,842,369,850,395,851,420,849,445,847,470,848,495,855,519,872,544,875,546,871,550,868,547,851,521,843,496,842,470,844,445,846,420,845,396,837,372,820,347,807,336"/>
+<area shape="poly" id="edge27_Node000019_Node000016" title=" " alt="" coords="823,298,857,295,858,300,823,304"/>
+<area shape="poly" id="edge32_Node000020_Node000005" title=" " alt="" coords="821,196,875,206,874,211,820,201"/>
+<area shape="poly" id="edge33_Node000020_Node000006" title=" " alt="" coords="820,168,874,165,874,170,820,174"/>
+</map>

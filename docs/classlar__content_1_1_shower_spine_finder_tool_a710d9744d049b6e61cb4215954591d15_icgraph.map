@@ -1,0 +1,18 @@
+<map id="lar_content::ShowerSpineFinderTool::IsCloseToLine" name="lar_content::ShowerSpineFinderTool::IsCloseToLine">
+<area shape="rect" id="Node000001" title="Determine whether a hit lies close to the shower spine projection." alt="" coords="1445,55,1616,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_shower_spine_finder_tool.html#a580cb28030430184705b1b8e17dd8237" title="Perform a running fit step: collect hits which lie close to the shower spine projection." alt="" coords="1180,55,1397,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1430,79,1398,79,1398,73,1430,73"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_shower_spine_finder_tool.html#ad9a3d4122f0d976baa2e7c40786eef63" title="Perform a running fit to collect the hits of the shower spine." alt="" coords="942,55,1132,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1164,79,1132,79,1132,73,1164,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_shower_spine_finder_tool.html#a96a59a3ac30728651acad2f69b0c4eb1" title=" " alt="" coords="724,55,894,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="926,79,894,79,894,73,926,73"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#abd52ec03592270e97c45fb1d34f4e6b8" title="Build the connection pathways of all other particles in the event." alt="" coords="495,5,676,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,60,676,54,677,49,710,55"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#ab46655214320f8dd9c3cbc09bd0c1b96" title="Build the 2D ProtoShower objects for a given view." alt="" coords="495,88,676,147"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="710,97,677,103,676,98,709,92"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a189822ecb5071f6b484cfec1e5c2471e" title="Find and evaluate shower connection pathway, removing if necessary." alt="" coords="266,47,447,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="480,56,448,62,447,57,480,51"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_electron_initial_region_refinement_algorithm.html#a637caea0b6b13aef615d51de61c7ee32" title="Run the algorithm." alt="" coords="5,55,218,97"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="250,79,218,79,218,73,250,73"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="480,101,447,95,448,90,480,96"/>
+</map>

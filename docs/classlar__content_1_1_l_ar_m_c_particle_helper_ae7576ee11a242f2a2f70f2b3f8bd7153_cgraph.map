@@ -1,0 +1,23 @@
+<map id="lar_content::LArMCParticleHelper::IsBeamNeutrinoFinalState" name="lar_content::LArMCParticleHelper::IsBeamNeutrinoFinalState">
+<area shape="rect" id="Node000001" title="Returns true if passed a primary neutrino final state MCParticle." alt="" coords="5,123,223,165"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a5314cda1ff5cae45c84e1195bd3424b3" title="Get the parent mc particle." alt="" coords="500,123,689,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,141,484,141,484,147,223,147"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f66058246ca58340ca7f0dc68340660" title="Whether a mc particle is a neutrino or antineutrino." alt="" coords="271,64,448,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,119,255,108,256,113,207,125"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="271,185,448,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="201,163,259,178,258,184,200,168"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="759,123,899,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="689,141,744,141,744,147,689,147"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="506,5,683,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,61,491,50,492,55,448,66"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="966,127,1105,169"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="448,80,545,79,663,82,791,91,918,108,963,119,961,124,917,113,790,96,663,87,545,84,448,85"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="740,5,918,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="683,24,725,24,725,29,683,29"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="496,189,692,232"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="448,206,481,206,480,211,448,211"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="671,186,744,165,745,170,672,191"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="740,189,918,232"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="693,208,724,208,724,213,693,213"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="901,186,950,171,952,176,902,191"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="lar_content::MCParticleMonitoringAlgorithm::PrintPrimaryMCParticles" name="lar_content::MCParticleMonitoringAlgorithm::PrintPrimaryMCParticles">
+<area shape="rect" id="Node000001" title="Extract details of each mc primary in a given mc contribution map." alt="" coords="5,168,233,211"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a1fafe4064c9c19c7879342013aa0918b" title="Count the number of calo hits, in a provided list, of a specified type." alt="" coords="578,139,751,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,181,562,163,563,168,233,186"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a74de8876be56175c0837049f0d0d5451" title="Match calo hits to their parent particles." alt="" coords="295,64,502,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,165,295,126,297,131,184,170"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a486c4902600fd5fe8bc1ec815fe92e06" title="Order input MCParticles by their number of hits." alt="" coords="281,197,516,240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="234,199,266,202,265,207,233,204"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_m_c_particle_monitoring_algorithm.html#a2897ceaa4910943646403777ec98d3b8" title="Print information for a given mc particle to screen." alt="" coords="290,288,507,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,209,333,279,331,284,169,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="577,5,753,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="502,65,561,50,563,55,503,70"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="564,72,765,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="502,91,548,91,548,96,502,96"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="455,285,485,269,514,250,529,235,537,221,546,206,562,191,570,186,573,191,566,195,551,209,542,223,533,238,518,254,488,274,457,290"/>
+<area shape="poly" id="edge13_Node000007_Node000007" title=" " alt="" coords="348,288,346,278,355,269,372,263,398,261,427,264,444,270,442,275,425,269,398,267,373,269,357,273,351,279,353,287"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="595,405,734,448"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="439,329,498,360,565,391,581,397,579,402,563,396,496,364,437,333"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#a8c044e8cdf7af5949e89cd15d5976dbe" title="Get the endpoint of the mc particle, units mm." alt="" coords="595,472,734,515"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="420,329,480,392,521,427,565,458,581,466,579,471,563,462,518,431,477,396,416,333"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="595,205,734,248"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="469,285,579,250,581,255,470,290"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="595,272,734,315"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="507,300,580,296,580,301,507,305"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="595,339,734,381"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="508,327,580,341,579,347,507,333"/>
+</map>

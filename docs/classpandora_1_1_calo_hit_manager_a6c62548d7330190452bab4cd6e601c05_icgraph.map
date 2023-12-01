@@ -1,0 +1,13 @@
+<map id="pandora::CaloHitManager::IsAvailable" name="pandora::CaloHitManager::IsAvailable">
+<area shape="rect" id="Node000001" title="Is a calo hit, or a list of calo hits, available to add to a cluster." alt="" coords="463,72,630,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_manager.html#a46a152bc5e37339318afa98521ae6a15" title="Whether a calo hit can be fragmented into two daughter calo hits with the specified energy division." alt="" coords="235,5,403,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,70,394,51,395,46,458,65"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit_manager.html#a53ef316ddd32f30c93d6b0b329b121de" title="Whether two candidate calo hit fragments can be merged." alt="" coords="223,72,415,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,96,415,96,415,91,448,91"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit_manager.html#a8d8efbdc5b865bb255f50f65e0fdf835" title=" " alt="" coords="235,139,403,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="458,122,395,141,394,135,457,117"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit_manager.html#a5a3664d86547ceaeec501525a9e45e12" title="Fragment a calo hit into two daughter calo hits, with a specified energy division." alt="" coords="6,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,29,174,29,174,24,220,24"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit_manager.html#ab269e64ca9c5ef422a3dc050c3507acf" title="Merge two calo hit fragments, originally from the same parent hit, to form a new calo hit." alt="" coords="5,72,175,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,96,175,96,175,91,207,91"/>
+</map>

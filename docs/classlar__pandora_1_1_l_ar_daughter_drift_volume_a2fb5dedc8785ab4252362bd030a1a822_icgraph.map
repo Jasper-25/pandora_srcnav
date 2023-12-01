@@ -1,0 +1,13 @@
+<map id="lar_pandora::LArDaughterDriftVolume::GetTpc" name="lar_pandora::LArDaughterDriftVolume::GetTpc">
+<area shape="rect" id="Node000001" title="Return tpc ID." alt="" coords="945,39,1113,81"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#a828601369ea86736af4fee7b585c4e4c" title="Get daughter volume ID from a specified cryostat/tpc pair." alt="" coords="673,5,894,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,49,894,44,895,39,930,44"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_proto_d_u_n_e_dual_phase.html#ae29d348a16e92c68ca4579b500d20aef" title="Create detector gaps for all daughter volumes in a logical TPC volume." alt="" coords="670,72,897,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="930,76,897,81,897,75,929,71"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a5ebae7a22254f562ac9d0cd437cfc8cf" title="Create the Pandora 2D hits from the ART hits." alt="" coords="430,5,622,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="657,29,623,29,623,24,657,24"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora.html#a28d02ef2b57506377e53f085fd473d1a" title="Create pandora input hits, mc particles etc." alt="" coords="218,5,382,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,29,382,29,382,24,415,24"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,5,170,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,29,170,29,170,24,202,24"/>
+</map>

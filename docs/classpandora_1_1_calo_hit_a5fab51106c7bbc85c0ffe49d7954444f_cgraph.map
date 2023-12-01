@@ -1,0 +1,19 @@
+<map id="pandora::CaloHit::CaloHit" name="pandora::CaloHit::CaloHit">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,147,173,173"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a43afa74fd4aee77d137a4dfd46548cb7" title="Calculate the typical length scale of the cell, units mm." alt="" coords="221,139,400,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,157,205,157,205,163,173,163"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a117c170278ecf08b3e198cc2162561eb" title="Get the cell geometry." alt="" coords="461,5,629,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,136,385,97,447,58,458,52,460,57,449,62,388,101,338,140"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#ab7c46a1d52985dd9a20f957240ae2bc4" title="Get the cell size 0 [pointing: eta, rectangular: up in ENDCAP, along beam in BARREL,..." alt="" coords="461,72,629,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="387,136,452,117,453,122,388,141"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="461,139,629,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="401,157,445,157,445,163,401,163"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="448,205,641,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="388,179,453,198,452,203,387,184"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a3b9282440259f0ad4ff90b1b07ba5cd9" title="Get the spherical coordinates of the cartesian vector." alt="" coords="458,272,631,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="338,180,388,219,449,258,460,263,458,268,447,262,385,223,335,184"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="689,272,858,315"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="632,291,674,291,674,296,632,296"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="906,272,1074,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="858,291,890,291,890,296,858,296"/>
+</map>

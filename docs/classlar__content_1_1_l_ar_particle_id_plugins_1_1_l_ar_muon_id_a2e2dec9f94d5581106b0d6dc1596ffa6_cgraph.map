@@ -1,0 +1,26 @@
+<map id="lar_content::LArParticleIdPlugins::LArMuonId::IsMatch" name="lar_content::LArParticleIdPlugins::LArMuonId::IsMatch">
+<area shape="rect" id="Node000001" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="5,197,163,256"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#addbd69272274cf0b4683230f6178a8df" title="Fraction of occupied layers in cluster." alt="" coords="211,139,402,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,201,217,184,219,189,164,206"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_geometry_helper.html#a90a571d65107eedd480a692c166c5bfe" title="Return the wire pitch." alt="" coords="221,239,392,281"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="163,236,206,242,205,248,162,241"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a617462d29e21fce3c8f83fb1ecfd5ef3" title="Get the innermost pseudo layer in the cluster." alt="" coords="459,5,632,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,136,385,97,449,58,460,52,463,57,451,62,388,101,336,140"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="450,72,641,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="384,136,451,117,453,122,386,141"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a1bf78445229ce99d761516829103817a" title="Get the outermost pseudo layer in the cluster." alt="" coords="457,139,634,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,157,442,157,442,163,403,163"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#ad77035f7ad19c0f80cab30eb196e5566" title="Returns the number of elements in the container." alt="" coords="454,205,638,248"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="386,179,453,198,451,203,384,184"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="689,80,898,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="628,46,727,73,725,78,627,51"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="627,136,725,109,727,114,628,141"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="461,272,631,315"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="392,269,445,277,444,282,392,275"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="705,205,882,248"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="627,269,696,250,697,255,628,274"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="705,272,882,315"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="631,291,689,291,689,296,631,296"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="705,339,882,381"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="628,313,697,331,696,337,627,318"/>
+</map>

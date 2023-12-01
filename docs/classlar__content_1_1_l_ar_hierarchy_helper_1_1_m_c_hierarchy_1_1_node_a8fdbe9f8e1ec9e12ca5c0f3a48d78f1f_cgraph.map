@@ -1,0 +1,18 @@
+<map id="lar_content::LArHierarchyHelper::MCHierarchy::Node::Node" name="lar_content::LArHierarchyHelper::MCHierarchy::Node::Node">
+<area shape="rect" id="Node000001" title="Create a node from a list of MC particles." alt="" coords="5,67,223,109"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="561,5,700,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,63,270,52,415,36,545,27,545,33,416,41,271,57,208,69"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#a606e15ceac76e8ede3ff9f8dd4544fdb" title="Register a node with the hierarchy." alt="" coords="271,67,498,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,85,255,85,255,91,223,91"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="296,135,473,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,107,283,128,281,133,201,113"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="472,132,496,119,512,105,520,90,529,74,544,58,550,54,553,58,548,62,533,77,525,92,516,108,500,123,475,137"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="561,72,700,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,131,545,112,546,117,471,137"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="546,139,714,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="473,155,531,156,531,161,473,160"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="561,205,700,248"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="462,175,546,200,545,205,461,181"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="561,272,700,315"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="417,176,476,216,547,258,558,263,555,268,545,262,473,220,414,180"/>
+</map>

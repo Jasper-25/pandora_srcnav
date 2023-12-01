@@ -1,0 +1,22 @@
+<map id="lar_pandora::LArPandoraHelper::GetFinalStatePFParticle" name="lar_pandora::LArPandoraHelper::GetFinalStatePFParticle">
+<area shape="rect" id="Node000001" title="Return the final&#45;state parent particle by navigating up the chain of parent/daughter associations." alt="" coords="520,85,721,128"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_p_f_particle_monitoring.html#a7507705292ff6025c8174cbc36b3f2ba" title=" " alt="" coords="5,5,223,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,84,472,76,343,56,223,41,223,35,343,51,472,71,514,79"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a147350a423560f69c44ebd4f9c0a88df" title="Build mapping between PFParticles and Hits using PFParticle/Cluster/Hit maps." alt="" coords="271,85,472,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="504,109,472,109,472,104,504,104"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#adbdca868e7408cac8a43c85d9d0e5ca2" title="Build mapping between PFParticles and Hits using PFParticle/SpacePoint/Hit maps." alt="" coords="271,172,472,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="544,136,436,174,434,169,542,131"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="302,166,269,142,253,120,245,100,237,81,221,62,203,51,206,46,224,58,242,78,250,98,257,118,273,138,305,162"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_p_f_particle_analysis.html#a8b6603a3fbb98102efec4004e127296b" title=" " alt="" coords="10,72,218,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,167,222,129,189,118,191,113,224,124,313,162"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_p_f_particle_cosmic_ana.html#a60628d4809c70d3b55e71626d5e50f3d" title=" " alt="" coords="13,139,215,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="255,181,215,176,215,170,255,176"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a1a7310488882bb0a3efc1c5735aca4c4" title=" " alt="" coords="27,205,201,248"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="255,211,201,218,201,213,255,206"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_p_f_particle_validation.html#a8dcb04380902ec4951f4ea8c3cfc7629" title=" " alt="" coords="7,272,221,315"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="313,224,224,262,191,274,189,269,222,258,311,219"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a8847193dfee4f211dc76eddc0010ec65" title="Build mapping between PFParticles and Hits starting from ART event record." alt="" coords="13,339,215,381"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="344,228,291,280,259,306,224,329,200,340,198,336,221,324,256,302,288,276,340,224"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a54399fb66565cddb82f1102a06e48bbb" title="Build mapping between PFParticles and Hits starting from ART event record." alt="" coords="13,405,215,448"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="356,230,334,268,304,313,268,357,224,395,204,407,202,402,221,391,264,354,300,310,329,265,351,227"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="lar_content::CosmicRayTaggingMonitoringTool::CalculatePfoMetrics" name="lar_content::CosmicRayTaggingMonitoringTool::CalculatePfoMetrics">
+<area shape="rect" id="Node000001" title="Calculate metrics to classify Pfos based on the target reconstructable MCParticles with which they sh..." alt="" coords="5,93,235,136"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#a6f3ecde9f67de10d8f63e38ace85befd" title="Classify a pfo given some metrics." alt="" coords="304,27,509,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,90,296,71,297,76,215,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#a6861865e033a6b12b0196579a5d01c38" title="Returns true if the main MCParticle of the supplied Pfo is a muon." alt="" coords="283,93,530,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,112,267,112,267,117,235,117"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a99faf37b2fbe797865e4c26f2221d911" title="Sort pfos by number of constituent hits." alt="" coords="322,160,491,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,134,307,156,306,161,214,139"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="581,72,772,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="491,157,529,145,606,118,607,123,531,151,492,162"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="822,139,1026,165"/>
+<area shape="poly" id="edge10_Node000004_Node000007" title=" " alt="" coords="491,174,807,156,807,161,492,179"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="584,189,768,232"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="492,188,568,196,568,202,491,193"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="578,256,774,299"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="467,201,579,241,597,248,595,253,577,247,465,206"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="832,5,1016,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="757,69,827,50,828,55,759,74"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="770,113,850,132,849,137,769,118"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="828,72,1020,115"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="772,91,813,91,813,96,772,96"/>
+</map>

@@ -1,0 +1,60 @@
+<map id="lar_content::LArPointingClusterHelper::IsNode" name="lar_content::LArPointingClusterHelper::IsNode">
+<area shape="rect" id="Node000001" title="Whether pointing vertex is adjacent to a given position." alt="" coords="1354,321,1514,364"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_split_showers_tool.html#a8258cd83ab7e959b73719f0a032a62b2" title="Check the consistency of the clusters in a provided cluster list with the event vertex,..." alt="" coords="1066,5,1289,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1424,306,1411,252,1388,185,1353,119,1331,88,1304,62,1287,51,1290,46,1308,58,1335,85,1358,116,1393,183,1416,250,1429,305"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a1d1156fb1d9952aedf34cfdba44dc776" title="Collect cluster vertices, from a provided input list, associated with a specified vertex." alt="" coords="1071,72,1284,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1417,308,1399,270,1374,226,1343,182,1304,145,1282,131,1285,126,1308,141,1347,179,1379,223,1404,268,1422,306"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_event_slicing_tool.html#a36cd1c6932a8b110f2ba9740d18a5d48" title="Check whether a pair of pointing clusters are nodally associated." alt="" coords="1095,155,1260,197"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1407,311,1363,259,1335,233,1305,212,1259,193,1261,188,1307,207,1339,229,1367,255,1411,307"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_shower_growing_algorithm.html#a701ca87340d0a0508f0337fe98dffb84" title="Whether a pointing cluster is assciated with a provided 2D vertex projection." alt="" coords="1079,221,1276,264"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1383,316,1305,278,1272,267,1273,262,1307,274,1385,311"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_shower_pfo_mop_up_algorithm.html#a8c86ee8356a66e6dea2c29997d961c8f" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="1071,288,1284,331"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="1338,333,1284,326,1285,321,1339,328"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a4598da4cf6c03627ca0c533dd37126a1" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="1049,355,1306,397"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="1339,358,1307,362,1306,357,1338,352"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_sliding_cone_pfo_mop_up_algorithm.html#abc0234b4f0850262ed199621b4db662c" title="Whether a 3D cluster is nodally associated with a provided vertex." alt="" coords="1049,421,1306,464"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="1385,374,1307,412,1273,423,1272,418,1305,407,1383,369"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_end_associated_pfos_tool.html#afaed9c5369e63ec8dda7c6ebd008d1d0" title="Run the algorithm tool." alt="" coords="1087,488,1268,531"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="1411,378,1367,430,1339,456,1307,478,1270,495,1267,490,1305,474,1335,452,1363,426,1407,375"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_vertex_associated_pfos_tool.html#a5baf85eaaf90d97effceabe73e0df55a" title="Run the algorithm tool." alt="" coords="1079,555,1276,597"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="1422,380,1405,419,1380,463,1347,507,1308,545,1277,561,1275,556,1304,541,1343,504,1375,460,1400,416,1417,377"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_particle_recovery_algorithm.html#a2e8e25ca3e1f60bfdd37a96f94f1775b" title="Select a subset of input clusters nodally associated with the vertices of existing particles." alt="" coords="1069,621,1286,664"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="1428,380,1414,432,1391,494,1356,558,1334,586,1308,611,1288,624,1285,620,1304,607,1330,583,1351,555,1386,492,1409,430,1423,379"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_split_showers_tool.html#a54efe4268c41a90bd1fd77c5699fac50" title="Get cluster merges specific elements of the tensor." alt="" coords="787,5,957,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1050,29,957,29,957,24,1050,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_split_showers_tool.html#ad04657a57ac7a9a81299260734b50751" title="Find split showers, using information from the overlap tensor." alt="" coords="488,5,657,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="772,29,657,29,657,24,772,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_split_showers_tool.html#abd713b78676a1d526c4e8ead8b811afe" title="Run the algorithm tool." alt="" coords="225,5,394,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,29,394,29,394,24,472,24"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a854628f772dffc97822c152a9eeb720e" title="Simple and fast vertex selection, choosing best vertex from a specified list to represent a set of po..." alt="" coords="775,72,969,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1055,104,969,104,969,99,1055,99"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_event_slicing_tool.html#af78006f4232ef25ce1dd5e36c221a72d" title="Compare the provided clusters to assess whether they are associated via pointing (checks association ..." alt="" coords="790,155,954,197"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1080,179,955,179,955,173,1080,173"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_event_slicing_tool.html#a747eadeeedc53c6d37abdfa940a5965a" title="Collect all clusters associated with a provided cluster." alt="" coords="469,155,675,197"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="774,179,676,179,676,173,774,173"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="615,142,599,136,572,133,547,135,532,140,526,146,528,153,523,155,521,145,529,136,546,130,572,128,600,130,617,137"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_event_slicing_tool.html#aed3443e214dbe7b0724c7ed25576cd0e" title="Divide the provided lists of 3D track and shower clusters into slices." alt="" coords="227,155,392,197"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="453,179,393,179,393,173,453,173"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_event_slicing_tool.html#a20a0ecab5d436fcf0f64fbe9e4a21cc6" title="Run the slicing tool." alt="" coords="5,155,170,197"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="211,179,170,179,170,173,211,173"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_shower_growing_algorithm.html#ab8b9018a9d5d8a2767fe293cf91209d2" title="Get all seed candidates associated with a provided vertex." alt="" coords="745,221,999,264"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1063,245,999,245,999,240,1063,240"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_shower_growing_algorithm.html#a25d48b5db24840dcc76b27695ba6e948" title="Get the number of clusters associated with the vertex." alt="" coords="760,288,984,331"/>
+<area shape="poly" id="edge17_Node000013_Node000017" title=" " alt="" coords="1064,270,973,290,972,285,1063,265"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_shower_growing_algorithm.html#a7072a2d309aea931b95fcdda7e713a5f" title="Simple single&#45;pass shower growing mode." alt="" coords="449,221,695,264"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="730,245,696,245,696,240,730,240"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_shower_growing_algorithm.html#aaef7b089e5c5e232d87d7d824b93269a" title="Run the algorithm." alt="" coords="218,221,401,264"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="433,245,401,245,401,240,433,240"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_shower_growing_algorithm.html#ac1da167a02b20cdfc95434c114e3a3ba" title="Get a figure of merit representing the consistency of the provided seed associated list." alt="" coords="481,288,664,331"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="744,312,664,312,664,307,744,307"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a71ad6b63314e127c9561973be35d8dfb" title="Get the list of input pfos and divide them into vertex&#45;associated and non&#45;vertex&#45;associated lists." alt="" coords="762,355,982,397"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1033,379,982,379,982,373,1033,373"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#ae27eac53ad717c7bd9469957f9fc7e11" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="743,421,1001,464"/>
+<area shape="poly" id="edge23_Node000020_Node000023" title=" " alt="" coords="1062,404,973,423,972,418,1061,399"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="488,355,656,397"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="747,379,657,379,657,373,747,373"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab8273550fb6762b76467bb649be38ced" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="773,621,971,664"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="1053,645,971,645,971,640,1053,640"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_particle_recovery_algorithm.html#ab40b548d133dfc832cd57f3efcbc55b0" title="Run the algorithm." alt="" coords="477,621,667,664"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="758,645,668,645,668,640,758,640"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="lar_content::SlicingAlgorithm::ReadSettings" name="lar_content::SlicingAlgorithm::ReadSettings">
+<area shape="rect" id="Node000001" title="Read the algorithm settings." alt="" coords="5,205,193,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_xml_helper.html#a205d4b55f86d5af0ba996f94bd8eddaa" title="Process an algorithm described in an xml element with a matching &quot;description = ....." alt="" coords="252,139,386,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,202,236,182,238,187,172,207"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_xml_helper.html#ab8e223a4d8663e38cf36fe8b2301a217" title="Process an algorithm tool described in an xml element with a matching &quot;description = ...." alt="" coords="241,205,397,248"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="193,224,225,224,225,229,193,229"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_xml_helper.html#a4c31774825e5cb5d7f3f38eabb889b12" title="Read a value from an xml element." alt="" coords="252,339,386,381"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="137,246,270,328,267,332,134,251"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a66a32014150d2b71a7337c10008062ab" title="Create an algorithm instance, via one of the algorithm factories registered with pandora...." alt="" coords="445,5,611,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,136,387,97,444,58,453,53,455,57,446,62,390,102,345,140"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_handle.html#a0646cc781c7288abc2e3835264174aa3" title=" " alt="" coords="455,272,601,315"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="381,180,399,191,415,209,423,226,432,242,447,258,451,261,448,266,443,262,427,245,419,228,410,212,395,195,378,184"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_ti_xml_handle.html#a4e5eaba7177abb6d44bdc86a2362070e" title="Return a handle to the first child node." alt="" coords="455,339,601,381"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="385,180,399,191,412,209,419,226,423,260,428,292,434,308,447,325,449,327,445,331,443,328,430,311,423,294,418,261,414,228,407,212,395,195,381,184"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_handle.html#a6f9fcdd336649db1851765d8e3c7642d" title=" " alt="" coords="455,72,601,115"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="385,136,443,117,445,123,387,141"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_node.html#a36f384fe576ac377c5d004488775e522" title=" " alt="" coords="460,139,596,181"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="386,157,444,157,444,163,386,163"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="662,105,803,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="587,46,613,58,683,95,681,100,610,62,585,51"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="696,105,695,95,701,86,713,81,733,79,753,81,765,87,763,92,751,86,732,84,715,86,704,91,700,97,701,104"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_handle.html#a86da3ac32d75446bafeec167e48338b7" title=" " alt="" coords="659,272,806,315"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="602,291,644,291,644,296,602,296"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_node.html#a351d0fe57709c10ba9355f90703882f3" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="854,272,990,315"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="806,291,838,291,838,296,806,296"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="664,339,801,381"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="602,357,649,357,649,363,602,363"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="389,246,445,264,444,269,387,251"/>
+<area shape="poly" id="edge16_Node000012_Node000008" title=" " alt="" coords="345,246,390,285,446,324,455,329,453,334,444,329,387,289,341,250"/>
+<area shape="poly" id="edge17_Node000012_Node000010" title=" " alt="" coords="378,203,395,191,410,175,419,159,427,142,443,125,448,121,451,125,447,129,432,145,423,161,415,178,399,195,381,207"/>
+<area shape="poly" id="edge18_Node000012_Node000011" title=" " alt="" coords="387,202,444,184,446,189,389,207"/>
+<area shape="rect" id="Node000013" href="$class_pandora_content_api.html#acde107f3d81f18698c9503957acae53e" title="Create an algorithm tool instance, via one of the algorithm tool factories registered with pandora...." alt="" coords="458,205,599,248"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="397,224,442,224,442,229,397,229"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="585,202,610,191,681,154,683,158,613,196,587,207"/>
+<area shape="poly" id="edge20_Node000014_Node000005" title=" " alt="" coords="385,336,443,317,445,323,387,341"/>
+<area shape="poly" id="edge21_Node000014_Node000008" title=" " alt="" coords="386,357,440,357,440,363,386,363"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_ti_xml_element.html#ac30030547fca44cfb876380d7002aeb4" title=" " alt="" coords="451,405,605,448"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="387,379,445,397,443,403,385,384"/>
+<area shape="rect" id="Node000018" href="$namespacepandora.html#a2b8dfb6844696f374179f8bd1ee7e7b9" title=" " alt="" coords="453,472,604,499"/>
+<area shape="poly" id="edge26_Node000014_Node000018" title=" " alt="" coords="344,380,389,419,446,458,459,464,456,468,444,462,386,423,340,384"/>
+<area shape="poly" id="edge23_Node000015_Node000009" title=" " alt="" coords="595,402,649,384,651,389,596,407"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_ti_xml_node.html#a8caab284c224f0d4726ebf175bf66c5e" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="664,472,801,515"/>
+<area shape="poly" id="edge24_Node000015_Node000016" title=" " alt="" coords="596,446,651,464,649,469,595,451"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_ti_xml_node.html#ac3eec12e25197da0dec780fbeb3a4d29" title=" " alt="" coords="664,405,801,448"/>
+<area shape="poly" id="edge25_Node000015_Node000017" title=" " alt="" coords="606,424,649,424,649,429,606,429"/>
+</map>

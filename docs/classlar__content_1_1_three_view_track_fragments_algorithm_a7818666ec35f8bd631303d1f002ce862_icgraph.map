@@ -1,0 +1,14 @@
+<map id="lar_content::ThreeViewTrackFragmentsAlgorithm::CalculateOverlapResult" name="lar_content::ThreeViewTrackFragmentsAlgorithm::CalculateOverlapResult">
+<area shape="rect" id="Node000001" title="Calculate cluster overlap result and store in container." alt="" coords="1097,35,1340,93"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1266,23,1248,16,1218,13,1193,15,1175,20,1167,27,1167,35,1161,34,1163,24,1173,15,1192,10,1218,8,1249,11,1268,18"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a18c830b8bfefedb0af402fd02fe902e7" title="Main loop over cluster combinations in order to populate the overlap container. Responsible for calli..." alt="" coords="801,5,1049,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="1081,49,1049,45,1049,40,1082,44"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a29206ba2b154a1ca461873f70d095cff" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="809,72,1041,131"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1082,84,1041,89,1041,84,1081,79"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_clear_track_fragments_tool.html#a81f8bda3d8c9ab30128a5118ce892dbe" title="Process a tensor element, reclustering the fragments as required." alt="" coords="536,80,753,123"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="794,104,754,104,754,99,794,99"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_clear_track_fragments_tool.html#a3ca236f22e3b72df47ce1c1f2c3c6497" title="Find suitable matching track fragments in the overlap tensor to use for 3D particle creation,..." alt="" coords="271,80,488,123"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="520,104,489,104,489,99,520,99"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_clear_track_fragments_tool.html#a127f1a25e6578ea71a44b6f375cd24a1" title="Run the algorithm tool." alt="" coords="5,80,223,123"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="255,104,223,104,223,99,255,99"/>
+</map>

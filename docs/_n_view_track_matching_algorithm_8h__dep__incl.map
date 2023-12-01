@@ -1,0 +1,118 @@
+<map id="LArContent/larpandoracontent/LArThreeDReco/LArThreeDBase/NViewTrackMatchingAlgorithm.h" name="LArContent/larpandoracontent/LArThreeDReco/LArThreeDBase/NViewTrackMatchingAlgorithm.h">
+<area shape="rect" id="Node000001" title="Header file for the n view track matching algorithm class." alt="" coords="3185,5,3399,64"/>
+<area shape="rect" id="Node000002" href="$_three_view_longitudinal_tracks_algorithm_8h.html" title="Header file for the three view longitudinal tracks algorithm class." alt="" coords="554,219,867,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3170,46,2743,75,2204,115,1454,179,867,234,867,229,1454,174,2204,109,2742,70,3169,41"/>
+<area shape="rect" id="Node000009" href="$_n_view_track_matching_algorithm_8cc.html" title="Implementation of the n view track matching algorithm class." alt="" coords="3520,112,3741,171"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="3400,66,3539,109,3537,114,3398,71"/>
+<area shape="rect" id="Node000010" href="$_three_view_track_fragments_algorithm_8h.html" title="Header file for the three view fragments algorithm base class." alt="" coords="1420,219,1665,277"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="3171,53,1666,234,1665,229,3170,48"/>
+<area shape="rect" id="Node000014" href="$_three_view_transverse_tracks_algorithm_8h.html" title="Header file for the three view transverse tracks algorithm class." alt="" coords="3139,112,3445,171"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="3295,80,3295,112,3289,112,3289,80"/>
+<area shape="rect" id="Node000036" href="$_two_view_transverse_tracks_algorithm_8h.html" title="Header file for the two view transverse tracks algorithm class." alt="" coords="5055,219,5299,277"/>
+<area shape="poly" id="edge52_Node000001_Node000036" title=" " alt="" coords="3385,68,3422,87,3458,110,3473,126,3483,142,3492,156,3509,168,3538,177,3584,185,3714,197,3881,205,4067,210,4635,216,5054,237,5054,243,4634,221,4067,215,3881,211,3714,203,3583,191,3537,183,3507,173,3488,160,3478,145,3469,129,3454,114,3420,92,3383,73"/>
+<area shape="rect" id="Node000003" href="$_l_ar_content_8cc.html" title="Factory implementations for content intended for use with particle flow reconstruction at liquid argo..." alt="" coords="3433,440,3626,483"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="810,282,848,300,884,323,900,339,909,355,918,370,934,382,966,387,1038,392,1283,403,2030,425,3432,456,3432,461,2030,431,1282,409,1038,397,965,392,932,386,914,373,904,358,896,343,881,327,846,305,808,286"/>
+<area shape="rect" id="Node000004" href="$_clear_longitudinal_tracks_tool_8h.html" title="Header file for the clear tracks tool class." alt="" coords="10,325,262,384"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="540,281,274,328,262,330,261,325,273,323,539,275"/>
+<area shape="rect" id="Node000006" href="$_matched_end_points_tool_8h.html" title="Header file for the matched end points tool class." alt="" coords="286,325,527,384"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="614,285,491,327,489,322,612,280"/>
+<area shape="rect" id="Node000008" href="$_three_view_longitudinal_tracks_algorithm_8cc.html" title="Implementation of the three view longitudinal tracks algorithm class." alt="" coords="551,325,870,384"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="713,293,713,325,708,325,708,293"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="277,381,468,390,811,400,1763,422,3432,456,3432,461,1763,428,811,405,468,395,277,387"/>
+<area shape="rect" id="Node000005" href="$_clear_longitudinal_tracks_tool_8cc.html" title="Implementation of the clear tracks tool class." alt="" coords="5,432,264,491"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="138,400,138,432,132,432,133,400"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="543,381,1032,400,1900,422,3432,455,3432,461,1899,427,1032,405,543,387"/>
+<area shape="rect" id="Node000007" href="$_matched_end_points_tool_8cc.html" title="Implementation of the matched end point tool class." alt="" coords="287,432,529,491"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="410,400,410,432,405,432,404,400"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="1651,281,1691,300,1729,323,1745,339,1754,355,1763,370,1780,382,1818,394,1879,405,2051,424,2276,437,2532,447,3049,456,3432,458,3432,463,3049,461,2532,452,2276,443,2051,429,1878,411,1817,399,1777,386,1759,373,1750,358,1741,342,1726,327,1689,305,1649,286"/>
+<area shape="rect" id="Node000011" href="$_clear_track_fragments_tool_8h.html" title="Header file for the clear track fragments tool class." alt="" coords="945,325,1180,384"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1405,282,1181,330,1180,325,1404,277"/>
+<area shape="rect" id="Node000013" href="$_three_view_track_fragments_algorithm_8cc.html" title="Implementation of the three view fragments algorithm class." alt="" coords="1204,325,1457,384"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="1472,287,1390,327,1388,322,1470,282"/>
+<area shape="poly" id="edge14_Node000011_Node000003" title=" " alt="" coords="1195,381,1356,393,1607,404,2267,426,3432,455,3432,461,2267,431,1606,409,1355,398,1195,387"/>
+<area shape="rect" id="Node000012" href="$_clear_track_fragments_tool_8cc.html" title="Implementation of the clear track fragments tool class." alt="" coords="945,432,1180,491"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="1065,400,1065,432,1060,432,1060,400"/>
+<area shape="poly" id="edge18_Node000014_Node000003" title=" " alt="" coords="3460,169,3762,179,3927,191,3985,202,4005,209,4018,217,4028,232,4030,247,4027,263,4018,279,3996,301,3972,310,3945,315,3916,328,3894,343,3879,358,3863,372,3840,386,3787,408,3732,426,3627,449,3626,444,3730,421,3785,403,3837,382,3860,368,3875,354,3891,339,3913,323,3944,310,3970,305,3993,297,4014,276,4022,261,4025,247,4023,234,4014,221,4003,213,3984,207,3926,196,3762,184,3460,174"/>
+<area shape="rect" id="Node000015" href="$_transverse_tensor_visualization_tool_8h.html" title="Header file for the transverse tensor visualization tool class." alt="" coords="4079,219,4363,277"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="3460,168,3464,168,3631,184,3762,191,3893,199,4060,216,4079,219,4078,224,4060,221,3892,204,3762,197,3631,190,3464,173,3459,173"/>
+<area shape="rect" id="Node000017" href="$_clear_tracks_tool_8h.html" title="Header file for the clear tracks tool class." alt="" coords="4388,219,4622,277"/>
+<area shape="poly" id="edge22_Node000014_Node000017" title=" " alt="" coords="3460,168,3464,168,3603,180,3720,186,3920,188,4120,192,4238,200,4376,216,4388,218,4387,223,4375,221,4237,206,4120,197,3920,193,3720,192,3602,186,3464,173,3459,173"/>
+<area shape="rect" id="Node000019" href="$_long_tracks_tool_8h.html" title="Header file for the long tracks tool class." alt="" coords="2657,219,2892,277"/>
+<area shape="poly" id="edge25_Node000014_Node000019" title=" " alt="" coords="3128,177,2904,221,2893,224,2892,218,2903,216,3126,172"/>
+<area shape="rect" id="Node000024" href="$_missing_track_segment_tool_8h.html" title="Header file for the missing track segment tool class." alt="" coords="2363,219,2605,277"/>
+<area shape="poly" id="edge31_Node000014_Node000024" title=" " alt="" coords="3124,163,2896,188,2646,221,2606,227,2605,222,2645,216,2896,183,3123,157"/>
+<area shape="rect" id="Node000025" href="$_missing_track_tool_8h.html" title="Header file for the missing track tool class." alt="" coords="3433,219,3668,277"/>
+<area shape="poly" id="edge34_Node000014_Node000025" title=" " alt="" coords="3378,174,3481,216,3479,221,3376,179"/>
+<area shape="rect" id="Node000027" href="$_three_d_kink_base_tool_8h.html" title="Header file for the three d kink base tool." alt="" coords="1975,219,2209,277"/>
+<area shape="poly" id="edge37_Node000014_Node000027" title=" " alt="" coords="3124,157,2768,185,2351,221,2210,236,2209,231,2350,216,2768,180,3124,152"/>
+<area shape="rect" id="Node000033" href="$_three_view_transverse_tracks_algorithm_8cc.html" title="Implementation of the three view transverse tracks algorithm class." alt="" coords="3692,219,4004,277"/>
+<area shape="poly" id="edge45_Node000014_Node000033" title=" " alt="" coords="3460,171,3695,215,3694,221,3459,177"/>
+<area shape="rect" id="Node000034" href="$_track_splitting_tool_8h.html" title="Header file for the track splitting tool class." alt="" coords="2916,219,3150,277"/>
+<area shape="poly" id="edge46_Node000014_Node000034" title=" " alt="" coords="3208,179,3105,221,3103,216,3206,174"/>
+<area shape="rect" id="Node000035" href="$_tracks_crossing_gaps_tool_8h.html" title="Header file for the long tracks tool class." alt="" coords="3175,219,3409,277"/>
+<area shape="poly" id="edge49_Node000014_Node000035" title=" " alt="" coords="3295,186,3295,218,3289,218,3289,186"/>
+<area shape="poly" id="edge20_Node000015_Node000003" title=" " alt="" coords="4238,292,4243,315,4243,340,4238,365,4226,386,4195,402,4140,415,3979,436,3791,451,3626,459,3626,454,3791,445,3978,431,4139,410,4193,397,4222,382,4233,363,4238,340,4237,316,4233,293"/>
+<area shape="rect" id="Node000016" href="$_transverse_tensor_visualization_tool_8cc.html" title="Implementation of the transverse tensor visualization tool class." alt="" coords="3927,325,4211,384"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="4169,289,4112,327,4109,323,4166,284"/>
+<area shape="poly" id="edge23_Node000017_Node000003" title=" " alt="" coords="4533,290,4543,314,4549,339,4547,364,4535,386,4517,398,4487,409,4400,426,4283,439,4147,449,3861,460,3626,463,3626,457,3861,454,4147,444,4283,434,4399,421,4486,403,4514,393,4531,382,4542,362,4543,340,4538,315,4528,292"/>
+<area shape="rect" id="Node000018" href="$_clear_tracks_tool_8cc.html" title="Implementation of the clear tracks tool class." alt="" coords="4287,325,4521,384"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="4469,290,4433,327,4430,323,4465,287"/>
+<area shape="poly" id="edge26_Node000019_Node000003" title=" " alt="" coords="2832,284,2880,323,2895,341,2904,356,2914,369,2930,382,2970,397,3023,411,3157,432,3303,445,3432,453,3432,459,3303,451,3157,437,3022,416,2968,402,2928,386,2910,373,2900,359,2891,344,2877,327,2829,289"/>
+<area shape="rect" id="Node000020" href="$_long_tracks_tool_8cc.html" title="Implementation of the long tracks tool class." alt="" coords="2632,325,2866,384"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="2767,293,2759,326,2753,324,2761,292"/>
+<area shape="rect" id="Node000021" href="$_missing_track_segment_tool_8cc.html" title="Implementation of the missing track segment tool class." alt="" coords="2359,325,2609,384"/>
+<area shape="poly" id="edge28_Node000019_Node000021" title=" " alt="" coords="2681,285,2564,327,2563,322,2680,280"/>
+<area shape="rect" id="Node000022" href="$_track_splitting_tool_8cc.html" title="Implementation of the long tracks tool class." alt="" coords="2941,325,3176,384"/>
+<area shape="poly" id="edge29_Node000019_Node000022" title=" " alt="" coords="2868,281,2982,322,2980,327,2866,286"/>
+<area shape="rect" id="Node000023" href="$_tracks_crossing_gaps_tool_8cc.html" title="Implementation of the long tracks tool class." alt="" coords="3199,325,3441,384"/>
+<area shape="poly" id="edge30_Node000019_Node000023" title=" " alt="" coords="2907,275,3188,323,3199,325,3198,330,3187,328,2907,281"/>
+<area shape="poly" id="edge32_Node000024_Node000003" title=" " alt="" coords="2388,288,2366,305,2349,327,2341,342,2338,356,2340,369,2348,382,2363,389,2393,396,2493,408,2800,430,3151,445,3432,455,3432,460,3151,451,2799,435,2493,414,2392,401,2361,394,2345,386,2335,371,2332,356,2336,340,2344,324,2362,301,2385,284"/>
+<area shape="poly" id="edge33_Node000024_Node000021" title=" " alt="" coords="2487,293,2487,325,2481,325,2481,293"/>
+<area shape="poly" id="edge35_Node000025_Node000003" title=" " alt="" coords="3684,278,3768,302,3799,313,3815,323,3824,339,3828,355,3825,370,3815,386,3803,397,3786,407,3739,425,3684,439,3627,449,3626,444,3682,433,3738,419,3783,402,3800,393,3811,382,3820,368,3822,355,3820,341,3811,327,3796,318,3767,307,3682,283"/>
+<area shape="rect" id="Node000026" href="$_missing_track_tool_8cc.html" title="Implementation of the missing track tool class." alt="" coords="3567,325,3801,384"/>
+<area shape="poly" id="edge36_Node000025_Node000026" title=" " alt="" coords="3600,285,3649,323,3646,327,3597,289"/>
+<area shape="rect" id="Node000028" href="$_overshoot_tracks_tool_8h.html" title="Header file for the overshoot tracks tool class." alt="" coords="1791,325,2025,384"/>
+<area shape="poly" id="edge38_Node000027_Node000028" title=" " alt="" coords="2030,288,1959,327,1957,323,2027,283"/>
+<area shape="rect" id="Node000030" href="$_three_d_kink_base_tool_8cc.html" title="Implementation of the three d kink base tool class." alt="" coords="2049,325,2284,384"/>
+<area shape="poly" id="edge41_Node000027_Node000030" title=" " alt="" coords="2123,288,2148,323,2144,327,2119,292"/>
+<area shape="rect" id="Node000031" href="$_undershoot_tracks_tool_8h.html" title="Header file for the undershoot tracks tool class." alt="" coords="1481,325,1716,384"/>
+<area shape="poly" id="edge42_Node000027_Node000031" title=" " alt="" coords="1960,280,1717,331,1715,326,1959,275"/>
+<area shape="poly" id="edge39_Node000028_Node000003" title=" " alt="" coords="2041,382,2243,405,2449,423,2847,446,3190,456,3432,458,3432,463,3190,461,2847,451,2449,428,2243,410,2040,387"/>
+<area shape="rect" id="Node000029" href="$_overshoot_tracks_tool_8cc.html" title="Implementation of the overshoot tracks tool class." alt="" coords="1791,432,2025,491"/>
+<area shape="poly" id="edge40_Node000028_Node000029" title=" " alt="" coords="1911,400,1911,432,1905,432,1905,400"/>
+<area shape="poly" id="edge43_Node000031_Node000003" title=" " alt="" coords="1731,381,1735,381,1890,396,2095,409,2587,431,3432,455,3432,461,2587,436,2094,415,1890,401,1734,387,1731,386"/>
+<area shape="rect" id="Node000032" href="$_undershoot_tracks_tool_8cc.html" title="Implementation of the undershoot tracks tool class." alt="" coords="1481,432,1716,491"/>
+<area shape="poly" id="edge44_Node000031_Node000032" title=" " alt="" coords="1601,400,1601,432,1596,432,1596,400"/>
+<area shape="poly" id="edge47_Node000034_Node000003" title=" " alt="" coords="3166,275,3211,280,3250,281,3318,280,3350,282,3382,288,3416,301,3454,323,3471,343,3490,374,3522,438,3518,441,3486,376,3467,346,3450,327,3414,306,3381,293,3350,287,3318,285,3250,286,3211,285,3165,280"/>
+<area shape="poly" id="edge48_Node000034_Node000022" title=" " alt="" coords="3046,292,3054,324,3049,326,3041,293"/>
+<area shape="poly" id="edge50_Node000035_Node000003" title=" " alt="" coords="3411,280,3464,301,3499,323,3517,352,3527,383,3533,439,3527,440,3522,384,3512,354,3495,327,3462,306,3409,285"/>
+<area shape="poly" id="edge51_Node000035_Node000023" title=" " alt="" coords="3306,292,3315,324,3310,326,3301,293"/>
+<area shape="poly" id="edge53_Node000036_Node000003" title=" " alt="" coords="5040,263,4813,289,4709,307,4636,328,4613,341,4599,357,4583,373,4560,386,4480,408,4373,426,4248,439,4113,448,3842,459,3626,463,3626,457,3842,454,4113,443,4248,433,4373,420,4479,403,4557,382,4580,369,4595,353,4610,337,4633,323,4708,302,4812,284,5039,258"/>
+<area shape="rect" id="Node000037" href="$_transverse_matrix_visualization_tool_8h.html" title="Header file for the transverse matrix visualization tool class." alt="" coords="5459,325,5741,384"/>
+<area shape="poly" id="edge54_Node000036_Node000037" title=" " alt="" coords="5309,279,5484,322,5483,327,5307,284"/>
+<area shape="rect" id="Node000039" href="$_two_view_clear_tracks_tool_8h.html" title="Header file for the two view clear tracks tool class." alt="" coords="5764,325,6009,384"/>
+<area shape="poly" id="edge57_Node000036_Node000039" title=" " alt="" coords="5315,262,5522,288,5754,323,5764,325,5763,330,5753,328,5521,293,5314,267"/>
+<area shape="rect" id="Node000041" href="$_two_view_long_tracks_tool_8h.html" title="Header file for the long tracks tool class." alt="" coords="6032,325,6277,384"/>
+<area shape="poly" id="edge60_Node000036_Node000041" title=" " alt="" coords="5315,254,5638,278,5830,298,6022,323,6032,324,6031,330,6021,328,5829,303,5638,284,5314,259"/>
+<area shape="rect" id="Node000043" href="$_two_view_simple_tracks_tool_8h.html" title=" " alt="" coords="4647,325,4891,384"/>
+<area shape="poly" id="edge63_Node000036_Node000043" title=" " alt="" coords="5051,284,4882,327,4881,322,5050,279"/>
+<area shape="rect" id="Node000045" href="$_two_view_three_d_kink_tool_8h.html" title="Header file for the two view three d kink tool class." alt="" coords="5191,325,5435,384"/>
+<area shape="poly" id="edge66_Node000036_Node000045" title=" " alt="" coords="5228,285,5278,323,5274,327,5225,289"/>
+<area shape="rect" id="Node000047" href="$_two_view_transverse_tracks_algorithm_8cc.html" title="Implementation of the two view transverse tracks algorithm class." alt="" coords="4916,325,5166,384"/>
+<area shape="poly" id="edge69_Node000036_Node000047" title=" " alt="" coords="5129,289,5080,327,5077,323,5126,285"/>
+<area shape="poly" id="edge55_Node000037_Node000003" title=" " alt="" coords="5444,387,5269,401,5045,414,4516,436,3627,461,3626,455,4516,431,5045,409,5269,396,5444,382"/>
+<area shape="rect" id="Node000038" href="$_transverse_matrix_visualization_tool_8cc.html" title="Implementation of the transverse matrix visualization tool class." alt="" coords="5459,432,5741,491"/>
+<area shape="poly" id="edge56_Node000037_Node000038" title=" " alt="" coords="5603,400,5603,432,5597,432,5597,400"/>
+<area shape="poly" id="edge58_Node000039_Node000003" title=" " alt="" coords="5749,387,5597,397,5359,408,4734,430,3626,460,3626,455,4734,425,5359,403,5597,392,5749,382"/>
+<area shape="rect" id="Node000040" href="$_two_view_clear_tracks_tool_8cc.html" title="Implementation of the two view clear tracks tool class." alt="" coords="5764,432,6009,491"/>
+<area shape="poly" id="edge59_Node000039_Node000040" title=" " alt="" coords="5889,400,5889,432,5884,432,5884,400"/>
+<area shape="poly" id="edge61_Node000041_Node000003" title=" " alt="" coords="6017,387,5612,404,4902,426,3627,460,3626,455,4902,420,5612,398,6017,381"/>
+<area shape="rect" id="Node000042" href="$_two_view_long_tracks_tool_8cc.html" title="Implementation of the long tracks tool class." alt="" coords="6032,432,6277,491"/>
+<area shape="poly" id="edge62_Node000041_Node000042" title=" " alt="" coords="6157,400,6157,432,6152,432,6152,400"/>
+<area shape="poly" id="edge64_Node000043_Node000003" title=" " alt="" coords="4632,386,4628,387,4343,418,4061,439,3812,453,3626,460,3626,455,3812,448,4061,434,4343,413,4628,381,4631,381"/>
+<area shape="rect" id="Node000044" href="$_two_view_simple_tracks_tool_8cc.html" title="Implementation of the clear showers tool class." alt="" coords="4647,432,4891,491"/>
+<area shape="poly" id="edge65_Node000043_Node000044" title=" " alt="" coords="4772,400,4772,432,4767,432,4767,400"/>
+<area shape="poly" id="edge67_Node000045_Node000003" title=" " alt="" coords="5175,387,5027,401,4837,414,4391,435,3627,460,3626,455,4390,430,4837,408,5026,396,5175,382"/>
+<area shape="rect" id="Node000046" href="$_two_view_three_d_kink_tool_8cc.html" title="Implementation of the two view three d kink tool class." alt="" coords="5191,432,5435,491"/>
+<area shape="poly" id="edge68_Node000045_Node000046" title=" " alt="" coords="5316,400,5316,432,5311,432,5311,400"/>
+</map>

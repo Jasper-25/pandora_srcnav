@@ -1,0 +1,37 @@
+<map id="lar_content::ProtoShowerMatchingTool::AreDirectionsConsistent" name="lar_content::ProtoShowerMatchingTool::AreDirectionsConsistent">
+<area shape="rect" id="Node000001" title="Determine whether three 2D initial spine directions correspond to the same 3D initial spine direction..." alt="" coords="5,355,252,397"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="77,355,75,345,83,336,101,330,129,328,158,330,176,337,174,342,157,336,128,333,102,335,86,340,80,346,82,353"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_proto_shower.html#acb12095a90a7de5dfbfa32373b518bf2" title="Get the connection pathway." alt="" coords="320,5,488,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="133,354,151,295,184,216,206,173,232,131,263,92,298,58,305,53,308,57,301,62,267,96,237,134,211,176,189,218,156,297,138,355"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ada13bd164a4ee3845a26441222c490cc" title="Get global direction corresponding to the fit result in maximum fit layer." alt="" coords="306,72,502,131"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="138,353,162,309,197,253,243,193,298,141,303,137,306,141,301,145,247,197,202,256,166,312,143,355"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a5520f798d6c18098493f8e816c6626fd" title="Get global direction corresponding to the fit result in minimum fit layer." alt="" coords="308,155,500,213"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="148,353,211,290,253,255,298,223,306,219,309,223,301,228,256,259,215,294,151,356"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="304,237,504,264"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="159,352,222,312,299,274,319,266,321,271,301,278,224,317,162,357"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_proto_shower.html#a0ba81d8bb82dd7d01b16092e3f465ae0" title="Get the shower core." alt="" coords="320,288,488,331"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="219,351,304,331,306,336,220,357"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_proto_shower.html#af3c5cbb32d9b23456d1f53cc007503ed" title="Get the spine hit list." alt="" coords="320,355,488,397"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="252,373,304,373,304,379,252,379"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_connection_pathway.html#a642edbb65121f1e35cf77f9d0bfa1be8" title="Get the start direction of the connection pathway." alt="" coords="300,421,508,464"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="220,395,299,415,298,420,219,401"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_shower_core.html#afde9b583e9af5c319d0fdf4fd148bbab" title="Get the start position of the shower core." alt="" coords="322,488,486,531"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="163,395,226,434,301,474,315,480,313,485,299,478,223,439,160,400"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_connection_pathway.html#ae4c2ceebbf5c426f23b46a54603c8785" title="Get the start position of the connection pathway." alt="" coords="300,555,508,597"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="148,396,211,467,254,506,301,540,310,545,307,550,298,545,250,510,207,470,144,399"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#a5c2ecda5bae9c5815c84d31765a97388" title="Return the wire pitch." alt="" coords="319,621,489,664"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="142,397,165,441,200,498,246,556,273,583,301,607,307,611,304,616,298,611,269,587,242,560,196,501,161,443,137,399"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="320,688,488,731"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="139,397,158,453,191,527,239,606,268,642,301,674,308,679,305,683,298,678,264,646,234,609,186,530,153,454,134,399"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#acf6cfcdd1e0f3b6a07dd3dcb882ed3cc" title="Get global direction coordinates for given sliding linear fit gradient." alt="" coords="556,121,746,164"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="503,115,541,122,540,127,502,120"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="794,121,981,164"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="747,140,778,140,778,145,747,145"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="500,165,540,158,541,164,501,171"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_l_ar_t_p_c.html#a1a4f55f093057f91728c419857fd9fa4" title="Get the u wire pitch, units mm." alt="" coords="563,555,739,597"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="485,618,554,599,555,605,486,623"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_t_p_c.html#a79a21e5dd2c342481177f550ad0a3388" title="Get the v wire pitch, units mm." alt="" coords="563,621,739,664"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="489,640,547,640,547,645,489,645"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_t_p_c.html#abf31638cf449a683008e723423aaad6f" title="Get the w wire pitch, units mm." alt="" coords="563,688,739,731"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="486,662,555,681,554,686,485,667"/>
+</map>

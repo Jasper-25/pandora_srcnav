@@ -1,0 +1,61 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalFitDirection" name="lar_content::TwoDSlidingFitResult::GetGlobalFitDirection">
+<area shape="rect" id="Node000001" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="1384,356,1589,399"/>
+<area shape="poly" id="edge23_Node000001_Node000001" title=" " alt="" coords="1532,343,1515,337,1487,335,1461,337,1445,341,1438,347,1440,355,1435,356,1433,346,1442,337,1460,331,1487,329,1516,332,1534,338"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_overshoot_splitting_algorithm.html#a5fd5babfba0f5d5053a2fb984291e3dc" title="Use sliding fit results to calculate intersections of clusters." alt="" coords="1110,5,1316,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1475,342,1459,282,1431,209,1390,133,1364,99,1334,69,1306,51,1309,46,1338,65,1368,96,1394,131,1436,207,1464,281,1480,340"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_branch_splitting_algorithm.html#a79fc936c0b0d40ed8a66083c503181aa" title="Output the best split positions in branch and replacement clusters." alt="" coords="807,164,1016,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1475,342,1458,287,1431,223,1412,191,1390,161,1364,135,1335,113,1285,92,1233,84,1179,86,1125,96,1073,111,1026,129,951,166,949,161,1024,124,1072,106,1124,91,1178,81,1233,79,1287,87,1337,108,1368,130,1394,158,1417,188,1435,221,1463,286,1480,340"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_splitting_algorithm.html#a40900e46df5130da6295c09339942fd3" title="Output the best split positions in branch and replacement clusters." alt="" coords="1108,123,1318,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1466,343,1444,305,1415,260,1378,217,1334,180,1314,168,1317,164,1338,175,1382,213,1419,257,1449,302,1471,341"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_kink_splitting_algorithm.html#ab09e77f35401501421e3b2dc62d40c6e" title="Use sliding linear fit to identify the best split position." alt="" coords="1108,189,1318,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1455,346,1402,294,1370,269,1335,246,1310,235,1312,230,1337,242,1373,264,1406,290,1459,342"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_splitting_algorithm.html#a181325246887bc3576edae3631d8a938" title="Find the position of greatest scatter along a sliding linear fit." alt="" coords="1108,389,1318,432"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1369,394,1318,401,1318,395,1368,389"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_shower_asymmetry_feature_tool.html#a68d0df2f526574c3fdf8d4a43528f151" title="Get the shower asymmetry feature for a given view." alt="" coords="1097,323,1329,365"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1368,366,1329,361,1330,355,1369,360"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a8437c0b3bbd4c4e26513ed233b81df4f" title="Get scattering angle for a given longitudinal coordinate." alt="" coords="1104,256,1322,299"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1426,351,1335,313,1300,302,1301,297,1337,308,1428,346"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a02db4f7b6c30c0b08dc9d9eb5620e1cb" title="Get extrapolated direction (beyond span) for a given input coordinate." alt="" coords="1100,456,1326,499"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1428,408,1337,447,1301,458,1300,453,1335,441,1426,403"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_three_d_sliding_fit_result.html#abae0b7bfb8b57ff3152b71db776d2f6e" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="1110,523,1316,565"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1459,412,1406,464,1373,490,1337,513,1312,524,1310,520,1335,508,1370,486,1402,460,1455,409"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ae9db9992b87f5d07fefc8b0b6c7d58b1" title="Get global fit direction for a given input x coordinate." alt="" coords="1100,589,1326,632"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="1471,414,1449,453,1419,497,1382,542,1338,580,1317,591,1314,586,1334,575,1378,538,1415,494,1444,450,1466,411"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a160242b0a947ef2461f5a54ae26a82b9" title="Get projected position and direction for a given input x coordinate and fit segment." alt="" coords="1102,656,1324,699"/>
+<area shape="poly" id="edge29_Node000001_Node000028" title=" " alt="" coords="1478,414,1459,466,1430,529,1390,592,1365,621,1338,646,1319,658,1317,653,1334,642,1362,617,1386,589,1425,526,1454,464,1473,413"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a82880aeaea49965629a4d1881873b34b" title="Parameterise the projection of a cosmic ray track in order to avoid poor/sparse projections." alt="" coords="1090,723,1336,765"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="1482,415,1467,479,1440,559,1421,601,1398,642,1370,680,1338,713,1321,724,1318,720,1334,709,1366,676,1393,639,1416,599,1435,557,1462,477,1477,413"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_overshoot_splitting_algorithm.html#a8d01971e21f61ddaddd4fe0b8bb594d9" title="Determine best split positions based on sliding fit result." alt="" coords="803,5,1020,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1094,29,1020,29,1020,24,1094,24"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cosmic_ray_splitting_algorithm.html#a6c6707003dc15ce96d0989fce119381f" title="Run the algorithm." alt="" coords="808,352,1015,395"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1092,398,1015,389,1016,384,1093,393"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="1114,254,1089,247,975,210,977,205,1090,241,1116,249"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_cosmic_ray_tagging_tool_1_1_c_r_candidate.html#a88c6051dce9f215cfe9e866e31e0a417" title="Calculate all variables which require a fit." alt="" coords="781,419,1042,461"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1102,519,1088,513,1074,503,1064,494,1054,485,1040,476,1013,464,1015,459,1043,471,1058,480,1068,490,1077,499,1091,508,1104,514"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_pfo_helper.html#a6fb0a781e7b4e61d78b82e7d221ee0ee" title="Implementation of sliding fit trajectory extraction." alt="" coords="827,485,996,528"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="1094,532,996,520,997,514,1095,527"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a171bb1078cb8d61b86b33c6cb3271701" title="Constructor." alt="" coords="801,552,1022,611"/>
+<area shape="poly" id="edge21_Node000012_Node000021" title=" " alt="" coords="1095,561,1023,570,1022,565,1094,556"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_three_d_sliding_fit_result.html#affa4f646020fbff021956fd9773e15bb" title="Constructor." alt="" coords="805,635,1018,677"/>
+<area shape="poly" id="edge22_Node000012_Node000022" title=" " alt="" coords="1101,574,1091,580,1077,590,1068,602,1058,614,1043,625,1018,636,1016,632,1040,620,1055,610,1064,598,1073,587,1088,575,1099,570"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_cosmic_ray_tagging_tool_1_1_c_r_candidate.html#a23cef691a09ab836d41f940c29e68d9d" title="Constructor." alt="" coords="508,419,721,461"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="765,443,722,443,722,437,765,437"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_pfo_helper.html#adcac3546b93890a9a10e49a8e86228cb" title="Apply 3D sliding fit to a set of 3D points and return track trajectory." alt="" coords="530,485,699,528"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="811,509,700,509,700,504,811,504"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa58803ccff6b7ad0a45f487c1d58115e" title="Apply 3D sliding fit to Pfo and return track trajectory." alt="" coords="530,552,699,595"/>
+<area shape="poly" id="edge20_Node000015_Node000020" title=" " alt="" coords="812,532,700,557,699,552,811,526"/>
+<area shape="rect" id="Node000017" href="$class_shower_reco_tools_1_1_shower_pandora_sliding_fit_track_finder.html#ade4a3f51c8b971322ea357439d8a3f2c" title=" " alt="" coords="224,477,448,536"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="514,509,448,509,448,504,514,504"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_track_particle_building_algorithm.html#a5ae68f3888fb25fcf13540f6661cc240" title="Create specialised Pfo from an generic input Pfo." alt="" coords="242,560,430,603"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="518,535,419,562,418,557,517,530"/>
+<area shape="rect" id="Node000019" href="$classlar__pandora_1_1_l_ar_pandora_track_creation.html#ae9c382eccc7a9ea2e52619dd11a93014" title=" " alt="" coords="238,411,434,453"/>
+<area shape="poly" id="edge19_Node000016_Node000019" title=" " alt="" coords="517,483,418,457,419,451,518,478"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_missing_track_segment_tool.html#a2f8b131a2c1780f27bd81fcfc5be891b" title="Get a segment overlap map, describing overlap between a provided particle and all clusters in a slidi..." alt="" coords="788,701,1035,744"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="1101,641,1091,646,1077,657,1068,668,1058,680,1043,692,1018,703,1016,698,1040,687,1055,676,1064,665,1073,653,1088,642,1099,636"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_missing_track_segment_tool.html#a67b5dc555b6356525ec3d7eede76dcf4" title="Whether a provided tensor element can be used to construct a pfo." alt="" coords="496,701,733,744"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="773,725,734,725,734,720,773,720"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_missing_track_segment_tool.html#ab9bf04482d464dc49b3d07b1a6bbefb2" title="Find remaining tracks, hidden by missing track segments (and maybe other ambiguities) in the tensor." alt="" coords="251,701,421,744"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="480,725,421,725,421,720,480,720"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_missing_track_segment_tool.html#ae3f72d66f0347edf82ae3cf3a71d8aac" title="Run the algorithm tool." alt="" coords="5,701,176,744"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="235,725,176,725,176,720,235,720"/>
+</map>

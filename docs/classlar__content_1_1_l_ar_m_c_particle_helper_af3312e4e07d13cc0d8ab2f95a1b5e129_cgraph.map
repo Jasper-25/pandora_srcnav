@@ -1,0 +1,9 @@
+<map id="lar_content::LArMCParticleHelper::CollectReconstructable2DHits" name="lar_content::LArMCParticleHelper::CollectReconstructable2DHits">
+<area shape="rect" id="Node000001" title="For a given cluster, collect the hits which are reconstructable (=good hits belonging to a selected r..." alt="" coords="5,72,245,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="296,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,69,286,50,287,55,213,74"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#aae293db8d449e737585add475f66d016" title="Get the isolated calo hit list." alt="" coords="293,72,484,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,91,278,91,278,96,245,96"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="293,139,484,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,113,287,132,286,137,211,118"/>
+</map>

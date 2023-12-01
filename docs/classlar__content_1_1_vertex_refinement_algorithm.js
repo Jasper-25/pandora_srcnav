@@ -1,0 +1,26 @@
+var classlar__content_1_1_vertex_refinement_algorithm =
+[
+    [ "VertexRefinementAlgorithm", "classlar__content_1_1_vertex_refinement_algorithm.html#ab63bd9b2644a14e448212ddec624fbca", null ],
+    [ "GetBestFitPoint", "classlar__content_1_1_vertex_refinement_algorithm.html#a3fffb6e1d62a16d4fabfe2c266a7af7e", null ],
+    [ "GetClusterLists", "classlar__content_1_1_vertex_refinement_algorithm.html#a98ae3bae10decce98bd4ee6967f80cff", null ],
+    [ "GetInstanceName", "classlar__content_1_1_vertex_refinement_algorithm.html#abce8ef815d9d4bb3080be3c6a5d8de61", null ],
+    [ "GetPandora", "classlar__content_1_1_vertex_refinement_algorithm.html#a7dd41c24ac856e2f41d5a0432eb99cd5", null ],
+    [ "GetType", "classlar__content_1_1_vertex_refinement_algorithm.html#a76435ee767be0d57159aa460ed6fc5a7", null ],
+    [ "Initialize", "classlar__content_1_1_vertex_refinement_algorithm.html#a19b7252bfe1ed61e885ed2c60abb01f4", null ],
+    [ "ReadSettings", "classlar__content_1_1_vertex_refinement_algorithm.html#a701b7c8b32dc2999b6c2a7f4ea1bba69", null ],
+    [ "RefineVertexTwoD", "classlar__content_1_1_vertex_refinement_algorithm.html#ab02161900c55f8f9a7d419520babad32", null ],
+    [ "RefineVertices", "classlar__content_1_1_vertex_refinement_algorithm.html#a2009db8714535ce909d5c02d326f0349", null ],
+    [ "RegisterDetails", "classlar__content_1_1_vertex_refinement_algorithm.html#af9071b9c61e1fab003e3203fd103899a", null ],
+    [ "Reset", "classlar__content_1_1_vertex_refinement_algorithm.html#a57a51287fa79cdd4910d65266f9a2375", null ],
+    [ "Run", "classlar__content_1_1_vertex_refinement_algorithm.html#a5e34b714d4d280b8d3b1646055151b82", null ],
+    [ "m_chiSquaredCut", "classlar__content_1_1_vertex_refinement_algorithm.html#ab59d70c03541f303f8a23d39752b72ef", null ],
+    [ "m_distanceCut", "classlar__content_1_1_vertex_refinement_algorithm.html#a84b7da59406d49ba8522034b8737a8bf", null ],
+    [ "m_inputClusterListNames", "classlar__content_1_1_vertex_refinement_algorithm.html#a3a855e8e1bdfedb38510626bf380f090", null ],
+    [ "m_inputVertexListName", "classlar__content_1_1_vertex_refinement_algorithm.html#ae7f2eb9b39b10a234cb6bb30e3b5cd7e", null ],
+    [ "m_instanceName", "classlar__content_1_1_vertex_refinement_algorithm.html#a4b7fe4fc15df2e95580c8e58a6e9085f", null ],
+    [ "m_minimumHitsCut", "classlar__content_1_1_vertex_refinement_algorithm.html#a89f94868b936c98e57cd923e939b53df", null ],
+    [ "m_outputVertexListName", "classlar__content_1_1_vertex_refinement_algorithm.html#a419a05c8b4c83b0f1542e3859e399ad2", null ],
+    [ "m_pPandora", "classlar__content_1_1_vertex_refinement_algorithm.html#a9113202a7cdb85df2740e098860528c5", null ],
+    [ "m_twoDDistanceCut", "classlar__content_1_1_vertex_refinement_algorithm.html#a8ef248aca820579f061d916ad76dcc43", null ],
+    [ "m_type", "classlar__content_1_1_vertex_refinement_algorithm.html#a47be531cef6b61a28d30b31182d19e47", null ]
+];

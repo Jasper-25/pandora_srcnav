@@ -1,0 +1,17 @@
+<map id="pandora::CaloHit::GetRectangularCellCorners" name="pandora::CaloHit::GetRectangularCellCorners">
+<area shape="rect" id="Node000001" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="5,205,221,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#abbebb42380f33c11388582a358b450c0" title="Get the unit vector normal to the sampling layer, pointing outwards from the origin." alt="" coords="281,5,450,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,203,183,133,223,93,267,58,275,53,278,58,270,62,226,97,187,136,131,207"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#ab7c46a1d52985dd9a20f957240ae2bc4" title="Get the cell size 0 [pointing: eta, rectangular: up in ENDCAP, along beam in BARREL,..." alt="" coords="281,72,450,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,203,199,164,267,124,280,118,282,123,270,129,201,168,145,207"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="281,139,450,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,202,267,183,268,188,197,207"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#aa7817ed4f7626ba531ee1a2425ac176f" title="Get the thickness of cell, units mm." alt="" coords="281,205,450,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="221,224,266,224,266,229,221,229"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="281,272,450,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,246,268,265,267,270,196,251"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a3349630fbdfc71a85cdba1dc85cee32d" title="Get the region of the detector in which the calo hit is located." alt="" coords="284,339,447,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="145,246,201,285,270,324,282,330,280,335,267,329,199,290,142,251"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="269,405,462,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,247,187,317,226,357,270,391,278,396,275,400,267,396,223,361,183,321,127,250"/>
+</map>

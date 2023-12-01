@@ -1,0 +1,9 @@
+<map id="lar_content::TwoViewCosmicRayRemovalTool::CollectHitsFromDeltaRay" name="lar_content::TwoViewCosmicRayRemovalTool::CollectHitsFromDeltaRay">
+<area shape="rect" id="Node000001" title="Collect hits from the delta ray cluster to either keep (demandCloserToCollected == true) or separate ..." alt="" coords="787,5,1006,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a32b2f8107130831c6b15fe6bc371ec30" title="Examine remaining hits in the delta ray cluster adding them to the delta ray seed or parent muon if a..." alt="" coords="551,13,739,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,37,740,37,740,32,772,32"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a78860aa1431af987dcb65d9968873c78" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="242,13,503,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,37,503,37,503,32,535,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_view_cosmic_ray_removal_tool.html#a2d8fb65c18c0674976c885a445c34da5" title="Run the algorithm tool." alt="" coords="5,13,194,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,37,194,37,194,32,226,32"/>
+</map>

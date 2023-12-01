@@ -1,0 +1,24 @@
+<map id="lar_content::LArPointingClusterHelper::CollectAssociatedClusters" name="lar_content::LArPointingClusterHelper::CollectAssociatedClusters">
+<area shape="rect" id="Node000001" title="Collect cluster vertices, from a provided input list, associated with a specified vertex." alt="" coords="5,123,218,181"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a5f7c70b78894787d6a82068319359b19" title="Get the inner vertex." alt="" coords="271,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,120,208,89,264,58,276,52,278,57,267,62,210,93,159,124"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9838f1c51e9bd88cf6d0f66c22feb251" title="Get the outer vertex." alt="" coords="271,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,123,255,114,256,119,219,129"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="769,232,954,275"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,154,449,173,585,189,720,211,778,225,777,230,719,216,584,194,449,178,218,160"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa792936e96ceb90b195ca0e633b73e02" title="Whether pointing vertex is emitted from a given position." alt="" coords="266,211,437,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,179,271,203,270,208,201,184"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa23153c2605f276b88b21a3f3d9c5546" title="Whether pointing vertex is adjacent to a given position." alt="" coords="271,324,432,367"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="151,180,313,312,310,316,148,184"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="438,227,570,226,720,232,754,235,753,240,719,237,570,232,438,232"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a31cb608e94ec43ad44dedd8469813f3a" title="Get the vertex direction." alt="" coords="767,365,956,408"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,249,571,282,720,327,797,356,796,361,718,332,570,288,437,254"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a3c6c8d40c831aaa5a1d3fdc049aa4cd1" title="Calculate impact parameters between a pair of pointing vertices." alt="" coords="485,365,719,408"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="389,252,554,354,551,359,386,256"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="644,363,803,280,806,285,647,367"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="720,384,752,384,752,389,720,389"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="555,365,553,355,561,346,577,341,602,339,629,341,645,347,643,352,628,346,602,344,578,346,564,351,558,357,560,364"/>
+<area shape="poly" id="edge14_Node000008_Node000004" title=" " alt="" coords="431,328,753,270,754,275,432,334"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="383,365,429,394,457,408,486,417,559,429,633,429,705,421,768,409,769,415,705,427,634,434,558,434,484,423,455,412,427,399,380,370"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="432,356,470,362,469,367,431,361"/>
+</map>

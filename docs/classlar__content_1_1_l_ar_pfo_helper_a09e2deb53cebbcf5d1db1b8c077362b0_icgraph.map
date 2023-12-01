@@ -1,0 +1,26 @@
+<map id="lar_content::LArPfoHelper::IsFinalState" name="lar_content::LArPfoHelper::IsFinalState">
+<area shape="rect" id="Node000001" title="Whether a pfo is a primary parent particle." alt="" coords="542,255,711,297"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#a371bb0bdb4d63c9d1d7f88b890cd4742" title="Reconstruct the vertex and direction of a list of cosmic&#45;ray Pfos." alt="" coords="263,5,490,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="608,242,590,204,564,160,531,116,492,78,475,67,478,62,496,74,535,113,568,157,594,201,613,240"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_pca_shower_particle_building_algorithm.html#a81b6dba74d44ff40549bd0dc1778ad7a" title="Create specialised Pfo from an generic input Pfo." alt="" coords="275,88,478,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="598,244,552,193,524,167,493,145,470,134,472,129,495,140,527,163,556,189,602,240"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_particle_building_algorithm.html#a5ae68f3888fb25fcf13540f6661cc240" title="Create specialised Pfo from an generic input Pfo." alt="" coords="283,155,470,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="573,249,493,212,461,200,462,195,495,207,575,245"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_neutrino_event_validation_algorithm.html#afb785cdcdc7b1133185cc228de1c3abe" title="Fill the validation info containers." alt="" coords="259,221,494,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="526,265,494,261,495,256,527,260"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#a958e06cebb696ea2a7383e7a412fbe74" title="Get the list of input pfos to this algorithm." alt="" coords="266,288,487,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="527,292,488,297,487,292,526,287"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#af41dd08b28b442c49f629cbe1a4dc4e8" title="Make a list of CRCandidates." alt="" coords="274,355,479,397"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="575,307,495,345,462,357,461,352,493,340,573,303"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_pfo_validation_algorithm.html#ad02633a20d555ba7819626769d44238e" title="Run the algorithm." alt="" coords="292,421,461,464"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="602,312,556,363,527,389,495,412,462,427,460,422,493,407,524,385,552,359,598,308"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#af8de4e04ae3cf0cf84541e60dac3e22e" title="Select primary Pfos from the input list of Pfos." alt="" coords="261,488,492,531"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="614,313,595,352,569,396,536,440,496,478,476,490,473,485,492,474,532,437,565,393,590,349,609,311"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cosmic_ray_vertex_building_algorithm.html#ada26fb0ed16ff3b5030bf530c4457ca9" title="Run the algorithm." alt="" coords="9,151,207,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,73,260,78,195,115,141,152,138,148,192,111,257,74,269,68"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="271,284,257,278,188,237,133,196,136,191,191,233,260,274,274,280"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,355,211,397"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="258,379,211,379,211,373,258,373"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_stitching_cosmic_ray_merging_tool.html#a1f9ac3835d752458d2b0ec4c25f71a2d" title="Run the algorithm tool." alt="" coords="14,488,202,531"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="246,512,203,512,203,507,246,507"/>
+</map>

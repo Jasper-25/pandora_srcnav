@@ -1,0 +1,28 @@
+<map id="lar_content::ThreeDPCAFeatureTool::Run" name="lar_content::ThreeDPCAFeatureTool::Run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,264,211,307"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="292,29,461,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,262,138,223,169,175,209,125,257,82,276,71,279,76,260,86,213,128,173,178,142,226,122,265"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="259,96,494,123"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="122,262,177,197,215,162,257,132,270,126,272,131,260,137,218,166,180,201,126,265"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="306,147,447,189"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="141,261,195,230,258,199,290,187,292,192,260,204,197,234,144,266"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="286,213,467,240"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="207,261,258,249,296,241,297,246,259,255,208,266"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="292,264,461,307"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="211,283,277,283,277,288,211,288"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="292,331,461,373"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="197,305,278,325,276,330,196,310"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="292,397,461,440"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="138,305,193,344,260,383,279,391,277,396,257,388,190,349,135,309"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="290,488,463,531"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="127,306,182,375,219,414,260,450,308,479,305,483,257,454,215,418,178,378,123,309"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="283,555,470,597"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="118,306,136,355,165,418,206,484,232,514,260,541,270,547,267,552,257,545,228,518,202,487,160,421,131,357,113,308"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="327,29,325,19,334,10,351,5,376,3,404,5,421,11,419,16,403,10,376,8,352,10,336,15,331,21,333,28"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="566,147,707,189"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="448,165,550,165,550,171,448,171"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="587,147,585,137,593,128,610,122,636,120,664,122,680,129,679,134,663,128,636,125,612,127,596,132,590,138,592,145"/>
+<area shape="poly" id="edge13_Node000010_Node000010" title=" " alt="" coords="327,488,325,478,334,469,351,463,376,461,404,464,421,470,419,475,403,469,376,467,352,469,336,473,331,479,333,487"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="542,488,730,531"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="464,507,526,507,526,512,464,512"/>
+</map>

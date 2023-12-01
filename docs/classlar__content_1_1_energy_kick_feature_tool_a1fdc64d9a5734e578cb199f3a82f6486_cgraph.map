@@ -1,0 +1,17 @@
+<map id="lar_content::EnergyKickFeatureTool::GetEnergyKickForView" name="lar_content::EnergyKickFeatureTool::GetEnergyKickForView">
+<area shape="rect" id="Node000001" title="Get the energy kick feature for a given view." alt="" coords="5,31,210,73"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a7b24c3e486aea675969c09f901784807" title="Get the sum of electromagnetic energy measures of all constituent calo hits, units GeV." alt="" coords="550,31,789,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,49,535,49,535,55,210,55"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="837,35,1006,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,33,328,18,473,6,632,4,712,8,790,16,843,28,842,33,789,21,711,13,631,9,473,12,329,23,211,38"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_energy_kick_feature_tool.html#a348cfaadc1e2668a1eb4d1193d82d562" title="Increment the energy kick parameters for a given cluster." alt="" coords="258,97,502,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,71,276,91,274,96,197,77"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="475,94,559,75,560,80,476,99"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="586,215,754,257"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="421,138,481,170,551,200,571,208,570,213,549,205,479,174,419,143"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="586,97,754,140"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="503,116,570,116,570,121,503,121"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="568,164,771,191"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="489,138,585,158,584,163,488,143"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="754,95,822,78,823,83,755,100"/>
+</map>

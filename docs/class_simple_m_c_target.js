@@ -1,0 +1,27 @@
+var class_simple_m_c_target =
+[
+    [ "SimpleMCTarget", "class_simple_m_c_target.html#a21a6cbc8ea07defd1529ec897483d1cd", null ],
+    [ "m_interactionType", "class_simple_m_c_target.html#a8b9617c2cdc1f9bc9910ec6b0441506d", null ],
+    [ "m_isBeamParticle", "class_simple_m_c_target.html#ae18c8c382421be0c7644a9ae4862f601", null ],
+    [ "m_isCorrectCR", "class_simple_m_c_target.html#acf13597c8325bbcffdac6e6bd01fbcd1", null ],
+    [ "m_isCorrectNu", "class_simple_m_c_target.html#a841690702295aabfccb7b2c4c0b740d4", null ],
+    [ "m_isCorrectTB", "class_simple_m_c_target.html#a974b4aa398a69c9cc2530b4bba76eb6f", null ],
+    [ "m_isCosmicRay", "class_simple_m_c_target.html#a1e9fe993c90bb87f4254c55042f76585", null ],
+    [ "m_isFakeCR", "class_simple_m_c_target.html#a20594fd56a256e0f90b86c7b0357f80b", null ],
+    [ "m_isFakeNu", "class_simple_m_c_target.html#a759346ef2e9419c1efd35507f20795c9", null ],
+    [ "m_isLost", "class_simple_m_c_target.html#a5b6cc986218de5575c917ebff1aaef9e", null ],
+    [ "m_isNeutrino", "class_simple_m_c_target.html#a3f9fc4e3678904ee7776356a92f579d3", null ],
+    [ "m_isSplitCR", "class_simple_m_c_target.html#af03fc7de1250e15f380db0e7f9995786", null ],
+    [ "m_isSplitNu", "class_simple_m_c_target.html#ac87a578975b39a728deee57adcec188c", null ],
+    [ "m_mcNuanceCode", "class_simple_m_c_target.html#adcf8e1283cbfcd9869b2231f07e71dff", null ],
+    [ "m_mcPrimaryList", "class_simple_m_c_target.html#a793c2b53a700749859f76c569fdef5ce", null ],
+    [ "m_nTargetCRMatches", "class_simple_m_c_target.html#ab381259c7e689c69c3928867b7c73cc3", null ],
+    [ "m_nTargetGoodNuMatches", "class_simple_m_c_target.html#a63477aaac614233bfdd8a70470b7a7c3", null ],
+    [ "m_nTargetMatches", "class_simple_m_c_target.html#a9ebfddd44853e80e71ebc1a986e0a092", null ],
+    [ "m_nTargetNuLosses", "class_simple_m_c_target.html#a8041ad24fe101c41b957dcec0f5c03e3", null ],
+    [ "m_nTargetNuMatches", "class_simple_m_c_target.html#a4857576ea9d6a29116ebf39af5926c7f", null ],
+    [ "m_nTargetNuSplits", "class_simple_m_c_target.html#abf364fee847a09cdc3fd816ca2a4a028", null ],
+    [ "m_nTargetPrimaries", "class_simple_m_c_target.html#a8cb83915ea1bcb7a2f8998a4c44a6656", null ],
+    [ "m_recoVertex", "class_simple_m_c_target.html#ad1bc1bc04441752b885306dff24376a2", null ],
+    [ "m_targetVertex", "class_simple_m_c_target.html#ab8b8fa953669a955d355668aac677c04", null ]
+];

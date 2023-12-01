@@ -1,0 +1,30 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::GetHitsInBoundingBox" name="lar_content::TrackRefinementBaseAlgorithm::GetHitsInBoundingBox">
+<area shape="rect" id="Node000001" title="Find the unprotected hits that are contained within a defined box with the option to apply a cut on t..." alt="" coords="5,223,251,265"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a8a9bef12ad5931fc5d2834805dfae895" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="299,76,514,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,220,221,178,297,135,326,122,328,127,300,140,224,183,161,225"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="575,139,743,181"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="176,220,233,197,298,179,365,167,434,160,559,155,559,161,434,166,366,173,299,184,235,202,178,225"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="575,205,743,248"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="251,248,378,250,514,245,559,241,560,246,514,251,378,255,251,253"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="322,311,491,353"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="199,263,323,303,322,308,197,269"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a8ba3feee8fd660c43bc827ae6a1034a9" title="Check whether a hit is close to a line." alt="" coords="309,377,504,420"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="156,264,219,313,258,340,300,363,313,369,310,374,297,368,256,344,216,317,152,268"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a028d72d4f1b09ccf8dff3e8e277aa22a" title="check whether a hit is contained within a defined square region" alt="" coords="301,193,512,236"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="251,228,285,225,285,230,251,234"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="575,5,743,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,73,564,50,566,55,486,78"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="562,72,755,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="515,93,546,92,546,98,515,98"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="496,117,560,133,559,138,494,122"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="440,117,496,154,563,191,576,197,574,202,561,196,493,158,437,122"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="575,311,743,353"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="491,329,559,329,559,335,491,335"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="803,311,972,353"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="743,329,788,329,788,335,743,335"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="489,374,560,355,561,360,490,379"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="575,377,743,420"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="505,396,559,396,559,401,505,401"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="508,190,559,179,560,184,509,195"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="513,217,559,219,559,225,512,222"/>
+</map>

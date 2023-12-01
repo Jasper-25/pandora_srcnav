@@ -1,0 +1,13 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::IsNearBoundary" name="lar_content::TrackRefinementBaseAlgorithm::IsNearBoundary">
+<area shape="rect" id="Node000001" title="Check whether a hit is close to a boundary point." alt="" coords="5,105,212,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hit_width_helper.html#ae28649969057467eed3e7635a4db7223" title="Consider the hit width to find the smallest distance between a calo hit and a given point." alt="" coords="260,97,456,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,124,244,124,244,129,212,129"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#aab6f83c95e72478a14e6937f6b76dbc6" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="517,5,685,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,94,503,58,519,51,521,56,505,62,422,99"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="504,72,697,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,111,488,106,489,111,457,116"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="517,139,685,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="457,138,501,144,501,149,456,143"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="517,205,685,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="422,154,505,191,521,197,519,202,503,196,420,159"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="pandora::MCManager::ApplyPfoSelectionRules" name="pandora::MCManager::ApplyPfoSelectionRules">
+<area shape="rect" id="Node000001" title="Apply mc pfo selection rules." alt="" coords="5,372,174,415"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="41,372,39,362,47,353,64,347,90,345,117,348,133,354,132,359,116,353,89,351,65,353,50,357,44,363,46,371"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="548,409,687,452"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="99,371,118,340,145,303,179,268,220,242,289,215,319,208,348,205,377,207,407,214,475,242,520,273,556,313,584,356,604,394,599,397,579,359,552,316,516,277,473,246,406,219,377,213,348,211,320,213,291,220,223,246,183,272,149,307,122,343,104,373"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="278,72,418,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="93,371,106,320,130,254,167,184,192,152,220,125,240,112,263,102,265,107,243,116,223,129,196,156,172,187,135,256,111,322,98,372"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#abce5708ead33f631e6b8739a4ba2fb1d" title="Get inner radius of mc particle, units mm." alt="" coords="278,139,418,181"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="97,371,115,334,142,287,177,239,220,198,262,176,265,180,223,202,181,243,146,290,120,336,102,373"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="264,5,432,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="90,371,99,310,121,225,138,180,159,135,187,94,220,58,247,41,250,45,223,62,191,97,164,138,143,182,126,227,105,311,95,372"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_settings.html#a699cd9ba5bfd0c8cb11e82573a60f648" title="Get the low energy cut&#45;off for selection of protons/neutrons as mc pfos." alt="" coords="222,256,474,315"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="128,369,221,324,236,318,238,323,223,329,131,374"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_settings.html#adab9884238623e6914c95e2ad009e624" title="Get the momentum magnitude used to select the pfo target from a mc particle decay chain,..." alt="" coords="244,339,452,381"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="174,380,228,373,228,378,175,385"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_settings.html#afd41fa254a8eb50d6250a6078c48c755" title="Get the radius used to select the pfo target from a mc particle decay chain, units mm." alt="" coords="256,405,440,448"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="175,402,241,410,240,416,174,407"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="278,472,418,515"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="129,413,173,436,223,458,264,471,262,476,221,462,171,441,127,417"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_m_c_particle.html#ad5157fe3d5bbf9bdccb95098a266b956" title="Get outer radius of mc particle, units mm." alt="" coords="278,539,418,581"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="108,414,156,469,188,499,223,524,264,542,262,547,220,529,184,503,152,473,104,417"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="278,605,418,648"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="101,414,118,453,144,501,179,550,223,591,264,611,262,616,220,596,175,553,140,504,114,455,96,416"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_pandora.html#aab2e2d035180c60b2219bf30810bebdd" title="Get the pandora settings instance." alt="" coords="248,672,448,699"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="97,414,110,465,134,532,150,567,171,601,195,631,223,658,235,666,232,670,220,662,191,635,166,604,146,569,129,534,105,467,92,416"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_m_c_manager.html#a0cec169bb5a6dee827db6c6898b25336" title="Set pfo target for a mc tree." alt="" coords="275,747,421,789"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="97,415,109,472,132,550,149,592,170,634,194,673,224,709,242,724,263,737,260,742,239,729,220,713,190,676,165,636,144,594,127,552,104,473,92,416"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="534,5,702,48"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="433,24,518,24,518,29,433,29"/>
+<area shape="poly" id="edge15_Node000014_Node000002" title=" " alt="" coords="417,744,446,729,472,709,498,681,521,650,558,583,586,519,604,466,609,468,591,521,563,586,525,653,502,684,476,713,449,733,419,749"/>
+<area shape="poly" id="edge19_Node000014_Node000014" title=" " alt="" coords="299,747,297,737,305,728,322,722,348,720,375,722,392,729,390,734,374,728,348,725,323,727,308,732,302,738,304,745"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="548,805,687,848"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="422,781,533,806,532,811,421,786"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_m_c_particle.html#a8c01006e41a620f768ac18159372cb07" title="Whether the pfo target been set." alt="" coords="548,688,687,731"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="421,750,532,725,533,730,422,755"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_manager.html#a1470ba071a9c51c2d671869609037296" title="Access a modifiable object, when provided with address to const object." alt="" coords="522,755,713,781"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="421,765,506,765,506,771,421,771"/>
+</map>

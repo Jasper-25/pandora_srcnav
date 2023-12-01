@@ -1,0 +1,34 @@
+<map id="lar_content::CosmicRayRemovalTool::GrowSeed" name="lar_content::CosmicRayRemovalTool::GrowSeed">
+<area shape="rect" id="Node000001" title="Examine remaining hits in the delta ray cluster adding them to the delta ray seed or parent muon if a..." alt="" coords="5,315,215,357"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#aa99f5989710ec0ba3e2b73ae559f1fe8" title="Collect hits from the delta ray cluster to either keep (demandCloserToCollected == true) or separate ..." alt="" coords="281,315,491,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,333,266,333,266,339,215,339"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aff631b4d134b060bae38f05b3567be9a" title="Return the cluster of the common cosmic ray pfo in a given view (function demands there to be only on..." alt="" coords="270,460,502,503"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="153,355,331,450,329,455,151,360"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a9122431b1c6ea72e6006e467b36913c5" title="Parameterise the projection of a cosmic ray track in order to avoid poor/sparse projections." alt="" coords="263,144,509,187"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="145,312,335,193,338,197,148,316"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="561,173,745,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,312,482,273,556,232,582,220,584,225,558,237,485,278,422,316"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="557,315,748,357"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,333,541,333,541,339,491,339"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="569,381,737,424"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="475,355,554,375,553,381,473,361"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="569,448,737,491"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="421,356,484,394,558,434,571,439,569,444,556,438,481,399,419,360"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="802,123,994,165"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="448,311,556,276,610,262,653,254,695,244,747,226,801,200,850,172,852,176,804,204,749,230,697,249,654,259,612,267,558,281,450,317"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="606,315,604,305,612,296,628,290,653,288,679,290,695,297,693,302,678,296,653,293,629,295,615,300,610,306,611,314"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="814,448,982,491"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="737,467,798,467,798,472,737,472"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="568,539,737,581"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="462,501,564,531,562,536,460,506"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="606,539,604,529,612,520,628,514,653,512,679,514,695,521,693,526,678,520,653,517,629,519,615,524,610,530,611,538"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="510,176,545,180,545,186,509,182"/>
+<area shape="poly" id="edge18_Node000011_Node000008" title=" " alt="" coords="509,158,787,146,787,151,509,163"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="557,56,748,99"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="452,141,571,101,572,106,454,146"/>
+<area shape="poly" id="edge17_Node000012_Node000008" title=" " alt="" coords="735,97,803,115,801,121,733,102"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="806,56,990,99"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="749,75,790,75,790,80,749,80"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="796,5,1000,32"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="744,53,823,34,825,39,745,58"/>
+</map>

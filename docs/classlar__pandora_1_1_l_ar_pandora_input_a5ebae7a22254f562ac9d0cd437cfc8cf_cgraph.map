@@ -1,0 +1,34 @@
+<map id="lar_pandora::LArPandoraInput::CreatePandoraHits2D" name="lar_pandora::LArPandoraInput::CreatePandoraHits2D">
+<area shape="rect" id="Node000001" title="Create the Pandora 2D hits from the ART hits." alt="" coords="5,389,198,432"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#a828601369ea86736af4fee7b585c4e4c" title="Get daughter volume ID from a specified cryostat/tpc pair." alt="" coords="246,39,467,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,388,117,329,142,250,161,207,184,165,211,126,244,91,248,88,251,92,247,95,215,129,188,168,166,209,147,252,122,331,109,389"/>
+<area shape="rect" id="Node000006" href="$namespacelar__pandora_1_1detector__functions.html#a8f989229c15e22af2c82091ea5190723" title="Factory class that returns the correct detector type interface." alt="" coords="263,105,450,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,388,123,340,151,278,191,214,216,184,244,158,249,154,252,159,247,162,220,188,196,217,156,281,128,342,112,390"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_plugin_manager.html#a003182d975ff24de1514f6becde04234" title="Get the address of the lar transformation plugin." alt="" coords="261,172,452,215"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="111,388,132,352,162,308,199,263,244,225,252,220,255,224,247,229,203,267,166,311,136,355,116,390"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_input.html#a865debddfb0e4f417a03999785bf49d1" title="Convert charge in ADCs to approximate MIPs." alt="" coords="260,239,453,281"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,387,175,339,208,313,244,291,256,285,259,290,247,296,211,318,178,343,125,391"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="259,305,454,332"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="143,386,191,363,245,341,270,334,271,339,247,347,193,368,145,391"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#aa82a4df94067e113c4e239e9b8070883" title="Get drift volume ID from a specified cryostat/tpc pair." alt="" coords="246,356,467,399"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="198,395,230,391,230,396,199,401"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#ab29f67c81ed6f6361c233509b5da5d0e" title="Map a LArSoft view to Pandora&#39;s U view." alt="" coords="250,423,463,465"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="199,421,235,425,234,431,198,426"/>
+<area shape="rect" id="Node000012" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#ad741f81dbdadd4f7bce69ec110553dd2" title="Map a LArSoft view to Pandora&#39;s V view." alt="" coords="250,489,463,532"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="146,430,247,475,265,481,263,486,245,480,144,435"/>
+<area shape="rect" id="Node000013" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#adcc5514ec723565ff79cb2a2864da976" title="Map a LArSoft view to Pandora&#39;s W view." alt="" coords="250,556,463,599"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="122,431,175,486,209,516,247,542,257,547,254,551,244,546,206,520,171,490,118,434"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_l_ar_transformation_plugin.html#a66d7acad4d407dc932ae014114a59667" title="Transform from (Y,Z) to U position." alt="" coords="266,623,447,665"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="115,431,134,469,163,517,201,566,247,609,254,613,252,618,244,613,197,570,159,520,130,472,110,434"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_l_ar_transformation_plugin.html#acaf09923298b3d11dcd395a9a6b9111d" title="Transform from (Y,Z) to V position." alt="" coords="266,689,447,732"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="111,432,127,482,154,548,194,616,219,648,247,675,254,681,251,685,244,679,215,651,189,619,149,550,122,484,106,433"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_l_ar_transformation_plugin.html#ab66b7af001dac8012f84a41d96537a3e" title="Transform from (Y,Z) to W position." alt="" coords="266,756,447,799"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="108,432,120,493,145,577,164,622,186,666,214,706,247,742,255,748,252,752,244,746,210,710,182,668,159,624,140,579,115,495,103,433"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#ae362dd50c5ef937debf811b5f242fa47" title="Return cryostat ID." alt="" coords="542,5,710,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,44,526,36,526,42,468,49"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_daughter_drift_volume.html#a2fb5dedc8785ab4252362bd030a1a822" title="Return tpc ID." alt="" coords="542,72,710,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,71,526,78,526,84,467,76"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#ae64de69b265d284aa2fd0c88ded52e5d" title="Generate a unique identifier for each TPC." alt="" coords="515,231,736,273"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,80,468,91,508,120,545,153,601,217,597,220,541,157,505,124,466,96,443,84"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="436,353,466,342,525,312,578,280,581,284,528,316,468,346,438,358"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="pandora::Cluster::GetIsolatedCaloHitList" name="pandora::Cluster::GetIsolatedCaloHitList">
+<area shape="rect" id="Node000001" title="Get the isolated calo hit list." alt="" coords="1220,188,1410,231"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a0e8a51a56b64088ce690e3e7d57e4a45" title="Add the calo hits from a second cluster to this." alt="" coords="967,5,1138,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1288,177,1238,118,1206,88,1171,62,1137,47,1139,42,1173,58,1209,84,1242,114,1292,174"/>
+<area shape="rect" id="Node000003" href="$classlar__dl__content_1_1_dl_track_shower_stream_selection_algorithm.html#a1f2aba2da2c84ac2b552c6d93c2a1e5b" title="Allocate a cluster to the appropriate streams." alt="" coords="954,72,1151,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1256,183,1171,145,1142,134,1144,129,1173,140,1258,178"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#af3312e4e07d13cc0d8ab2f95a1b5e129" title="For a given cluster, collect the hits which are reconstructable (=good hits belonging to a selected r..." alt="" coords="933,155,1172,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1204,198,1172,194,1173,189,1205,193"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a3409941de9806aac6af53058cb8edf02" title="Collect a sorted list of all 2D hits in a cluster." alt="" coords="951,221,1154,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1205,226,1155,232,1154,227,1204,221"/>
+<area shape="rect" id="Node000011" href="$classlar__dl__content_1_1_dl_cluster_characterisation_algorithm.html#a2af9ec06bd2ad7a9a0c568d8f36482c2" title="Whether cluster is identified as a clear track." alt="" coords="967,288,1138,347"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1258,240,1173,278,1139,292,1137,287,1171,274,1256,235"/>
+<area shape="rect" id="Node000012" href="$classlar__dl__content_1_1_dl_pfo_characterisation_algorithm.html#aa938717629cc3d6a3018b4d846250e4a" title="Whether cluster is identified as a clear track." alt="" coords="935,371,1170,413"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1292,245,1242,304,1209,335,1173,361,1150,372,1148,368,1171,356,1206,331,1238,301,1288,242"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a37473ea327e96a3ecaeed0e09f7b83ca" title="Convert from a pandora 2D cluster to a vector of ART clusters (produce multiple if the cluster is spl..." alt="" coords="681,188,885,231"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="935,231,885,225,886,219,935,226"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a8d0344ff3dec94543a4733582a8def3c" title="Collect all 2D and 3D hits that were used / produced in the reconstruction and map them to their corr..." alt="" coords="681,255,885,297"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="935,260,886,266,885,261,935,255"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_output.html#a2112785269d7e7ffbc05e7fbe910ba3f" title="Convert the Pandora PFOs into ART clusters and write into ART event." alt="" coords="430,255,633,297"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="666,279,634,279,634,273,666,273"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora.html#aa78311f0d964fc2195218adf54d43a58" title="Process pandora output particle flow objects." alt="" coords="218,255,382,297"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="414,279,382,279,382,273,414,273"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,255,170,297"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="202,279,170,279,170,273,202,273"/>
+</map>

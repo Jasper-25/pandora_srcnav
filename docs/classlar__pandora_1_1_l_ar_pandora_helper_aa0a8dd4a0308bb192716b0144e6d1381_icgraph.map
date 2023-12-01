@@ -1,0 +1,17 @@
+<map id="lar_pandora::LArPandoraHelper::BuildMCParticleHitMaps" name="lar_pandora::LArPandoraHelper::BuildMCParticleHitMaps">
+<area shape="rect" id="Node000001" title="Collect the links from reconstructed hits to their true energy deposits." alt="" coords="483,172,684,215"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_p_f_particle_cosmic_ana.html#a60628d4809c70d3b55e71626d5e50f3d" title=" " alt="" coords="226,5,427,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="552,162,500,111,468,85,434,62,410,51,412,46,436,58,471,81,503,107,556,159"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_p_f_particle_monitoring.html#a7507705292ff6025c8174cbc36b3f2ba" title=" " alt="" coords="218,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="523,167,434,129,402,118,403,113,436,124,525,162"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_p_f_particle_validation.html#a8dcb04380902ec4951f4ea8c3cfc7629" title=" " alt="" coords="219,139,434,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="467,181,434,177,434,171,468,176"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ade4e36bef8a95993281b98b97769f0ef" title="Build mapping between Hits and MCParticles, starting from ART event record." alt="" coords="226,205,427,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="468,211,428,216,427,211,467,206"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a51da0c106049ec09a3198c1030929230" title="Build mapping between Hits and MCParticles, starting from Hit/TrackIDE/MCParticle information." alt="" coords="226,272,427,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="525,224,436,262,403,274,402,269,434,258,523,219"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora.html#a28d02ef2b57506377e53f085fd473d1a" title="Create pandora input hits, mc particles etc." alt="" coords="244,339,409,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="556,228,503,280,471,306,436,329,410,341,408,337,434,324,468,302,500,276,552,224"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora.html#aeaa8cf94fc3c263d0b44c3d303fd2106" title=" " alt="" coords="5,339,170,381"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="228,363,170,363,170,357,228,357"/>
+</map>

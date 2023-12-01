@@ -1,0 +1,15 @@
+<map id="lar_content::RemovalBaseTool::IsMuonEndpoint" name="lar_content::RemovalBaseTool::IsMuonEndpoint">
+<area shape="rect" id="Node000001" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="777,39,950,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954c1e70112176185c26e424612c0ae0" title="Determine whether element satifies simple checks." alt="" coords="520,5,729,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="762,48,729,44,730,39,762,43"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_delta_ray_removal_tool.html#a14867c8cc28ef3b11ac43c87e4e64874" title="Determine whether element satifies simple checks." alt="" coords="527,72,722,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="762,77,723,82,722,77,761,72"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a344e9f0fc688c39fe9969f99941c143d" title="Remove hits from delta ray clusters that belong to the parent muon." alt="" coords="263,5,472,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,29,472,29,472,24,504,24"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_cosmic_ray_removal_tool.html#a954be3b22e6a4210ca6025bed8a0e21f" title="Run the algorithm tool." alt="" coords="5,5,215,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,29,215,29,215,24,247,24"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_delta_ray_removal_tool.html#a4c3d711afe71c3990acfb08d94de4162" title="Remove hits from cosmic ray clusters that belong to a child delta ray." alt="" coords="270,72,465,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="512,96,466,96,466,91,512,91"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_delta_ray_removal_tool.html#ada7630ec473da9aa37ed7bcabac6ddce" title="Run the algorithm tool." alt="" coords="12,72,208,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="254,96,208,96,208,91,254,91"/>
+</map>

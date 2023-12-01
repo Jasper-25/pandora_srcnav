@@ -1,0 +1,41 @@
+<map id="pandora::ObjectFactory::Create" name="pandora::ObjectFactory::Create">
+<area shape="rect" id="Node000001" title="Create an object with the given parameters." alt="" coords="452,339,609,381"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_manager.html#a981cc50a76c23db93c79b2dd2546b746" title="Create calo hit." alt="" coords="228,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,324,508,267,486,197,451,125,429,91,402,62,387,51,390,46,406,58,433,88,456,122,491,195,514,266,526,323"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster_manager.html#afa1ad6f4fc33665ec7700f01a660ecc3" title="Create cluster." alt="" coords="229,72,395,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,325,500,280,476,228,444,175,402,129,386,118,389,113,406,125,448,172,481,225,505,278,522,323"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_manager.html#a296e43b80e23c26e829ccfcfe24e9007" title="Create a mc particle." alt="" coords="239,139,385,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="509,327,466,260,436,226,402,195,384,184,387,180,406,191,440,222,470,257,513,324"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_particle_flow_object_manager.html#a147a316137d745b1ca2dad635f986d4c" title="Create a particle flow object." alt="" coords="220,205,404,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="494,330,452,295,403,262,379,251,381,246,405,258,455,291,498,326"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_track_manager.html#ab3a0144981d57ee84d7edf77ba43b6d1" title="Create track." alt="" coords="233,272,391,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="444,336,384,318,385,313,445,331"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_vertex_manager.html#ad96a75c8dad35a2b747f6df83d2680fd" title="Create a vertex." alt="" coords="230,339,394,381"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="437,363,394,363,394,357,437,357"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_geometry_manager.html#ad5e1f60576c0c3064385b85fb055376f" title="Create gap." alt="" coords="221,405,403,448"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="445,389,385,407,384,402,444,384"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_geometry_manager.html#aebc225a30d8dac54805081e3b106bd0c" title="Create lar tpc." alt="" coords="221,472,403,515"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="498,394,455,429,405,462,381,474,379,469,403,458,452,425,494,390"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_geometry_manager.html#a7d1ada4c481f793c80df236bf2a897da" title="Create sub detector." alt="" coords="221,539,403,581"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="513,396,470,463,440,498,406,529,387,540,384,536,402,525,436,494,466,460,509,393"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_calo_hit_manager.html#a5a3664d86547ceaeec501525a9e45e12" title="Fragment a calo hit into two daughter calo hits, with a specified energy division." alt="" coords="228,605,396,648"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="522,397,505,442,481,495,448,548,406,595,389,607,386,602,402,591,444,545,476,492,500,440,516,395"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_calo_hit_manager.html#ab269e64ca9c5ef422a3dc050c3507acf" title="Merge two calo hit fragments, originally from the same parent hit, to form a new calo hit." alt="" coords="227,672,397,715"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="526,397,514,454,491,525,456,598,433,632,406,662,390,674,387,669,402,658,429,629,451,595,486,523,508,453,521,396"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora_api_impl.html#abf1adfe86a4df137d465d26e95a1f49b" title=" " alt="" coords="5,5,172,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,29,172,29,172,24,213,24"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_api_impl.html#a1eb40271b05aeb88bc4c8397233e80c5" title=" " alt="" coords="5,139,172,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="224,163,172,163,172,157,224,157"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_api_impl.html#a79fde8f12416b33af801895e50e92faf" title=" " alt="" coords="5,239,172,281"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="217,282,172,275,173,270,218,277"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_api_impl.html#a4ef21d589d58ad4db3a0ef1fb79c385e" title=" " alt="" coords="5,305,172,348"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="230,401,218,396,194,379,170,362,147,351,149,346,173,358,197,375,221,391,232,396"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_pandora_api_impl.html#a403a0baf8e52b9e03b1cc6440bcc6ff4" title=" " alt="" coords="5,372,172,415"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="205,413,172,408,173,403,206,408"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_pandora_api_impl.html#a0259a021189e0fa48dc6e2d82856e134" title=" " alt="" coords="5,439,172,481"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="206,445,173,450,172,445,205,440"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_pandora_api_impl.html#a4cbef6476732bb2f135e75e74014f4e2" title=" " alt="" coords="5,505,172,548"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="206,512,173,517,172,512,205,507"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_pandora_api_impl.html#a7365c9f5eabb3635182ef7e8457eab33" title=" " alt="" coords="5,572,172,615"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="206,579,173,584,172,578,205,573"/>
+</map>

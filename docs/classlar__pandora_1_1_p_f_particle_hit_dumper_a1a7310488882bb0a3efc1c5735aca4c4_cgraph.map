@@ -1,0 +1,43 @@
+<map id="lar_pandora::PFParticleHitDumper::analyze" name="lar_pandora::PFParticleHitDumper::analyze">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,396,179,439"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#adbdca868e7408cac8a43c85d9d0e5ca2" title="Build mapping between PFParticles and Hits using PFParticle/SpacePoint/Hit maps." alt="" coords="227,5,428,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,395,102,330,123,240,140,191,163,143,191,98,225,58,228,55,232,59,229,62,195,101,167,146,145,193,128,241,107,331,98,396"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a1b5b50e1ba9c422d7c0967c4727379fb" title="Collect the reconstructed Hits from the ART event record." alt="" coords="227,72,428,115"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="95,395,107,341,132,268,149,230,170,192,195,156,225,125,229,121,232,126,229,129,199,159,175,195,154,232,137,270,113,342,100,396"/>
+<area shape="rect" id="Node000007" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ab49674a5faa4d73c5f0e5daa283ff36f" title="Collect the reconstructed PFParticles from the ART event record." alt="" coords="227,139,428,181"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="98,394,115,352,141,297,178,241,200,214,225,191,230,188,233,192,228,195,204,218,182,244,146,300,120,354,103,396"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a04b1d036feef3f899b0e65b5e09a0dca" title="Collect the reconstructed PFParticles and associated Showers from the ART event record." alt="" coords="227,205,428,248"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="104,394,152,327,186,290,225,258,233,253,235,258,228,262,190,294,156,331,108,397"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a716cc8ffc2aaa635dd9d80e9442660bf" title="Collect the reconstructed SpacePoints and associated hits from the ART event record." alt="" coords="227,296,428,339"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="132,393,226,348,241,342,243,347,228,353,135,398"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ac3019a69681fad28c2949d1edd0e6c79" title="Collect the reconstructed PFParticles and associated Tracks from the ART event record." alt="" coords="227,363,428,405"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="179,402,211,398,212,403,180,408"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#ab2b1c55794b985f143b28da9753d02ab" title="Collect the reconstructed wires from the ART event record." alt="" coords="227,429,428,472"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="180,427,212,432,211,437,179,432"/>
+<area shape="rect" id="Node000012" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a35258ded3b7611a4934516df2d6f410f" title="Store number of 2D hits associated to PFParticle in different ways." alt="" coords="230,496,425,539"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="135,437,228,482,243,488,241,493,226,486,132,442"/>
+<area shape="rect" id="Node000013" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a94598f3d5563256d995760e55a872a05" title="Store 2D hits." alt="" coords="241,629,414,672"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="104,438,122,476,149,524,185,573,228,615,234,619,231,623,225,619,181,576,145,526,117,478,100,440"/>
+<area shape="rect" id="Node000015" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a99c72b74d27fa6a5ce7d2cd86e6e3e2d" title="Store 3D hits." alt="" coords="241,563,414,605"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="112,437,160,492,193,522,228,548,237,553,234,558,225,553,189,526,156,496,108,441"/>
+<area shape="rect" id="Node000018" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a3c33cac882fc121d6773400aff068bce" title="Store 3D track hits." alt="" coords="241,696,414,739"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="101,438,115,488,140,554,177,623,201,654,228,682,232,685,229,689,225,686,197,658,173,625,135,556,110,490,96,440"/>
+<area shape="rect" id="Node000019" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#a996191b70cb811c27f1cf0dcec3183ff" title="Store raw data." alt="" coords="241,763,414,805"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="98,439,109,500,131,583,148,628,170,671,196,713,229,749,232,751,228,755,225,753,192,716,165,674,144,630,126,584,104,501,93,440"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#a40c83dcad1fd6c53da141889edd8c881" title="Return the final&#45;state parent particle by navigating up the chain of parent/daughter associations." alt="" coords="476,5,677,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,24,461,24,461,29,429,29"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#abca4ab4ee9d7a037413566ad1878e9ac" title="Determine whether a particle has been reconstructed as a final&#45;state particle." alt="" coords="476,72,677,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="410,46,481,65,479,70,409,51"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_pandora_helper.html#acc4e656318c1bf812a308075cab912cb" title="Determine whether a particle has been reconstructed as a neutrino." alt="" coords="725,72,927,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="660,46,730,65,729,70,658,51"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="678,91,710,91,710,96,678,96"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="283,296,281,286,288,277,304,271,327,269,352,272,368,278,366,283,351,277,327,275,305,277,291,281,286,287,288,295"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#ae9de8f97fedaca66b48ca916fe9159a7" title="Conversion from wire ID to U/V/W coordinate." alt="" coords="490,696,663,739"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="410,670,481,689,479,694,409,675"/>
+<area shape="poly" id="edge17_Node000015_Node000004" title=" " alt="" coords="408,560,426,549,443,533,452,518,474,482,562,377,651,276,791,124,795,128,655,280,566,381,478,486,457,521,447,537,430,553,410,564"/>
+<area shape="rect" id="Node000016" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#ac03f372ec16b884a892df4c056b3ec24" title="Convert from (Y,Z) to U coordinate." alt="" coords="490,496,663,539"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="409,560,479,541,481,546,410,565"/>
+<area shape="rect" id="Node000017" href="$classlar__pandora_1_1_p_f_particle_hit_dumper.html#ae3f43750de74618da5360d4c6bec0e9e" title="Convert from (Y,Z) to V coordinate." alt="" coords="490,563,663,605"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="415,581,475,581,475,587,415,587"/>
+<area shape="poly" id="edge22_Node000019_Node000014" title=" " alt="" coords="409,760,479,741,481,746,410,765"/>
+</map>

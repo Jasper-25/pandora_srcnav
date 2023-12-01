@@ -1,0 +1,38 @@
+<map id="pandora::LArTPC::GetSigmaUVW" name="pandora::LArTPC::GetSigmaUVW">
+<area shape="rect" id="Node000001" title="Get the u, v, w resolution, units mm." alt="" coords="1019,280,1236,307"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="778,56,966,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1097,272,969,162,897,101,901,97,972,158,1100,268"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="778,172,966,215"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1081,276,970,229,939,218,940,213,972,224,1083,271"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_geometry_helper.html#a154f5cbcebc791c2bc24ab42232a8619" title="Find the sigmaUVW value for the detector geometry." alt="" coords="787,239,957,281"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1004,280,957,274,958,268,1005,275"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_rotational_transformation_plugin.html#ae56563d072538dc2d8841aa0f1941198" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="773,305,971,348"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1005,312,971,316,971,311,1005,307"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_binary_file_writer.html#a6f6513f8320903d5c178e5ad96549221" title="Write a lar tpc to the file." alt="" coords="788,372,956,415"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1083,316,972,362,940,374,939,369,970,358,1081,311"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_xml_file_writer.html#a153219a605015486dd563bcc8882ad8f" title="Write a lar tpc to the file." alt="" coords="796,439,948,481"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1105,320,1048,374,1011,403,972,429,948,441,946,436,969,424,1008,399,1044,370,1101,316"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="528,5,716,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="762,58,716,48,717,43,763,53"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="252,13,471,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="513,29,472,29,472,24,513,24"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_hit_creation_base_tool.html#a59e11f14f8469c595f4d0520881fdf32" title="Get the three dimensional position using a provided two dimensional calo hit and a candidate fit posi..." alt="" coords="525,72,719,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="775,232,771,229,760,216,753,203,747,177,741,152,734,140,724,129,707,117,710,113,727,125,739,137,746,150,752,176,758,201,764,213,775,225,779,228"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_hit_creation_base_tool.html#ad0d16e049b6e99100b39d491ad3b3750" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="525,139,719,181"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="784,235,772,229,748,212,724,196,698,184,700,180,727,191,751,208,775,224,786,230"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a2ee1552375550f7e66eff516c8d78446" title="Receive a chi2 value indicating consistency of a list of proto hits with a provided 3D sliding fit tr..." alt="" coords="523,205,721,248"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="771,249,722,243,722,237,772,244"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a8192a14a61d11d92e39de7b851034555" title="Receive a chi2 value indicating consistency of a list of proto hits with the original,..." alt="" coords="519,272,725,315"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="772,276,726,282,726,277,771,271"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_geometry_helper.html#af8d7706510f0e3d9c688be076f657a92" title="Merge 2D positions from three views to give unified 2D positions for each view." alt="" coords="528,339,716,381"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="786,290,775,296,751,312,727,329,700,340,698,336,724,324,748,308,772,291,784,285"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_geometry_helper.html#a2b07fdebead526215658e29a9c4ba248" title="Merge 2D positions from two views to give 2D position in third view." alt="" coords="533,405,712,448"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="779,292,775,295,764,307,758,319,752,344,746,370,739,383,727,395,710,407,707,403,724,391,734,380,741,368,747,343,753,317,760,304,771,291,775,288"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a62d14aa1b32b01ed9fb489751b2092e5" title="Refine the 3D hit positions (and chi2) for a list of proto hits, in accordance with a provided 3D sli..." alt="" coords="523,472,721,515"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="778,293,775,295,761,315,754,336,752,377,751,419,743,440,727,462,713,474,709,470,723,458,738,438,745,418,747,377,748,335,756,313,771,292,774,289"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a22f1ea376dc0b4b6764da89031afa95d" title="Improve initial 3D hits by fitting proto hits and iteratively creating consisted 3D hit trajectory." alt="" coords="262,339,461,381"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="534,256,520,262,451,301,393,340,390,336,448,297,518,258,531,252"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_three_d_hit_creation_algorithm.html#a240677ab1d75bce6e4391586869ccd51" title="Run the algorithm." alt="" coords="5,339,204,381"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="247,363,204,363,204,357,247,357"/>
+<area shape="poly" id="edge15_Node000015_Node000010" title=" " alt="" coords="531,468,518,462,448,423,390,384,393,380,451,419,520,458,534,464"/>
+</map>

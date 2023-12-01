@@ -1,0 +1,27 @@
+<map id="lar_content::LArMCParticleHelper::IsLeading" name="lar_content::LArMCParticleHelper::IsLeading">
+<area shape="rect" id="Node000001" title="Whether a provided mc particle matches the implemented definition of being leading." alt="" coords="5,115,183,157"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3784dab36efda32825e9a2ad53039e8e" title="Get the leading particle in the hierarchy, for use at ProtoDUNE." alt="" coords="231,115,427,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,133,215,133,215,139,183,139"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="1201,64,1340,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,128,475,125,1185,87,1186,92,475,131,428,133"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a5314cda1ff5cae45c84e1195bd3424b3" title="Get the parent mc particle." alt="" coords="475,5,664,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,112,474,64,502,52,504,57,476,69,375,117"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="938,148,1134,191"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="427,137,890,159,922,160,922,166,890,164,427,143"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="1182,211,1359,253"/>
+<area shape="poly" id="edge14_Node000002_Node000006" title=" " alt="" coords="360,155,413,191,476,226,540,253,591,270,644,282,713,292,831,308,924,317,1017,313,1133,292,1178,278,1219,259,1221,264,1180,283,1135,297,1017,318,924,322,831,314,712,297,643,287,590,275,538,258,474,230,410,196,357,160"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a22f1bcd2d1edcf1b100824b24d0eba6c" title="Returns true if passed a primary beam MCParticle." alt="" coords="481,173,658,216"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="420,155,467,167,465,172,419,161"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="665,29,880,42,1134,64,1186,70,1185,76,1134,69,879,48,665,34"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="1097,145,1194,110,1196,115,1098,150"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="1119,189,1174,204,1173,209,1118,194"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="1407,211,1547,253"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="1360,229,1392,229,1392,235,1360,235"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a510280cbf79391b0afadde623a5dbabd" title="Get the nuance code of an MCParticle." alt="" coords="712,240,890,283"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="647,214,711,233,709,238,645,219"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a10ea7738570b280b83a1e625f193ea86" title="Whether a provided mc particle matches the implemented definition of being primary." alt="" coords="712,173,890,216"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="659,192,697,192,697,197,659,197"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle.html#a88b5d4b1e5385c01551db598ebea9786" title="Get the nuance code." alt="" coords="947,240,1125,283"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="890,259,932,259,932,264,890,264"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="890,182,922,179,922,184,890,188"/>
+</map>

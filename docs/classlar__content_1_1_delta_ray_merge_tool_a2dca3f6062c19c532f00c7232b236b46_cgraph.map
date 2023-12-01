@@ -1,0 +1,17 @@
+<map id="lar_content::DeltaRayMergeTool::IsConnected" name="lar_content::DeltaRayMergeTool::IsConnected">
+<area shape="rect" id="Node000001" title="Determine whether a given cluster is connected to a cosmic ray pfo." alt="" coords="5,96,188,139"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="236,29,427,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,93,238,74,239,79,175,98"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="236,96,427,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="188,115,220,115,220,120,188,120"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="247,187,416,229"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="155,137,261,178,259,183,153,142"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="287,29,285,19,293,10,308,5,331,3,356,5,371,11,369,16,355,10,331,8,309,10,296,15,290,21,292,28"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="485,37,669,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="423,93,469,82,470,87,424,98"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="475,104,678,131"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="428,115,459,115,459,120,428,120"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="481,155,672,197"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="424,137,470,148,469,153,423,142"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="287,187,285,177,293,168,308,162,331,160,356,162,371,169,369,174,355,168,331,165,309,167,296,172,290,178,292,186"/>
+</map>

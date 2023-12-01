@@ -1,0 +1,32 @@
+<map id="lar_pandora::LArPandoraGeometry::LoadDetectorGaps" name="lar_pandora::LArPandoraGeometry::LoadDetectorGaps">
+<area shape="rect" id="Node000001" title="Load the 2D gaps that go with the chosen geometry." alt="" coords="5,405,227,448"/>
+<area shape="rect" id="Node000002" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#a34894e97bcb1ee60c4296e6e31b18981" title="Check whether a gap size is small enough to be registered as a detector gap." alt="" coords="279,5,492,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,404,131,337,158,244,178,194,204,145,235,98,273,58,277,55,280,59,277,62,239,102,208,147,183,196,163,246,136,339,123,405"/>
+<area shape="rect" id="Node000003" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#a5de6d14fae471cc83633496652e7b2a5" title="Create a detector gap." alt="" coords="279,72,492,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,404,137,348,167,273,187,233,212,193,240,157,273,125,278,121,281,125,276,129,244,160,216,196,192,235,172,275,142,350,125,406"/>
+<area shape="rect" id="Node000004" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a8392d60eee6fce8740feebfc2bae3224" title="Return X position at centre of drift volume." alt="" coords="294,139,477,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,404,144,359,176,302,219,242,245,215,273,191,279,187,282,191,276,195,249,219,224,246,181,305,149,361,128,406"/>
+<area shape="rect" id="Node000005" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a6fd23b8dbc8ca5adf223b9987b68fc20" title="Return Y position at centre of drift volume." alt="" coords="294,205,477,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="130,403,187,332,228,292,273,258,282,253,284,258,276,262,231,296,191,336,134,407"/>
+<area shape="rect" id="Node000006" href="$classlar__pandora_1_1_l_ar_drift_volume.html#ac72245aa1d7828cbde97bf8c222bd5fe" title="Return Z position at centre of drift volume." alt="" coords="294,272,477,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,403,203,363,273,324,288,318,290,323,276,329,205,368,148,407"/>
+<area shape="rect" id="Node000007" href="$namespacelar__pandora_1_1detector__functions.html#a8f989229c15e22af2c82091ea5190723" title="Factory class that returns the correct detector type interface." alt="" coords="292,339,479,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,402,281,383,282,388,206,407"/>
+<area shape="rect" id="Node000008" href="$classlar__pandora_1_1_l_ar_detector_gap.html#ab180647a810d84651683fd83f7024aea" title="Get maximum gap size." alt="" coords="303,405,468,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="227,424,287,424,287,429,227,429"/>
+<area shape="rect" id="Node000009" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a1bff8a474183d72d8b41e66d0d00c0e5" title="Return unique ID." alt="" coords="294,472,477,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="206,446,282,465,281,470,204,451"/>
+<area shape="rect" id="Node000010" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a91cdedef2c0c5f36030a52c010cf9a70" title="Return X span of drift volume." alt="" coords="294,539,477,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="148,446,205,485,276,524,290,530,288,535,273,529,203,490,145,451"/>
+<area shape="rect" id="Node000011" href="$classlar__pandora_1_1_l_ar_drift_volume.html#a4c12b1fc69417b5bebc7a6608cb080c6" title="Return Y span of drift volume." alt="" coords="294,605,477,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="134,447,191,518,231,557,276,591,284,596,282,600,273,596,228,561,187,521,130,450"/>
+<area shape="rect" id="Node000012" href="$classlar__pandora_1_1_l_ar_drift_volume.html#ad9cc9b58b96654ee707ec09f5b0bbcc9" title="Return Z span of drift volume." alt="" coords="294,672,477,715"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="128,448,149,492,181,549,224,608,249,634,276,658,282,662,279,667,273,662,245,638,219,611,176,552,144,494,124,450"/>
+<area shape="rect" id="Node000013" href="$classlar__pandora_1_1_l_ar_pandora_detector_type.html#a56a89f01e40b726fd16d063e26b8b756" title="Create detector gaps for all daughter volumes in a logical TPC volume." alt="" coords="277,739,494,781"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="125,448,142,504,172,578,192,618,216,657,244,693,276,725,281,728,278,732,273,729,240,697,212,660,187,621,167,581,137,505,120,449"/>
+<area shape="rect" id="Node000014" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#a937c0e8684b1720355c72a245a153199" title="Load drift volume geometry." alt="" coords="275,829,496,872"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="124,448,139,513,168,603,189,653,213,702,243,749,277,791,313,820,310,824,273,795,238,752,209,705,184,655,163,605,134,514,119,449"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="335,829,333,819,341,810,359,805,385,803,415,805,432,812,430,817,413,810,385,808,360,810,344,815,338,821,340,828"/>
+<area shape="rect" id="Node000015" href="$classlar__pandora_1_1_l_ar_pandora_geometry.html#ae64de69b265d284aa2fd0c88ded52e5d" title="Generate a unique identifier for each TPC." alt="" coords="544,829,765,872"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="496,848,529,848,529,853,496,853"/>
+</map>

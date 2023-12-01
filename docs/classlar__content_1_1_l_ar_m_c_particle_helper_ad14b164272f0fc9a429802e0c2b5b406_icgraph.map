@@ -1,0 +1,58 @@
+<map id="lar_content::LArMCParticleHelper::GetHierarchyTier" name="lar_content::LArMCParticleHelper::GetHierarchyTier">
+<area shape="rect" id="Node000001" title="Determine the position in the hierarchy for the MCParticle." alt="" coords="2055,300,2232,343"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a4102227281a1c736a2636e099ebd068b" title="Recursively fill the hierarchy based on the criteria established for this MCHierarchy." alt="" coords="1814,101,1993,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2109,291,2061,245,2005,197,1955,163,1958,158,2009,193,2065,241,2113,287"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a0fee952ba26fca65201f3208017dc765" title="Return leading particle in the delta ray/michel hierarchy i.e. tier below cosmic ray." alt="" coords="1808,260,1999,303"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="2039,307,1998,300,1999,295,2040,301"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a37f7e34ab6e4c0673fbd2ce811d54ab2" title="Return the MCProcess of the leading particle (tier 1) in the delta ray/michel hierarchy." alt="" coords="1544,168,1734,211"/>
+<area shape="poly" id="edge24_Node000001_Node000008" title=" " alt="" coords="2096,294,2053,271,2006,251,1937,231,1865,216,1734,198,1735,193,1866,210,1938,225,2008,245,2055,266,2098,289"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#ac829555a83125b15a384c394803947dc" title="Return true if input MCParticle is in tier 1 of the cosmic ray hierarchy." alt="" coords="1808,339,1999,381"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="2040,341,1999,347,1998,342,2039,335"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#adb1d4311c96e90bfc9c08643d03b5872" title="Identify and record the hits that are post&#45;bremsstralung radiation in a cosmic ray hierarchy." alt="" coords="1530,419,1748,461"/>
+<area shape="poly" id="edge32_Node000001_Node000021" title=" " alt="" coords="2098,353,2055,377,2008,396,1942,413,1874,426,1748,439,1748,434,1873,421,1941,408,2006,391,2053,372,2095,349"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_test_beam_hierarchy_event_validation_algorithm.html#aab5b2c7f5e90c3757ac4c88f7f1fb7f4" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1800,456,2007,515"/>
+<area shape="poly" id="edge31_Node000001_Node000024" title=" " alt="" coords="2112,355,2065,398,2008,440,1976,458,1974,453,2006,435,2061,393,2108,351"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1942,89,1927,83,1903,80,1882,82,1869,87,1862,93,1861,101,1856,101,1857,91,1866,82,1881,77,1903,75,1929,77,1944,85"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#ad5c077a1944b8d033f5ecd1a4dc4f245" title="Creates an MC hierarchy representation. Without folding this will be a mirror image of the standard M..." alt="" coords="1528,101,1750,144"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="1798,130,1750,129,1750,123,1798,125"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#ad84a7f09d1da939af88e2afa4d6cc975" title="Fill an MC hierarchy based on the specified folding criteria (see MCHierarchy::FillHierarchy for deta..." alt="" coords="1299,43,1467,85"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1528,100,1467,86,1468,81,1529,95"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_hierarchy_monitoring_algorithm.html#a76cfde4fc06bb0d0af605b20aaa1108d" title="Run the algorithm." alt="" coords="1014,5,1222,48"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1283,53,1222,44,1223,39,1284,47"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_hierarchy_validation_algorithm.html#a07a7ee90c48cc7ea4578c2a3f29c78de" title="Run the algorithm." alt="" coords="1015,72,1221,115"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="1283,78,1221,85,1221,79,1283,72"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1834,256,1751,225,1716,214,1717,209,1753,220,1836,251"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a0e68f5fd68a53a3588fb7f3d79fb1257" title="Construct the hierarchy folding map (cosmic rays folded to themselves, delta ray/michel hierarchy fol..." alt="" coords="1287,293,1478,336"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="1793,291,1479,311,1478,306,1792,286"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#afd710058ff8fe15e3a5c0bbc9ffd1a0f" title="Separate a leading pfo hit list according to the true owner of the hit e.g. other shower." alt="" coords="1526,235,1752,277"/>
+<area shape="poly" id="edge22_Node000007_Node000019" title=" " alt="" coords="1792,273,1752,269,1752,264,1793,268"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a4bf40c494dafc5092514d81e720de0db" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;delta ray&#39; process tag." alt="" coords="1288,176,1478,219"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1528,195,1478,197,1478,192,1528,190"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3448d55df94c9e2ef8d09180fd7bbad5" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;decay&#39; process tag." alt="" coords="1288,109,1478,152"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="1528,167,1478,155,1479,150,1529,162"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#ab505f6e161923c7fa9dd5bfc5fcc622c" title="Print matching information in a provided validation info object, and write information to tree if con..." alt="" coords="1033,168,1203,227"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1272,200,1203,200,1203,195,1272,195"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="1281,159,1204,178,1203,173,1280,154"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a41d2056723e71ad44364c2a98f8feea5" title="Select target, reconstructable mc particles in the cosmic ray hierarchy." alt="" coords="997,344,1239,403"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1273,342,1240,349,1239,344,1271,337"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a921d985249fcd7ab77fd6164ef1c4bd9" title="Perform the main matching procedure." alt="" coords="771,344,949,403"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="981,376,949,376,949,371,981,371"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a19f8348e6301622285a10772ee8b89e2" title="Perform the cosmic ray matching procedure and identify incorrectly reconstructed cosmic rays." alt="" coords="491,261,723,336"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="756,345,723,336,725,331,757,340"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a680bc82f7516a20203f0353b3a83aa90" title="Fill the validation info containers." alt="" coords="5,344,176,403"/>
+<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="755,376,176,376,176,371,755,371"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a7ae6a8baf321b94fd37b124f9df65bee" title="Determine all reconstructable hits in cosmic ray pfos." alt="" coords="248,411,419,469"/>
+<area shape="poly" id="edge20_Node000014_Node000018" title=" " alt="" coords="756,390,724,395,419,433,419,427,723,389,756,385"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_muon_leading_event_validation_algorithm.html#a327ef2e54d21b20b41810901a038458a" title="Remove incorrectly reconstructed cosmic rays from main matching maps." alt="" coords="224,261,443,336"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="475,301,443,301,443,296,475,296"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="210,340,177,350,175,345,208,334"/>
+<area shape="poly" id="edge21_Node000018_Node000017" title=" " alt="" coords="233,415,175,399,177,394,234,410"/>
+<area shape="poly" id="edge23_Node000019_Node000010" title=" " alt="" coords="1510,253,1401,246,1287,233,1203,219,1204,214,1287,228,1402,240,1511,248"/>
+<area shape="poly" id="edge26_Node000020_Node000021" title=" " alt="" coords="1818,389,1752,409,1715,421,1713,415,1751,404,1816,384"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#abaf9fc636793a510a8db8acf9c5ce5e9" title="Select all tier 0 and tier 1 MCParticles in cosmic ray hierarchies from an input list." alt="" coords="1529,352,1749,395"/>
+<area shape="poly" id="edge29_Node000020_Node000023" title=" " alt="" coords="1793,368,1749,370,1749,365,1792,363"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a6ebe605a6a01035759b5603f31c13157" title="Select a subset of calo hits representing those that represent &quot;reconstructable&quot; regions of the event..." alt="" coords="1288,415,1478,457"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="1514,441,1478,440,1478,435,1514,435"/>
+<area shape="poly" id="edge28_Node000022_Node000013" title=" " alt="" coords="1274,413,1239,405,1240,399,1276,408"/>
+<area shape="poly" id="edge30_Node000023_Node000013" title=" " alt="" coords="1514,376,1239,376,1239,371,1514,371"/>
+</map>

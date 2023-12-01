@@ -1,0 +1,11 @@
+<map id="pandora::BinaryFileReader::ReadCaloHit" name="pandora::BinaryFileReader::ReadCaloHit">
+<area shape="rect" id="Node000001" title="Read a calo hit from the current position in the file, recreating the stored object." alt="" coords="5,105,180,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="228,5,429,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,102,227,58,242,51,244,56,229,62,135,107"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_object_factory.html#ab6a76d16bb7a2b0dd7cae309e426a079" title="Create new parameters instance on the heap (memory&#45;management to be controlled by user)" alt="" coords="250,72,407,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,112,234,104,235,109,180,117"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_object_factory.html#ae2fdbf043b438f7252f45866b6012cd5" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="250,139,407,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,136,235,144,234,149,180,142"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_binary_file_reader.html#a8424826e0bd7933de28c1c829e1b3e93" title="Read a variable from the file." alt="" coords="241,205,416,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="135,146,229,191,244,197,242,202,227,196,133,151"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="lar_content::ShowerRegionFeatureTool::CalculateViewOpeningAngle" name="lar_content::ShowerRegionFeatureTool::CalculateViewOpeningAngle">
+<area shape="rect" id="Node000001" title="Calculate the opening angle of the shower region." alt="" coords="5,277,266,320"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cartesian_vector.html#a9c93cc64c8e03b0992c5a70173f83fee" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="326,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,275,171,232,209,176,256,117,312,65,329,53,332,58,315,69,260,121,213,179,176,235,151,278"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="807,293,976,336"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,293,314,292,506,292,792,305,792,311,506,297,314,297,266,298"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a87f0ae9a1f3fcffbb9e371cc52d4dc29" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="554,32,750,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,275,174,238,211,192,258,146,312,108,367,85,426,70,484,61,538,57,538,62,484,66,427,75,369,90,315,113,261,150,215,195,178,241,152,278"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a5520f798d6c18098493f8e816c6626fd" title="Get global direction corresponding to the fit result in minimum fit layer." alt="" coords="314,123,506,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="174,275,312,198,334,186,337,191,315,202,176,279"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2018a07502c88b77289ada87c46efb87" title="Get global position corresponding to the fit result in minimum fit layer." alt="" coords="556,181,748,240"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="207,274,313,248,430,229,540,217,541,222,431,235,314,253,209,279"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a53f91c6a42ecd0d6ee947d72e80b7fc2" title="Get the layer pitch, units cm." alt="" coords="328,307,492,349"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="267,310,312,315,312,320,266,315"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="568,432,736,475"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="160,318,225,375,268,403,315,426,374,443,436,452,497,457,552,457,552,463,497,462,436,458,373,448,313,430,265,408,222,379,156,322"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="326,373,494,416"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="199,318,315,359,333,365,331,370,313,364,198,323"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="326,491,494,533"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="156,319,222,391,267,433,315,470,335,481,332,486,312,474,263,437,218,395,152,322"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="326,557,494,600"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="149,319,173,366,209,426,257,489,285,518,315,543,321,547,318,551,312,547,282,522,253,492,205,429,168,368,144,322"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6f40b9016e957873d90aef1812e14300" title="Get global coordinates for given sliding linear fit coordinates." alt="" coords="798,115,985,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="749,89,807,107,806,112,748,94"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#acf6cfcdd1e0f3b6a07dd3dcb882ed3cc" title="Get global direction coordinates for given sliding linear fit gradient." alt="" coords="557,115,747,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="506,143,541,141,542,146,507,148"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="748,133,783,133,783,139,748,139"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="748,178,806,160,807,165,749,183"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="807,399,976,441"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="737,439,791,431,792,437,737,444"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="568,365,736,408"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="495,389,552,387,553,393,495,395"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="725,362,803,338,804,344,727,367"/>
+<area shape="poly" id="edge16_Node000013_Node000011" title=" " alt="" coords="737,396,792,403,791,409,737,401"/>
+</map>

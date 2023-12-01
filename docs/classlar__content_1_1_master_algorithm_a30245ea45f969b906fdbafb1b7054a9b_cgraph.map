@@ -1,0 +1,23 @@
+<map id="lar_content::MasterAlgorithm::RunCosmicRayHitRemoval" name="lar_content::MasterAlgorithm::RunCosmicRayHitRemoval">
+<area shape="rect" id="Node000001" title="Run cosmic&#45;ray hit removal, freeing hits in ambiguous pfos for further processing." alt="" coords="5,192,194,235"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#aae19b8c35ab87bf8eb3c4d3562e5875c" title="Alter the metadata information stored in a calo hit." alt="" coords="242,5,448,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,190,131,157,160,117,197,76,240,42,250,36,253,41,243,46,201,80,164,120,136,160,115,193"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a9eb8f6692af705c0049d69a8e9aab4f5" title="Delete an object from the current list." alt="" coords="274,56,416,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,189,176,149,240,108,259,100,261,105,243,113,179,153,127,194"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a04ee63638ae6f53e337c543a96baad41" title="Get a flat list of all pfos, recursively including all daughters and parents associated with those pf..." alt="" coords="260,147,430,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="194,193,244,184,245,189,195,198"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="260,237,430,280"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="195,228,245,238,244,243,194,233"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#a7a0f820e2aa8e2332efe849d6eac85e5" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="260,328,430,371"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="141,233,293,318,290,323,139,238"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_stitching_helper.html#a16c79bbc86712bc0cd6b5e3220d2d51f" title="Whether a pfo has been stitched." alt="" coords="252,395,438,437"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="115,233,165,305,202,346,243,381,250,385,248,390,240,385,198,350,161,309,111,236"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="518,56,659,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,75,502,75,502,80,416,80"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="542,56,540,46,548,37,564,31,588,29,614,32,630,38,628,43,613,37,588,35,565,37,551,41,545,47,547,55"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="299,147,297,137,305,128,321,122,345,120,371,122,386,129,384,134,370,128,345,125,322,127,308,132,302,138,304,146"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="299,237,297,227,305,218,321,213,345,211,371,213,386,219,384,224,370,218,345,216,322,218,308,223,302,229,304,236"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="299,328,297,318,305,309,321,303,345,301,371,304,386,310,384,315,370,309,345,307,322,309,308,313,302,319,304,327"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_particle_flow_object.html#a1029a73f5ee513ab2f8fda1a2075439e" title="Get the map from registered property name to floating point property value." alt="" coords="496,395,680,437"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="439,413,480,413,480,419,439,419"/>
+</map>

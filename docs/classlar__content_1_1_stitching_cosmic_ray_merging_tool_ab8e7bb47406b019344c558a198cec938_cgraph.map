@@ -1,0 +1,41 @@
+<map id="lar_content::StitchingCosmicRayMergingTool::ShiftPfo" name="lar_content::StitchingCosmicRayMergingTool::ShiftPfo">
+<area shape="rect" id="Node000001" title="Shift a pfo given its pfo stitching pair." alt="" coords="5,253,194,296"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="256,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,252,127,213,156,163,194,110,240,65,257,53,260,58,243,69,198,114,160,165,131,215,112,254"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="521,365,690,408"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,294,242,320,379,350,505,371,504,376,378,355,241,325,158,299"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_l_ar_t_p_c.html#a6694789969dfd045db21adddeab98ec5" title="Get center in x, units mm." alt="" coords="757,105,952,132"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="115,251,166,195,201,165,241,143,307,120,375,103,446,93,516,88,647,90,756,100,756,105,647,95,516,94,446,99,376,109,308,125,243,148,204,170,169,198,119,255"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="256,224,440,267"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="194,261,240,255,240,261,194,266"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_stitching_helper.html#a8f867cf07160f99e7c41b43a98309f84" title="Determine centre in X at the boundary between a pair of tpcs." alt="" coords="242,157,454,200"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="146,250,241,210,259,203,261,208,243,214,148,255"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#a8202d7611d477276af455b73b15cacbf" title="Get the width in x, units mm." alt="" coords="759,257,950,284"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="194,275,242,276,513,276,744,271,744,277,513,281,242,281,194,280"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="264,392,432,435"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="129,294,181,332,243,371,269,383,267,388,240,376,178,337,126,299"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_master_algorithm.html#a9edec39d118d270efac4c3f84f89e020" title="Shift a Pfo hierarchy by a specified x0 value." alt="" coords="254,467,442,509"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="115,295,166,367,202,408,243,445,264,457,261,462,240,449,198,412,162,371,111,298"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_flow_object.html#a1a7dfb68cb8bf6bf793b9a0d0d5b9e6a" title="Update the properties map." alt="" coords="513,5,697,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,24,497,24,497,29,440,29"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="558,365,556,355,564,346,580,341,605,339,632,341,648,347,646,352,631,346,605,344,582,346,567,351,561,357,563,364"/>
+<area shape="poly" id="edge13_Node000007_Node000005" title=" " alt="" coords="454,164,741,129,742,135,455,169"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_stitching_helper.html#a58b74fc1e2a8595c6186b3ec1c00e0bb" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="521,173,690,216"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="455,183,505,186,505,191,454,188"/>
+<area shape="poly" id="edge14_Node000007_Node000011" title=" " alt="" coords="419,198,455,209,503,225,627,247,744,260,743,266,626,253,501,231,453,215,418,203"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="667,170,756,141,782,134,783,139,757,147,669,175"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_l_ar_t_p_c.html#a1b8adee6b86ac8e1968cae9464f606c4" title="Get center in y, units mm." alt="" coords="756,156,953,183"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="690,183,741,178,741,183,691,189"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_l_ar_t_p_c.html#a4fa7b7601ca5390472bf0d297c72b9d0" title="Get center in z, units mm." alt="" coords="757,207,952,233"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="691,201,742,206,741,211,690,206"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="669,214,757,243,783,250,782,255,756,248,667,219"/>
+<area shape="poly" id="edge20_Node000013_Node000004" title=" " alt="" coords="407,464,453,444,501,418,516,411,518,416,503,422,455,449,410,469"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#aae19b8c35ab87bf8eb3c4d3562e5875c" title="Alter the metadata information stored in a calo hit." alt="" coords="502,600,708,627"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="378,508,434,547,503,586,521,592,519,597,501,590,431,552,375,512"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_vertex.html#a2a991c06c84f7b6e2544e60ba983c1a5" title="Alter the metadata information stored in a vertex." alt="" coords="504,432,706,459"/>
+<area shape="poly" id="edge19_Node000013_Node000015" title=" " alt="" coords="442,470,505,459,506,464,443,475"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="505,483,705,509"/>
+<area shape="poly" id="edge21_Node000013_Node000016" title=" " alt="" coords="443,488,490,490,489,495,442,494"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_particle_flow_object.html#a5b429b51e30c35c794516899cce26653" title="Get the parent pfo list." alt="" coords="513,533,697,576"/>
+<area shape="poly" id="edge22_Node000013_Node000017" title=" " alt="" coords="434,507,506,526,505,531,432,513"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="lar_content::ShowerAsymmetryFeatureTool::GetAsymmetryForView" name="lar_content::ShowerAsymmetryFeatureTool::GetAsymmetryForView">
+<area shape="rect" id="Node000001" title="Get the shower asymmetry feature for a given view." alt="" coords="5,267,238,309"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_asymmetry_feature_base_tool.html#aff4189506686c470f8cf527e13bac13c" title="Calculate the asymmetry feature." alt="" coords="306,211,510,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,263,290,252,291,258,235,269"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a98e173874bd89b1e7ebf8829cea9ba07" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="305,312,511,355"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="239,304,290,312,290,317,238,309"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a25ffcc10ccdc78ccd2168f610f83cd55" title="Get local sliding fit coordinates for a given global position." alt="" coords="318,139,498,181"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="157,264,216,230,285,196,315,184,317,189,287,201,218,235,159,268"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_shower_asymmetry_feature_tool.html#a9fae56969550940b0fcc43c55b883a55" title="Get whether we should use a given shower cluster for asymmetry calculation." alt="" coords="286,424,530,467"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="164,308,355,414,352,418,161,312"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="604,105,772,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,208,529,191,552,174,577,158,590,152,593,156,579,162,555,179,531,196,490,213"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="604,172,772,215"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,215,588,204,589,210,511,221"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_cluster_helper.html#a5c6b1f6eb6de0c5ede0315d44119b3af" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="593,239,784,281"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="511,240,577,246,577,252,510,245"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="883,5,1051,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="772,174,797,158,807,146,814,134,820,109,826,84,833,71,845,58,867,43,870,48,848,62,837,74,831,85,825,110,819,136,812,149,800,162,774,178"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1150,5,1319,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1052,24,1134,24,1134,29,1052,29"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="870,72,1064,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="780,236,797,225,807,213,814,201,820,176,826,150,833,137,845,125,855,117,858,121,848,129,837,140,831,152,825,177,819,203,812,216,800,229,783,240"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="883,139,1051,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="770,236,797,224,821,208,845,191,867,182,869,187,848,196,824,212,800,229,772,241"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="883,205,1051,248"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="784,246,867,236,867,241,784,251"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="883,272,1051,315"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="784,269,867,279,867,284,784,274"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_cluster_helper.html#a58e41ae9eabb6dd44a5c5ca664e895cb" title="Sort calo hits by their pulse height." alt="" coords="871,339,1063,381"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="738,279,847,324,868,331,866,336,845,329,736,284"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_calo_hit.html#abf591d3f1fec8563a2d89ab079432c77" title="Get the calibrated hadronic energy measure." alt="" coords="1136,339,1333,381"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1063,357,1120,357,1120,363,1063,363"/>
+<area shape="poly" id="edge14_Node000014_Node000014" title=" " alt="" coords="355,312,353,302,362,293,380,287,408,285,438,288,456,294,454,299,437,293,408,291,381,293,365,297,358,303,360,311"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aff0efd8176db6dc22a1ccb1e46137648" title="Get the pair of layers surrounding a specified longitudinal position." alt="" coords="578,333,798,376"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="511,338,563,342,562,348,511,344"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a6162a45ebeb7c2bfbcc3773dbe91bc0f" title="Get interpolation weights for layers surrounding a specified longitudinal position." alt="" coords="846,405,1088,464"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="766,374,849,398,847,403,765,379"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a80384406405256b9cb4d50975bd2b13e" title="Get iterators for layers surrounding the specified longitudinal position." alt="" coords="847,488,1087,547"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="782,374,800,386,818,408,825,431,832,453,848,474,852,477,849,481,844,478,827,455,820,433,813,411,797,390,779,379"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aba240516cd246a5981e4e09a4a78e909" title="Get layer number for given sliding linear fit longitudinal coordinate." alt="" coords="1152,496,1317,539"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1088,515,1137,515,1137,520,1088,520"/>
+<area shape="poly" id="edge20_Node000019_Node000003" title=" " alt="" coords="498,147,588,136,589,141,499,152"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="593,424,784,467"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="531,443,577,443,577,448,531,448"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_shower_cluster.html#a7d5e9711ef153d962df50dcdf4e8b18e" title="Get the cluster list." alt="" coords="589,491,787,549"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="492,465,574,487,573,492,490,470"/>
+<area shape="poly" id="edge23_Node000021_Node000021" title=" " alt="" coords="636,424,634,414,643,405,661,399,688,397,718,400,736,406,734,411,717,405,688,403,662,405,645,409,639,415,641,423"/>
+</map>

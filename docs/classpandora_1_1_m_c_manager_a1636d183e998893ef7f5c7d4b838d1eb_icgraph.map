@@ -1,0 +1,17 @@
+<map id="pandora::MCManager::RemoveMCParticleRelationships" name="pandora::MCManager::RemoveMCParticleRelationships">
+<area shape="rect" id="Node000001" title="Remove all parent/daughter particle links from a mc particle and from its (previously) linked particl..." alt="" coords="1160,39,1377,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_manager.html#a31e97b93ae1ef3dbc99095f8941f2d9d" title="Remove all mc particle associations that have been registered with the mc manager." alt="" coords="880,5,1112,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1144,47,1112,44,1113,38,1145,42"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_m_c_manager.html#a5b5289b6fd830686a150407b70986271" title="Select pfo targets." alt="" coords="923,72,1069,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1145,78,1069,87,1069,82,1144,73"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_impl.html#af8155772f8829fbad76e53d70133c36c" title="Prepare mc particles: select mc pfo targets, match tracks and calo hits to the correct mc particles f..." alt="" coords="684,72,832,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="907,96,832,96,832,91,907,91"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html#aae8377256aa76241d31df9241fd0567f" title="Prepare event, calculating properties of input objects for later use in algorithms." alt="" coords="460,72,636,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="669,96,637,96,637,91,669,91"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html#a2cc46ce578d81a5b952d5f9792ce4d0a" title="Process event, calling event prepare event function, then running the algorithms." alt="" coords="226,39,406,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,81,406,76,406,70,445,76"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_content_api_impl.html#a6ea1bb43c73d6ffac2d1c4c038379779" title="Repeat the event preparation stages, which are used to calculate properties of input objects for late..." alt="" coords="220,105,412,148"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="445,111,413,115,412,110,444,106"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_api_impl.html#aec60e37d4b546b015c81d26ebf5c8f23" title="Process event." alt="" coords="5,39,172,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="211,63,172,63,172,57,211,57"/>
+</map>

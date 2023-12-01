@@ -1,0 +1,42 @@
+<map id="lar_content::UnambiguousDeltaRayTool::Run" name="lar_content::UnambiguousDeltaRayTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,372,178,415"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_unambiguous_delta_ray_tool.html#afcc8d71f08e7a53ba1c4d305bac16fbe" title="Create delta ray pfos out of unambiguous (1:1:1) matches that are connected to a parent cosmic ray." alt="" coords="226,239,462,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,369,169,338,224,307,237,301,239,306,227,312,172,343,124,374"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="226,321,462,348"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="177,369,225,357,261,349,262,355,226,363,179,374"/>
+<area shape="rect" id="Node000016" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="273,372,415,415"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="178,391,257,391,257,396,178,396"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="254,439,434,465"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="179,413,226,424,262,432,261,437,225,429,177,418"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="250,489,438,532"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="124,413,171,445,227,475,242,481,240,486,225,480,168,449,121,417"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aac181605230498590d2768ca50f6f635" title="Create delta ray pfos maxmising completeness by searching for and merging in any stray clusters." alt="" coords="510,185,711,228"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,238,499,229,501,235,463,243"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_unambiguous_delta_ray_tool.html#a4ed79e9e78b72e4a1289c047e5801b20" title="Determine whether the clusters of an element are connected to a cosmic ray pfo." alt="" coords="522,264,700,307"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="463,273,506,276,506,281,462,278"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="762,173,948,216"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="712,199,746,197,746,203,712,204"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="1013,5,1198,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="872,171,924,115,959,84,997,58,1007,52,1009,57,1000,62,962,88,928,119,876,175"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ordered_calo_hit_list.html#a1cfecc7213e73c9cb2aaca0059186b23" title="Returns a const iterator referring to the past&#45;the&#45;end element in the ordered calo hit list." alt="" coords="999,72,1212,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="886,171,937,139,998,108,1018,101,1020,106,1000,113,939,143,889,175"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora_input_type.html#ae2b4b6273db3fbc09a99adf70876687d" title="Get the value held by the pandora type." alt="" coords="1001,123,1210,149"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="948,170,1030,151,1031,156,949,175"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="1009,173,1202,216"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="949,192,993,192,993,197,949,197"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="1021,240,1190,283"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="938,214,1009,233,1008,238,937,219"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_input_type.html#a64650d8342a8802c1a1a7b4eed43090a" title="Whether the pandora type is initialized." alt="" coords="1016,307,1195,349"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="933,214,952,226,969,243,977,260,985,277,1000,293,1007,297,1004,301,997,297,981,280,972,263,964,246,949,230,930,219"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pandora_input_type.html#a39fe8ca55aba26b1dac81aac00333af6" title="Set the value held by the pandora type." alt="" coords="1002,373,1209,400"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="937,214,953,226,966,243,973,261,976,295,980,328,987,344,1001,359,1004,363,1001,367,997,363,983,347,975,330,971,296,968,262,961,246,949,230,934,219"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_cluster_helper.html#aed712bea87e65904581eb0fdff04f146" title="Get closest distance between clusters in a pair of cluster lists." alt="" coords="759,264,951,307"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="700,283,744,283,744,288,700,288"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="770,355,940,397"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="671,305,782,346,780,351,670,310"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="809,264,807,254,815,245,831,239,855,237,881,240,897,246,895,251,880,245,855,243,832,245,818,249,812,255,814,263"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="809,355,807,345,815,336,831,330,855,328,881,330,897,337,895,342,880,336,855,333,832,335,818,340,812,346,814,354"/>
+<area shape="rect" id="Node000017" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="540,372,681,415"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="415,391,524,391,524,396,415,396"/>
+<area shape="poly" id="edge19_Node000017_Node000017" title=" " alt="" coords="564,372,563,362,570,353,586,347,611,345,637,348,652,354,650,359,635,353,611,351,588,353,573,357,568,363,570,371"/>
+</map>

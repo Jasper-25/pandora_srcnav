@@ -1,0 +1,20 @@
+<map id="lar_content::CrossedTrackSplittingAlgorithm::PreparationStep" name="lar_content::CrossedTrackSplittingAlgorithm::PreparationStep">
+<area shape="rect" id="Node000001" title="Perform any preparatory actions, such as caching information for subsequent expensive calculations." alt="" coords="5,129,230,172"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_k_d_tree_linker_algo.html#aa94df0ff1295b8ae4b4092ec29fc7987" title="Build the KD tree from the &quot;eltList&quot; in the space define by &quot;region&quot;." alt="" coords="278,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,127,210,93,276,58,288,52,291,57,279,62,212,98,155,131"/>
+<area shape="rect" id="Node000003" href="$namespacelar__content.html#aed106edce4a8d4837d5f3bcdd4faded5" title="build_2d_kd_search_region" alt="" coords="288,96,439,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,133,272,127,273,132,230,138"/>
+<area shape="rect" id="Node000005" href="$namespacelar__content.html#a0fa53f8f844dfe8a3aee6d08dcad0036" title="fill_and_bound_2d_kd_tree" alt="" coords="296,163,431,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="230,163,281,170,280,175,230,169"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_k_d_tree_linker_algo.html#ab24060eca7bcf2b2b0b7b0650110b49e" title="Search in the KDTree for all points that would be contained in the given searchbox The founded points..." alt="" coords="278,229,449,272"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="171,170,279,215,293,221,291,226,277,220,169,175"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="320,96,318,86,325,77,340,71,363,69,388,72,403,78,401,83,387,77,363,75,342,77,328,81,323,87,325,95"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="497,63,690,105"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="439,104,481,98,482,103,440,109"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="510,129,678,172"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="431,172,494,162,495,168,432,177"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="510,196,678,239"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="432,191,495,200,494,206,431,196"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1kdtree__type__adaptor.html#abbb025136be73421bb4fb5e61c0b9e94" title="position" alt="" coords="516,263,672,305"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="426,203,450,215,474,232,498,248,510,254,508,259,496,253,471,236,448,220,424,208"/>
+</map>

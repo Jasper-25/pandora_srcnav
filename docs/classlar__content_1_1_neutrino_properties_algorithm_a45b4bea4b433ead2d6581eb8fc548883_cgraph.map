@@ -1,0 +1,36 @@
+<map id="lar_content::NeutrinoPropertiesAlgorithm::SetNeutrinoId" name="lar_content::NeutrinoPropertiesAlgorithm::SetNeutrinoId">
+<area shape="rect" id="Node000001" title="identifying the primary daughter of a neutrino pfo and set the particle id accordingly" alt="" coords="5,213,206,256"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="277,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,211,171,140,209,100,252,64,274,52,276,57,255,69,213,104,175,143,123,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_particle_flow_object.html#a17cb8f1cb34031fa1a253cfb9a022368" title="Get the daughter pfo list." alt="" coords="539,73,723,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,211,176,157,212,129,253,108,321,88,392,79,461,76,524,79,523,84,461,81,392,84,322,94,255,113,215,134,179,161,126,215"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_neutrino_properties_algorithm.html#a3c56b8109a6b5c905943c49f7309d91b" title="Get the number of two dimensional hits (TPC_VIEW_U, V or W) contained in clusters in a pfo and all it..." alt="" coords="254,147,485,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,210,267,191,268,196,193,215"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="301,280,438,323"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="193,254,286,278,285,283,192,259"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_particle_flow_object.html#aa09b27b73d6ef438f9963fbaaae4b7bd" title="Get the particle flow object id (PDG code)" alt="" coords="277,347,462,389"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="135,254,189,294,255,332,269,338,267,343,252,337,186,298,132,259"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="301,413,438,456"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="122,255,175,326,212,366,255,399,287,415,285,419,252,404,209,369,171,330,118,258"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_pfo_helper.html#a99faf37b2fbe797865e4c26f2221d911" title="Sort pfos by number of constituent hits." alt="" coords="285,213,454,256"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="206,232,269,232,269,237,206,237"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_flow_object.html#a1a7dfb68cb8bf6bf793b9a0d0d5b9e6a" title="Update the properties map." alt="" coords="539,5,723,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,24,523,24,523,29,462,29"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="447,144,537,118,539,123,449,149"/>
+<area shape="poly" id="edge11_Node000005_Node000005" title=" " alt="" coords="320,147,318,137,326,128,343,122,369,120,397,122,414,129,412,134,396,128,369,125,344,127,329,132,323,138,325,145"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="536,144,727,187"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="485,164,520,164,520,169,486,169"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="539,211,723,253"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="460,187,527,204,526,209,459,193"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="787,177,971,220"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="728,176,772,182,771,187,727,181"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="777,244,981,271"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="704,185,731,196,755,214,779,230,795,236,793,241,776,234,752,218,728,201,702,190"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="783,111,975,153"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="727,150,767,144,768,150,728,155"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="452,210,533,189,534,194,453,215"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="455,251,533,263,631,267,729,263,761,262,762,267,729,268,631,272,533,268,454,256"/>
+<area shape="poly" id="edge17_Node000014_Node000010" title=" " alt="" coords="454,231,524,230,524,236,454,236"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="533,328,729,371"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="455,252,486,266,501,276,511,286,535,307,556,319,554,324,531,312,507,290,498,280,484,270,453,257"/>
+</map>

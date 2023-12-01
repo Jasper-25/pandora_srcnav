@@ -1,0 +1,24 @@
+<map id="lar_content::LArStitchingHelper::CalculateX0" name="lar_content::LArStitchingHelper::CalculateX0">
+<area shape="rect" id="Node000001" title="Calculate X0 for a pair of vertices." alt="" coords="5,256,170,299"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a31cb608e94ec43ad44dedd8469813f3a" title="Get the vertex direction." alt="" coords="218,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,254,110,213,136,161,171,106,192,80,216,58,221,54,224,59,219,62,196,84,175,109,140,163,115,215,99,256"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="228,72,396,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,254,149,194,181,161,216,131,234,120,237,124,219,135,184,165,153,198,106,257"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="454,193,622,236"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,254,153,211,184,190,217,175,248,166,281,162,347,162,409,172,464,186,463,191,408,177,346,168,281,167,249,172,219,180,186,195,156,215,110,257"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pointing_cluster_1_1_vertex.html#a79185823b30bb5096f6c76aaf6deedb8" title="Get the vertex position." alt="" coords="220,189,404,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,253,222,234,224,240,162,258"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="228,256,396,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="170,275,212,275,212,280,170,280"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="228,323,396,365"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="162,297,224,315,222,320,161,302"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="228,389,396,432"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="114,297,161,336,219,375,229,380,227,385,216,380,157,340,110,301"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="228,456,396,499"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="102,297,148,368,181,408,219,442,226,446,223,450,216,446,177,411,143,371,98,300"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_l_ar_t_p_c.html#a63735738ed5938f56845d7867364b754" title="Whether the electron drift is in the positive x direction." alt="" coords="231,523,393,565"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="98,298,113,342,138,399,173,458,195,485,219,509,223,512,220,516,216,513,191,488,169,461,133,401,108,344,93,300"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="670,193,839,236"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="623,212,655,212,655,217,623,217"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="391,253,443,238,445,243,392,258"/>
+</map>
